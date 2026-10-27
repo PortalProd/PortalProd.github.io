@@ -1,0 +1,615 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Transfer Directory | College Transfer Portal</title>
+
+    <style>
+        body {
+            background-color: #101827;
+            color: white;
+            font-family: Arial, sans-serif;
+            margin: 40px;
+        }
+
+        h1 {
+            color: #38bdf8;
+        }
+
+        h2 {
+            color: #e2e8f0;
+        }
+
+        .back-link {
+            color: #38bdf8;
+            text-decoration: none;
+        }
+
+        .filters {
+            background-color: #1e293b;
+            border: 1px solid #334155;
+            border-radius: 12px;
+            padding: 25px;
+            margin: 25px 0;
+        }
+
+        button {
+            background-color: #0f172a;
+            color: #38bdf8;
+            border: 1px solid #334155;
+            border-radius: 8px;
+            padding: 12px 18px;
+            margin: 5px;
+            cursor: pointer;
+            font-weight: bold;
+        }
+
+        button:hover {
+            background-color: #334155;
+            color: white;
+        }
+
+        button.active {
+            background-color: #38bdf8;
+            color: #101827;
+        }
+
+        .player-card {
+            background-color: #1e293b;
+            border: 1px solid #334155;
+            border-radius: 12px;
+            padding: 25px;
+            margin-bottom: 20px;
+            max-width: 700px;
+        }
+
+        .player-card h3 {
+            color: #38bdf8;
+            margin-top: 0;
+        }
+
+        .player-card a {
+            color: #38bdf8;
+            text-decoration: none;
+        }
+
+        .player-card a:hover {
+            text-decoration: underline;
+        }
+
+        .stat {
+            display: inline-block;
+            background-color: #0f172a;
+            border-radius: 8px;
+            padding: 12px;
+            margin: 5px;
+        }
+
+        .note {
+            color: #cbd5e1;
+            font-size: 14px;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+
+<body>
+
+    <a class="back-link" href="index.html">
+        &larr; Back to Homepage
+    </a>
+
+    <h1>Transfer Portal Directory</h1>
+
+    <p>
+        Browse college football and men's basketball athletes
+        using collegiate performance statistics.
+    </p>
+
+    <div class="filters">
+        <h2>Filter by Sport</h2>
+
+        <button class="active" onclick="filterPlayers('all', this)">
+            All Players
+        </button>
+
+        <button onclick="filterPlayers('fbs', this)">
+            FBS Football
+        </button>
+
+        <button onclick="filterPlayers('fcs', this)">
+            FCS Football
+        </button>
+
+        <button onclick="filterPlayers('basketball', this)">
+            Men's Basketball
+        </button>
+    </div>
+    <div class="transfer-filters">
+
+    <h2>Filter by Transfer Direction</h2>
+
+    <label for="from-division">FROM:</label>
+
+<select id="from-division" onchange="currentPage = 1; searchPlayers()">
+        <option value="all">All Divisions</option>
+        <option value="fbs">FBS</option>
+        <option value="fcs">FCS</option>
+        <option value="ii">Division II</option>
+        <option value="iii">Division III</option>
+        <option value="other">Other</option>
+        <option value="unclassified">Unverified</option>
+    </select>
+
+    <label for="to-division">TO:</label>
+
+  <select id="to-division" onchange="currentPage = 1; searchPlayers()">
+        <option value="all">All Divisions</option>
+        <option value="fbs">FBS</option>
+        <option value="fcs">FCS</option>
+        <option value="ii">Division II</option>
+        <option value="iii">Division III</option>
+        <option value="other">Other</option>
+        <option value="unclassified">Unverified</option>
+        <option value="not-listed">Destination Not Listed</option>
+    </select>
+
+</div>
+
+    <h2>Player Directory</h2>
+    <input
+    type="text"
+    id="player-search"
+    placeholder="Search players by name..."
+   oninput="currentPage = 1; searchPlayers()"
+>
+
+    <p id="player-count"></p>
+    
+
+   
+    <div id="transfer-players"></div>
+    <div id="pagination-controls">
+
+    <button id="previous-page" onclick="previousPage()">
+        ← Previous
+    </button>
+
+    <span id="page-info">Page 1</span>
+
+    <button id="next-page" onclick="nextPage()">
+        Next →
+    </button>
+
+</div>
+
+  
+
+    <p class="note">
+        Development prototype: The players and statistics shown here
+        are manually entered examples. Portal entry status and
+        transfer chronology have not yet been independently verified.
+        This is not a live or comprehensive portal directory.
+    </p>
+<script src="scripts/players.js"></script>
+<script src="scripts/basketball-players.js"></script>
+<script src="scripts/schools.js"></script>
+    <script>
+          let currentSport = 'all';
+        let totalMatchingTransfers = 0;
+        let currentPage = 1;
+const playersPerPage = 50;
+function displayTransferPlayers(searchText = '') {
+    const container = document.getElementById('transfer-players');
+    container.innerHTML = '';
+if (currentSport === 'basketball' || currentSport === 'all') {
+basketballTransfers
+    .filter(function(player) {
+        return player.name.toLowerCase().includes(
+            searchText.toLowerCase()
+        );
+    })
+    .slice(
+        currentSport === 'basketball' ? (currentPage - 1) * playersPerPage : 0,
+        currentSport === 'basketball' ? currentPage * playersPerPage : 0
+    )
+    .forEach(function(player) {
+            const card = document.createElement('div');
+            card.className = 'player-card';
+            card.setAttribute('data-sport', 'basketball');
+
+            const name = document.createElement('h3');
+            const link = document.createElement('a');
+
+            link.href = player.profileUrl;
+            link.textContent = player.name;
+            name.appendChild(link);
+
+const details = document.createElement('p');
+
+details.textContent =
+    "Men's Basketball | " + player.position;
+         card.appendChild(name);
+card.appendChild(details);
+
+const fromSchool = document.createElement('div');
+fromSchool.className = 'stat';
+fromSchool.textContent = 'FROM: ' + (player.previousSchool || 'Not listed');
+
+const toSchool = document.createElement('div');
+toSchool.className = 'stat';
+toSchool.textContent = 'TO: ' + (player.destination || 'Not listed');
+
+card.appendChild(fromSchool);
+card.appendChild(toSchool);
+const season = document.createElement('div');
+season.className = 'stat';
+season.textContent = 'Transfer season: ' + (player.season || 'Unknown');
+
+const points = document.createElement('div');
+points.className = 'stat';
+points.textContent = 'PPG: ' + (player.stats?.pointsPerGame ?? 'N/A');
+
+const threePoint = document.createElement('div');
+threePoint.className = 'stat';
+threePoint.textContent = '3PT%: ' +
+    (player.stats?.threePointPercentage != null
+        ? player.stats.threePointPercentage + '%'
+        : 'N/A');
+
+const minutes = document.createElement('div');
+minutes.className = 'stat';
+minutes.textContent = 'MPG: ' + (player.stats?.minutesPerGame ?? 'N/A');
+
+card.appendChild(season);
+card.appendChild(points);
+card.appendChild(threePoint);
+card.appendChild(minutes);
+
+container.appendChild(card);
+        });
+
+    totalMatchingTransfers = basketballTransfers.filter(function(player) {
+        return player.name.toLowerCase().includes(
+            searchText.toLowerCase()
+        );
+    }).length;
+
+if (currentSport === 'basketball') {
+    return;
+}
+}
+
+    const fromFilter =
+        document.getElementById('from-division')?.value || 'all';
+
+    const toFilter =
+        document.getElementById('to-division')?.value || 'all';
+
+    const schoolMap =
+        typeof schoolDivisions !== 'undefined' ? schoolDivisions : {};
+
+    function getDivision(school, missingValue) {
+        const name = (school || '').trim();
+
+        if (
+            !name ||
+            ['not listed', 'unknown', 'n/a', 'none'].includes(
+                name.toLowerCase()
+            )
+        ) {
+            return missingValue;
+        }
+
+        const matchedName = Object.keys(schoolMap).find(
+            key => key.toLowerCase() === name.toLowerCase()
+        );
+
+        return matchedName
+            ? schoolMap[matchedName]
+            : 'unclassified';
+    }
+
+    const matchingPlayers = footballTransfers.filter(function(player) {
+        const name = (player.name || '').toLowerCase();
+        const query = searchText.toLowerCase();
+
+        const fromDivision = getDivision(
+            player.previousSchool,
+            'unclassified'
+        );
+
+        const toDivision = getDivision(
+            player.destination,
+            'not-listed'
+        );
+
+        const matchesName = name.includes(query);
+
+        const matchesFrom =
+            fromFilter === 'all' || fromDivision === fromFilter;
+
+        const matchesTo =
+            toFilter === 'all' || toDivision === toFilter;
+
+        return matchesName && matchesFrom && matchesTo;
+    });
+  totalMatchingTransfers = matchingPlayers.length +
+    (currentSport === 'all'
+        ? basketballTransfers.filter(function(player) {
+            return player.name.toLowerCase().includes(searchText.toLowerCase());
+          }).length
+        : 0);
+
+const basketballCount = currentSport === 'all'
+    ? basketballTransfers.filter(function(player) {
+        return player.name.toLowerCase().includes(searchText.toLowerCase());
+      }).length
+    : 0;
+
+const startIndex = (currentPage - 1) * playersPerPage;
+const endIndex = startIndex + playersPerPage;
+
+if (currentSport === 'all' && basketballCount > 0) {
+    const basketballStart = Math.max(0, startIndex);
+    const basketballEnd = Math.min(basketballCount, endIndex);
+
+    basketballTransfers
+        .filter(function(player) {
+            return player.name.toLowerCase().includes(searchText.toLowerCase());
+        })
+        .slice(basketballStart, basketballEnd)
+        .forEach(function(player) {
+            const card = document.createElement('div');
+            card.className = 'player-card';
+            card.setAttribute('data-sport', 'basketball');
+
+            const name = document.createElement('h3');
+            const link = document.createElement('a');
+            link.href = player.profileUrl;
+            link.textContent = player.name;
+            name.appendChild(link);
+
+            const details = document.createElement('p');
+            details.textContent = "Men's Basketball | " + player.position;
+
+   card.appendChild(name);
+card.appendChild(details);
+
+const fromSchool = document.createElement('div');
+fromSchool.className = 'stat';
+fromSchool.textContent = 'FROM: ' + (player.previousSchool || 'Not listed');
+
+const toSchool = document.createElement('div');
+toSchool.className = 'stat';
+toSchool.textContent = 'TO: ' + (player.destination || 'Destination pending');
+
+const season = document.createElement('div');
+season.className = 'stat';
+season.textContent = 'Transfer season: ' + (player.season || 'Unknown');
+
+const points = document.createElement('div');
+points.className = 'stat';
+points.textContent = 'PPG: ' + (player.stats?.pointsPerGame ?? 'N/A');
+
+const threePoint = document.createElement('div');
+threePoint.className = 'stat';
+threePoint.textContent = '3PT%: ' +
+    (player.stats?.threePointPercentage != null
+        ? player.stats.threePointPercentage + '%'
+        : 'N/A');
+
+const minutes = document.createElement('div');
+minutes.className = 'stat';
+minutes.textContent = 'MPG: ' + (player.stats?.minutesPerGame ?? 'N/A');
+
+card.appendChild(fromSchool);
+card.appendChild(toSchool);
+card.appendChild(season);
+card.appendChild(points);
+card.appendChild(threePoint);
+card.appendChild(minutes);
+
+container.appendChild(card);
+        });
+}
+
+matchingPlayers.slice(
+    Math.max(0, startIndex - basketballCount),
+    Math.max(0, endIndex - basketballCount)
+).forEach(function(player) {
+        const card = document.createElement('div');
+        card.className = 'player-card';
+
+        const fromDivision = getDivision(
+            player.previousSchool,
+            'unclassified'
+        );
+
+        const toDivision = getDivision(
+            player.destination,
+            'not-listed'
+        );
+
+        card.setAttribute('data-sport', fromDivision);
+        card.setAttribute('data-from-division', fromDivision);
+        card.setAttribute('data-to-division', toDivision);
+
+        const name = document.createElement('h3');
+    if (player.name === 'Carson Haggard') {
+    const link = document.createElement('a');
+    link.href = 'carson-haggard.html';
+    link.textContent = player.name;
+    name.appendChild(link);
+} else {
+    name.textContent = player.name || 'Unknown Player';
+}
+
+        const details = document.createElement('p');
+       details.textContent = 'Football | ' + player.position;
+       const fromSchool = document.createElement('div');
+fromSchool.className = 'stat';
+
+const fromSchoolDivision =
+    schoolDivisions[player.previousSchool] || 'unclassified';
+
+fromSchool.textContent =
+    'FROM: ' + player.previousSchool +
+    ' (' + fromSchoolDivision.toUpperCase() + ')';
+     const destination = document.createElement('div');
+        destination.className = 'stat';
+destination.textContent =
+    'TO: ' + (player.destination || 'Not listed') +
+    (player.destination
+        ? ' (' + (schoolDivisions[player.destination] || 'unclassified').toUpperCase() + ')'
+        : '');
+
+        const season = document.createElement('div');
+        season.className = 'stat';
+        season.textContent =
+            'Transfer season: ' + (player.season || 'Unknown');
+
+const transferDirection = document.createElement('div');
+transferDirection.className = 'stat';
+
+transferDirection.textContent =
+    'TRANSFER DIRECTION: ' +
+    (schoolDivisions[player.previousSchool] || 'unclassified').toUpperCase() +
+    ' → ' +
+    (player.destination
+        ? (schoolDivisions[player.destination] || 'unclassified').toUpperCase()
+        : 'NOT LISTED');
+            card.appendChild(name);
+card.appendChild(details);
+card.appendChild(fromSchool);
+card.appendChild(destination);
+card.appendChild(transferDirection);
+card.appendChild(season);
+
+        container.appendChild(card);
+    });
+}
+
+displayTransferPlayers();
+
+
+function previousPage() {
+    if (currentPage > 1) {
+        currentPage--;
+        searchPlayers();
+    }
+}
+
+function nextPage() {
+    const totalPages = Math.ceil(
+        totalMatchingTransfers / playersPerPage
+    );
+
+    if (currentPage < totalPages) {
+        currentPage++;
+        searchPlayers();
+    }
+}
+  function filterPlayers(sport, clickedButton) {
+    currentPage = 1;
+    currentSport = sport;
+
+    const buttons = document.querySelectorAll('.filters button');
+
+    buttons.forEach(function(button) {
+        button.classList.remove('active');
+    });
+
+    clickedButton.classList.add('active');
+
+    searchPlayers();
+}
+
+function searchPlayers() {
+    const searchText = document
+        .getElementById('player-search')
+        .value
+        .toLowerCase()
+        .trim();
+        displayTransferPlayers(searchText);
+
+    const cards = document.querySelectorAll('.player-card');
+
+    let visibleCount = 0;
+
+    cards.forEach(function(card) {
+        const playerSport = card.getAttribute('data-sport');
+
+        const playerName = card
+            .querySelector('h3')
+            .textContent
+            .toLowerCase();
+
+        const matchesSport =
+            currentSport === 'all' || playerSport === currentSport;
+
+        const matchesName = playerName.includes(searchText);
+
+        if (matchesSport && matchesName) {
+            card.style.display = 'block';
+            visibleCount++;
+        } else {
+            card.style.display = 'none';
+        }
+    });
+
+
+const transferCards = document.querySelectorAll(
+    '#transfer-players .player-card'
+);
+
+const shownTransfers = Array.from(transferCards).filter(
+    function(card) {
+        return card.style.display !== 'none';
+    }
+).length;
+
+document.getElementById('player-count').textContent =
+    totalMatchingTransfers + ' matching records — showing ' +
+    shownTransfers + ' player(s)';
+const totalPages = Math.ceil(
+    totalMatchingTransfers / playersPerPage
+);
+
+document.getElementById('page-info').textContent =
+    'Page ' + currentPage + ' of ' + Math.max(1, totalPages);
+
+document.getElementById('previous-page').disabled =
+    currentPage === 1;
+
+document.getElementById('next-page').disabled =
+    currentPage >= totalPages;}
+
+
+const selectedSport = window.location.hash.substring(1);
+const validSports = ['fbs', 'fcs', 'basketball'];
+
+if (validSports.includes(selectedSport)) {
+    const sportButtons = {
+        fbs: 1,
+        fcs: 2,
+        basketball: 3
+    };
+
+    const buttons = document.querySelectorAll('.filters button');
+
+    filterPlayers(selectedSport, buttons[sportButtons[selectedSport]]);
+} else {
+    filterPlayers(
+        'all',
+        document.querySelector('.filters button')
+    );
+}
+
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,10 @@
+A-BATCH WEBSITE PACKAGE — PREPARED, NOT PUBLISHED
+
+Contains the public-site folder contents for a website upload.
+129 approved basketball players, each with a clickable individual profile.
+Basketball directory limited to 129 approved players; all HOLD and REJECT records excluded.
+Existing football files and Denzel Aberdeen page preserved.
+
+IMPORTANT: Upload the CONTENTS of this folder to your site's public root,
+not the enclosing folder itself. Back up the current live site before replacing files.
+This package has NOT been deployed to your live hosting service.

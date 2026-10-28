@@ -255,21 +255,18 @@ const points = document.createElement('div');
 points.className = 'stat';
 points.textContent = 'PPG: ' + (player.stats?.pointsPerGame ?? 'N/A');
 
-const threePoint = document.createElement('div');
-threePoint.className = 'stat';
-threePoint.textContent = '3PT%: ' +
-    (player.stats?.threePointPercentage != null
-        ? player.stats.threePointPercentage + '%'
-        : 'N/A');
+const rebounds = document.createElement('div');
+rebounds.className = 'stat';
+rebounds.textContent = 'RPG: ' + (player.stats?.reboundsPerGame ?? 'N/A');
 
-const minutes = document.createElement('div');
-minutes.className = 'stat';
-minutes.textContent = 'MPG: ' + (player.stats?.minutesPerGame ?? 'N/A');
+const assists = document.createElement('div');
+assists.className = 'stat';
+assists.textContent = 'APG: ' + (player.stats?.assistsPerGame ?? 'N/A');
 
 card.appendChild(season);
 card.appendChild(points);
-card.appendChild(threePoint);
-card.appendChild(minutes);
+card.appendChild(rebounds);
+card.appendChild(assists);
 
 container.appendChild(card);
         });
@@ -397,23 +394,20 @@ const points = document.createElement('div');
 points.className = 'stat';
 points.textContent = 'PPG: ' + (player.stats?.pointsPerGame ?? 'N/A');
 
-const threePoint = document.createElement('div');
-threePoint.className = 'stat';
-threePoint.textContent = '3PT%: ' +
-    (player.stats?.threePointPercentage != null
-        ? player.stats.threePointPercentage + '%'
-        : 'N/A');
+const rebounds = document.createElement('div');
+rebounds.className = 'stat';
+rebounds.textContent = 'RPG: ' + (player.stats?.reboundsPerGame ?? 'N/A');
 
-const minutes = document.createElement('div');
-minutes.className = 'stat';
-minutes.textContent = 'MPG: ' + (player.stats?.minutesPerGame ?? 'N/A');
+const assists = document.createElement('div');
+assists.className = 'stat';
+assists.textContent = 'APG: ' + (player.stats?.assistsPerGame ?? 'N/A');
 
 card.appendChild(fromSchool);
 card.appendChild(toSchool);
 card.appendChild(season);
 card.appendChild(points);
-card.appendChild(threePoint);
-card.appendChild(minutes);
+card.appendChild(rebounds);
+card.appendChild(assists);
 
 container.appendChild(card);
         });

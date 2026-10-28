@@ -27116,7 +27116,17 @@ const basketballTransfers = [
     "destination": "Pittsburgh",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 30.4,
+      "pointsPerGame": 19.0,
+      "reboundsPerGame": 4.8,
+      "assistsPerGame": 3.8,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 48.1,
+      "threePointPercentage": 40,
+      "freeThrowPercentage": 64.9
+    },
     "transferHistory": [
       {
         "recordId": "3447",

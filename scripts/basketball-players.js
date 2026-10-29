@@ -8,7 +8,17 @@ const basketballTransfers = [
     "destination": "Florida State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 16.0,
+      "pointsPerGame": 7.0,
+      "reboundsPerGame": 2.9,
+      "assistsPerGame": 1.1,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 33.5,
+      "threePointPercentage": 25.7,
+      "freeThrowPercentage": 64.9
+    },
     "transferHistory": [
       {
         "recordId": "2894",
@@ -28,7 +38,17 @@ const basketballTransfers = [
     "destination": "UCF",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 20.1,
+      "pointsPerGame": 8.4,
+      "reboundsPerGame": 5.7,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 1.7,
+      "fieldGoalPercentage": 63.1,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 56.7
+    },
     "transferHistory": [
       {
         "recordId": "311056",
@@ -49,9 +69,15 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "denzel-aberdeen.html",
     "stats": {
+      "minutesPerGame": 30.6,
       "pointsPerGame": 13.5,
+      "reboundsPerGame": 2.5,
+      "assistsPerGame": 3.4,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 43.3,
       "threePointPercentage": 36.3,
-      "minutesPerGame": 30.6
+      "freeThrowPercentage": 79.8
     },
     "transferHistory": [
       {
@@ -67,7 +93,7 @@ const basketballTransfers = [
         "season": "2026"
       }
     ],
-    "needsReview": false
+    "needsReview": true
   },
   {
     "playerId": "46153463",
@@ -98,7 +124,17 @@ const basketballTransfers = [
     "destination": "North Carolina",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 21.7,
+      "pointsPerGame": 8.8,
+      "reboundsPerGame": 3.4,
+      "assistsPerGame": 0.9,
+      "stealsPerGame": 1.2,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 41.6,
+      "threePointPercentage": 35.5,
+      "freeThrowPercentage": 79.6
+    },
     "transferHistory": [
       {
         "recordId": "2943",
@@ -118,7 +154,17 @@ const basketballTransfers = [
     "destination": "Kansas State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 19.9,
+      "pointsPerGame": 4.8,
+      "reboundsPerGame": 2.9,
+      "assistsPerGame": 0.7,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 38.5,
+      "threePointPercentage": 32.5,
+      "freeThrowPercentage": 69.4
+    },
     "transferHistory": [
       {
         "recordId": "2978",
@@ -188,7 +234,17 @@ const basketballTransfers = [
     "destination": "Northern Kentucky",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 19.0,
+      "pointsPerGame": 5.8,
+      "reboundsPerGame": 1.3,
+      "assistsPerGame": 1.7,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 40.6,
+      "threePointPercentage": 36.4,
+      "freeThrowPercentage": 69
+    },
     "transferHistory": [
       {
         "recordId": "2804",
@@ -208,7 +264,17 @@ const basketballTransfers = [
     "destination": "George Mason",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 25.3,
+      "pointsPerGame": 14.6,
+      "reboundsPerGame": 5.4,
+      "assistsPerGame": 1.0,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 46.6,
+      "threePointPercentage": 31.5,
+      "freeThrowPercentage": 81.1
+    },
     "transferHistory": [
       {
         "recordId": "3403",
@@ -228,7 +294,17 @@ const basketballTransfers = [
     "destination": "NC State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 25.6,
+      "pointsPerGame": 10.8,
+      "reboundsPerGame": 3.4,
+      "assistsPerGame": 1.6,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 35.4,
+      "threePointPercentage": 24.6,
+      "freeThrowPercentage": 71.4
+    },
     "transferHistory": [
       {
         "recordId": "144747",
@@ -248,7 +324,17 @@ const basketballTransfers = [
     "destination": "Hawai'i",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 11.8,
+      "pointsPerGame": 3.6,
+      "reboundsPerGame": 2.4,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 34.1,
+      "threePointPercentage": 29.6,
+      "freeThrowPercentage": 70
+    },
     "transferHistory": [
       {
         "recordId": "3011",
@@ -268,7 +354,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 14.6,
+      "pointsPerGame": 5.4,
+      "reboundsPerGame": 2.1,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 39.6,
+      "threePointPercentage": 28.1,
+      "freeThrowPercentage": 82.5
+    },
     "transferHistory": [
       {
         "recordId": "2879",
@@ -308,7 +404,17 @@ const basketballTransfers = [
     "destination": "Rice",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 29.9,
+      "pointsPerGame": 13.5,
+      "reboundsPerGame": 4.9,
+      "assistsPerGame": 1.5,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 38.5,
+      "threePointPercentage": 33,
+      "freeThrowPercentage": 80.7
+    },
     "transferHistory": [
       {
         "recordId": "3387",
@@ -328,7 +434,17 @@ const basketballTransfers = [
     "destination": "Youngstown State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 7.8,
+      "pointsPerGame": 3.0,
+      "reboundsPerGame": 0.8,
+      "assistsPerGame": 0.7,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 42.5,
+      "threePointPercentage": 28.6,
+      "freeThrowPercentage": 57.1
+    },
     "transferHistory": [
       {
         "recordId": "105561",
@@ -348,7 +464,17 @@ const basketballTransfers = [
     "destination": "Loyola Chicago",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 22.3,
+      "pointsPerGame": 5.9,
+      "reboundsPerGame": 4.1,
+      "assistsPerGame": 0.8,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 36,
+      "threePointPercentage": 34.9,
+      "freeThrowPercentage": 69.6
+    },
     "transferHistory": [
       {
         "recordId": "2630",
@@ -375,8 +501,8 @@ const basketballTransfers = [
       "assistsPerGame": 0.4,
       "stealsPerGame": 0.1,
       "blocksPerGame": 1.4,
-      "fieldGoalPercentage": 50,
-      "threePointPercentage": 0,
+      "fieldGoalPercentage": 50.0,
+      "threePointPercentage": 0.0,
       "freeThrowPercentage": 41.7
     },
     "transferHistory": [
@@ -398,7 +524,17 @@ const basketballTransfers = [
     "destination": "Washington State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 15.1,
+      "pointsPerGame": 5.3,
+      "reboundsPerGame": 1.5,
+      "assistsPerGame": 1.9,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 40.4,
+      "threePointPercentage": 18,
+      "freeThrowPercentage": 77.8
+    },
     "transferHistory": [
       {
         "recordId": "3163",
@@ -418,7 +554,17 @@ const basketballTransfers = [
     "destination": "Bradley",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 27.7,
+      "pointsPerGame": 10.3,
+      "reboundsPerGame": 7.4,
+      "assistsPerGame": 1.5,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 1.3,
+      "fieldGoalPercentage": 42.4,
+      "threePointPercentage": 26.3,
+      "freeThrowPercentage": 85.7
+    },
     "transferHistory": [
       {
         "recordId": "312422",
@@ -438,7 +584,17 @@ const basketballTransfers = [
     "destination": "Ferris State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 6.9,
+      "pointsPerGame": 1.8,
+      "reboundsPerGame": 1.6,
+      "assistsPerGame": 0.1,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 37,
+      "threePointPercentage": 27.3,
+      "freeThrowPercentage": 62.5
+    },
     "transferHistory": [
       {
         "recordId": "2726",
@@ -458,7 +614,17 @@ const basketballTransfers = [
     "destination": "Providence",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 25.8,
+      "pointsPerGame": 7.8,
+      "reboundsPerGame": 5.8,
+      "assistsPerGame": 1.3,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 1.4,
+      "fieldGoalPercentage": 57.8,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 58.5
+    },
     "transferHistory": [
       {
         "recordId": "143487",
@@ -508,7 +674,17 @@ const basketballTransfers = [
     "destination": "Xavier",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 24.4,
+      "pointsPerGame": 9.5,
+      "reboundsPerGame": 7.4,
+      "assistsPerGame": 0.7,
+      "stealsPerGame": 1.0,
+      "blocksPerGame": 0.7,
+      "fieldGoalPercentage": 46.7,
+      "threePointPercentage": 34.8,
+      "freeThrowPercentage": 66.2
+    },
     "transferHistory": [
       {
         "recordId": "3214",
@@ -568,7 +744,17 @@ const basketballTransfers = [
     "destination": "SE Louisiana",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 24.6,
+      "pointsPerGame": 9.8,
+      "reboundsPerGame": 4.3,
+      "assistsPerGame": 1.0,
+      "stealsPerGame": 1.5,
+      "blocksPerGame": 1.6,
+      "fieldGoalPercentage": 40,
+      "threePointPercentage": 26.9,
+      "freeThrowPercentage": 62.9
+    },
     "transferHistory": [
       {
         "recordId": "105630",
@@ -588,7 +774,17 @@ const basketballTransfers = [
     "destination": "Cincinnati",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 24.9,
+      "pointsPerGame": 13.6,
+      "reboundsPerGame": 6.0,
+      "assistsPerGame": 0.8,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 56.6,
+      "threePointPercentage": 31.3,
+      "freeThrowPercentage": 68
+    },
     "transferHistory": [
       {
         "recordId": "3118",
@@ -628,7 +824,17 @@ const basketballTransfers = [
     "destination": "Memphis",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 27.0,
+      "pointsPerGame": 14.1,
+      "reboundsPerGame": 3.7,
+      "assistsPerGame": 0.7,
+      "stealsPerGame": 1.0,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 42.4,
+      "threePointPercentage": 31.6,
+      "freeThrowPercentage": 76
+    },
     "transferHistory": [
       {
         "recordId": "3215",
@@ -678,7 +884,17 @@ const basketballTransfers = [
     "destination": "Tennessee State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 11.3,
+      "pointsPerGame": 4.6,
+      "reboundsPerGame": 1.9,
+      "assistsPerGame": 0.3,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 34.5,
+      "threePointPercentage": 22.2,
+      "freeThrowPercentage": 68.1
+    },
     "transferHistory": [
       {
         "recordId": "3373",
@@ -698,7 +914,17 @@ const basketballTransfers = [
     "destination": "VCU",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 29.3,
+      "pointsPerGame": 13.1,
+      "reboundsPerGame": 7.9,
+      "assistsPerGame": 1.4,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 1.1,
+      "fieldGoalPercentage": 55.5,
+      "threePointPercentage": 11.1,
+      "freeThrowPercentage": 63.6
+    },
     "transferHistory": [
       {
         "recordId": "3357",
@@ -718,7 +944,17 @@ const basketballTransfers = [
     "destination": "Saint Mary's",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 7.8,
+      "pointsPerGame": 1.6,
+      "reboundsPerGame": 1.9,
+      "assistsPerGame": 0.1,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 65.7,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 37.5
+    },
     "transferHistory": [
       {
         "recordId": "53468",
@@ -746,7 +982,7 @@ const basketballTransfers = [
       "stealsPerGame": 0.0,
       "blocksPerGame": 0.5,
       "fieldGoalPercentage": 54.5,
-      "threePointPercentage": 0,
+      "threePointPercentage": 0.0,
       "freeThrowPercentage": 42.9
     },
     "transferHistory": [
@@ -768,7 +1004,17 @@ const basketballTransfers = [
     "destination": "Long Beach State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 12.2,
+      "pointsPerGame": 5.1,
+      "reboundsPerGame": 2.2,
+      "assistsPerGame": 0.4,
+      "stealsPerGame": 0.0,
+      "blocksPerGame": 0.5,
+      "fieldGoalPercentage": 57.7,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 70
+    },
     "transferHistory": [
       {
         "recordId": "2839",
@@ -788,7 +1034,17 @@ const basketballTransfers = [
     "destination": "Tennessee",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 31.9,
+      "pointsPerGame": 16.9,
+      "reboundsPerGame": 2.0,
+      "assistsPerGame": 2.2,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 46.4,
+      "threePointPercentage": 37.6,
+      "freeThrowPercentage": 85
+    },
     "transferHistory": [
       {
         "recordId": "2910",
@@ -838,7 +1094,17 @@ const basketballTransfers = [
     "destination": "Pacific",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 29.1,
+      "pointsPerGame": 9.5,
+      "reboundsPerGame": 2.0,
+      "assistsPerGame": 3.6,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 38.4,
+      "threePointPercentage": 33.3,
+      "freeThrowPercentage": 74.6
+    },
     "transferHistory": [
       {
         "recordId": "670913",
@@ -858,7 +1124,17 @@ const basketballTransfers = [
     "destination": "Fresno State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 7.8,
+      "pointsPerGame": 2.4,
+      "reboundsPerGame": 0.7,
+      "assistsPerGame": 0.3,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 33.0,
+      "threePointPercentage": 33.3,
+      "freeThrowPercentage": 50.0
+    },
     "transferHistory": [
       {
         "recordId": "2801",
@@ -878,7 +1154,17 @@ const basketballTransfers = [
     "destination": "UL Monroe",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 16.3,
+      "pointsPerGame": 5.4,
+      "reboundsPerGame": 1.7,
+      "assistsPerGame": 0.7,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 33.9,
+      "threePointPercentage": 24.1,
+      "freeThrowPercentage": 52.9
+    },
     "transferHistory": [
       {
         "recordId": "2690",
@@ -898,7 +1184,17 @@ const basketballTransfers = [
     "destination": "Northern Arizona",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 6.8,
+      "pointsPerGame": 1.5,
+      "reboundsPerGame": 1.7,
+      "assistsPerGame": 0.4,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 37,
+      "threePointPercentage": 20,
+      "freeThrowPercentage": 60
+    },
     "transferHistory": [
       {
         "recordId": "85674",
@@ -918,7 +1214,17 @@ const basketballTransfers = [
     "destination": "San Diego State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 29.2,
+      "pointsPerGame": 15.5,
+      "reboundsPerGame": 4.3,
+      "assistsPerGame": 1.1,
+      "stealsPerGame": 1.2,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 43.8,
+      "threePointPercentage": 40,
+      "freeThrowPercentage": 81.2
+    },
     "transferHistory": [
       {
         "recordId": "2663",
@@ -938,7 +1244,17 @@ const basketballTransfers = [
     "destination": "Butler",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 18.3,
+      "pointsPerGame": 10.4,
+      "reboundsPerGame": 5.3,
+      "assistsPerGame": 0.8,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.9,
+      "fieldGoalPercentage": 50,
+      "threePointPercentage": 35.8,
+      "freeThrowPercentage": 65.8
+    },
     "transferHistory": [
       {
         "recordId": "3338",
@@ -958,7 +1274,17 @@ const basketballTransfers = [
     "destination": "Central Arkansas",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 11.7,
+      "pointsPerGame": 3.4,
+      "reboundsPerGame": 1.2,
+      "assistsPerGame": 0.7,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 40.8,
+      "threePointPercentage": 36,
+      "freeThrowPercentage": 71.4
+    },
     "transferHistory": [
       {
         "recordId": "2600",
@@ -998,7 +1324,17 @@ const basketballTransfers = [
     "destination": "Merrimack",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 28.1,
+      "pointsPerGame": 9.3,
+      "reboundsPerGame": 2.1,
+      "assistsPerGame": 1.9,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 34.5,
+      "threePointPercentage": 29.9,
+      "freeThrowPercentage": 79.5
+    },
     "transferHistory": [
       {
         "recordId": "164935",
@@ -1058,7 +1394,17 @@ const basketballTransfers = [
     "destination": "Xavier",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 13.7,
+      "pointsPerGame": 5.3,
+      "reboundsPerGame": 1.4,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 40.8,
+      "threePointPercentage": 40.0,
+      "freeThrowPercentage": 66.7
+    },
     "transferHistory": [
       {
         "recordId": "85852",
@@ -1078,7 +1424,17 @@ const basketballTransfers = [
     "destination": "George Washington",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 15.8,
+      "pointsPerGame": 3.8,
+      "reboundsPerGame": 2.7,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 41,
+      "threePointPercentage": 32.6,
+      "freeThrowPercentage": 77.3
+    },
     "transferHistory": [
       {
         "recordId": "2517",
@@ -1098,32 +1454,22 @@ const basketballTransfers = [
     "destination": "Texas A&M",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 25.6,
+      "pointsPerGame": 14.3,
+      "reboundsPerGame": 1.9,
+      "assistsPerGame": 2.9,
+      "stealsPerGame": 1.7,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 43.3,
+      "threePointPercentage": 36.9,
+      "freeThrowPercentage": 90
+    },
     "transferHistory": [
       {
         "recordId": "445808",
         "previousSchool": "McNeese",
         "destination": "Texas A&M",
-        "season": "2026"
-      }
-    ],
-    "needsReview": false
-  },
-  {
-    "playerId": "46143093",
-    "name": "Aiden Argabright",
-    "sport": "basketball",
-    "position": "PG",
-    "previousSchool": "Richmond",
-    "destination": "",
-    "season": 2026,
-    "profileUrl": "",
-    "stats": {},
-    "transferHistory": [
-      {
-        "recordId": "3309",
-        "previousSchool": "Richmond",
-        "destination": "",
         "season": "2026"
       }
     ],
@@ -1138,7 +1484,17 @@ const basketballTransfers = [
     "destination": "Wofford",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 17.9,
+      "pointsPerGame": 7.3,
+      "reboundsPerGame": 2.3,
+      "assistsPerGame": 0.7,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 40.7,
+      "threePointPercentage": 36.1,
+      "freeThrowPercentage": 84.4
+    },
     "transferHistory": [
       {
         "recordId": "136573",
@@ -1158,7 +1514,17 @@ const basketballTransfers = [
     "destination": "Oregon",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 13.3,
+      "pointsPerGame": 3.8,
+      "reboundsPerGame": 1.7,
+      "assistsPerGame": 0.7,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 49,
+      "threePointPercentage": 46.2,
+      "freeThrowPercentage": 50
+    },
     "transferHistory": [
       {
         "recordId": "38747",
@@ -1186,8 +1552,8 @@ const basketballTransfers = [
       "stealsPerGame": 0.0,
       "blocksPerGame": 0.1,
       "fieldGoalPercentage": 33.3,
-      "threePointPercentage": 0,
-      "freeThrowPercentage": 50
+      "threePointPercentage": 0.0,
+      "freeThrowPercentage": 50.0
     },
     "transferHistory": [
       {
@@ -1208,7 +1574,17 @@ const basketballTransfers = [
     "destination": "George Washington",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 14.2,
+      "pointsPerGame": 3.9,
+      "reboundsPerGame": 3.7,
+      "assistsPerGame": 0.0,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.7,
+      "fieldGoalPercentage": 59.7,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 55.3
+    },
     "transferHistory": [
       {
         "recordId": "280127",
@@ -1248,7 +1624,17 @@ const basketballTransfers = [
     "destination": "UCF",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 7.7,
+      "pointsPerGame": 3.1,
+      "reboundsPerGame": 2.1,
+      "assistsPerGame": 0.1,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 41.2,
+      "threePointPercentage": 38.2,
+      "freeThrowPercentage": 62.5
+    },
     "transferHistory": [
       {
         "recordId": "2473",
@@ -1268,7 +1654,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 23.1,
+      "pointsPerGame": 9.8,
+      "reboundsPerGame": 2.6,
+      "assistsPerGame": 2.1,
+      "stealsPerGame": 1.1,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 40.1,
+      "threePointPercentage": 40.6,
+      "freeThrowPercentage": 87.2
+    },
     "transferHistory": [
       {
         "recordId": "294856",
@@ -1288,7 +1684,17 @@ const basketballTransfers = [
     "destination": "Virginia Tech",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 12.3,
+      "pointsPerGame": 7.0,
+      "reboundsPerGame": 1.2,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.5,
+      "fieldGoalPercentage": 46.5,
+      "threePointPercentage": 41.3,
+      "freeThrowPercentage": 77.8
+    },
     "transferHistory": [
       {
         "recordId": "2449",
@@ -1308,7 +1714,17 @@ const basketballTransfers = [
     "destination": "Wisconsin",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 28.7,
+      "pointsPerGame": 10.9,
+      "reboundsPerGame": 3.5,
+      "assistsPerGame": 1.5,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 43.3,
+      "threePointPercentage": 38.5,
+      "freeThrowPercentage": 81
+    },
     "transferHistory": [
       {
         "recordId": "3098",
@@ -1368,7 +1784,17 @@ const basketballTransfers = [
     "destination": "Towson",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 12.5,
+      "pointsPerGame": 3.1,
+      "reboundsPerGame": 1.7,
+      "assistsPerGame": 0.9,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 30.1,
+      "threePointPercentage": 21.3,
+      "freeThrowPercentage": 66.7
+    },
     "transferHistory": [
       {
         "recordId": "2688",
@@ -1388,7 +1814,17 @@ const basketballTransfers = [
     "destination": "Vermont",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 10.2,
+      "pointsPerGame": 3.6,
+      "reboundsPerGame": 2.6,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 49.4,
+      "threePointPercentage": 9.1,
+      "freeThrowPercentage": 62.5
+    },
     "transferHistory": [
       {
         "recordId": "281462",
@@ -1408,7 +1844,17 @@ const basketballTransfers = [
     "destination": "St. John's",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 19.2,
+      "pointsPerGame": 8.3,
+      "reboundsPerGame": 3.4,
+      "assistsPerGame": 1.1,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 57,
+      "threePointPercentage": 25,
+      "freeThrowPercentage": 76.7
+    },
     "transferHistory": [
       {
         "recordId": "4380152",
@@ -1428,7 +1874,17 @@ const basketballTransfers = [
     "destination": "SE Louisiana",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 23.4,
+      "pointsPerGame": 7.1,
+      "reboundsPerGame": 2.2,
+      "assistsPerGame": 0.8,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 30.5,
+      "threePointPercentage": 27.8,
+      "freeThrowPercentage": 72.4
+    },
     "transferHistory": [
       {
         "recordId": "3192",
@@ -1448,7 +1904,17 @@ const basketballTransfers = [
     "destination": "Delaware",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 18.0,
+      "pointsPerGame": 6.3,
+      "reboundsPerGame": 2.4,
+      "assistsPerGame": 1.0,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 38.7,
+      "threePointPercentage": 39.4,
+      "freeThrowPercentage": 74.4
+    },
     "transferHistory": [
       {
         "recordId": "2717",
@@ -1477,7 +1943,7 @@ const basketballTransfers = [
       "blocksPerGame": 0.6,
       "fieldGoalPercentage": 50.5,
       "threePointPercentage": 30.5,
-      "freeThrowPercentage": 60
+      "freeThrowPercentage": 60.0
     },
     "transferHistory": [
       {
@@ -1498,7 +1964,17 @@ const basketballTransfers = [
     "destination": "Queens University",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 22.3,
+      "pointsPerGame": 7.2,
+      "reboundsPerGame": 2.7,
+      "assistsPerGame": 0.9,
+      "stealsPerGame": 1.2,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 40.4,
+      "threePointPercentage": 38.1,
+      "freeThrowPercentage": 75.4
+    },
     "transferHistory": [
       {
         "recordId": "2440",
@@ -1518,7 +1994,17 @@ const basketballTransfers = [
     "destination": "TCU",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 16.5,
+      "pointsPerGame": 4.5,
+      "reboundsPerGame": 3.4,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 1.7,
+      "fieldGoalPercentage": 50.8,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 71.1
+    },
     "transferHistory": [
       {
         "recordId": "158606",
@@ -1546,8 +2032,8 @@ const basketballTransfers = [
       "stealsPerGame": 0.5,
       "blocksPerGame": 0.8,
       "fieldGoalPercentage": 50.9,
-      "threePointPercentage": 0,
-      "freeThrowPercentage": 50
+      "threePointPercentage": 0.0,
+      "freeThrowPercentage": 50.0
     },
     "transferHistory": [
       {
@@ -1568,7 +2054,17 @@ const basketballTransfers = [
     "destination": "Tulsa",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 16.2,
+      "pointsPerGame": 5.6,
+      "reboundsPerGame": 2.5,
+      "assistsPerGame": 0.4,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 44.8,
+      "threePointPercentage": 35.5,
+      "freeThrowPercentage": 74.1
+    },
     "transferHistory": [
       {
         "recordId": "3920946",
@@ -1588,7 +2084,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 23.3,
+      "pointsPerGame": 10.2,
+      "reboundsPerGame": 4.6,
+      "assistsPerGame": 1.1,
+      "stealsPerGame": 1.0,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 52,
+      "threePointPercentage": 44.2,
+      "freeThrowPercentage": 79.2
+    },
     "transferHistory": [
       {
         "recordId": "168754",
@@ -1608,7 +2114,17 @@ const basketballTransfers = [
     "destination": "Providence",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 16.1,
+      "pointsPerGame": 5.4,
+      "reboundsPerGame": 4.8,
+      "assistsPerGame": 1.3,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 51.9,
+      "threePointPercentage": 25,
+      "freeThrowPercentage": 63
+    },
     "transferHistory": [
       {
         "recordId": "2921",
@@ -1628,7 +2144,17 @@ const basketballTransfers = [
     "destination": "Grand Canyon",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 28.6,
+      "pointsPerGame": 14.6,
+      "reboundsPerGame": 5.8,
+      "assistsPerGame": 1.2,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 58.9,
+      "threePointPercentage": 38.3,
+      "freeThrowPercentage": 84.0
+    },
     "transferHistory": [
       {
         "recordId": "3127",
@@ -1648,7 +2174,17 @@ const basketballTransfers = [
     "destination": "Cal State Bakersfield",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 6.9,
+      "pointsPerGame": 1.3,
+      "reboundsPerGame": 1.8,
+      "assistsPerGame": 0.4,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 66.7,
+      "threePointPercentage": 50,
+      "freeThrowPercentage": 0
+    },
     "transferHistory": [
       {
         "recordId": "194340",
@@ -1668,7 +2204,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 12.4,
+      "pointsPerGame": 3.3,
+      "reboundsPerGame": 1.6,
+      "assistsPerGame": 1.3,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 34.3,
+      "threePointPercentage": 11.1,
+      "freeThrowPercentage": 82.4
+    },
     "transferHistory": [
       {
         "recordId": "2777",
@@ -1688,7 +2234,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 4.7,
+      "pointsPerGame": 2.0,
+      "reboundsPerGame": 0.7,
+      "assistsPerGame": 0.0,
+      "stealsPerGame": 0.0,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 25,
+      "threePointPercentage": 33.3,
+      "freeThrowPercentage": 0
+    },
     "transferHistory": [
       {
         "recordId": "85845",
@@ -1708,7 +2264,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 22.3,
+      "pointsPerGame": 5.8,
+      "reboundsPerGame": 3.6,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.7,
+      "fieldGoalPercentage": 66.3,
+      "threePointPercentage": 50,
+      "freeThrowPercentage": 64.1
+    },
     "transferHistory": [
       {
         "recordId": "2568",
@@ -1728,7 +2294,17 @@ const basketballTransfers = [
     "destination": "UC San Diego",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 31.6,
+      "pointsPerGame": 11.7,
+      "reboundsPerGame": 2.8,
+      "assistsPerGame": 5.0,
+      "stealsPerGame": 1.4,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 45.4,
+      "threePointPercentage": 31,
+      "freeThrowPercentage": 65.3
+    },
     "transferHistory": [
       {
         "recordId": "110833",
@@ -1748,7 +2324,17 @@ const basketballTransfers = [
     "destination": "Vanderbilt",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 22.8,
+      "pointsPerGame": 8.6,
+      "reboundsPerGame": 2.7,
+      "assistsPerGame": 3.0,
+      "stealsPerGame": 1.2,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 46,
+      "threePointPercentage": 20.5,
+      "freeThrowPercentage": 79.1
+    },
     "transferHistory": [
       {
         "recordId": "2872",
@@ -1797,7 +2383,7 @@ const basketballTransfers = [
       "blocksPerGame": 0.0,
       "fieldGoalPercentage": 26.7,
       "threePointPercentage": 15.4,
-      "freeThrowPercentage": 100
+      "freeThrowPercentage": 100.0
     },
     "transferHistory": [
       {
@@ -1868,7 +2454,17 @@ const basketballTransfers = [
     "destination": "Mississippi State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 19.3,
+      "pointsPerGame": 5.9,
+      "reboundsPerGame": 3.5,
+      "assistsPerGame": 0.4,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 48.6,
+      "threePointPercentage": 26,
+      "freeThrowPercentage": 54.4
+    },
     "transferHistory": [
       {
         "recordId": "326176",
@@ -1895,7 +2491,7 @@ const basketballTransfers = [
       "assistsPerGame": 5.9,
       "stealsPerGame": 1.2,
       "blocksPerGame": 0.1,
-      "fieldGoalPercentage": 37,
+      "fieldGoalPercentage": 37.0,
       "threePointPercentage": 27.7,
       "freeThrowPercentage": 78.3
     },
@@ -1918,7 +2514,17 @@ const basketballTransfers = [
     "destination": "Temple",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 15.6,
+      "pointsPerGame": 3.2,
+      "reboundsPerGame": 3.9,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.8,
+      "fieldGoalPercentage": 47.2,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 57.9
+    },
     "transferHistory": [
       {
         "recordId": "2752",
@@ -1938,7 +2544,17 @@ const basketballTransfers = [
     "destination": "Washington",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 33.2,
+      "pointsPerGame": 13.6,
+      "reboundsPerGame": 3.4,
+      "assistsPerGame": 4.0,
+      "stealsPerGame": 1.2,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 40.7,
+      "threePointPercentage": 32.7,
+      "freeThrowPercentage": 82.7
+    },
     "transferHistory": [
       {
         "recordId": "3029",
@@ -1958,7 +2574,17 @@ const basketballTransfers = [
     "destination": "Bowling Green",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 6.8,
+      "pointsPerGame": 2.5,
+      "reboundsPerGame": 1.6,
+      "assistsPerGame": 0.3,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 48.6,
+      "threePointPercentage": 23.1,
+      "freeThrowPercentage": 72.7
+    },
     "transferHistory": [
       {
         "recordId": "2610",
@@ -1978,7 +2604,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 26.0,
+      "pointsPerGame": 11.3,
+      "reboundsPerGame": 3.3,
+      "assistsPerGame": 1.3,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 40.1,
+      "threePointPercentage": 35.9,
+      "freeThrowPercentage": 72.6
+    },
     "transferHistory": [
       {
         "recordId": "8622",
@@ -1998,7 +2634,17 @@ const basketballTransfers = [
     "destination": "San José State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 24.4,
+      "pointsPerGame": 12.8,
+      "reboundsPerGame": 7.4,
+      "assistsPerGame": 2.2,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 54.3,
+      "threePointPercentage": 44.4,
+      "freeThrowPercentage": 58.8
+    },
     "transferHistory": [
       {
         "recordId": "3479",
@@ -2018,7 +2664,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 27.8,
+      "pointsPerGame": 14.2,
+      "reboundsPerGame": 2.6,
+      "assistsPerGame": 0.6,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.6,
+      "fieldGoalPercentage": 45.9,
+      "threePointPercentage": 40,
+      "freeThrowPercentage": 85.7
+    },
     "transferHistory": [
       {
         "recordId": "3778112",
@@ -2038,7 +2694,17 @@ const basketballTransfers = [
     "destination": "Furman",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 25.3,
+      "pointsPerGame": 12.2,
+      "reboundsPerGame": 5.0,
+      "assistsPerGame": 1.5,
+      "stealsPerGame": 1.1,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 41.7,
+      "threePointPercentage": 35.9,
+      "freeThrowPercentage": 80.9
+    },
     "transferHistory": [
       {
         "recordId": "3134",
@@ -2118,7 +2784,17 @@ const basketballTransfers = [
     "destination": "Boston College",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 31.3,
+      "pointsPerGame": 14.2,
+      "reboundsPerGame": 10.4,
+      "assistsPerGame": 1.2,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 1.6,
+      "fieldGoalPercentage": 56.5,
+      "threePointPercentage": 25.0,
+      "freeThrowPercentage": 68.6
+    },
     "transferHistory": [
       {
         "recordId": "3130",
@@ -2138,7 +2814,17 @@ const basketballTransfers = [
     "destination": "Old Dominion",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 20.4,
+      "pointsPerGame": 5.8,
+      "reboundsPerGame": 2.7,
+      "assistsPerGame": 1.0,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 39.1,
+      "threePointPercentage": 26.6,
+      "freeThrowPercentage": 70.3
+    },
     "transferHistory": [
       {
         "recordId": "2812",
@@ -2178,7 +2864,17 @@ const basketballTransfers = [
     "destination": "Gonzaga",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 34.5,
+      "pointsPerGame": 15.8,
+      "reboundsPerGame": 2.2,
+      "assistsPerGame": 2.9,
+      "stealsPerGame": 1.5,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 39.5,
+      "threePointPercentage": 34.7,
+      "freeThrowPercentage": 89.8
+    },
     "transferHistory": [
       {
         "recordId": "3888280",
@@ -2198,7 +2894,17 @@ const basketballTransfers = [
     "destination": "Georgetown",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 25.9,
+      "pointsPerGame": 11.7,
+      "reboundsPerGame": 7.6,
+      "assistsPerGame": 1.2,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.8,
+      "fieldGoalPercentage": 63.6,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 50.5
+    },
     "transferHistory": [
       {
         "recordId": "3776608",
@@ -2218,7 +2924,17 @@ const basketballTransfers = [
     "destination": "Miami",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 16.6,
+      "pointsPerGame": 3.1,
+      "reboundsPerGame": 1.4,
+      "assistsPerGame": 0.7,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 32.6,
+      "threePointPercentage": 30.6,
+      "freeThrowPercentage": 71.4
+    },
     "transferHistory": [
       {
         "recordId": "3475",
@@ -2238,7 +2954,17 @@ const basketballTransfers = [
     "destination": "Lamar",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 18.0,
+      "pointsPerGame": 6.1,
+      "reboundsPerGame": 2.5,
+      "assistsPerGame": 1.2,
+      "stealsPerGame": 1.1,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 38.6,
+      "threePointPercentage": 29.8,
+      "freeThrowPercentage": 69.8
+    },
     "transferHistory": [
       {
         "recordId": "3049",
@@ -2258,7 +2984,17 @@ const basketballTransfers = [
     "destination": "East Carolina",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 5.8,
+      "pointsPerGame": 1.3,
+      "reboundsPerGame": 0.6,
+      "assistsPerGame": 0.1,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 31.8,
+      "threePointPercentage": 16.7,
+      "freeThrowPercentage": 63.6
+    },
     "transferHistory": [
       {
         "recordId": "1016631",
@@ -2278,7 +3014,17 @@ const basketballTransfers = [
     "destination": "Pittsburgh",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 8.0,
+      "pointsPerGame": 3.9,
+      "reboundsPerGame": 1.7,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 37.5,
+      "threePointPercentage": 31.4,
+      "freeThrowPercentage": 80.6
+    },
     "transferHistory": [
       {
         "recordId": "2580",
@@ -2298,7 +3044,17 @@ const basketballTransfers = [
     "destination": "BYU",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 18.0,
+      "pointsPerGame": 6.7,
+      "reboundsPerGame": 2.8,
+      "assistsPerGame": 0.4,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 40.5,
+      "threePointPercentage": 40.7,
+      "freeThrowPercentage": 63.6
+    },
     "transferHistory": [
       {
         "recordId": "3012",
@@ -2318,7 +3074,17 @@ const basketballTransfers = [
     "destination": "Nebraska",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 6.6,
+      "pointsPerGame": 3.1,
+      "reboundsPerGame": 1.1,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.0,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 56.3,
+      "threePointPercentage": 62.5,
+      "freeThrowPercentage": 83.3
+    },
     "transferHistory": [
       {
         "recordId": "112014",
@@ -2338,7 +3104,17 @@ const basketballTransfers = [
     "destination": "St. Thomas-Minnesota",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 25.0,
+      "pointsPerGame": 11.8,
+      "reboundsPerGame": 4.9,
+      "assistsPerGame": 0.4,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 1.3,
+      "fieldGoalPercentage": 60.3,
+      "threePointPercentage": 30,
+      "freeThrowPercentage": 64.4
+    },
     "transferHistory": [
       {
         "recordId": "3320",
@@ -2358,7 +3134,17 @@ const basketballTransfers = [
     "destination": "Rider",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 7.6,
+      "pointsPerGame": 1.9,
+      "reboundsPerGame": 1.3,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 31.6,
+      "threePointPercentage": 26.7,
+      "freeThrowPercentage": 75
+    },
     "transferHistory": [
       {
         "recordId": "2660",
@@ -2378,7 +3164,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 5.8,
+      "pointsPerGame": 1.2,
+      "reboundsPerGame": 0.9,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 50,
+      "threePointPercentage": 50,
+      "freeThrowPercentage": 50
+    },
     "transferHistory": [
       {
         "recordId": "105629",
@@ -2398,7 +3194,17 @@ const basketballTransfers = [
     "destination": "Louisville",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 31.5,
+      "pointsPerGame": 13.3,
+      "reboundsPerGame": 9.0,
+      "assistsPerGame": 1.5,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 2.6,
+      "fieldGoalPercentage": 64,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 65.4
+    },
     "transferHistory": [
       {
         "recordId": "3017",
@@ -2448,7 +3254,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 28.8,
+      "pointsPerGame": 11.8,
+      "reboundsPerGame": 5.2,
+      "assistsPerGame": 0.8,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.9,
+      "fieldGoalPercentage": 35.5,
+      "threePointPercentage": 28.4,
+      "freeThrowPercentage": 85.4
+    },
     "transferHistory": [
       {
         "recordId": "3477",
@@ -2488,7 +3304,17 @@ const basketballTransfers = [
     "destination": "Grand Canyon",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 20.2,
+      "pointsPerGame": 6.3,
+      "reboundsPerGame": 2.4,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 46,
+      "threePointPercentage": 36.8,
+      "freeThrowPercentage": 79.4
+    },
     "transferHistory": [
       {
         "recordId": "2968",
@@ -2508,7 +3334,17 @@ const basketballTransfers = [
     "destination": "West Virginia",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 34.0,
+      "pointsPerGame": 17.1,
+      "reboundsPerGame": 2.2,
+      "assistsPerGame": 2.6,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 42.6,
+      "threePointPercentage": 34.9,
+      "freeThrowPercentage": 85
+    },
     "transferHistory": [
       {
         "recordId": "3189",
@@ -2528,7 +3364,17 @@ const basketballTransfers = [
     "destination": "Tarleton State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 30.4,
+      "pointsPerGame": 10.6,
+      "reboundsPerGame": 2.6,
+      "assistsPerGame": 2.9,
+      "stealsPerGame": 1.3,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 40.9,
+      "threePointPercentage": 36.4,
+      "freeThrowPercentage": 69.6
+    },
     "transferHistory": [
       {
         "recordId": "3235",
@@ -2548,7 +3394,17 @@ const basketballTransfers = [
     "destination": "Duke",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 33.8,
+      "pointsPerGame": 19.1,
+      "reboundsPerGame": 5.1,
+      "assistsPerGame": 2.3,
+      "stealsPerGame": 1.1,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 43,
+      "threePointPercentage": 38.9,
+      "freeThrowPercentage": 86.3
+    },
     "transferHistory": [
       {
         "recordId": "2953",
@@ -2568,7 +3424,17 @@ const basketballTransfers = [
     "destination": "St. Bonaventure",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 12.3,
+      "pointsPerGame": 2.7,
+      "reboundsPerGame": 1.8,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 50,
+      "threePointPercentage": 22.2,
+      "freeThrowPercentage": 77.8
+    },
     "transferHistory": [
       {
         "recordId": "2965",
@@ -2588,7 +3454,17 @@ const basketballTransfers = [
     "destination": "East Carolina",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 28.0,
+      "pointsPerGame": 17.2,
+      "reboundsPerGame": 7.2,
+      "assistsPerGame": 3.1,
+      "stealsPerGame": 1.3,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 40.3,
+      "threePointPercentage": 34.6,
+      "freeThrowPercentage": 78.3
+    },
     "transferHistory": [
       {
         "recordId": "3429",
@@ -2628,7 +3504,17 @@ const basketballTransfers = [
     "destination": "Ball State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 28.6,
+      "pointsPerGame": 9.9,
+      "reboundsPerGame": 4.2,
+      "assistsPerGame": 3.9,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 46.8,
+      "threePointPercentage": 35.2,
+      "freeThrowPercentage": 69.3
+    },
     "transferHistory": [
       {
         "recordId": "352633",
@@ -2648,7 +3534,17 @@ const basketballTransfers = [
     "destination": "Oregon State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 2.0,
+      "pointsPerGame": 0.4,
+      "reboundsPerGame": 0.6,
+      "assistsPerGame": 0.0,
+      "stealsPerGame": 0.0,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 33.3,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 0
+    },
     "transferHistory": [
       {
         "recordId": "774210",
@@ -2668,7 +3564,17 @@ const basketballTransfers = [
     "destination": "South Carolina",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 33.7,
+      "pointsPerGame": 14.2,
+      "reboundsPerGame": 5.1,
+      "assistsPerGame": 2.5,
+      "stealsPerGame": 1.1,
+      "blocksPerGame": 0.7,
+      "fieldGoalPercentage": 41.6,
+      "threePointPercentage": 35.9,
+      "freeThrowPercentage": 67.1
+    },
     "transferHistory": [
       {
         "recordId": "3258",
@@ -2688,7 +3594,17 @@ const basketballTransfers = [
     "destination": "Miami",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 33.2,
+      "pointsPerGame": 13.9,
+      "reboundsPerGame": 5.0,
+      "assistsPerGame": 1.5,
+      "stealsPerGame": 2.0,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 38.8,
+      "threePointPercentage": 36.9,
+      "freeThrowPercentage": 78.3
+    },
     "transferHistory": [
       {
         "recordId": "670915",
@@ -2708,7 +3624,17 @@ const basketballTransfers = [
     "destination": "Stanford",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 39.8,
+      "pointsPerGame": 16.7,
+      "reboundsPerGame": 5.2,
+      "assistsPerGame": 5.9,
+      "stealsPerGame": 1.8,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 42.4,
+      "threePointPercentage": 39.2,
+      "freeThrowPercentage": 84.8
+    },
     "transferHistory": [
       {
         "recordId": "3323",
@@ -2748,7 +3674,17 @@ const basketballTransfers = [
     "destination": "Penn State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 22.3,
+      "pointsPerGame": 12.4,
+      "reboundsPerGame": 3.4,
+      "assistsPerGame": 1.1,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 45.6,
+      "threePointPercentage": 40.7,
+      "freeThrowPercentage": 63.6
+    },
     "transferHistory": [
       {
         "recordId": "137225",
@@ -2768,7 +3704,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 30.9,
+      "pointsPerGame": 17.6,
+      "reboundsPerGame": 3.1,
+      "assistsPerGame": 2.2,
+      "stealsPerGame": 1.1,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 41.9,
+      "threePointPercentage": 35.5,
+      "freeThrowPercentage": 86.5
+    },
     "transferHistory": [
       {
         "recordId": "87013",
@@ -2788,7 +3734,17 @@ const basketballTransfers = [
     "destination": "Kansas",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 33.4,
+      "pointsPerGame": 16.4,
+      "reboundsPerGame": 4.0,
+      "assistsPerGame": 4.2,
+      "stealsPerGame": 1.8,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 46.3,
+      "threePointPercentage": 41,
+      "freeThrowPercentage": 85.2
+    },
     "transferHistory": [
       {
         "recordId": "3204",
@@ -2808,7 +3764,17 @@ const basketballTransfers = [
     "destination": "Oklahoma State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 24.4,
+      "pointsPerGame": 9.8,
+      "reboundsPerGame": 2.5,
+      "assistsPerGame": 2.2,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 40.2,
+      "threePointPercentage": 34.9,
+      "freeThrowPercentage": 73.6
+    },
     "transferHistory": [
       {
         "recordId": "29745",
@@ -2828,7 +3794,17 @@ const basketballTransfers = [
     "destination": "Abilene Christian",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 4.9,
+      "pointsPerGame": 1.1,
+      "reboundsPerGame": 0.3,
+      "assistsPerGame": 0.3,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 28.6,
+      "threePointPercentage": 16.7,
+      "freeThrowPercentage": 75
+    },
     "transferHistory": [
       {
         "recordId": "319272",
@@ -2848,7 +3824,17 @@ const basketballTransfers = [
     "destination": "Abilene Christian",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 32.7,
+      "pointsPerGame": 11.9,
+      "reboundsPerGame": 6.0,
+      "assistsPerGame": 2.2,
+      "stealsPerGame": 1.3,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 41.4,
+      "threePointPercentage": 32.6,
+      "freeThrowPercentage": 67.5
+    },
     "transferHistory": [
       {
         "recordId": "4739961",
@@ -2868,7 +3854,17 @@ const basketballTransfers = [
     "destination": "Oregon",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 19.1,
+      "pointsPerGame": 6.3,
+      "reboundsPerGame": 4.2,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 1.0,
+      "fieldGoalPercentage": 41.2,
+      "threePointPercentage": 30.2,
+      "freeThrowPercentage": 79.6
+    },
     "transferHistory": [
       {
         "recordId": "2954",
@@ -2918,7 +3914,17 @@ const basketballTransfers = [
     "destination": "Omaha",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 1.5,
+      "pointsPerGame": 0.2,
+      "reboundsPerGame": 0.3,
+      "assistsPerGame": 0.1,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 0,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 50
+    },
     "transferHistory": [
       {
         "recordId": "2601",
@@ -2938,7 +3944,17 @@ const basketballTransfers = [
     "destination": "Northeastern",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 14.0,
+      "pointsPerGame": 4.9,
+      "reboundsPerGame": 1.9,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 44.6,
+      "threePointPercentage": 35.5,
+      "freeThrowPercentage": 84.6
+    },
     "transferHistory": [
       {
         "recordId": "140235",
@@ -2958,7 +3974,17 @@ const basketballTransfers = [
     "destination": "Iowa State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 32.8,
+      "pointsPerGame": 11.9,
+      "reboundsPerGame": 4.7,
+      "assistsPerGame": 1.5,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.7,
+      "fieldGoalPercentage": 47.3,
+      "threePointPercentage": 36.2,
+      "freeThrowPercentage": 75
+    },
     "transferHistory": [
       {
         "recordId": "3015",
@@ -3008,7 +4034,17 @@ const basketballTransfers = [
     "destination": "La Salle",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 8.0,
+      "pointsPerGame": 1.7,
+      "reboundsPerGame": 0.7,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 28.8,
+      "threePointPercentage": 22.6,
+      "freeThrowPercentage": 53.3
+    },
     "transferHistory": [
       {
         "recordId": "2687",
@@ -3028,7 +4064,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 9.7,
+      "pointsPerGame": 4.3,
+      "reboundsPerGame": 1.6,
+      "assistsPerGame": 0.3,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 39.8,
+      "threePointPercentage": 32.3,
+      "freeThrowPercentage": 53.6
+    },
     "transferHistory": [
       {
         "recordId": "2607",
@@ -3048,7 +4094,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 6.7,
+      "pointsPerGame": 0.0,
+      "reboundsPerGame": 2.0,
+      "assistsPerGame": 0.0,
+      "stealsPerGame": 0.0,
+      "blocksPerGame": 0.7,
+      "fieldGoalPercentage": 0,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 0
+    },
     "transferHistory": [
       {
         "recordId": "3000",
@@ -3068,7 +4124,17 @@ const basketballTransfers = [
     "destination": "Seattle U",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 32.0,
+      "pointsPerGame": 14.2,
+      "reboundsPerGame": 3.7,
+      "assistsPerGame": 3.6,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 42.8,
+      "threePointPercentage": 35.9,
+      "freeThrowPercentage": 82.3
+    },
     "transferHistory": [
       {
         "recordId": "3138",
@@ -3088,7 +4154,17 @@ const basketballTransfers = [
     "destination": "Maryland",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 26.5,
+      "pointsPerGame": 6.2,
+      "reboundsPerGame": 4.4,
+      "assistsPerGame": 3.1,
+      "stealsPerGame": 1.2,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 42.7,
+      "threePointPercentage": 38.5,
+      "freeThrowPercentage": 66.7
+    },
     "transferHistory": [
       {
         "recordId": "2918",
@@ -3108,7 +4184,17 @@ const basketballTransfers = [
     "destination": "Penn State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 34.4,
+      "pointsPerGame": 10.8,
+      "reboundsPerGame": 3.0,
+      "assistsPerGame": 4.8,
+      "stealsPerGame": 1.2,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 41.1,
+      "threePointPercentage": 32.7,
+      "freeThrowPercentage": 85.2
+    },
     "transferHistory": [
       {
         "recordId": "3193",
@@ -3128,7 +4214,17 @@ const basketballTransfers = [
     "destination": "Arkansas",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 29.6,
+      "pointsPerGame": 13.8,
+      "reboundsPerGame": 5.9,
+      "assistsPerGame": 1.8,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 1.2,
+      "fieldGoalPercentage": 76.6,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 62.2
+    },
     "transferHistory": [
       {
         "recordId": "3018",
@@ -3148,7 +4244,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 33.8,
+      "pointsPerGame": 10.9,
+      "reboundsPerGame": 5.8,
+      "assistsPerGame": 1.6,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 42.2,
+      "threePointPercentage": 35.1,
+      "freeThrowPercentage": 63.8
+    },
     "transferHistory": [
       {
         "recordId": "288118",
@@ -3168,7 +4274,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 11.1,
+      "pointsPerGame": 2.5,
+      "reboundsPerGame": 2.9,
+      "assistsPerGame": 0.3,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 51.3,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 37.8
+    },
     "transferHistory": [
       {
         "recordId": "3142",
@@ -3188,7 +4304,17 @@ const basketballTransfers = [
     "destination": "Charleston",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 28.2,
+      "pointsPerGame": 13.5,
+      "reboundsPerGame": 3.8,
+      "assistsPerGame": 1.6,
+      "stealsPerGame": 1.0,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 45.2,
+      "threePointPercentage": 29.1,
+      "freeThrowPercentage": 78.6
+    },
     "transferHistory": [
       {
         "recordId": "2554",
@@ -3278,7 +4404,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 1.0,
+      "pointsPerGame": 0.0,
+      "reboundsPerGame": 0.0,
+      "assistsPerGame": 0.0,
+      "stealsPerGame": 0.0,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 0,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 0
+    },
     "transferHistory": [
       {
         "recordId": "3269",
@@ -3298,7 +4434,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 24.0,
+      "pointsPerGame": 13.0,
+      "reboundsPerGame": 4.4,
+      "assistsPerGame": 1.9,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 52.6,
+      "threePointPercentage": 33.3,
+      "freeThrowPercentage": 83.6
+    },
     "transferHistory": [
       {
         "recordId": "2555",
@@ -3348,7 +4494,17 @@ const basketballTransfers = [
     "destination": "Oklahoma",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 31.0,
+      "pointsPerGame": 12.4,
+      "reboundsPerGame": 10.2,
+      "assistsPerGame": 2.0,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.5,
+      "fieldGoalPercentage": 65.8,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 61.3
+    },
     "transferHistory": [
       {
         "recordId": "78621",
@@ -3368,7 +4524,17 @@ const basketballTransfers = [
     "destination": "NC State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 6.4,
+      "pointsPerGame": 1.2,
+      "reboundsPerGame": 0.7,
+      "assistsPerGame": 0.7,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 39.1,
+      "threePointPercentage": 35.3,
+      "freeThrowPercentage": 33.3
+    },
     "transferHistory": [
       {
         "recordId": "3008",
@@ -3388,7 +4554,17 @@ const basketballTransfers = [
     "destination": "Rider",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 2.5,
+      "pointsPerGame": 1.0,
+      "reboundsPerGame": 0.7,
+      "assistsPerGame": 0.0,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 50,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 0
+    },
     "transferHistory": [
       {
         "recordId": "2733",
@@ -3438,7 +4614,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 7.4,
+      "pointsPerGame": 1.9,
+      "reboundsPerGame": 0.7,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 36.1,
+      "threePointPercentage": 25,
+      "freeThrowPercentage": 63.6
+    },
     "transferHistory": [
       {
         "recordId": "3023",
@@ -3458,7 +4644,17 @@ const basketballTransfers = [
     "destination": "Vermont",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 15.2,
+      "pointsPerGame": 2.2,
+      "reboundsPerGame": 2.8,
+      "assistsPerGame": 0.4,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 44.1,
+      "threePointPercentage": 35.1,
+      "freeThrowPercentage": 80
+    },
     "transferHistory": [
       {
         "recordId": "2695",
@@ -3516,8 +4712,8 @@ const basketballTransfers = [
       "stealsPerGame": 0.0,
       "blocksPerGame": 0.0,
       "fieldGoalPercentage": 36.4,
-      "threePointPercentage": 75,
-      "freeThrowPercentage": 50
+      "threePointPercentage": 75.0,
+      "freeThrowPercentage": 50.0
     },
     "transferHistory": [
       {
@@ -3538,7 +4734,17 @@ const basketballTransfers = [
     "destination": "Ole Miss",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 13.3,
+      "pointsPerGame": 3.0,
+      "reboundsPerGame": 3.9,
+      "assistsPerGame": 0.4,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 1.3,
+      "fieldGoalPercentage": 56.3,
+      "threePointPercentage": 33.3,
+      "freeThrowPercentage": 56.8
+    },
     "transferHistory": [
       {
         "recordId": "2751",
@@ -3558,7 +4764,17 @@ const basketballTransfers = [
     "destination": "High Point",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 26.6,
+      "pointsPerGame": 10.9,
+      "reboundsPerGame": 3.9,
+      "assistsPerGame": 4.7,
+      "stealsPerGame": 1.0,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 38.1,
+      "threePointPercentage": 24.2,
+      "freeThrowPercentage": 72.7
+    },
     "transferHistory": [
       {
         "recordId": "2979",
@@ -3598,7 +4814,17 @@ const basketballTransfers = [
     "destination": "Notre Dame",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 23.4,
+      "pointsPerGame": 6.4,
+      "reboundsPerGame": 3.4,
+      "assistsPerGame": 1.6,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 40.8,
+      "threePointPercentage": 31,
+      "freeThrowPercentage": 63.2
+    },
     "transferHistory": [
       {
         "recordId": "2949",
@@ -3618,7 +4844,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 5.5,
+      "pointsPerGame": 0.8,
+      "reboundsPerGame": 0.4,
+      "assistsPerGame": 0.4,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 22.7,
+      "threePointPercentage": 25,
+      "freeThrowPercentage": 0
+    },
     "transferHistory": [
       {
         "recordId": "319268",
@@ -3638,7 +4874,17 @@ const basketballTransfers = [
     "destination": "Howard",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 5.6,
+      "pointsPerGame": 1.2,
+      "reboundsPerGame": 1.4,
+      "assistsPerGame": 0.3,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 75,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 38.5
+    },
     "transferHistory": [
       {
         "recordId": "2784",
@@ -3658,7 +4904,17 @@ const basketballTransfers = [
     "destination": "Western Carolina",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 31.0,
+      "pointsPerGame": 12.2,
+      "reboundsPerGame": 3.8,
+      "assistsPerGame": 3.0,
+      "stealsPerGame": 1.3,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 39.6,
+      "threePointPercentage": 36.5,
+      "freeThrowPercentage": 79.3
+    },
     "transferHistory": [
       {
         "recordId": "3416",
@@ -3698,7 +4954,17 @@ const basketballTransfers = [
     "destination": "North Carolina",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 31.5,
+      "pointsPerGame": 19.9,
+      "reboundsPerGame": 2.4,
+      "assistsPerGame": 3.8,
+      "stealsPerGame": 1.4,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 45.3,
+      "threePointPercentage": 32.7,
+      "freeThrowPercentage": 77.5
+    },
     "transferHistory": [
       {
         "recordId": "2935",
@@ -3738,7 +5004,17 @@ const basketballTransfers = [
     "destination": "UNC Wilmington",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 12.0,
+      "pointsPerGame": 2.7,
+      "reboundsPerGame": 0.7,
+      "assistsPerGame": 1.7,
+      "stealsPerGame": 0.0,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 22.2,
+      "threePointPercentage": 33.3,
+      "freeThrowPercentage": 50
+    },
     "transferHistory": [
       {
         "recordId": "3339",
@@ -3758,7 +5034,17 @@ const basketballTransfers = [
     "destination": "SMU",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 36.1,
+      "pointsPerGame": 19.2,
+      "reboundsPerGame": 4.9,
+      "assistsPerGame": 3.5,
+      "stealsPerGame": 1.6,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 45.2,
+      "threePointPercentage": 36,
+      "freeThrowPercentage": 80.4
+    },
     "transferHistory": [
       {
         "recordId": "2928",
@@ -3778,7 +5064,17 @@ const basketballTransfers = [
     "destination": "USC",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 30.9,
+      "pointsPerGame": 20.6,
+      "reboundsPerGame": 5.1,
+      "assistsPerGame": 1.3,
+      "stealsPerGame": 1.1,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 44.5,
+      "threePointPercentage": 38.7,
+      "freeThrowPercentage": 84.3
+    },
     "transferHistory": [
       {
         "recordId": "3385",
@@ -3806,8 +5102,8 @@ const basketballTransfers = [
       "stealsPerGame": 0.4,
       "blocksPerGame": 0.0,
       "fieldGoalPercentage": 58.8,
-      "threePointPercentage": 60,
-      "freeThrowPercentage": 80
+      "threePointPercentage": 60.0,
+      "freeThrowPercentage": 80.0
     },
     "transferHistory": [
       {
@@ -3866,7 +5162,7 @@ const basketballTransfers = [
       "stealsPerGame": 0.3,
       "blocksPerGame": 0.3,
       "fieldGoalPercentage": 58.6,
-      "threePointPercentage": 0,
+      "threePointPercentage": 0.0,
       "freeThrowPercentage": 45.2
     },
     "transferHistory": [
@@ -3888,7 +5184,17 @@ const basketballTransfers = [
     "destination": "Western Carolina",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 18.5,
+      "pointsPerGame": 8.8,
+      "reboundsPerGame": 3.4,
+      "assistsPerGame": 0.9,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 47.2,
+      "threePointPercentage": 24.6,
+      "freeThrowPercentage": 81.6
+    },
     "transferHistory": [
       {
         "recordId": "3076",
@@ -3908,7 +5214,17 @@ const basketballTransfers = [
     "destination": "Rutgers",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 12.9,
+      "pointsPerGame": 3.2,
+      "reboundsPerGame": 3.3,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 1.3,
+      "fieldGoalPercentage": 50.7,
+      "threePointPercentage": 18.2,
+      "freeThrowPercentage": 53.3
+    },
     "transferHistory": [
       {
         "recordId": "33118",
@@ -3928,7 +5244,17 @@ const basketballTransfers = [
     "destination": "West Virginia",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 27.9,
+      "pointsPerGame": 12.6,
+      "reboundsPerGame": 5.0,
+      "assistsPerGame": 1.5,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 42.3,
+      "threePointPercentage": 31.7,
+      "freeThrowPercentage": 83.6
+    },
     "transferHistory": [
       {
         "recordId": "2846",
@@ -3945,7 +5271,7 @@ const basketballTransfers = [
     "sport": "basketball",
     "position": "CG",
     "previousSchool": "Cincinnati",
-    "destination": "",
+    "destination": "Southern Nazarene",
     "season": 2026,
     "profileUrl": "",
     "stats": {},
@@ -3953,11 +5279,12 @@ const basketballTransfers = [
       {
         "recordId": "2593",
         "previousSchool": "Cincinnati",
-        "destination": "",
+        "destination": "Southern Nazarene",
         "season": "2026"
       }
     ],
-    "needsReview": false
+    "needsReview": false,
+    "seasonNote": "Bryson Buckingham redshirted during the 2025–26 season. N/A statistics reflect his redshirt season."
   },
   {
     "playerId": "46165815",
@@ -3998,7 +5325,17 @@ const basketballTransfers = [
     "destination": "Maryland",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 26.0,
+      "pointsPerGame": 13.1,
+      "reboundsPerGame": 10.3,
+      "assistsPerGame": 1.5,
+      "stealsPerGame": 1.1,
+      "blocksPerGame": 0.5,
+      "fieldGoalPercentage": 54,
+      "threePointPercentage": 30.8,
+      "freeThrowPercentage": 60.7
+    },
     "transferHistory": [
       {
         "recordId": "2960",
@@ -4018,7 +5355,17 @@ const basketballTransfers = [
     "destination": "UT Arlington",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 3.1,
+      "pointsPerGame": 0.5,
+      "reboundsPerGame": 0.5,
+      "assistsPerGame": 0.0,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 66.7,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 66.7
+    },
     "transferHistory": [
       {
         "recordId": "323418",
@@ -4038,7 +5385,17 @@ const basketballTransfers = [
     "destination": "Northern Illinois",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 30.3,
+      "pointsPerGame": 12.1,
+      "reboundsPerGame": 2.8,
+      "assistsPerGame": 3.5,
+      "stealsPerGame": 1.3,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 38.9,
+      "threePointPercentage": 27.7,
+      "freeThrowPercentage": 84.4
+    },
     "transferHistory": [
       {
         "recordId": "3440",
@@ -4058,7 +5415,17 @@ const basketballTransfers = [
     "destination": "Illinois State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 23.0,
+      "pointsPerGame": 8.8,
+      "reboundsPerGame": 2.2,
+      "assistsPerGame": 1.0,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 40.4,
+      "threePointPercentage": 31.3,
+      "freeThrowPercentage": 58.5
+    },
     "transferHistory": [
       {
         "recordId": "3278",
@@ -4078,7 +5445,17 @@ const basketballTransfers = [
     "destination": "Utah",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 24.7,
+      "pointsPerGame": 12.4,
+      "reboundsPerGame": 2.4,
+      "assistsPerGame": 3.6,
+      "stealsPerGame": 2.6,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 45.7,
+      "threePointPercentage": 34.7,
+      "freeThrowPercentage": 73.3
+    },
     "transferHistory": [
       {
         "recordId": "3166",
@@ -4098,7 +5475,17 @@ const basketballTransfers = [
     "destination": "Oklahoma State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 28.2,
+      "pointsPerGame": 13.3,
+      "reboundsPerGame": 4.8,
+      "assistsPerGame": 0.7,
+      "stealsPerGame": 1.0,
+      "blocksPerGame": 0.5,
+      "fieldGoalPercentage": 45.5,
+      "threePointPercentage": 37.3,
+      "freeThrowPercentage": 78.2
+    },
     "transferHistory": [
       {
         "recordId": "380638",
@@ -4118,7 +5505,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 23.2,
+      "pointsPerGame": 10.3,
+      "reboundsPerGame": 4.9,
+      "assistsPerGame": 0.6,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 52.6,
+      "threePointPercentage": 35,
+      "freeThrowPercentage": 84.6
+    },
     "transferHistory": [
       {
         "recordId": "2454",
@@ -4138,7 +5535,17 @@ const basketballTransfers = [
     "destination": "La Salle",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 18.6,
+      "pointsPerGame": 7.9,
+      "reboundsPerGame": 1.8,
+      "assistsPerGame": 0.3,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 41,
+      "threePointPercentage": 42.7,
+      "freeThrowPercentage": 85.2
+    },
     "transferHistory": [
       {
         "recordId": "2849",
@@ -4158,7 +5565,17 @@ const basketballTransfers = [
     "destination": "Indiana",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 30.1,
+      "pointsPerGame": 18.5,
+      "reboundsPerGame": 2.8,
+      "assistsPerGame": 3.7,
+      "stealsPerGame": 1.6,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 48.9,
+      "threePointPercentage": 30.6,
+      "freeThrowPercentage": 91.7
+    },
     "transferHistory": [
       {
         "recordId": "2977",
@@ -4178,7 +5595,17 @@ const basketballTransfers = [
     "destination": "Boise State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 33.9,
+      "pointsPerGame": 13.9,
+      "reboundsPerGame": 8.5,
+      "assistsPerGame": 2.6,
+      "stealsPerGame": 1.3,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 50.3,
+      "threePointPercentage": 16.7,
+      "freeThrowPercentage": 55.3
+    },
     "transferHistory": [
       {
         "recordId": "3253",
@@ -4198,7 +5625,17 @@ const basketballTransfers = [
     "destination": "Furman",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 8.9,
+      "pointsPerGame": 2.8,
+      "reboundsPerGame": 1.8,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 47.7,
+      "threePointPercentage": 25,
+      "freeThrowPercentage": 77.4
+    },
     "transferHistory": [
       {
         "recordId": "3352",
@@ -4218,7 +5655,17 @@ const basketballTransfers = [
     "destination": "Vanderbilt",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 24.3,
+      "pointsPerGame": 6.5,
+      "reboundsPerGame": 5.6,
+      "assistsPerGame": 1.9,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 1.0,
+      "fieldGoalPercentage": 46.8,
+      "threePointPercentage": 24.1,
+      "freeThrowPercentage": 61.2
+    },
     "transferHistory": [
       {
         "recordId": "2560",
@@ -4238,7 +5685,17 @@ const basketballTransfers = [
     "destination": "Penn State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 30.8,
+      "pointsPerGame": 14.2,
+      "reboundsPerGame": 4.1,
+      "assistsPerGame": 0.6,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 47.8,
+      "threePointPercentage": 39.2,
+      "freeThrowPercentage": 78.5
+    },
     "transferHistory": [
       {
         "recordId": "3122",
@@ -4258,7 +5715,17 @@ const basketballTransfers = [
     "destination": "Providence",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 28.1,
+      "pointsPerGame": 10.4,
+      "reboundsPerGame": 4.7,
+      "assistsPerGame": 2.6,
+      "stealsPerGame": 1.9,
+      "blocksPerGame": 1.2,
+      "fieldGoalPercentage": 40.5,
+      "threePointPercentage": 30.8,
+      "freeThrowPercentage": 79.5
+    },
     "transferHistory": [
       {
         "recordId": "2436",
@@ -4278,7 +5745,17 @@ const basketballTransfers = [
     "destination": "Butler",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 4.1,
+      "pointsPerGame": 0.4,
+      "reboundsPerGame": 0.8,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 33.3,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 33.3
+    },
     "transferHistory": [
       {
         "recordId": "2469",
@@ -4338,7 +5815,17 @@ const basketballTransfers = [
     "destination": "Liberty",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 27.9,
+      "pointsPerGame": 9.0,
+      "reboundsPerGame": 1.8,
+      "assistsPerGame": 1.5,
+      "stealsPerGame": 1.0,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 41.1,
+      "threePointPercentage": 40,
+      "freeThrowPercentage": 81.3
+    },
     "transferHistory": [
       {
         "recordId": "3111",
@@ -4358,7 +5845,17 @@ const basketballTransfers = [
     "destination": "Liberty",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 33.8,
+      "pointsPerGame": 12.5,
+      "reboundsPerGame": 3.4,
+      "assistsPerGame": 4.2,
+      "stealsPerGame": 1.6,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 43.5,
+      "threePointPercentage": 39.5,
+      "freeThrowPercentage": 83.1
+    },
     "transferHistory": [
       {
         "recordId": "3096",
@@ -4378,7 +5875,17 @@ const basketballTransfers = [
     "destination": "Cincinnati",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 34.1,
+      "pointsPerGame": 18.7,
+      "reboundsPerGame": 4.5,
+      "assistsPerGame": 5.1,
+      "stealsPerGame": 3.0,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 50,
+      "threePointPercentage": 31.8,
+      "freeThrowPercentage": 75.8
+    },
     "transferHistory": [
       {
         "recordId": "4729072",
@@ -4398,7 +5905,17 @@ const basketballTransfers = [
     "destination": "High Point",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 14.7,
+      "pointsPerGame": 4.9,
+      "reboundsPerGame": 1.8,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 51,
+      "threePointPercentage": 52,
+      "freeThrowPercentage": 80
+    },
     "transferHistory": [
       {
         "recordId": "3059",
@@ -4418,7 +5935,17 @@ const basketballTransfers = [
     "destination": "Fresno State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 24.9,
+      "pointsPerGame": 11.1,
+      "reboundsPerGame": 5.2,
+      "assistsPerGame": 1.5,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 47.5,
+      "threePointPercentage": 42.6,
+      "freeThrowPercentage": 67.9
+    },
     "transferHistory": [
       {
         "recordId": "3407",
@@ -4438,7 +5965,17 @@ const basketballTransfers = [
     "destination": "Missouri",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 18.4,
+      "pointsPerGame": 7.4,
+      "reboundsPerGame": 6.0,
+      "assistsPerGame": 1.3,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 48.7,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 49.1
+    },
     "transferHistory": [
       {
         "recordId": "2885",
@@ -4458,7 +5995,17 @@ const basketballTransfers = [
     "destination": "Saint Joseph's",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 25.4,
+      "pointsPerGame": 9.7,
+      "reboundsPerGame": 2.8,
+      "assistsPerGame": 2.4,
+      "stealsPerGame": 1.6,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 49.3,
+      "threePointPercentage": 35.6,
+      "freeThrowPercentage": 64.8
+    },
     "transferHistory": [
       {
         "recordId": "190478",
@@ -4498,7 +6045,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 11.7,
+      "pointsPerGame": 3.7,
+      "reboundsPerGame": 3.2,
+      "assistsPerGame": 0.6,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 1.2,
+      "fieldGoalPercentage": 55.8,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 62.3
+    },
     "transferHistory": [
       {
         "recordId": "3815414",
@@ -4518,7 +6075,17 @@ const basketballTransfers = [
     "destination": "UL Monroe",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 2.4,
+      "pointsPerGame": 0.7,
+      "reboundsPerGame": 0.4,
+      "assistsPerGame": 0.0,
+      "stealsPerGame": 0.0,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 100,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 50
+    },
     "transferHistory": [
       {
         "recordId": "2692",
@@ -4538,7 +6105,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 16.5,
+      "pointsPerGame": 3.8,
+      "reboundsPerGame": 2.6,
+      "assistsPerGame": 2.2,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 36.1,
+      "threePointPercentage": 25.7,
+      "freeThrowPercentage": 77.2
+    },
     "transferHistory": [
       {
         "recordId": "323415",
@@ -4558,7 +6135,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 30.3,
+      "pointsPerGame": 17.4,
+      "reboundsPerGame": 5.2,
+      "assistsPerGame": 1.8,
+      "stealsPerGame": 1.2,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 47.6,
+      "threePointPercentage": 39.5,
+      "freeThrowPercentage": 78
+    },
     "transferHistory": [
       {
         "recordId": "2931",
@@ -4578,7 +6165,17 @@ const basketballTransfers = [
     "destination": "Drake",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 24.6,
+      "pointsPerGame": 11.3,
+      "reboundsPerGame": 7.9,
+      "assistsPerGame": 0.7,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.5,
+      "fieldGoalPercentage": 59,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 71.6
+    },
     "transferHistory": [
       {
         "recordId": "3433",
@@ -4598,7 +6195,17 @@ const basketballTransfers = [
     "destination": "Cincinnati",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 31.6,
+      "pointsPerGame": 11.9,
+      "reboundsPerGame": 6.5,
+      "assistsPerGame": 2.9,
+      "stealsPerGame": 1.8,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 48,
+      "threePointPercentage": 37.5,
+      "freeThrowPercentage": 80.3
+    },
     "transferHistory": [
       {
         "recordId": "3283",
@@ -4618,32 +6225,22 @@ const basketballTransfers = [
     "destination": "Nicholls",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 3.9,
+      "pointsPerGame": 1.0,
+      "reboundsPerGame": 0.6,
+      "assistsPerGame": 0.1,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 25,
+      "threePointPercentage": 33.3,
+      "freeThrowPercentage": 60
+    },
     "transferHistory": [
       {
         "recordId": "2588",
         "previousSchool": "Hawai'i",
         "destination": "Nicholls",
-        "season": "2026"
-      }
-    ],
-    "needsReview": false
-  },
-  {
-    "playerId": "46079383",
-    "name": "AJ Casey",
-    "sport": "basketball",
-    "position": "PF",
-    "previousSchool": "Evansville",
-    "destination": "",
-    "season": 2026,
-    "profileUrl": "",
-    "stats": {},
-    "transferHistory": [
-      {
-        "recordId": "3242",
-        "previousSchool": "Evansville",
-        "destination": "",
         "season": "2026"
       }
     ],
@@ -4658,7 +6255,17 @@ const basketballTransfers = [
     "destination": "Miami",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 18.6,
+      "pointsPerGame": 8.4,
+      "reboundsPerGame": 1.9,
+      "assistsPerGame": 2.4,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 50.3,
+      "threePointPercentage": 40.2,
+      "freeThrowPercentage": 70.9
+    },
     "transferHistory": [
       {
         "recordId": "3395393",
@@ -4678,7 +6285,17 @@ const basketballTransfers = [
     "destination": "UTEP",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 15.2,
+      "pointsPerGame": 3.9,
+      "reboundsPerGame": 3.3,
+      "assistsPerGame": 0.3,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 1.0,
+      "fieldGoalPercentage": 57.3,
+      "threePointPercentage": 11.1,
+      "freeThrowPercentage": 67.5
+    },
     "transferHistory": [
       {
         "recordId": "3314",
@@ -4706,7 +6323,7 @@ const basketballTransfers = [
       "stealsPerGame": 0.4,
       "blocksPerGame": 0.2,
       "fieldGoalPercentage": 45.5,
-      "threePointPercentage": 25,
+      "threePointPercentage": 25.0,
       "freeThrowPercentage": 77.8
     },
     "transferHistory": [
@@ -4728,7 +6345,17 @@ const basketballTransfers = [
     "destination": "Santa Clara",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 28.1,
+      "pointsPerGame": 10.3,
+      "reboundsPerGame": 1.9,
+      "assistsPerGame": 1.8,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 40,
+      "threePointPercentage": 35.2,
+      "freeThrowPercentage": 82
+    },
     "transferHistory": [
       {
         "recordId": "3028",
@@ -4748,7 +6375,17 @@ const basketballTransfers = [
     "destination": "Florida International",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 30.7,
+      "pointsPerGame": 7.9,
+      "reboundsPerGame": 2.4,
+      "assistsPerGame": 3.7,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 33.3,
+      "threePointPercentage": 32.5,
+      "freeThrowPercentage": 77.5
+    },
     "transferHistory": [
       {
         "recordId": "3099",
@@ -4768,7 +6405,17 @@ const basketballTransfers = [
     "destination": "Baylor",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 31.1,
+      "pointsPerGame": 13.2,
+      "reboundsPerGame": 6.3,
+      "assistsPerGame": 3.2,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 57.3,
+      "threePointPercentage": 40.7,
+      "freeThrowPercentage": 79.8
+    },
     "transferHistory": [
       {
         "recordId": "3297",
@@ -4788,7 +6435,17 @@ const basketballTransfers = [
     "destination": "Clemson",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 26.9,
+      "pointsPerGame": 12.8,
+      "reboundsPerGame": 1.7,
+      "assistsPerGame": 0.8,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 37.4,
+      "threePointPercentage": 36.7,
+      "freeThrowPercentage": 89.2
+    },
     "transferHistory": [
       {
         "recordId": "2947",
@@ -4808,7 +6465,17 @@ const basketballTransfers = [
     "destination": "San José State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 16.9,
+      "pointsPerGame": 9.9,
+      "reboundsPerGame": 2.2,
+      "assistsPerGame": 1.8,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 42.3,
+      "threePointPercentage": 32.7,
+      "freeThrowPercentage": 81.5
+    },
     "transferHistory": [
       {
         "recordId": "2877",
@@ -4828,7 +6495,17 @@ const basketballTransfers = [
     "destination": "BYU",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 27.1,
+      "pointsPerGame": 9.7,
+      "reboundsPerGame": 2.8,
+      "assistsPerGame": 2.2,
+      "stealsPerGame": 1.2,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 43.5,
+      "threePointPercentage": 41,
+      "freeThrowPercentage": 83.3
+    },
     "transferHistory": [
       {
         "recordId": "2498",
@@ -4848,7 +6525,17 @@ const basketballTransfers = [
     "destination": "Tulane",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 23.6,
+      "pointsPerGame": 7.2,
+      "reboundsPerGame": 5.3,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.9,
+      "fieldGoalPercentage": 43.6,
+      "threePointPercentage": 37.8,
+      "freeThrowPercentage": 70.6
+    },
     "transferHistory": [
       {
         "recordId": "3345",
@@ -4868,7 +6555,17 @@ const basketballTransfers = [
     "destination": "Florida Atlantic",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 30.1,
+      "pointsPerGame": 10.5,
+      "reboundsPerGame": 4.0,
+      "assistsPerGame": 1.4,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.5,
+      "fieldGoalPercentage": 54.2,
+      "threePointPercentage": 23.1,
+      "freeThrowPercentage": 72.4
+    },
     "transferHistory": [
       {
         "recordId": "3263",
@@ -4908,7 +6605,17 @@ const basketballTransfers = [
     "destination": "Baylor",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 28.9,
+      "pointsPerGame": 8.8,
+      "reboundsPerGame": 8.8,
+      "assistsPerGame": 1.1,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.8,
+      "fieldGoalPercentage": 43.3,
+      "threePointPercentage": 27.5,
+      "freeThrowPercentage": 68.6
+    },
     "transferHistory": [
       {
         "recordId": "3430",
@@ -4928,7 +6635,17 @@ const basketballTransfers = [
     "destination": "Utah",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 12.9,
+      "pointsPerGame": 4.3,
+      "reboundsPerGame": 1.1,
+      "assistsPerGame": 0.9,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 46,
+      "threePointPercentage": 47.1,
+      "freeThrowPercentage": 85
+    },
     "transferHistory": [
       {
         "recordId": "195634",
@@ -4968,7 +6685,17 @@ const basketballTransfers = [
     "destination": "North Texas",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 27.1,
+      "pointsPerGame": 10.5,
+      "reboundsPerGame": 2.6,
+      "assistsPerGame": 3.5,
+      "stealsPerGame": 1.2,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 38.5,
+      "threePointPercentage": 28,
+      "freeThrowPercentage": 78.6
+    },
     "transferHistory": [
       {
         "recordId": "3370",
@@ -5028,7 +6755,17 @@ const basketballTransfers = [
     "destination": "McNeese",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 13.1,
+      "pointsPerGame": 2.6,
+      "reboundsPerGame": 3.8,
+      "assistsPerGame": 0.6,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.7,
+      "fieldGoalPercentage": 59.4,
+      "threePointPercentage": 100,
+      "freeThrowPercentage": 48.1
+    },
     "transferHistory": [
       {
         "recordId": "2579",
@@ -5048,7 +6785,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 20.0,
+      "pointsPerGame": 4.9,
+      "reboundsPerGame": 5.1,
+      "assistsPerGame": 1.0,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.7,
+      "fieldGoalPercentage": 62,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 50
+    },
     "transferHistory": [
       {
         "recordId": "8750",
@@ -5068,7 +6815,17 @@ const basketballTransfers = [
     "destination": "Xavier",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 26.4,
+      "pointsPerGame": 11.4,
+      "reboundsPerGame": 7.7,
+      "assistsPerGame": 1.8,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.7,
+      "fieldGoalPercentage": 54.3,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 39.6
+    },
     "transferHistory": [
       {
         "recordId": "383457",
@@ -5097,7 +6854,7 @@ const basketballTransfers = [
       "blocksPerGame": 0.6,
       "fieldGoalPercentage": 38.7,
       "threePointPercentage": 32.3,
-      "freeThrowPercentage": 60
+      "freeThrowPercentage": 60.0
     },
     "transferHistory": [
       {
@@ -5138,7 +6895,17 @@ const basketballTransfers = [
     "destination": "Sacramento State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 10.0,
+      "pointsPerGame": 2.1,
+      "reboundsPerGame": 1.9,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 38.9,
+      "threePointPercentage": 20,
+      "freeThrowPercentage": 68.2
+    },
     "transferHistory": [
       {
         "recordId": "311057",
@@ -5158,7 +6925,17 @@ const basketballTransfers = [
     "destination": "Ole Miss",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 12.4,
+      "pointsPerGame": 4.5,
+      "reboundsPerGame": 2.6,
+      "assistsPerGame": 0.3,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.8,
+      "fieldGoalPercentage": 53.2,
+      "threePointPercentage": 23.1,
+      "freeThrowPercentage": 55.8
+    },
     "transferHistory": [
       {
         "recordId": "84305",
@@ -5216,7 +6993,7 @@ const basketballTransfers = [
       "stealsPerGame": 2.0,
       "blocksPerGame": 0.1,
       "fieldGoalPercentage": 43.7,
-      "threePointPercentage": 22,
+      "threePointPercentage": 22.0,
       "freeThrowPercentage": 74.6
     },
     "transferHistory": [
@@ -5258,7 +7035,17 @@ const basketballTransfers = [
     "destination": "North Alabama",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 17.0,
+      "pointsPerGame": 7.2,
+      "reboundsPerGame": 2.0,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 48.6,
+      "threePointPercentage": 23.1,
+      "freeThrowPercentage": 73.1
+    },
     "transferHistory": [
       {
         "recordId": "3395",
@@ -5278,7 +7065,17 @@ const basketballTransfers = [
     "destination": "LSU",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 28.6,
+      "pointsPerGame": 11.5,
+      "reboundsPerGame": 2.3,
+      "assistsPerGame": 2.0,
+      "stealsPerGame": 1.2,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 46.9,
+      "threePointPercentage": 42.7,
+      "freeThrowPercentage": 82.1
+    },
     "transferHistory": [
       {
         "recordId": "2488",
@@ -5298,7 +7095,17 @@ const basketballTransfers = [
     "destination": "William & Mary",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 9.3,
+      "pointsPerGame": 3.1,
+      "reboundsPerGame": 1.1,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 41,
+      "threePointPercentage": 36.8,
+      "freeThrowPercentage": 72.7
+    },
     "transferHistory": [
       {
         "recordId": "882372",
@@ -5318,7 +7125,17 @@ const basketballTransfers = [
     "destination": "Barry University",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 10.3,
+      "pointsPerGame": 1.8,
+      "reboundsPerGame": 0.6,
+      "assistsPerGame": 0.3,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 40.5,
+      "threePointPercentage": 40.6,
+      "freeThrowPercentage": 55.6
+    },
     "transferHistory": [
       {
         "recordId": "2493",
@@ -5338,7 +7155,17 @@ const basketballTransfers = [
     "destination": "IU Indianapolis",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 13.3,
+      "pointsPerGame": 3.4,
+      "reboundsPerGame": 1.6,
+      "assistsPerGame": 1.4,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 39.5,
+      "threePointPercentage": 17.2,
+      "freeThrowPercentage": 58.3
+    },
     "transferHistory": [
       {
         "recordId": "3463",
@@ -5358,7 +7185,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 27.6,
+      "pointsPerGame": 13.3,
+      "reboundsPerGame": 2.4,
+      "assistsPerGame": 1.9,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 42.6,
+      "threePointPercentage": 30,
+      "freeThrowPercentage": 87.2
+    },
     "transferHistory": [
       {
         "recordId": "52307",
@@ -5398,7 +7235,17 @@ const basketballTransfers = [
     "destination": "Massachusetts",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 18.3,
+      "pointsPerGame": 3.9,
+      "reboundsPerGame": 1.7,
+      "assistsPerGame": 1.4,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 41.2,
+      "threePointPercentage": 41,
+      "freeThrowPercentage": 53.3
+    },
     "transferHistory": [
       {
         "recordId": "2900",
@@ -5438,7 +7285,17 @@ const basketballTransfers = [
     "destination": "SIU Edwardsville",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 29.0,
+      "pointsPerGame": 9.8,
+      "reboundsPerGame": 2.7,
+      "assistsPerGame": 3.9,
+      "stealsPerGame": 1.7,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 42.3,
+      "threePointPercentage": 26.8,
+      "freeThrowPercentage": 59.8
+    },
     "transferHistory": [
       {
         "recordId": "2757",
@@ -5478,7 +7335,17 @@ const basketballTransfers = [
     "destination": "Cal State Bakersfield",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 21.3,
+      "pointsPerGame": 10.1,
+      "reboundsPerGame": 4.8,
+      "assistsPerGame": 2.4,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.5,
+      "fieldGoalPercentage": 46.2,
+      "threePointPercentage": 15.8,
+      "freeThrowPercentage": 59.5
+    },
     "transferHistory": [
       {
         "recordId": "26418",
@@ -5518,7 +7385,17 @@ const basketballTransfers = [
     "destination": "UTSA",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 19.1,
+      "pointsPerGame": 6.4,
+      "reboundsPerGame": 3.8,
+      "assistsPerGame": 0.8,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 49.4,
+      "threePointPercentage": 8,
+      "freeThrowPercentage": 57.1
+    },
     "transferHistory": [
       {
         "recordId": "2511",
@@ -5538,7 +7415,17 @@ const basketballTransfers = [
     "destination": "Youngstown State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 13.9,
+      "pointsPerGame": 4.4,
+      "reboundsPerGame": 1.9,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 40.9,
+      "threePointPercentage": 34,
+      "freeThrowPercentage": 64.7
+    },
     "transferHistory": [
       {
         "recordId": "506956",
@@ -5558,7 +7445,17 @@ const basketballTransfers = [
     "destination": "Iowa",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 22.8,
+      "pointsPerGame": 10.0,
+      "reboundsPerGame": 2.6,
+      "assistsPerGame": 1.8,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 50.4,
+      "threePointPercentage": 41.6,
+      "freeThrowPercentage": 70.2
+    },
     "transferHistory": [
       {
         "recordId": "2509",
@@ -5578,7 +7475,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 20.9,
+      "pointsPerGame": 7.8,
+      "reboundsPerGame": 4.2,
+      "assistsPerGame": 4.7,
+      "stealsPerGame": 2.4,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 38.2,
+      "threePointPercentage": 25,
+      "freeThrowPercentage": 66.7
+    },
     "transferHistory": [
       {
         "recordId": "3206",
@@ -5618,7 +7525,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 30.7,
+      "pointsPerGame": 11.6,
+      "reboundsPerGame": 3.4,
+      "assistsPerGame": 4.6,
+      "stealsPerGame": 1.9,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 45.9,
+      "threePointPercentage": 29.8,
+      "freeThrowPercentage": 71.3
+    },
     "transferHistory": [
       {
         "recordId": "3169",
@@ -5638,7 +7555,17 @@ const basketballTransfers = [
     "destination": "Cincinnati",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 30.8,
+      "pointsPerGame": 17.5,
+      "reboundsPerGame": 2.5,
+      "assistsPerGame": 1.6,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 48.7,
+      "threePointPercentage": 36.1,
+      "freeThrowPercentage": 81
+    },
     "transferHistory": [
       {
         "recordId": "2497",
@@ -5658,7 +7585,17 @@ const basketballTransfers = [
     "destination": "Florida International",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 25.1,
+      "pointsPerGame": 5.0,
+      "reboundsPerGame": 7.3,
+      "assistsPerGame": 1.3,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 2.5,
+      "fieldGoalPercentage": 50.4,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 56.4
+    },
     "transferHistory": [
       {
         "recordId": "2916",
@@ -5678,7 +7615,17 @@ const basketballTransfers = [
     "destination": "Cincinnati",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 27.2,
+      "pointsPerGame": 11.6,
+      "reboundsPerGame": 4.4,
+      "assistsPerGame": 1.4,
+      "stealsPerGame": 1.2,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 40.3,
+      "threePointPercentage": 36,
+      "freeThrowPercentage": 87
+    },
     "transferHistory": [
       {
         "recordId": "2778",
@@ -5698,7 +7645,17 @@ const basketballTransfers = [
     "destination": "Oregon",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 13.8,
+      "pointsPerGame": 7.5,
+      "reboundsPerGame": 2.8,
+      "assistsPerGame": 0.3,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.9,
+      "fieldGoalPercentage": 72.1,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 62.5
+    },
     "transferHistory": [
       {
         "recordId": "2612",
@@ -5718,7 +7675,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 21.3,
+      "pointsPerGame": 9.5,
+      "reboundsPerGame": 2.8,
+      "assistsPerGame": 3.3,
+      "stealsPerGame": 1.1,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 56.1,
+      "threePointPercentage": 29,
+      "freeThrowPercentage": 73.7
+    },
     "transferHistory": [
       {
         "recordId": "140975",
@@ -5738,7 +7705,17 @@ const basketballTransfers = [
     "destination": "San José State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 20.8,
+      "pointsPerGame": 7.6,
+      "reboundsPerGame": 4.2,
+      "assistsPerGame": 1.5,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.8,
+      "fieldGoalPercentage": 44.4,
+      "threePointPercentage": 39.7,
+      "freeThrowPercentage": 71.4
+    },
     "transferHistory": [
       {
         "recordId": "3090",
@@ -5758,7 +7735,17 @@ const basketballTransfers = [
     "destination": "Campbellsville",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 15.9,
+      "pointsPerGame": 4.2,
+      "reboundsPerGame": 1.6,
+      "assistsPerGame": 1.3,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 39.3,
+      "threePointPercentage": 16.7,
+      "freeThrowPercentage": 84.6
+    },
     "transferHistory": [
       {
         "recordId": "2852",
@@ -5798,7 +7785,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 7.3,
+      "pointsPerGame": 1.0,
+      "reboundsPerGame": 1.5,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 37.5,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 71.4
+    },
     "transferHistory": [
       {
         "recordId": "2762",
@@ -5818,7 +7815,17 @@ const basketballTransfers = [
     "destination": "East Tennessee State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 30.0,
+      "pointsPerGame": 11.5,
+      "reboundsPerGame": 2.6,
+      "assistsPerGame": 1.0,
+      "stealsPerGame": 1.1,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 41.4,
+      "threePointPercentage": 34,
+      "freeThrowPercentage": 67.6
+    },
     "transferHistory": [
       {
         "recordId": "3286",
@@ -5838,7 +7845,17 @@ const basketballTransfers = [
     "destination": "East Carolina",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 25.9,
+      "pointsPerGame": 9.7,
+      "reboundsPerGame": 7.8,
+      "assistsPerGame": 1.1,
+      "stealsPerGame": 1.5,
+      "blocksPerGame": 0.6,
+      "fieldGoalPercentage": 47.1,
+      "threePointPercentage": 29.2,
+      "freeThrowPercentage": 67.6
+    },
     "transferHistory": [
       {
         "recordId": "3324",
@@ -5858,7 +7875,17 @@ const basketballTransfers = [
     "destination": "California",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 26.5,
+      "pointsPerGame": 13.4,
+      "reboundsPerGame": 2.7,
+      "assistsPerGame": 2.2,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 44.3,
+      "threePointPercentage": 35.6,
+      "freeThrowPercentage": 80.5
+    },
     "transferHistory": [
       {
         "recordId": "3161",
@@ -5878,7 +7905,17 @@ const basketballTransfers = [
     "destination": "UC Irvine",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 24.7,
+      "pointsPerGame": 12.3,
+      "reboundsPerGame": 4.6,
+      "assistsPerGame": 1.9,
+      "stealsPerGame": 1.5,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 54.9,
+      "threePointPercentage": 23.8,
+      "freeThrowPercentage": 73.7
+    },
     "transferHistory": [
       {
         "recordId": "3147",
@@ -5898,7 +7935,17 @@ const basketballTransfers = [
     "destination": "Virginia Tech",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 32.1,
+      "pointsPerGame": 15.0,
+      "reboundsPerGame": 3.7,
+      "assistsPerGame": 2.1,
+      "stealsPerGame": 1.5,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 44.1,
+      "threePointPercentage": 42.9,
+      "freeThrowPercentage": 79.4
+    },
     "transferHistory": [
       {
         "recordId": "3437",
@@ -5918,7 +7965,17 @@ const basketballTransfers = [
     "destination": "Miami (OH)",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 18.7,
+      "pointsPerGame": 4.6,
+      "reboundsPerGame": 4.4,
+      "assistsPerGame": 0.3,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.7,
+      "fieldGoalPercentage": 62.5,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 33.3
+    },
     "transferHistory": [
       {
         "recordId": "2799",
@@ -5938,7 +7995,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 33.8,
+      "pointsPerGame": 13.5,
+      "reboundsPerGame": 6.8,
+      "assistsPerGame": 1.9,
+      "stealsPerGame": 1.0,
+      "blocksPerGame": 0.5,
+      "fieldGoalPercentage": 53.1,
+      "threePointPercentage": 36.8,
+      "freeThrowPercentage": 69.2
+    },
     "transferHistory": [
       {
         "recordId": "3776598",
@@ -5958,7 +8025,17 @@ const basketballTransfers = [
     "destination": "The Citadel",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 9.3,
+      "pointsPerGame": 2.0,
+      "reboundsPerGame": 0.7,
+      "assistsPerGame": 0.3,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 32.8,
+      "threePointPercentage": 33.3,
+      "freeThrowPercentage": 83.3
+    },
     "transferHistory": [
       {
         "recordId": "3417",
@@ -5978,7 +8055,17 @@ const basketballTransfers = [
     "destination": "DePaul",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 27.1,
+      "pointsPerGame": 13.9,
+      "reboundsPerGame": 5.3,
+      "assistsPerGame": 2.5,
+      "stealsPerGame": 1.0,
+      "blocksPerGame": 1.2,
+      "fieldGoalPercentage": 47.4,
+      "threePointPercentage": 40.3,
+      "freeThrowPercentage": 78.1
+    },
     "transferHistory": [
       {
         "recordId": "2820",
@@ -5998,7 +8085,17 @@ const basketballTransfers = [
     "destination": "UL Monroe",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 6.3,
+      "pointsPerGame": 1.3,
+      "reboundsPerGame": 0.4,
+      "assistsPerGame": 0.1,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 25,
+      "threePointPercentage": 15.4,
+      "freeThrowPercentage": 50
+    },
     "transferHistory": [
       {
         "recordId": "882377",
@@ -6018,7 +8115,17 @@ const basketballTransfers = [
     "destination": "USC",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 34.2,
+      "pointsPerGame": 17.9,
+      "reboundsPerGame": 5.2,
+      "assistsPerGame": 5.3,
+      "stealsPerGame": 1.7,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 52.1,
+      "threePointPercentage": 36.5,
+      "freeThrowPercentage": 85
+    },
     "transferHistory": [
       {
         "recordId": "3199",
@@ -6038,7 +8145,17 @@ const basketballTransfers = [
     "destination": "Bowling Green",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 25.9,
+      "pointsPerGame": 12.1,
+      "reboundsPerGame": 2.5,
+      "assistsPerGame": 1.6,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 40.7,
+      "threePointPercentage": 36.3,
+      "freeThrowPercentage": 79.6
+    },
     "transferHistory": [
       {
         "recordId": "3223",
@@ -6065,9 +8182,9 @@ const basketballTransfers = [
       "assistsPerGame": 0.3,
       "stealsPerGame": 0.3,
       "blocksPerGame": 0.1,
-      "fieldGoalPercentage": 50,
-      "threePointPercentage": 60,
-      "freeThrowPercentage": 50
+      "fieldGoalPercentage": 50.0,
+      "threePointPercentage": 60.0,
+      "freeThrowPercentage": 50.0
     },
     "transferHistory": [
       {
@@ -6108,7 +8225,17 @@ const basketballTransfers = [
     "destination": "Missouri",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 31.2,
+      "pointsPerGame": 14.4,
+      "reboundsPerGame": 2.9,
+      "assistsPerGame": 1.4,
+      "stealsPerGame": 1.2,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 41.4,
+      "threePointPercentage": 36.8,
+      "freeThrowPercentage": 74.5
+    },
     "transferHistory": [
       {
         "recordId": "3136",
@@ -6125,15 +8252,25 @@ const basketballTransfers = [
     "sport": "basketball",
     "position": "PF",
     "previousSchool": "Lander",
-    "destination": "",
+    "destination": "UTRGV",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 18.9,
+      "pointsPerGame": 8.1,
+      "reboundsPerGame": 4.0,
+      "assistsPerGame": 0.4,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 1.4,
+      "fieldGoalPercentage": 65.2,
+      "threePointPercentage": 0.0,
+      "freeThrowPercentage": 53.7
+    },
     "transferHistory": [
       {
         "recordId": "315150",
         "previousSchool": "Lander",
-        "destination": "",
+        "destination": "UTRGV",
         "season": "2026"
       }
     ],
@@ -6148,7 +8285,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 20.7,
+      "pointsPerGame": 8.4,
+      "reboundsPerGame": 3.7,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 46,
+      "threePointPercentage": 43.4,
+      "freeThrowPercentage": 81.4
+    },
     "transferHistory": [
       {
         "recordId": "83137",
@@ -6168,7 +8315,17 @@ const basketballTransfers = [
     "destination": "Omaha",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 9.4,
+      "pointsPerGame": 2.7,
+      "reboundsPerGame": 1.0,
+      "assistsPerGame": 0.3,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 34.1,
+      "threePointPercentage": 34.2,
+      "freeThrowPercentage": 62.5
+    },
     "transferHistory": [
       {
         "recordId": "2552",
@@ -6188,7 +8345,17 @@ const basketballTransfers = [
     "destination": "Coastal Carolina",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 5.1,
+      "pointsPerGame": 1.8,
+      "reboundsPerGame": 1.0,
+      "assistsPerGame": 0.4,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 42.1,
+      "threePointPercentage": 60,
+      "freeThrowPercentage": 71.4
+    },
     "transferHistory": [
       {
         "recordId": "3107",
@@ -6208,7 +8375,17 @@ const basketballTransfers = [
     "destination": "St. John's",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 16.5,
+      "pointsPerGame": 7.3,
+      "reboundsPerGame": 1.8,
+      "assistsPerGame": 0.4,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 39,
+      "threePointPercentage": 33.6,
+      "freeThrowPercentage": 75
+    },
     "transferHistory": [
       {
         "recordId": "1206138",
@@ -6228,7 +8405,17 @@ const basketballTransfers = [
     "destination": "Memphis",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 26.3,
+      "pointsPerGame": 12.5,
+      "reboundsPerGame": 1.5,
+      "assistsPerGame": 2.1,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 42.4,
+      "threePointPercentage": 32.6,
+      "freeThrowPercentage": 71.8
+    },
     "transferHistory": [
       {
         "recordId": "3149",
@@ -6248,7 +8435,17 @@ const basketballTransfers = [
     "destination": "Jacksonville State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 13.4,
+      "pointsPerGame": 5.0,
+      "reboundsPerGame": 1.1,
+      "assistsPerGame": 0.8,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 33.7,
+      "threePointPercentage": 23.4,
+      "freeThrowPercentage": 80.6
+    },
     "transferHistory": [
       {
         "recordId": "3131",
@@ -6268,7 +8465,17 @@ const basketballTransfers = [
     "destination": "Chicago",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 12.2,
+      "pointsPerGame": 1.7,
+      "reboundsPerGame": 1.2,
+      "assistsPerGame": 1.1,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 37.8,
+      "threePointPercentage": 25.9,
+      "freeThrowPercentage": 73.7
+    },
     "transferHistory": [
       {
         "recordId": "2964",
@@ -6288,7 +8495,17 @@ const basketballTransfers = [
     "destination": "Virginia Tech",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 23.8,
+      "pointsPerGame": 10.1,
+      "reboundsPerGame": 3.2,
+      "assistsPerGame": 3.5,
+      "stealsPerGame": 1.2,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 41.8,
+      "threePointPercentage": 31.6,
+      "freeThrowPercentage": 80.6
+    },
     "transferHistory": [
       {
         "recordId": "2643",
@@ -6308,7 +8525,17 @@ const basketballTransfers = [
     "destination": "IU Indianapolis",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 25.1,
+      "pointsPerGame": 12.8,
+      "reboundsPerGame": 4.3,
+      "assistsPerGame": 1.5,
+      "stealsPerGame": 1.4,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 42.2,
+      "threePointPercentage": 26.9,
+      "freeThrowPercentage": 80.2
+    },
     "transferHistory": [
       {
         "recordId": "2901",
@@ -6328,7 +8555,17 @@ const basketballTransfers = [
     "destination": "James Madison",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 16.8,
+      "pointsPerGame": 6.2,
+      "reboundsPerGame": 3.6,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 35.4,
+      "threePointPercentage": 30.7,
+      "freeThrowPercentage": 66.1
+    },
     "transferHistory": [
       {
         "recordId": "345240",
@@ -6348,7 +8585,17 @@ const basketballTransfers = [
     "destination": "Wyoming",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 12.0,
+      "pointsPerGame": 8.3,
+      "reboundsPerGame": 2.3,
+      "assistsPerGame": 0.3,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 1.7,
+      "fieldGoalPercentage": 57.9,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 75
+    },
     "transferHistory": [
       {
         "recordId": "345244",
@@ -6368,7 +8615,17 @@ const basketballTransfers = [
     "destination": "Miami",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 21.1,
+      "pointsPerGame": 9.3,
+      "reboundsPerGame": 5.4,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 2.2,
+      "fieldGoalPercentage": 75.5,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 57.8
+    },
     "transferHistory": [
       {
         "recordId": "3121",
@@ -6388,7 +8645,17 @@ const basketballTransfers = [
     "destination": "Vanderbilt",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 25.7,
+      "pointsPerGame": 11.5,
+      "reboundsPerGame": 6.5,
+      "assistsPerGame": 1.4,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 1.6,
+      "fieldGoalPercentage": 49.2,
+      "threePointPercentage": 25.9,
+      "freeThrowPercentage": 73.6
+    },
     "transferHistory": [
       {
         "recordId": "3197",
@@ -6408,7 +8675,17 @@ const basketballTransfers = [
     "destination": "Elon",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 12.9,
+      "pointsPerGame": 3.6,
+      "reboundsPerGame": 2.6,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 45.1,
+      "threePointPercentage": 33.3,
+      "freeThrowPercentage": 72.2
+    },
     "transferHistory": [
       {
         "recordId": "193748",
@@ -6428,7 +8705,17 @@ const basketballTransfers = [
     "destination": "Hawai'i",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 15.0,
+      "pointsPerGame": 5.7,
+      "reboundsPerGame": 2.5,
+      "assistsPerGame": 0.3,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 58.8,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 64.5
+    },
     "transferHistory": [
       {
         "recordId": "219163",
@@ -6498,7 +8785,17 @@ const basketballTransfers = [
     "destination": "Rice",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 10.0,
+      "pointsPerGame": 3.2,
+      "reboundsPerGame": 1.9,
+      "assistsPerGame": 0.3,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 48.7,
+      "threePointPercentage": 19,
+      "freeThrowPercentage": 76.9
+    },
     "transferHistory": [
       {
         "recordId": "78499",
@@ -6538,7 +8835,17 @@ const basketballTransfers = [
     "destination": "Grand Canyon",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 21.2,
+      "pointsPerGame": 6.9,
+      "reboundsPerGame": 2.5,
+      "assistsPerGame": 2.6,
+      "stealsPerGame": 1.4,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 39.8,
+      "threePointPercentage": 27.7,
+      "freeThrowPercentage": 71.8
+    },
     "transferHistory": [
       {
         "recordId": "111539",
@@ -6558,7 +8865,17 @@ const basketballTransfers = [
     "destination": "Sacramento State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 7.0,
+      "pointsPerGame": 1.0,
+      "reboundsPerGame": 2.5,
+      "assistsPerGame": 0.0,
+      "stealsPerGame": 0.0,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 20,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 0
+    },
     "transferHistory": [
       {
         "recordId": "2479",
@@ -6578,7 +8895,17 @@ const basketballTransfers = [
     "destination": "Northern Illinois",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 10.6,
+      "pointsPerGame": 2.9,
+      "reboundsPerGame": 1.6,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 23.5,
+      "threePointPercentage": 24.7,
+      "freeThrowPercentage": 81.3
+    },
     "transferHistory": [
       {
         "recordId": "8835",
@@ -6598,7 +8925,17 @@ const basketballTransfers = [
     "destination": "Stony Brook",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 15.7,
+      "pointsPerGame": 8.9,
+      "reboundsPerGame": 3.0,
+      "assistsPerGame": 0.6,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 52,
+      "threePointPercentage": 45.3,
+      "freeThrowPercentage": 59.7
+    },
     "transferHistory": [
       {
         "recordId": "2456",
@@ -6618,7 +8955,17 @@ const basketballTransfers = [
     "destination": "Hawai'i",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 23.6,
+      "pointsPerGame": 14.0,
+      "reboundsPerGame": 4.8,
+      "assistsPerGame": 0.8,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 61.7,
+      "threePointPercentage": 25,
+      "freeThrowPercentage": 46.3
+    },
     "transferHistory": [
       {
         "recordId": "3252",
@@ -6638,7 +8985,17 @@ const basketballTransfers = [
     "destination": "Creighton",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 22.2,
+      "pointsPerGame": 10.8,
+      "reboundsPerGame": 3.2,
+      "assistsPerGame": 2.2,
+      "stealsPerGame": 2.2,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 43.4,
+      "threePointPercentage": 37.4,
+      "freeThrowPercentage": 85.3
+    },
     "transferHistory": [
       {
         "recordId": "3300",
@@ -6658,7 +9015,17 @@ const basketballTransfers = [
     "destination": "Texas Tech",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 37.9,
+      "pointsPerGame": 20.1,
+      "reboundsPerGame": 3.7,
+      "assistsPerGame": 4.6,
+      "stealsPerGame": 1.1,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 44,
+      "threePointPercentage": 40,
+      "freeThrowPercentage": 83
+    },
     "transferHistory": [
       {
         "recordId": "79656",
@@ -6678,7 +9045,17 @@ const basketballTransfers = [
     "destination": "Long Island University",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 9.3,
+      "pointsPerGame": 0.7,
+      "reboundsPerGame": 0.3,
+      "assistsPerGame": 1.0,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 25,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 0
+    },
     "transferHistory": [
       {
         "recordId": "3446",
@@ -6698,7 +9075,17 @@ const basketballTransfers = [
     "destination": "Bethune-Cookman",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 29.4,
+      "pointsPerGame": 14.9,
+      "reboundsPerGame": 5.2,
+      "assistsPerGame": 0.8,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 43.8,
+      "threePointPercentage": 32.2,
+      "freeThrowPercentage": 82.6
+    },
     "transferHistory": [
       {
         "recordId": "136099",
@@ -6718,7 +9105,17 @@ const basketballTransfers = [
     "destination": "Winthrop",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 25.4,
+      "pointsPerGame": 9.4,
+      "reboundsPerGame": 2.1,
+      "assistsPerGame": 2.9,
+      "stealsPerGame": 1.2,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 40.2,
+      "threePointPercentage": 31.3,
+      "freeThrowPercentage": 70
+    },
     "transferHistory": [
       {
         "recordId": "198230",
@@ -6758,7 +9155,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 29.7,
+      "pointsPerGame": 13.0,
+      "reboundsPerGame": 5.6,
+      "assistsPerGame": 2.3,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 49.6,
+      "threePointPercentage": 21.1,
+      "freeThrowPercentage": 70.9
+    },
     "transferHistory": [
       {
         "recordId": "3980685",
@@ -6778,7 +9185,17 @@ const basketballTransfers = [
     "destination": "Samford",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 11.3,
+      "pointsPerGame": 1.3,
+      "reboundsPerGame": 1.6,
+      "assistsPerGame": 1.2,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 31.6,
+      "threePointPercentage": 23.8,
+      "freeThrowPercentage": 78.9
+    },
     "transferHistory": [
       {
         "recordId": "2880",
@@ -6798,7 +9215,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 21.0,
+      "pointsPerGame": 7.2,
+      "reboundsPerGame": 4.2,
+      "assistsPerGame": 1.1,
+      "stealsPerGame": 1.1,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 41.5,
+      "threePointPercentage": 27.8,
+      "freeThrowPercentage": 75.5
+    },
     "transferHistory": [
       {
         "recordId": "3882794",
@@ -6818,7 +9245,17 @@ const basketballTransfers = [
     "destination": "Alabama",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 20.2,
+      "pointsPerGame": 3.7,
+      "reboundsPerGame": 4.8,
+      "assistsPerGame": 0.7,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 1.2,
+      "fieldGoalPercentage": 67.6,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 33.9
+    },
     "transferHistory": [
       {
         "recordId": "3301",
@@ -6838,7 +9275,17 @@ const basketballTransfers = [
     "destination": "South Florida",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 18.3,
+      "pointsPerGame": 7.6,
+      "reboundsPerGame": 2.7,
+      "assistsPerGame": 0.6,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 40.9,
+      "threePointPercentage": 38.8,
+      "freeThrowPercentage": 68.4
+    },
     "transferHistory": [
       {
         "recordId": "8621",
@@ -6858,7 +9305,17 @@ const basketballTransfers = [
     "destination": "Missouri",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 29.4,
+      "pointsPerGame": 8.5,
+      "reboundsPerGame": 2.7,
+      "assistsPerGame": 1.3,
+      "stealsPerGame": 1.1,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 39.7,
+      "threePointPercentage": 32.1,
+      "freeThrowPercentage": 75
+    },
     "transferHistory": [
       {
         "recordId": "2471",
@@ -6878,7 +9335,17 @@ const basketballTransfers = [
     "destination": "Northern Kentucky",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 7.1,
+      "pointsPerGame": 1.3,
+      "reboundsPerGame": 0.7,
+      "assistsPerGame": 0.4,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 35.6,
+      "threePointPercentage": 21.7,
+      "freeThrowPercentage": 75.0
+    },
     "transferHistory": [
       {
         "recordId": "108004",
@@ -6898,7 +9365,17 @@ const basketballTransfers = [
     "destination": "Kansas",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 30.7,
+      "pointsPerGame": 12.5,
+      "reboundsPerGame": 8.8,
+      "assistsPerGame": 2.2,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 54.6,
+      "threePointPercentage": 31.7,
+      "freeThrowPercentage": 72.4
+    },
     "transferHistory": [
       {
         "recordId": "3198",
@@ -6918,7 +9395,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 9.6,
+      "pointsPerGame": 2.1,
+      "reboundsPerGame": 0.6,
+      "assistsPerGame": 0.6,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 31.5,
+      "threePointPercentage": 27.9,
+      "freeThrowPercentage": 100
+    },
     "transferHistory": [
       {
         "recordId": "2435",
@@ -6968,7 +9455,17 @@ const basketballTransfers = [
     "destination": "UCF",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 17.3,
+      "pointsPerGame": 10.3,
+      "reboundsPerGame": 3.7,
+      "assistsPerGame": 3.0,
+      "stealsPerGame": 1.3,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 52.6,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 68.8
+    },
     "transferHistory": [
       {
         "recordId": "3450",
@@ -6988,7 +9485,17 @@ const basketballTransfers = [
     "destination": "McNeese",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 2.5,
+      "pointsPerGame": 0.9,
+      "reboundsPerGame": 0.4,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 80,
+      "threePointPercentage": 50,
+      "freeThrowPercentage": 0
+    },
     "transferHistory": [
       {
         "recordId": "2631",
@@ -7008,7 +9515,17 @@ const basketballTransfers = [
     "destination": "Baylor",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 33.6,
+      "pointsPerGame": 16.9,
+      "reboundsPerGame": 2.6,
+      "assistsPerGame": 1.1,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 49.9,
+      "threePointPercentage": 47.1,
+      "freeThrowPercentage": 84.8
+    },
     "transferHistory": [
       {
         "recordId": "3178",
@@ -7028,7 +9545,17 @@ const basketballTransfers = [
     "destination": "Arizona State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 29.5,
+      "pointsPerGame": 15.1,
+      "reboundsPerGame": 6.8,
+      "assistsPerGame": 1.9,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 1.7,
+      "fieldGoalPercentage": 69.4,
+      "threePointPercentage": 0.0,
+      "freeThrowPercentage": 67.1
+    },
     "transferHistory": [
       {
         "recordId": "3406",
@@ -7048,7 +9575,17 @@ const basketballTransfers = [
     "destination": "Nebraska",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 19.4,
+      "pointsPerGame": 5.5,
+      "reboundsPerGame": 2.8,
+      "assistsPerGame": 3.0,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 37.1,
+      "threePointPercentage": 34.5,
+      "freeThrowPercentage": 65.5
+    },
     "transferHistory": [
       {
         "recordId": "52305",
@@ -7068,7 +9605,17 @@ const basketballTransfers = [
     "destination": "Middle Tennessee",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 31.2,
+      "pointsPerGame": 11.8,
+      "reboundsPerGame": 2.2,
+      "assistsPerGame": 2.2,
+      "stealsPerGame": 1.5,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 41.3,
+      "threePointPercentage": 33.7,
+      "freeThrowPercentage": 79.2
+    },
     "transferHistory": [
       {
         "recordId": "771298",
@@ -7088,7 +9635,17 @@ const basketballTransfers = [
     "destination": "Washington State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 16.8,
+      "pointsPerGame": 4.3,
+      "reboundsPerGame": 3.5,
+      "assistsPerGame": 1.2,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.7,
+      "fieldGoalPercentage": 37,
+      "threePointPercentage": 28.6,
+      "freeThrowPercentage": 50
+    },
     "transferHistory": [
       {
         "recordId": "2584",
@@ -7128,7 +9685,17 @@ const basketballTransfers = [
     "destination": "Duquesne",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 9.0,
+      "pointsPerGame": 2.2,
+      "reboundsPerGame": 3.5,
+      "assistsPerGame": 0.3,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.5,
+      "fieldGoalPercentage": 44.4,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 28.6
+    },
     "transferHistory": [
       {
         "recordId": "2501",
@@ -7148,7 +9715,17 @@ const basketballTransfers = [
     "destination": "Memphis",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 12.6,
+      "pointsPerGame": 6.1,
+      "reboundsPerGame": 2.0,
+      "assistsPerGame": 0.4,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 34.8,
+      "threePointPercentage": 32.4,
+      "freeThrowPercentage": 85.7
+    },
     "transferHistory": [
       {
         "recordId": "172579",
@@ -7168,7 +9745,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 3.4,
+      "pointsPerGame": 1.9,
+      "reboundsPerGame": 0.6,
+      "assistsPerGame": 0.1,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 50,
+      "threePointPercentage": 50,
+      "freeThrowPercentage": 50
+    },
     "transferHistory": [
       {
         "recordId": "2958",
@@ -7188,7 +9775,17 @@ const basketballTransfers = [
     "destination": "Rhode Island",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 25.9,
+      "pointsPerGame": 12.5,
+      "reboundsPerGame": 5.2,
+      "assistsPerGame": 1.5,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.8,
+      "fieldGoalPercentage": 42.5,
+      "threePointPercentage": 33.6,
+      "freeThrowPercentage": 75.2
+    },
     "transferHistory": [
       {
         "recordId": "3470",
@@ -7208,7 +9805,17 @@ const basketballTransfers = [
     "destination": "Texas Tech",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 23.9,
+      "pointsPerGame": 11.2,
+      "reboundsPerGame": 3.2,
+      "assistsPerGame": 1.3,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 52,
+      "threePointPercentage": 34,
+      "freeThrowPercentage": 86.1
+    },
     "transferHistory": [
       {
         "recordId": "3315",
@@ -7228,7 +9835,17 @@ const basketballTransfers = [
     "destination": "LSU",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 34.4,
+      "pointsPerGame": 13.3,
+      "reboundsPerGame": 2.9,
+      "assistsPerGame": 7.5,
+      "stealsPerGame": 1.7,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 40.8,
+      "threePointPercentage": 25.4,
+      "freeThrowPercentage": 65.6
+    },
     "transferHistory": [
       {
         "recordId": "3776595",
@@ -7248,7 +9865,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 20.1,
+      "pointsPerGame": 8.2,
+      "reboundsPerGame": 1.7,
+      "assistsPerGame": 1.5,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 36.9,
+      "threePointPercentage": 37.7,
+      "freeThrowPercentage": 82.9
+    },
     "transferHistory": [
       {
         "recordId": "78623",
@@ -7268,7 +9895,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 26.7,
+      "pointsPerGame": 11.2,
+      "reboundsPerGame": 4.5,
+      "assistsPerGame": 0.9,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 43.9,
+      "threePointPercentage": 32.1,
+      "freeThrowPercentage": 74.7
+    },
     "transferHistory": [
       {
         "recordId": "3043",
@@ -7288,7 +9925,17 @@ const basketballTransfers = [
     "destination": "San Francisco",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 6.9,
+      "pointsPerGame": 1.1,
+      "reboundsPerGame": 2.4,
+      "assistsPerGame": 0.1,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.6,
+      "fieldGoalPercentage": 50,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 40
+    },
     "transferHistory": [
       {
         "recordId": "2594",
@@ -7308,7 +9955,17 @@ const basketballTransfers = [
     "destination": "Loyola Chicago",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 7.0,
+      "pointsPerGame": 0.0,
+      "reboundsPerGame": 1.0,
+      "assistsPerGame": 0.0,
+      "stealsPerGame": 0.0,
+      "blocksPerGame": 1.0,
+      "fieldGoalPercentage": 0,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 0
+    },
     "transferHistory": [
       {
         "recordId": "26422",
@@ -7348,7 +10005,17 @@ const basketballTransfers = [
     "destination": "Kentucky",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 29.6,
+      "pointsPerGame": 15.7,
+      "reboundsPerGame": 3.9,
+      "assistsPerGame": 4.5,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 48.9,
+      "threePointPercentage": 31.5,
+      "freeThrowPercentage": 82.5
+    },
     "transferHistory": [
       {
         "recordId": "2986",
@@ -7368,7 +10035,17 @@ const basketballTransfers = [
     "destination": "South Florida",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 2.5,
+      "pointsPerGame": 0.5,
+      "reboundsPerGame": 0.8,
+      "assistsPerGame": 0.0,
+      "stealsPerGame": 0.0,
+      "blocksPerGame": 0.5,
+      "fieldGoalPercentage": 100,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 0
+    },
     "transferHistory": [
       {
         "recordId": "2855",
@@ -7388,7 +10065,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 22.6,
+      "pointsPerGame": 6.2,
+      "reboundsPerGame": 2.0,
+      "assistsPerGame": 1.2,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 38.1,
+      "threePointPercentage": 37.6,
+      "freeThrowPercentage": 75
+    },
     "transferHistory": [
       {
         "recordId": "3334",
@@ -7408,7 +10095,17 @@ const basketballTransfers = [
     "destination": "UC Santa Barbara",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 29.0,
+      "pointsPerGame": 9.3,
+      "reboundsPerGame": 7.4,
+      "assistsPerGame": 1.4,
+      "stealsPerGame": 1.4,
+      "blocksPerGame": 1.5,
+      "fieldGoalPercentage": 52.4,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 52.1
+    },
     "transferHistory": [
       {
         "recordId": "3458",
@@ -7435,7 +10132,7 @@ const basketballTransfers = [
       "assistsPerGame": 1.1,
       "stealsPerGame": 0.8,
       "blocksPerGame": 0.9,
-      "fieldGoalPercentage": 50,
+      "fieldGoalPercentage": 50.0,
       "threePointPercentage": 44.4,
       "freeThrowPercentage": 61.1
     },
@@ -7458,7 +10155,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 18.2,
+      "pointsPerGame": 9.2,
+      "reboundsPerGame": 3.7,
+      "assistsPerGame": 0.3,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 52.8,
+      "threePointPercentage": 41.7,
+      "freeThrowPercentage": 60
+    },
     "transferHistory": [
       {
         "recordId": "3255",
@@ -7478,7 +10185,17 @@ const basketballTransfers = [
     "destination": "Troy",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 22.8,
+      "pointsPerGame": 10.0,
+      "reboundsPerGame": 3.8,
+      "assistsPerGame": 0.9,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 48.2,
+      "threePointPercentage": 35.6,
+      "freeThrowPercentage": 75.8
+    },
     "transferHistory": [
       {
         "recordId": "2553",
@@ -7538,7 +10255,17 @@ const basketballTransfers = [
     "destination": "Delaware",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 33.6,
+      "pointsPerGame": 12.1,
+      "reboundsPerGame": 1.6,
+      "assistsPerGame": 2.6,
+      "stealsPerGame": 1.1,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 36.5,
+      "threePointPercentage": 32.9,
+      "freeThrowPercentage": 88.5
+    },
     "transferHistory": [
       {
         "recordId": "3311",
@@ -7558,7 +10285,17 @@ const basketballTransfers = [
     "destination": "Pittsburgh",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 7.2,
+      "pointsPerGame": 1.9,
+      "reboundsPerGame": 1.2,
+      "assistsPerGame": 0.1,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 45.9,
+      "threePointPercentage": 12.5,
+      "freeThrowPercentage": 62.5
+    },
     "transferHistory": [
       {
         "recordId": "2537",
@@ -7608,7 +10345,17 @@ const basketballTransfers = [
     "destination": "Gonzaga",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 29.7,
+      "pointsPerGame": 13.6,
+      "reboundsPerGame": 5.8,
+      "assistsPerGame": 1.1,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 2.1,
+      "fieldGoalPercentage": 56.9,
+      "threePointPercentage": 30.8,
+      "freeThrowPercentage": 71.5
+    },
     "transferHistory": [
       {
         "recordId": "2500",
@@ -7628,7 +10375,17 @@ const basketballTransfers = [
     "destination": "Lindenwood",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 12.8,
+      "pointsPerGame": 2.8,
+      "reboundsPerGame": 2.8,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.6,
+      "fieldGoalPercentage": 48.6,
+      "threePointPercentage": 20,
+      "freeThrowPercentage": 42.9
+    },
     "transferHistory": [
       {
         "recordId": "8625",
@@ -7648,7 +10405,17 @@ const basketballTransfers = [
     "destination": "Cal State Bakersfield",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 15.5,
+      "pointsPerGame": 5.1,
+      "reboundsPerGame": 4.1,
+      "assistsPerGame": 0.7,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 50.5,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 66
+    },
     "transferHistory": [
       {
         "recordId": "2864",
@@ -7688,7 +10455,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 10.5,
+      "pointsPerGame": 3.0,
+      "reboundsPerGame": 1.2,
+      "assistsPerGame": 1.0,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 43.9,
+      "threePointPercentage": 25.5,
+      "freeThrowPercentage": 63.6
+    },
     "transferHistory": [
       {
         "recordId": "11024",
@@ -7708,7 +10485,17 @@ const basketballTransfers = [
     "destination": "Lindenwood",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 4.8,
+      "pointsPerGame": 1.1,
+      "reboundsPerGame": 1.3,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 26.1,
+      "threePointPercentage": 9.1,
+      "freeThrowPercentage": 85.7
+    },
     "transferHistory": [
       {
         "recordId": "2844",
@@ -7758,7 +10545,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 22.4,
+      "pointsPerGame": 8.2,
+      "reboundsPerGame": 5.5,
+      "assistsPerGame": 1.3,
+      "stealsPerGame": 1.1,
+      "blocksPerGame": 1.6,
+      "fieldGoalPercentage": 60.2,
+      "threePointPercentage": 20,
+      "freeThrowPercentage": 71.8
+    },
     "transferHistory": [
       {
         "recordId": "105560",
@@ -7778,7 +10575,17 @@ const basketballTransfers = [
     "destination": "Arizona",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 22.3,
+      "pointsPerGame": 6.5,
+      "reboundsPerGame": 2.3,
+      "assistsPerGame": 2.7,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 36.2,
+      "threePointPercentage": 39.7,
+      "freeThrowPercentage": 81.8
+    },
     "transferHistory": [
       {
         "recordId": "2903",
@@ -7798,7 +10605,17 @@ const basketballTransfers = [
     "destination": "Georgia Southern",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 18.5,
+      "pointsPerGame": 9.0,
+      "reboundsPerGame": 1.1,
+      "assistsPerGame": 1.6,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 39,
+      "threePointPercentage": 31.2,
+      "freeThrowPercentage": 87.1
+    },
     "transferHistory": [
       {
         "recordId": "3219",
@@ -7818,7 +10635,17 @@ const basketballTransfers = [
     "destination": "Virginia",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 30.4,
+      "pointsPerGame": 15.9,
+      "reboundsPerGame": 3.6,
+      "assistsPerGame": 2.5,
+      "stealsPerGame": 1.1,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 43,
+      "threePointPercentage": 38.5,
+      "freeThrowPercentage": 79.5
+    },
     "transferHistory": [
       {
         "recordId": "2444",
@@ -7858,7 +10685,17 @@ const basketballTransfers = [
     "destination": "Wright State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 9.3,
+      "pointsPerGame": 2.4,
+      "reboundsPerGame": 1.8,
+      "assistsPerGame": 0.7,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 66.7,
+      "threePointPercentage": 25,
+      "freeThrowPercentage": 50
+    },
     "transferHistory": [
       {
         "recordId": "2534",
@@ -7878,7 +10715,17 @@ const basketballTransfers = [
     "destination": "Marshall",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 24.0,
+      "pointsPerGame": 8.0,
+      "reboundsPerGame": 5.0,
+      "assistsPerGame": 1.0,
+      "stealsPerGame": 0.0,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 30.0,
+      "threePointPercentage": 28.6,
+      "freeThrowPercentage": 0.0
+    },
     "transferHistory": [
       {
         "recordId": "79694",
@@ -7898,7 +10745,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 1.9,
+      "pointsPerGame": 0.5,
+      "reboundsPerGame": 0.2,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 57.1,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 40
+    },
     "transferHistory": [
       {
         "recordId": "78622",
@@ -7918,7 +10775,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 27.2,
+      "pointsPerGame": 12.5,
+      "reboundsPerGame": 6.1,
+      "assistsPerGame": 2.3,
+      "stealsPerGame": 1.5,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 49.1,
+      "threePointPercentage": 25,
+      "freeThrowPercentage": 77.2
+    },
     "transferHistory": [
       {
         "recordId": "3157",
@@ -7938,7 +10805,17 @@ const basketballTransfers = [
     "destination": "Xavier",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 23.4,
+      "pointsPerGame": 10.2,
+      "reboundsPerGame": 2.3,
+      "assistsPerGame": 1.4,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 40.7,
+      "threePointPercentage": 40,
+      "freeThrowPercentage": 87.1
+    },
     "transferHistory": [
       {
         "recordId": "2716",
@@ -7966,8 +10843,8 @@ const basketballTransfers = [
       "stealsPerGame": 0.1,
       "blocksPerGame": 0.2,
       "fieldGoalPercentage": 64.3,
-      "threePointPercentage": 0,
-      "freeThrowPercentage": 50
+      "threePointPercentage": 0.0,
+      "freeThrowPercentage": 50.0
     },
     "transferHistory": [
       {
@@ -7988,7 +10865,17 @@ const basketballTransfers = [
     "destination": "Miami",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 23.2,
+      "pointsPerGame": 8.1,
+      "reboundsPerGame": 2.3,
+      "assistsPerGame": 0.3,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 40.4,
+      "threePointPercentage": 38,
+      "freeThrowPercentage": 87
+    },
     "transferHistory": [
       {
         "recordId": "2478",
@@ -8015,7 +10902,7 @@ const basketballTransfers = [
       "assistsPerGame": 1.4,
       "stealsPerGame": 0.8,
       "blocksPerGame": 0.4,
-      "fieldGoalPercentage": 54,
+      "fieldGoalPercentage": 54.0,
       "threePointPercentage": 33.3,
       "freeThrowPercentage": 78.8
     },
@@ -8038,7 +10925,17 @@ const basketballTransfers = [
     "destination": "Notre Dame",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 14.4,
+      "pointsPerGame": 2.1,
+      "reboundsPerGame": 3.2,
+      "assistsPerGame": 0.1,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.7,
+      "fieldGoalPercentage": 61.0,
+      "threePointPercentage": 0.0,
+      "freeThrowPercentage": 53.6
+    },
     "transferHistory": [
       {
         "recordId": "2624",
@@ -8058,7 +10955,17 @@ const basketballTransfers = [
     "destination": "UC San Diego",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 26.6,
+      "pointsPerGame": 10.5,
+      "reboundsPerGame": 2.8,
+      "assistsPerGame": 2.0,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 39.7,
+      "threePointPercentage": 38,
+      "freeThrowPercentage": 77
+    },
     "transferHistory": [
       {
         "recordId": "163665",
@@ -8078,7 +10985,17 @@ const basketballTransfers = [
     "destination": "Syracuse",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 36.7,
+      "pointsPerGame": 18.0,
+      "reboundsPerGame": 6.9,
+      "assistsPerGame": 2.2,
+      "stealsPerGame": 1.3,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 45.8,
+      "threePointPercentage": 32.6,
+      "freeThrowPercentage": 85.8
+    },
     "transferHistory": [
       {
         "recordId": "2725",
@@ -8118,7 +11035,17 @@ const basketballTransfers = [
     "destination": "Northern Illinois",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 17.8,
+      "pointsPerGame": 7.2,
+      "reboundsPerGame": 1.4,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 42.4,
+      "threePointPercentage": 39.7,
+      "freeThrowPercentage": 71.9
+    },
     "transferHistory": [
       {
         "recordId": "3243",
@@ -8146,7 +11073,7 @@ const basketballTransfers = [
       "stealsPerGame": 0.5,
       "blocksPerGame": 1.3,
       "fieldGoalPercentage": 51.5,
-      "threePointPercentage": 0,
+      "threePointPercentage": 0.0,
       "freeThrowPercentage": 63.9
     },
     "transferHistory": [
@@ -8168,7 +11095,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 9.4,
+      "pointsPerGame": 3.8,
+      "reboundsPerGame": 0.5,
+      "assistsPerGame": 1.0,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 45.2,
+      "threePointPercentage": 46.6,
+      "freeThrowPercentage": 100
+    },
     "transferHistory": [
       {
         "recordId": "3151",
@@ -8188,7 +11125,17 @@ const basketballTransfers = [
     "destination": "Auburn",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 36.1,
+      "pointsPerGame": 14.4,
+      "reboundsPerGame": 10.1,
+      "assistsPerGame": 2.1,
+      "stealsPerGame": 1.2,
+      "blocksPerGame": 1.3,
+      "fieldGoalPercentage": 43.9,
+      "threePointPercentage": 33.3,
+      "freeThrowPercentage": 80
+    },
     "transferHistory": [
       {
         "recordId": "3126",
@@ -8208,7 +11155,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 31.3,
+      "pointsPerGame": 11.3,
+      "reboundsPerGame": 2.7,
+      "assistsPerGame": 1.5,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.5,
+      "fieldGoalPercentage": 43.1,
+      "threePointPercentage": 36.3,
+      "freeThrowPercentage": 77
+    },
     "transferHistory": [
       {
         "recordId": "79651",
@@ -8248,7 +11205,17 @@ const basketballTransfers = [
     "destination": "Syracuse",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 26.6,
+      "pointsPerGame": 8.4,
+      "reboundsPerGame": 2.9,
+      "assistsPerGame": 4.4,
+      "stealsPerGame": 1.6,
+      "blocksPerGame": 0.6,
+      "fieldGoalPercentage": 45.6,
+      "threePointPercentage": 31.6,
+      "freeThrowPercentage": 76.4
+    },
     "transferHistory": [
       {
         "recordId": "2945",
@@ -8308,7 +11275,17 @@ const basketballTransfers = [
     "destination": "UC Riverside",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 6.6,
+      "pointsPerGame": 3.1,
+      "reboundsPerGame": 0.5,
+      "assistsPerGame": 0.4,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 41.2,
+      "threePointPercentage": 30.8,
+      "freeThrowPercentage": 92
+    },
     "transferHistory": [
       {
         "recordId": "192462",
@@ -8328,7 +11305,17 @@ const basketballTransfers = [
     "destination": "Buffalo",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 30.6,
+      "pointsPerGame": 10.8,
+      "reboundsPerGame": 2.9,
+      "assistsPerGame": 3.4,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 33.1,
+      "threePointPercentage": 28.9,
+      "freeThrowPercentage": 70
+    },
     "transferHistory": [
       {
         "recordId": "2545",
@@ -8348,7 +11335,17 @@ const basketballTransfers = [
     "destination": "New Mexico State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 30.4,
+      "pointsPerGame": 13.8,
+      "reboundsPerGame": 2.8,
+      "assistsPerGame": 2.0,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 43.1,
+      "threePointPercentage": 36.2,
+      "freeThrowPercentage": 68.5
+    },
     "transferHistory": [
       {
         "recordId": "3279",
@@ -8368,7 +11365,17 @@ const basketballTransfers = [
     "destination": "Boston College",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 28.0,
+      "pointsPerGame": 9.3,
+      "reboundsPerGame": 2.4,
+      "assistsPerGame": 2.3,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 40,
+      "threePointPercentage": 29.5,
+      "freeThrowPercentage": 86.4
+    },
     "transferHistory": [
       {
         "recordId": "234991",
@@ -8388,7 +11395,17 @@ const basketballTransfers = [
     "destination": "Tulane",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 2.4,
+      "pointsPerGame": 0.9,
+      "reboundsPerGame": 0.1,
+      "assistsPerGame": 0.0,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 33.3,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 100
+    },
     "transferHistory": [
       {
         "recordId": "4529016",
@@ -8408,7 +11425,17 @@ const basketballTransfers = [
     "destination": "California Baptist",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 21.2,
+      "pointsPerGame": 10.5,
+      "reboundsPerGame": 2.0,
+      "assistsPerGame": 1.1,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 43.7,
+      "threePointPercentage": 36.7,
+      "freeThrowPercentage": 92.3
+    },
     "transferHistory": [
       {
         "recordId": "3434",
@@ -8428,7 +11455,17 @@ const basketballTransfers = [
     "destination": "Notre Dame",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 24.3,
+      "pointsPerGame": 18.2,
+      "reboundsPerGame": 8.9,
+      "assistsPerGame": 1.6,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.8,
+      "fieldGoalPercentage": 60,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 73.5
+    },
     "transferHistory": [
       {
         "recordId": "3088",
@@ -8468,7 +11505,17 @@ const basketballTransfers = [
     "destination": "Georgia",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 17.0,
+      "pointsPerGame": 7.0,
+      "reboundsPerGame": 2.0,
+      "assistsPerGame": 0.9,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 45.5,
+      "threePointPercentage": 45.1,
+      "freeThrowPercentage": 81.4
+    },
     "transferHistory": [
       {
         "recordId": "3152",
@@ -8488,7 +11535,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 31.7,
+      "pointsPerGame": 12.5,
+      "reboundsPerGame": 5.9,
+      "assistsPerGame": 0.8,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.8,
+      "fieldGoalPercentage": 46.6,
+      "threePointPercentage": 34.5,
+      "freeThrowPercentage": 71.6
+    },
     "transferHistory": [
       {
         "recordId": "3778099",
@@ -8508,7 +11565,17 @@ const basketballTransfers = [
     "destination": "Ball State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 19.2,
+      "pointsPerGame": 4.8,
+      "reboundsPerGame": 3.5,
+      "assistsPerGame": 1.6,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.5,
+      "fieldGoalPercentage": 49.5,
+      "threePointPercentage": 0.0,
+      "freeThrowPercentage": 75.8
+    },
     "transferHistory": [
       {
         "recordId": "2574",
@@ -8528,7 +11595,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 21.6,
+      "pointsPerGame": 10.3,
+      "reboundsPerGame": 2.8,
+      "assistsPerGame": 2.2,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 38,
+      "threePointPercentage": 31.9,
+      "freeThrowPercentage": 75.4
+    },
     "transferHistory": [
       {
         "recordId": "3785662",
@@ -8548,7 +11625,17 @@ const basketballTransfers = [
     "destination": "UC Santa Barbara",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 7.1,
+      "pointsPerGame": 1.2,
+      "reboundsPerGame": 1.2,
+      "assistsPerGame": 0.0,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 50,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 25
+    },
     "transferHistory": [
       {
         "recordId": "78495",
@@ -8568,7 +11655,17 @@ const basketballTransfers = [
     "destination": "UAB",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 26.4,
+      "pointsPerGame": 15.3,
+      "reboundsPerGame": 4.0,
+      "assistsPerGame": 3.6,
+      "stealsPerGame": 1.2,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 47.2,
+      "threePointPercentage": 31.9,
+      "freeThrowPercentage": 62.6
+    },
     "transferHistory": [
       {
         "recordId": "3056",
@@ -8588,7 +11685,17 @@ const basketballTransfers = [
     "destination": "Louisville",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 11.9,
+      "pointsPerGame": 2.9,
+      "reboundsPerGame": 2.3,
+      "assistsPerGame": 0.4,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 1.0,
+      "fieldGoalPercentage": 78.8,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 35.3
+    },
     "transferHistory": [
       {
         "recordId": "204739",
@@ -8608,7 +11715,17 @@ const basketballTransfers = [
     "destination": "UConn",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 2.3,
+      "pointsPerGame": 0.4,
+      "reboundsPerGame": 0.1,
+      "assistsPerGame": 0.0,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 0,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 50
+    },
     "transferHistory": [
       {
         "recordId": "1695892",
@@ -8628,7 +11745,17 @@ const basketballTransfers = [
     "destination": "UC San Diego",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 28.5,
+      "pointsPerGame": 9.8,
+      "reboundsPerGame": 4.7,
+      "assistsPerGame": 1.4,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 39.7,
+      "threePointPercentage": 34.3,
+      "freeThrowPercentage": 74.5
+    },
     "transferHistory": [
       {
         "recordId": "4031302",
@@ -8648,7 +11775,17 @@ const basketballTransfers = [
     "destination": "Houston",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 24.0,
+      "pointsPerGame": 12.8,
+      "reboundsPerGame": 9.1,
+      "assistsPerGame": 0.7,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 1.0,
+      "fieldGoalPercentage": 53.3,
+      "threePointPercentage": 31.3,
+      "freeThrowPercentage": 70.6
+    },
     "transferHistory": [
       {
         "recordId": "2891",
@@ -8668,7 +11805,17 @@ const basketballTransfers = [
     "destination": "Oregon",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 17.3,
+      "pointsPerGame": 4.4,
+      "reboundsPerGame": 3.0,
+      "assistsPerGame": 1.1,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 43.6,
+      "threePointPercentage": 23.5,
+      "freeThrowPercentage": 74.4
+    },
     "transferHistory": [
       {
         "recordId": "3063",
@@ -8688,7 +11835,17 @@ const basketballTransfers = [
     "destination": "UTSA",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 18.8,
+      "pointsPerGame": 7.7,
+      "reboundsPerGame": 1.8,
+      "assistsPerGame": 1.7,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 45.5,
+      "threePointPercentage": 26.7,
+      "freeThrowPercentage": 70.6
+    },
     "transferHistory": [
       {
         "recordId": "403226",
@@ -8715,7 +11872,7 @@ const basketballTransfers = [
       "assistsPerGame": 0.1,
       "stealsPerGame": 0.4,
       "blocksPerGame": 0.1,
-      "fieldGoalPercentage": 29,
+      "fieldGoalPercentage": 29.0,
       "threePointPercentage": 18.2,
       "freeThrowPercentage": 55.6
     },
@@ -8738,7 +11895,17 @@ const basketballTransfers = [
     "destination": "NC State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 33.9,
+      "pointsPerGame": 16.1,
+      "reboundsPerGame": 3.5,
+      "assistsPerGame": 4.4,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 40.1,
+      "threePointPercentage": 38.7,
+      "freeThrowPercentage": 83.3
+    },
     "transferHistory": [
       {
         "recordId": "2898",
@@ -8758,7 +11925,17 @@ const basketballTransfers = [
     "destination": "Oklahoma",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 33.2,
+      "pointsPerGame": 12.7,
+      "reboundsPerGame": 5.9,
+      "assistsPerGame": 4.9,
+      "stealsPerGame": 2.3,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 47.4,
+      "threePointPercentage": 37.2,
+      "freeThrowPercentage": 77.1
+    },
     "transferHistory": [
       {
         "recordId": "3844792",
@@ -8778,7 +11955,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 26.7,
+      "pointsPerGame": 16.5,
+      "reboundsPerGame": 2.8,
+      "assistsPerGame": 3.0,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 43.2,
+      "threePointPercentage": 34.3,
+      "freeThrowPercentage": 79
+    },
     "transferHistory": [
       {
         "recordId": "2838",
@@ -8798,7 +11985,17 @@ const basketballTransfers = [
     "destination": "Green Bay",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 23.0,
+      "pointsPerGame": 11.6,
+      "reboundsPerGame": 5.6,
+      "assistsPerGame": 1.9,
+      "stealsPerGame": 1.3,
+      "blocksPerGame": 0.7,
+      "fieldGoalPercentage": 53.2,
+      "threePointPercentage": 21.3,
+      "freeThrowPercentage": 73.6
+    },
     "transferHistory": [
       {
         "recordId": "3397",
@@ -8818,7 +12015,17 @@ const basketballTransfers = [
     "destination": "Creighton",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 6.4,
+      "pointsPerGame": 3.2,
+      "reboundsPerGame": 0.6,
+      "assistsPerGame": 0.6,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 44.7,
+      "threePointPercentage": 43.5,
+      "freeThrowPercentage": 25
+    },
     "transferHistory": [
       {
         "recordId": "2869",
@@ -8838,7 +12045,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 22.9,
+      "pointsPerGame": 8.2,
+      "reboundsPerGame": 3.2,
+      "assistsPerGame": 1.1,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.5,
+      "fieldGoalPercentage": 42.2,
+      "threePointPercentage": 39.7,
+      "freeThrowPercentage": 74
+    },
     "transferHistory": [
       {
         "recordId": "3087",
@@ -8858,7 +12075,17 @@ const basketballTransfers = [
     "destination": "Cal State Northridge",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 17.4,
+      "pointsPerGame": 4.7,
+      "reboundsPerGame": 1.7,
+      "assistsPerGame": 1.8,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 35.4,
+      "threePointPercentage": 34,
+      "freeThrowPercentage": 64.6
+    },
     "transferHistory": [
       {
         "recordId": "78620",
@@ -8878,7 +12105,17 @@ const basketballTransfers = [
     "destination": "Miami (OH)",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 26.2,
+      "pointsPerGame": 10.5,
+      "reboundsPerGame": 4.7,
+      "assistsPerGame": 0.8,
+      "stealsPerGame": 1.0,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 38.5,
+      "threePointPercentage": 35.4,
+      "freeThrowPercentage": 81.1
+    },
     "transferHistory": [
       {
         "recordId": "62530",
@@ -8907,7 +12144,7 @@ const basketballTransfers = [
       "blocksPerGame": 0.5,
       "fieldGoalPercentage": 44.4,
       "threePointPercentage": 30.2,
-      "freeThrowPercentage": 83
+      "freeThrowPercentage": 83.0
     },
     "transferHistory": [
       {
@@ -8928,7 +12165,17 @@ const basketballTransfers = [
     "destination": "App State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 1.2,
+      "pointsPerGame": 0.0,
+      "reboundsPerGame": 0.8,
+      "assistsPerGame": 0.0,
+      "stealsPerGame": 0.0,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 0,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 0
+    },
     "transferHistory": [
       {
         "recordId": "8623",
@@ -8948,7 +12195,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 4.3,
+      "pointsPerGame": 0.9,
+      "reboundsPerGame": 0.2,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 50,
+      "threePointPercentage": 50,
+      "freeThrowPercentage": 100
+    },
     "transferHistory": [
       {
         "recordId": "2829",
@@ -8968,7 +12225,17 @@ const basketballTransfers = [
     "destination": "Butler",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 27.0,
+      "pointsPerGame": 13.1,
+      "reboundsPerGame": 3.4,
+      "assistsPerGame": 2.1,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 46.7,
+      "threePointPercentage": 35.3,
+      "freeThrowPercentage": 73.4
+    },
     "transferHistory": [
       {
         "recordId": "3350",
@@ -8988,7 +12255,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 22.7,
+      "pointsPerGame": 9.7,
+      "reboundsPerGame": 4.8,
+      "assistsPerGame": 0.7,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 47.3,
+      "threePointPercentage": 34.7,
+      "freeThrowPercentage": 75.6
+    },
     "transferHistory": [
       {
         "recordId": "2861",
@@ -9008,7 +12285,17 @@ const basketballTransfers = [
     "destination": "North Florida",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 21.6,
+      "pointsPerGame": 4.1,
+      "reboundsPerGame": 3.5,
+      "assistsPerGame": 2.0,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 29.8,
+      "threePointPercentage": 23.8,
+      "freeThrowPercentage": 63.6
+    },
     "transferHistory": [
       {
         "recordId": "3409",
@@ -9028,7 +12315,17 @@ const basketballTransfers = [
     "destination": "UNC Wilmington",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 17.2,
+      "pointsPerGame": 4.1,
+      "reboundsPerGame": 2.6,
+      "assistsPerGame": 1.0,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.6,
+      "fieldGoalPercentage": 47,
+      "threePointPercentage": 25.9,
+      "freeThrowPercentage": 47.9
+    },
     "transferHistory": [
       {
         "recordId": "2533",
@@ -9048,7 +12345,17 @@ const basketballTransfers = [
     "destination": "Charleston",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 26.9,
+      "pointsPerGame": 8.6,
+      "reboundsPerGame": 2.8,
+      "assistsPerGame": 1.9,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 38.6,
+      "threePointPercentage": 27.7,
+      "freeThrowPercentage": 87.9
+    },
     "transferHistory": [
       {
         "recordId": "3354",
@@ -9068,7 +12375,17 @@ const basketballTransfers = [
     "destination": "Wisconsin",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 30.3,
+      "pointsPerGame": 12.7,
+      "reboundsPerGame": 5.9,
+      "assistsPerGame": 1.2,
+      "stealsPerGame": 1.2,
+      "blocksPerGame": 0.7,
+      "fieldGoalPercentage": 49.8,
+      "threePointPercentage": 42.9,
+      "freeThrowPercentage": 75.8
+    },
     "transferHistory": [
       {
         "recordId": "2939",
@@ -9088,7 +12405,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 29.9,
+      "pointsPerGame": 19.5,
+      "reboundsPerGame": 7.2,
+      "assistsPerGame": 1.3,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 45.3,
+      "threePointPercentage": 34.6,
+      "freeThrowPercentage": 65.7
+    },
     "transferHistory": [
       {
         "recordId": "3779609",
@@ -9108,7 +12435,17 @@ const basketballTransfers = [
     "destination": "Virginia Tech",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 28.1,
+      "pointsPerGame": 12.4,
+      "reboundsPerGame": 4.2,
+      "assistsPerGame": 1.1,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 46.5,
+      "threePointPercentage": 36.8,
+      "freeThrowPercentage": 66
+    },
     "transferHistory": [
       {
         "recordId": "3133",
@@ -9128,7 +12465,17 @@ const basketballTransfers = [
     "destination": "Oakland",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 26.6,
+      "pointsPerGame": 11.4,
+      "reboundsPerGame": 8.2,
+      "assistsPerGame": 1.5,
+      "stealsPerGame": 1.1,
+      "blocksPerGame": 0.7,
+      "fieldGoalPercentage": 42.9,
+      "threePointPercentage": 5.9,
+      "freeThrowPercentage": 49.1
+    },
     "transferHistory": [
       {
         "recordId": "2622",
@@ -9148,7 +12495,17 @@ const basketballTransfers = [
     "destination": "UAB",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 29.5,
+      "pointsPerGame": 11.1,
+      "reboundsPerGame": 4.5,
+      "assistsPerGame": 1.8,
+      "stealsPerGame": 1.1,
+      "blocksPerGame": 0.7,
+      "fieldGoalPercentage": 47,
+      "threePointPercentage": 21.2,
+      "freeThrowPercentage": 70.3
+    },
     "transferHistory": [
       {
         "recordId": "3361",
@@ -9168,7 +12525,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 21.8,
+      "pointsPerGame": 12.7,
+      "reboundsPerGame": 1.2,
+      "assistsPerGame": 2.0,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 46.2,
+      "threePointPercentage": 38.2,
+      "freeThrowPercentage": 78
+    },
     "transferHistory": [
       {
         "recordId": "3047",
@@ -9188,7 +12555,17 @@ const basketballTransfers = [
     "destination": "Tarleton State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 22.5,
+      "pointsPerGame": 7.2,
+      "reboundsPerGame": 1.9,
+      "assistsPerGame": 1.3,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 44.1,
+      "threePointPercentage": 42,
+      "freeThrowPercentage": 87.2
+    },
     "transferHistory": [
       {
         "recordId": "3182",
@@ -9208,7 +12585,17 @@ const basketballTransfers = [
     "destination": "Tulsa",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 37.1,
+      "pointsPerGame": 11.3,
+      "reboundsPerGame": 6.6,
+      "assistsPerGame": 1.2,
+      "stealsPerGame": 1.1,
+      "blocksPerGame": 0.6,
+      "fieldGoalPercentage": 42.7,
+      "threePointPercentage": 28.5,
+      "freeThrowPercentage": 75.4
+    },
     "transferHistory": [
       {
         "recordId": "2647",
@@ -9228,7 +12615,17 @@ const basketballTransfers = [
     "destination": "NC State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 18.9,
+      "pointsPerGame": 8.9,
+      "reboundsPerGame": 4.2,
+      "assistsPerGame": 0.6,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 41.2,
+      "threePointPercentage": 10.7,
+      "freeThrowPercentage": 65.5
+    },
     "transferHistory": [
       {
         "recordId": "2570",
@@ -9248,7 +12645,17 @@ const basketballTransfers = [
     "destination": "Creighton",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 34.0,
+      "pointsPerGame": 16.4,
+      "reboundsPerGame": 3.6,
+      "assistsPerGame": 2.4,
+      "stealsPerGame": 1.0,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 39.1,
+      "threePointPercentage": 35.2,
+      "freeThrowPercentage": 81.4
+    },
     "transferHistory": [
       {
         "recordId": "3105",
@@ -9268,7 +12675,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 6.5,
+      "pointsPerGame": 1.5,
+      "reboundsPerGame": 1.5,
+      "assistsPerGame": 0.0,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 36.4,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 72.7
+    },
     "transferHistory": [
       {
         "recordId": "3484",
@@ -9318,7 +12735,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 27.2,
+      "pointsPerGame": 13.7,
+      "reboundsPerGame": 2.5,
+      "assistsPerGame": 2.3,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 40.4,
+      "threePointPercentage": 30.6,
+      "freeThrowPercentage": 80.8
+    },
     "transferHistory": [
       {
         "recordId": "3776597",
@@ -9338,7 +12765,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 4.5,
+      "pointsPerGame": 0.8,
+      "reboundsPerGame": 0.7,
+      "assistsPerGame": 0.0,
+      "stealsPerGame": 0.0,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 60,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 66.7
+    },
     "transferHistory": [
       {
         "recordId": "2592",
@@ -9358,7 +12795,17 @@ const basketballTransfers = [
     "destination": "Creighton",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 25.0,
+      "pointsPerGame": 6.9,
+      "reboundsPerGame": 8.3,
+      "assistsPerGame": 0.8,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 2.1,
+      "fieldGoalPercentage": 67.3,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 52.5
+    },
     "transferHistory": [
       {
         "recordId": "2528",
@@ -9378,7 +12825,17 @@ const basketballTransfers = [
     "destination": "Western Kentucky",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 21.5,
+      "pointsPerGame": 8.3,
+      "reboundsPerGame": 3.8,
+      "assistsPerGame": 1.0,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.9,
+      "fieldGoalPercentage": 53.2,
+      "threePointPercentage": 33.3,
+      "freeThrowPercentage": 64.5
+    },
     "transferHistory": [
       {
         "recordId": "282305",
@@ -9398,7 +12855,17 @@ const basketballTransfers = [
     "destination": "Bowling Green",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 7.5,
+      "pointsPerGame": 2.0,
+      "reboundsPerGame": 1.6,
+      "assistsPerGame": 0.3,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 31.8,
+      "threePointPercentage": 37.5,
+      "freeThrowPercentage": 50
+    },
     "transferHistory": [
       {
         "recordId": "2873",
@@ -9418,7 +12885,17 @@ const basketballTransfers = [
     "destination": "Michigan",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 18.3,
+      "pointsPerGame": 10.0,
+      "reboundsPerGame": 5.4,
+      "assistsPerGame": 0.8,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 59.6,
+      "threePointPercentage": 40,
+      "freeThrowPercentage": 63.4
+    },
     "transferHistory": [
       {
         "recordId": "2445",
@@ -9438,7 +12915,17 @@ const basketballTransfers = [
     "destination": "IU Indianapolis",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 13.2,
+      "pointsPerGame": 8.8,
+      "reboundsPerGame": 1.4,
+      "assistsPerGame": 2.1,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 45.3,
+      "threePointPercentage": 34.7,
+      "freeThrowPercentage": 66.1
+    },
     "transferHistory": [
       {
         "recordId": "3399",
@@ -9466,7 +12953,7 @@ const basketballTransfers = [
       "stealsPerGame": 1.0,
       "blocksPerGame": 0.2,
       "fieldGoalPercentage": 41.9,
-      "threePointPercentage": 22,
+      "threePointPercentage": 22.0,
       "freeThrowPercentage": 57.5
     },
     "transferHistory": [
@@ -9518,7 +13005,17 @@ const basketballTransfers = [
     "destination": "Oregon State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 8.4,
+      "pointsPerGame": 2.6,
+      "reboundsPerGame": 1.9,
+      "assistsPerGame": 0.0,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 1.2,
+      "fieldGoalPercentage": 66.7,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 75
+    },
     "transferHistory": [
       {
         "recordId": "3051",
@@ -9538,7 +13035,17 @@ const basketballTransfers = [
     "destination": "Minnesota",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 17.6,
+      "pointsPerGame": 4.0,
+      "reboundsPerGame": 1.2,
+      "assistsPerGame": 2.5,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 32.8,
+      "threePointPercentage": 30.5,
+      "freeThrowPercentage": 69.2
+    },
     "transferHistory": [
       {
         "recordId": "2808",
@@ -9558,7 +13065,17 @@ const basketballTransfers = [
     "destination": "NC State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 28.6,
+      "pointsPerGame": 12.0,
+      "reboundsPerGame": 8.7,
+      "assistsPerGame": 0.9,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 3.2,
+      "fieldGoalPercentage": 62,
+      "threePointPercentage": 20,
+      "freeThrowPercentage": 78.4
+    },
     "transferHistory": [
       {
         "recordId": "3229",
@@ -9578,7 +13095,17 @@ const basketballTransfers = [
     "destination": "Villanova",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 31.0,
+      "pointsPerGame": 13.3,
+      "reboundsPerGame": 7.4,
+      "assistsPerGame": 2.0,
+      "stealsPerGame": 1.0,
+      "blocksPerGame": 1.3,
+      "fieldGoalPercentage": 45.4,
+      "threePointPercentage": 30.4,
+      "freeThrowPercentage": 79.9
+    },
     "transferHistory": [
       {
         "recordId": "3346",
@@ -9598,7 +13125,17 @@ const basketballTransfers = [
     "destination": "North Alabama",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 33.3,
+      "pointsPerGame": 9.2,
+      "reboundsPerGame": 7.0,
+      "assistsPerGame": 3.1,
+      "stealsPerGame": 1.2,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 47.5,
+      "threePointPercentage": 32.4,
+      "freeThrowPercentage": 65
+    },
     "transferHistory": [
       {
         "recordId": "3413",
@@ -9618,7 +13155,17 @@ const basketballTransfers = [
     "destination": "Oregon",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 21.0,
+      "pointsPerGame": 9.8,
+      "reboundsPerGame": 5.7,
+      "assistsPerGame": 1.0,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 1.1,
+      "fieldGoalPercentage": 59,
+      "threePointPercentage": 75,
+      "freeThrowPercentage": 73.9
+    },
     "transferHistory": [
       {
         "recordId": "323411",
@@ -9678,7 +13225,17 @@ const basketballTransfers = [
     "destination": "Bethune-Cookman",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 8.5,
+      "pointsPerGame": 2.1,
+      "reboundsPerGame": 1.9,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.0,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 31.3,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 63.6
+    },
     "transferHistory": [
       {
         "recordId": "3045",
@@ -9698,7 +13255,17 @@ const basketballTransfers = [
     "destination": "Fresno State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 5.1,
+      "pointsPerGame": 0.6,
+      "reboundsPerGame": 1.7,
+      "assistsPerGame": 0.1,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 33.3,
+      "threePointPercentage": 0.0,
+      "freeThrowPercentage": 50.0
+    },
     "transferHistory": [
       {
         "recordId": "2490",
@@ -9725,9 +13292,9 @@ const basketballTransfers = [
       "assistsPerGame": 0.0,
       "stealsPerGame": 0.0,
       "blocksPerGame": 0.0,
-      "fieldGoalPercentage": 0,
-      "threePointPercentage": 0,
-      "freeThrowPercentage": 0
+      "fieldGoalPercentage": 0.0,
+      "threePointPercentage": 0.0,
+      "freeThrowPercentage": 0.0
     },
     "transferHistory": [
       {
@@ -9748,7 +13315,17 @@ const basketballTransfers = [
     "destination": "Nicholls",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 13.3,
+      "pointsPerGame": 4.0,
+      "reboundsPerGame": 2.3,
+      "assistsPerGame": 1.0,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 48.3,
+      "threePointPercentage": 23.5,
+      "freeThrowPercentage": 52.5
+    },
     "transferHistory": [
       {
         "recordId": "799023",
@@ -9768,7 +13345,17 @@ const basketballTransfers = [
     "destination": "Maine",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 1.9,
+      "pointsPerGame": 0.2,
+      "reboundsPerGame": 0.0,
+      "assistsPerGame": 0.0,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 33.3,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 0
+    },
     "transferHistory": [
       {
         "recordId": "192460",
@@ -9788,7 +13375,17 @@ const basketballTransfers = [
     "destination": "Clemson",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 26.2,
+      "pointsPerGame": 17.2,
+      "reboundsPerGame": 8.6,
+      "assistsPerGame": 1.8,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 1.5,
+      "fieldGoalPercentage": 61.7,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 56.3
+    },
     "transferHistory": [
       {
         "recordId": "3226",
@@ -9808,7 +13405,17 @@ const basketballTransfers = [
     "destination": "Colorado",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 21.1,
+      "pointsPerGame": 9.3,
+      "reboundsPerGame": 5.0,
+      "assistsPerGame": 1.0,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 1.0,
+      "fieldGoalPercentage": 51.5,
+      "threePointPercentage": 29.3,
+      "freeThrowPercentage": 80
+    },
     "transferHistory": [
       {
         "recordId": "121712",
@@ -9828,7 +13435,17 @@ const basketballTransfers = [
     "destination": "Northwestern",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 23.3,
+      "pointsPerGame": 8.6,
+      "reboundsPerGame": 4.8,
+      "assistsPerGame": 1.5,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 1.0,
+      "fieldGoalPercentage": 52.2,
+      "threePointPercentage": 27.8,
+      "freeThrowPercentage": 62.6
+    },
     "transferHistory": [
       {
         "recordId": "3359",
@@ -9848,7 +13465,17 @@ const basketballTransfers = [
     "destination": "Weber State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 7.4,
+      "pointsPerGame": 3.1,
+      "reboundsPerGame": 2.3,
+      "assistsPerGame": 0.1,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 79.6,
+      "threePointPercentage": 0.0,
+      "freeThrowPercentage": 50.0
+    },
     "transferHistory": [
       {
         "recordId": "2494",
@@ -9868,7 +13495,17 @@ const basketballTransfers = [
     "destination": "Little Rock",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 13.3,
+      "pointsPerGame": 3.8,
+      "reboundsPerGame": 4.1,
+      "assistsPerGame": 0.4,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.6,
+      "fieldGoalPercentage": 62,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 58.5
+    },
     "transferHistory": [
       {
         "recordId": "2442",
@@ -9888,7 +13525,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 3.0,
+      "pointsPerGame": 0.5,
+      "reboundsPerGame": 0.2,
+      "assistsPerGame": 0.0,
+      "stealsPerGame": 0.0,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 0,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 100
+    },
     "transferHistory": [
       {
         "recordId": "3368",
@@ -9908,7 +13555,17 @@ const basketballTransfers = [
     "destination": "Saint Mary's",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 6.5,
+      "pointsPerGame": 1.1,
+      "reboundsPerGame": 0.6,
+      "assistsPerGame": 0.4,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 21.4,
+      "threePointPercentage": 25,
+      "freeThrowPercentage": 100
+    },
     "transferHistory": [
       {
         "recordId": "2856",
@@ -9928,7 +13585,17 @@ const basketballTransfers = [
     "destination": "North Carolina",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 25.2,
+      "pointsPerGame": 14.4,
+      "reboundsPerGame": 8.7,
+      "assistsPerGame": 0.8,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 1.5,
+      "fieldGoalPercentage": 57.9,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 58.5
+    },
     "transferHistory": [
       {
         "recordId": "3884222",
@@ -9948,7 +13615,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 17.6,
+      "pointsPerGame": 5.3,
+      "reboundsPerGame": 1.6,
+      "assistsPerGame": 1.0,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 42.6,
+      "threePointPercentage": 28.1,
+      "freeThrowPercentage": 75
+    },
     "transferHistory": [
       {
         "recordId": "3225",
@@ -9968,7 +13645,17 @@ const basketballTransfers = [
     "destination": "Tennessee",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 12.8,
+      "pointsPerGame": 0.8,
+      "reboundsPerGame": 2.5,
+      "assistsPerGame": 0.8,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 1.5,
+      "fieldGoalPercentage": 0,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 30
+    },
     "transferHistory": [
       {
         "recordId": "2810",
@@ -9988,7 +13675,17 @@ const basketballTransfers = [
     "destination": "UAB",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 37.4,
+      "pointsPerGame": 16.6,
+      "reboundsPerGame": 4.6,
+      "assistsPerGame": 2.1,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.5,
+      "fieldGoalPercentage": 44.1,
+      "threePointPercentage": 40.3,
+      "freeThrowPercentage": 87.8
+    },
     "transferHistory": [
       {
         "recordId": "3412",
@@ -10008,7 +13705,17 @@ const basketballTransfers = [
     "destination": "Villanova",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 26.1,
+      "pointsPerGame": 17.1,
+      "reboundsPerGame": 5.0,
+      "assistsPerGame": 2.1,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 54.6,
+      "threePointPercentage": 41.4,
+      "freeThrowPercentage": 76.3
+    },
     "transferHistory": [
       {
         "recordId": "3453",
@@ -10028,7 +13735,17 @@ const basketballTransfers = [
     "destination": "Alabama",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 23.7,
+      "pointsPerGame": 14.7,
+      "reboundsPerGame": 5.7,
+      "assistsPerGame": 1.2,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.5,
+      "fieldGoalPercentage": 54.7,
+      "threePointPercentage": 40.9,
+      "freeThrowPercentage": 78.5
+    },
     "transferHistory": [
       {
         "recordId": "3155",
@@ -10048,7 +13765,17 @@ const basketballTransfers = [
     "destination": "Georgia Tech",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 14.4,
+      "pointsPerGame": 4.3,
+      "reboundsPerGame": 3.4,
+      "assistsPerGame": 1.1,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 53.6,
+      "threePointPercentage": 25,
+      "freeThrowPercentage": 70
+    },
     "transferHistory": [
       {
         "recordId": "164932",
@@ -10068,7 +13795,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 14.6,
+      "pointsPerGame": 3.3,
+      "reboundsPerGame": 1.6,
+      "assistsPerGame": 0.9,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 34.1,
+      "threePointPercentage": 25.4,
+      "freeThrowPercentage": 70.6
+    },
     "transferHistory": [
       {
         "recordId": "2793",
@@ -10088,7 +13825,17 @@ const basketballTransfers = [
     "destination": "Oakland",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 18.6,
+      "pointsPerGame": 9.7,
+      "reboundsPerGame": 6.9,
+      "assistsPerGame": 1.6,
+      "stealsPerGame": 1.1,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 46.3,
+      "threePointPercentage": 7.7,
+      "freeThrowPercentage": 64.6
+    },
     "transferHistory": [
       {
         "recordId": "2677",
@@ -10128,7 +13875,17 @@ const basketballTransfers = [
     "destination": "Charlotte",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 32.5,
+      "pointsPerGame": 14.9,
+      "reboundsPerGame": 4.6,
+      "assistsPerGame": 1.9,
+      "stealsPerGame": 1.1,
+      "blocksPerGame": 0.5,
+      "fieldGoalPercentage": 44.9,
+      "threePointPercentage": 37,
+      "freeThrowPercentage": 74.4
+    },
     "transferHistory": [
       {
         "recordId": "2700",
@@ -10178,7 +13935,17 @@ const basketballTransfers = [
     "destination": "Western Michigan",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 22.7,
+      "pointsPerGame": 9.2,
+      "reboundsPerGame": 3.6,
+      "assistsPerGame": 0.8,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 48.8,
+      "threePointPercentage": 39.1,
+      "freeThrowPercentage": 65.7
+    },
     "transferHistory": [
       {
         "recordId": "545517",
@@ -10198,7 +13965,17 @@ const basketballTransfers = [
     "destination": "Belmont",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 18.4,
+      "pointsPerGame": 7.2,
+      "reboundsPerGame": 3.2,
+      "assistsPerGame": 0.6,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 48.9,
+      "threePointPercentage": 31.8,
+      "freeThrowPercentage": 66
+    },
     "transferHistory": [
       {
         "recordId": "611575",
@@ -10218,7 +13995,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 20.7,
+      "pointsPerGame": 6.6,
+      "reboundsPerGame": 2.9,
+      "assistsPerGame": 0.8,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.5,
+      "fieldGoalPercentage": 45.5,
+      "threePointPercentage": 23.7,
+      "freeThrowPercentage": 69.6
+    },
     "transferHistory": [
       {
         "recordId": "78562",
@@ -10238,7 +14025,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 4.4,
+      "pointsPerGame": 3.8,
+      "reboundsPerGame": 0.4,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 50,
+      "threePointPercentage": 20,
+      "freeThrowPercentage": 66.7
+    },
     "transferHistory": [
       {
         "recordId": "2773",
@@ -10258,7 +14055,17 @@ const basketballTransfers = [
     "destination": "Winthrop",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 11.4,
+      "pointsPerGame": 5.5,
+      "reboundsPerGame": 2.2,
+      "assistsPerGame": 0.8,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 43.3,
+      "threePointPercentage": 27.5,
+      "freeThrowPercentage": 82.4
+    },
     "transferHistory": [
       {
         "recordId": "535492",
@@ -10278,7 +14085,17 @@ const basketballTransfers = [
     "destination": "UNC Greensboro",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 23.2,
+      "pointsPerGame": 6.8,
+      "reboundsPerGame": 6.2,
+      "assistsPerGame": 1.1,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.9,
+      "fieldGoalPercentage": 48.9,
+      "threePointPercentage": 37.9,
+      "freeThrowPercentage": 59
+    },
     "transferHistory": [
       {
         "recordId": "2481",
@@ -10298,7 +14115,17 @@ const basketballTransfers = [
     "destination": "Eastern Michigan",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 34.5,
+      "pointsPerGame": 15.0,
+      "reboundsPerGame": 4.5,
+      "assistsPerGame": 2.6,
+      "stealsPerGame": 1.7,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 44.9,
+      "threePointPercentage": 29.8,
+      "freeThrowPercentage": 74.5
+    },
     "transferHistory": [
       {
         "recordId": "3308",
@@ -10318,7 +14145,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 2.0,
+      "pointsPerGame": 0.0,
+      "reboundsPerGame": 1.0,
+      "assistsPerGame": 0.0,
+      "stealsPerGame": 0.0,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 0,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 0
+    },
     "transferHistory": [
       {
         "recordId": "8629",
@@ -10388,7 +14225,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 28.3,
+      "pointsPerGame": 7.0,
+      "reboundsPerGame": 3.8,
+      "assistsPerGame": 3.1,
+      "stealsPerGame": 1.8,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 46.9,
+      "threePointPercentage": 37.7,
+      "freeThrowPercentage": 70
+    },
     "transferHistory": [
       {
         "recordId": "2424",
@@ -10408,7 +14255,17 @@ const basketballTransfers = [
     "destination": "Syracuse",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 28.1,
+      "pointsPerGame": 11.3,
+      "reboundsPerGame": 5.3,
+      "assistsPerGame": 2.2,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 1.2,
+      "fieldGoalPercentage": 51.5,
+      "threePointPercentage": 37.5,
+      "freeThrowPercentage": 74
+    },
     "transferHistory": [
       {
         "recordId": "3120",
@@ -10435,7 +14292,7 @@ const basketballTransfers = [
       "assistsPerGame": 2.2,
       "stealsPerGame": 0.9,
       "blocksPerGame": 0.2,
-      "fieldGoalPercentage": 50,
+      "fieldGoalPercentage": 50.0,
       "threePointPercentage": 33.3,
       "freeThrowPercentage": 76.7
     },
@@ -10478,7 +14335,17 @@ const basketballTransfers = [
     "destination": "East Texas A&M",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 11.1,
+      "pointsPerGame": 3.7,
+      "reboundsPerGame": 3.5,
+      "assistsPerGame": 0.6,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 60.4,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 50
+    },
     "transferHistory": [
       {
         "recordId": "2714",
@@ -10538,7 +14405,17 @@ const basketballTransfers = [
     "destination": "William & Mary",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 4.0,
+      "pointsPerGame": 1.2,
+      "reboundsPerGame": 0.4,
+      "assistsPerGame": 0.0,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 28.6,
+      "threePointPercentage": 28.6,
+      "freeThrowPercentage": 0
+    },
     "transferHistory": [
       {
         "recordId": "2590",
@@ -10558,7 +14435,17 @@ const basketballTransfers = [
     "destination": "Charlotte",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 13.6,
+      "pointsPerGame": 3.3,
+      "reboundsPerGame": 3.2,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.6,
+      "fieldGoalPercentage": 50,
+      "threePointPercentage": 10,
+      "freeThrowPercentage": 60
+    },
     "transferHistory": [
       {
         "recordId": "3093",
@@ -10578,7 +14465,17 @@ const basketballTransfers = [
     "destination": "UNLV",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 9.6,
+      "pointsPerGame": 3.5,
+      "reboundsPerGame": 2.3,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 54.8,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 50
+    },
     "transferHistory": [
       {
         "recordId": "163663",
@@ -10598,7 +14495,17 @@ const basketballTransfers = [
     "destination": "Arizona State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 35.7,
+      "pointsPerGame": 15.6,
+      "reboundsPerGame": 4.3,
+      "assistsPerGame": 6.5,
+      "stealsPerGame": 1.5,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 39.2,
+      "threePointPercentage": 31.9,
+      "freeThrowPercentage": 80.7
+    },
     "transferHistory": [
       {
         "recordId": "3296",
@@ -10638,7 +14545,17 @@ const basketballTransfers = [
     "destination": "Boston College",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 20.7,
+      "pointsPerGame": 5.9,
+      "reboundsPerGame": 2.0,
+      "assistsPerGame": 1.9,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 33.9,
+      "threePointPercentage": 29.7,
+      "freeThrowPercentage": 84
+    },
     "transferHistory": [
       {
         "recordId": "173108",
@@ -10658,7 +14575,17 @@ const basketballTransfers = [
     "destination": "Hampton",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 28.2,
+      "pointsPerGame": 12.0,
+      "reboundsPerGame": 7.2,
+      "assistsPerGame": 0.9,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 1.7,
+      "fieldGoalPercentage": 65.8,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 60.9
+    },
     "transferHistory": [
       {
         "recordId": "3394",
@@ -10678,7 +14605,17 @@ const basketballTransfers = [
     "destination": "St. John's",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 31.3,
+      "pointsPerGame": 16.5,
+      "reboundsPerGame": 7.2,
+      "assistsPerGame": 1.3,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 1.0,
+      "fieldGoalPercentage": 47.4,
+      "threePointPercentage": 30.2,
+      "freeThrowPercentage": 76.7
+    },
     "transferHistory": [
       {
         "recordId": "2674",
@@ -10698,7 +14635,17 @@ const basketballTransfers = [
     "destination": "Texas",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 26.9,
+      "pointsPerGame": 9.2,
+      "reboundsPerGame": 5.3,
+      "assistsPerGame": 1.2,
+      "stealsPerGame": 1.3,
+      "blocksPerGame": 0.6,
+      "fieldGoalPercentage": 44.2,
+      "threePointPercentage": 34,
+      "freeThrowPercentage": 69.9
+    },
     "transferHistory": [
       {
         "recordId": "9704",
@@ -10718,7 +14665,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 17.1,
+      "pointsPerGame": 6.2,
+      "reboundsPerGame": 2.0,
+      "assistsPerGame": 1.2,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 40.3,
+      "threePointPercentage": 35.3,
+      "freeThrowPercentage": 65.8
+    },
     "transferHistory": [
       {
         "recordId": "3776599",
@@ -10738,7 +14695,17 @@ const basketballTransfers = [
     "destination": "Auburn",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 11.8,
+      "pointsPerGame": 5.0,
+      "reboundsPerGame": 4.0,
+      "assistsPerGame": 0.9,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.8,
+      "fieldGoalPercentage": 60.2,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 64.3
+    },
     "transferHistory": [
       {
         "recordId": "2876",
@@ -10758,7 +14725,17 @@ const basketballTransfers = [
     "destination": "Oregon State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 33.2,
+      "pointsPerGame": 19.8,
+      "reboundsPerGame": 4.3,
+      "assistsPerGame": 3.7,
+      "stealsPerGame": 1.3,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 41,
+      "threePointPercentage": 36.1,
+      "freeThrowPercentage": 82.7
+    },
     "transferHistory": [
       {
         "recordId": "3141",
@@ -10798,7 +14775,17 @@ const basketballTransfers = [
     "destination": "Washington",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 25.3,
+      "pointsPerGame": 10.8,
+      "reboundsPerGame": 2.5,
+      "assistsPerGame": 1.4,
+      "stealsPerGame": 1.1,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 42,
+      "threePointPercentage": 40.5,
+      "freeThrowPercentage": 75
+    },
     "transferHistory": [
       {
         "recordId": "2672",
@@ -10818,7 +14805,17 @@ const basketballTransfers = [
     "destination": "Wichita State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 29.9,
+      "pointsPerGame": 16.4,
+      "reboundsPerGame": 3.2,
+      "assistsPerGame": 4.0,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 55.7,
+      "threePointPercentage": 45.5,
+      "freeThrowPercentage": 82
+    },
     "transferHistory": [
       {
         "recordId": "3438",
@@ -10838,7 +14835,17 @@ const basketballTransfers = [
     "destination": "George Washington",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 6.3,
+      "pointsPerGame": 2.7,
+      "reboundsPerGame": 0.8,
+      "assistsPerGame": 0.3,
+      "stealsPerGame": 0.0,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 40.4,
+      "threePointPercentage": 38.5,
+      "freeThrowPercentage": 62.5
+    },
     "transferHistory": [
       {
         "recordId": "3274",
@@ -10858,7 +14865,17 @@ const basketballTransfers = [
     "destination": "Marquette",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 22.0,
+      "pointsPerGame": 9.0,
+      "reboundsPerGame": 6.1,
+      "assistsPerGame": 1.2,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 1.4,
+      "fieldGoalPercentage": 75.3,
+      "threePointPercentage": 50,
+      "freeThrowPercentage": 61.1
+    },
     "transferHistory": [
       {
         "recordId": "3158",
@@ -10878,7 +14895,17 @@ const basketballTransfers = [
     "destination": "Clemson",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 24.0,
+      "pointsPerGame": 12.7,
+      "reboundsPerGame": 7.8,
+      "assistsPerGame": 1.4,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 51.7,
+      "threePointPercentage": 30.3,
+      "freeThrowPercentage": 64.5
+    },
     "transferHistory": [
       {
         "recordId": "8685",
@@ -10928,7 +14955,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 10.9,
+      "pointsPerGame": 2.2,
+      "reboundsPerGame": 2.4,
+      "assistsPerGame": 1.2,
+      "stealsPerGame": 1.0,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 75,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 85.7
+    },
     "transferHistory": [
       {
         "recordId": "3476",
@@ -10948,7 +14985,17 @@ const basketballTransfers = [
     "destination": "Western Kentucky",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 7.5,
+      "pointsPerGame": 2.7,
+      "reboundsPerGame": 1.8,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 59.2,
+      "threePointPercentage": 41.7,
+      "freeThrowPercentage": 72.7
+    },
     "transferHistory": [
       {
         "recordId": "3487",
@@ -10968,7 +15015,17 @@ const basketballTransfers = [
     "destination": "Boston College",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 2.5,
+      "pointsPerGame": 0.4,
+      "reboundsPerGame": 0.1,
+      "assistsPerGame": 0.0,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 42.9,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 0
+    },
     "transferHistory": [
       {
         "recordId": "137221",
@@ -10988,7 +15045,17 @@ const basketballTransfers = [
     "destination": "Southern Miss",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 25.2,
+      "pointsPerGame": 11.1,
+      "reboundsPerGame": 1.4,
+      "assistsPerGame": 2.8,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 39.9,
+      "threePointPercentage": 26.1,
+      "freeThrowPercentage": 78.3
+    },
     "transferHistory": [
       {
         "recordId": "3294",
@@ -11008,7 +15075,17 @@ const basketballTransfers = [
     "destination": "West Chester",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 2.6,
+      "pointsPerGame": 2.6,
+      "reboundsPerGame": 0.0,
+      "assistsPerGame": 0.0,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 66.7,
+      "threePointPercentage": 25,
+      "freeThrowPercentage": 0
+    },
     "transferHistory": [
       {
         "recordId": "2573",
@@ -11028,7 +15105,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 16.3,
+      "pointsPerGame": 2.9,
+      "reboundsPerGame": 2.9,
+      "assistsPerGame": 0.4,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.8,
+      "fieldGoalPercentage": 25.9,
+      "threePointPercentage": 21.4,
+      "freeThrowPercentage": 81.8
+    },
     "transferHistory": [
       {
         "recordId": "2737",
@@ -11048,7 +15135,17 @@ const basketballTransfers = [
     "destination": "Illinois State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 30.1,
+      "pointsPerGame": 10.8,
+      "reboundsPerGame": 5.2,
+      "assistsPerGame": 1.0,
+      "stealsPerGame": 1.1,
+      "blocksPerGame": 0.6,
+      "fieldGoalPercentage": 45.5,
+      "threePointPercentage": 33.9,
+      "freeThrowPercentage": 71.4
+    },
     "transferHistory": [
       {
         "recordId": "3238",
@@ -11068,7 +15165,17 @@ const basketballTransfers = [
     "destination": "Arizona State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 5.9,
+      "pointsPerGame": 2.4,
+      "reboundsPerGame": 1.1,
+      "assistsPerGame": 0.1,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 52.9,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 84
+    },
     "transferHistory": [
       {
         "recordId": "37617",
@@ -11128,7 +15235,17 @@ const basketballTransfers = [
     "destination": "Georgia Tech",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 35.1,
+      "pointsPerGame": 20.3,
+      "reboundsPerGame": 3.3,
+      "assistsPerGame": 4.6,
+      "stealsPerGame": 1.1,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 49,
+      "threePointPercentage": 37.2,
+      "freeThrowPercentage": 84.8
+    },
     "transferHistory": [
       {
         "recordId": "3391",
@@ -11148,7 +15265,17 @@ const basketballTransfers = [
     "destination": "High Point",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 28.9,
+      "pointsPerGame": 13.7,
+      "reboundsPerGame": 7.1,
+      "assistsPerGame": 2.3,
+      "stealsPerGame": 1.1,
+      "blocksPerGame": 1.0,
+      "fieldGoalPercentage": 53.7,
+      "threePointPercentage": 25,
+      "freeThrowPercentage": 80.4
+    },
     "transferHistory": [
       {
         "recordId": "3468",
@@ -11188,7 +15315,17 @@ const basketballTransfers = [
     "destination": "Alabama",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 16.2,
+      "pointsPerGame": 4.7,
+      "reboundsPerGame": 4.1,
+      "assistsPerGame": 1.1,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.8,
+      "fieldGoalPercentage": 55.6,
+      "threePointPercentage": 23.5,
+      "freeThrowPercentage": 59.1
+    },
     "transferHistory": [
       {
         "recordId": "2983",
@@ -11208,31 +15345,21 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 29.0,
+      "pointsPerGame": 10.7,
+      "reboundsPerGame": 5.2,
+      "assistsPerGame": 3.2,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 42,
+      "threePointPercentage": 36.7,
+      "freeThrowPercentage": 64.9
+    },
     "transferHistory": [
       {
         "recordId": "407460",
         "previousSchool": "South Dakota State",
-        "destination": "",
-        "season": "2026"
-      }
-    ],
-    "needsReview": false
-  },
-  {
-    "playerId": "46150939",
-    "name": "Aleksandar Gavalyugov",
-    "sport": "basketball",
-    "position": "PG",
-    "previousSchool": "Santa Clara",
-    "destination": "",
-    "season": 2026,
-    "profileUrl": "",
-    "stats": {},
-    "transferHistory": [
-      {
-        "recordId": "2911",
-        "previousSchool": "Santa Clara",
         "destination": "",
         "season": "2026"
       }
@@ -11248,7 +15375,17 @@ const basketballTransfers = [
     "destination": "Pittsburgh",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 32.2,
+      "pointsPerGame": 10.9,
+      "reboundsPerGame": 3.0,
+      "assistsPerGame": 5.3,
+      "stealsPerGame": 1.5,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 40.5,
+      "threePointPercentage": 29.3,
+      "freeThrowPercentage": 83.3
+    },
     "transferHistory": [
       {
         "recordId": "2981",
@@ -11268,7 +15405,17 @@ const basketballTransfers = [
     "destination": "Wyoming",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 9.5,
+      "pointsPerGame": 1.8,
+      "reboundsPerGame": 1.3,
+      "assistsPerGame": 0.9,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 40.4,
+      "threePointPercentage": 37.5,
+      "freeThrowPercentage": 0
+    },
     "transferHistory": [
       {
         "recordId": "3260",
@@ -11308,7 +15455,17 @@ const basketballTransfers = [
     "destination": "Texas Tech",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 34.2,
+      "pointsPerGame": 20.7,
+      "reboundsPerGame": 3.1,
+      "assistsPerGame": 2.5,
+      "stealsPerGame": 1.5,
+      "blocksPerGame": 0.5,
+      "fieldGoalPercentage": 49.7,
+      "threePointPercentage": 41.4,
+      "freeThrowPercentage": 83.8
+    },
     "transferHistory": [
       {
         "recordId": "3200",
@@ -11368,7 +15525,17 @@ const basketballTransfers = [
     "destination": "Houston",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 32.2,
+      "pointsPerGame": 17.7,
+      "reboundsPerGame": 11.2,
+      "assistsPerGame": 1.7,
+      "stealsPerGame": 1.0,
+      "blocksPerGame": 1.2,
+      "fieldGoalPercentage": 50.8,
+      "threePointPercentage": 27,
+      "freeThrowPercentage": 78.9
+    },
     "transferHistory": [
       {
         "recordId": "2924",
@@ -11388,7 +15555,17 @@ const basketballTransfers = [
     "destination": "UConn",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 14.6,
+      "pointsPerGame": 3.3,
+      "reboundsPerGame": 4.1,
+      "assistsPerGame": 0.3,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 1.2,
+      "fieldGoalPercentage": 62.7,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 57.5
+    },
     "transferHistory": [
       {
         "recordId": "2719",
@@ -11408,7 +15585,17 @@ const basketballTransfers = [
     "destination": "Ohio State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 25.6,
+      "pointsPerGame": 9.4,
+      "reboundsPerGame": 2.1,
+      "assistsPerGame": 2.3,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 43.1,
+      "threePointPercentage": 36.5,
+      "freeThrowPercentage": 66.1
+    },
     "transferHistory": [
       {
         "recordId": "3095",
@@ -11428,7 +15615,17 @@ const basketballTransfers = [
     "destination": "San Diego State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 33.4,
+      "pointsPerGame": 14.4,
+      "reboundsPerGame": 3.2,
+      "assistsPerGame": 4.5,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 47.9,
+      "threePointPercentage": 35.1,
+      "freeThrowPercentage": 86.7
+    },
     "transferHistory": [
       {
         "recordId": "3431",
@@ -11478,7 +15675,17 @@ const basketballTransfers = [
     "destination": "Saint Peter's",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 7.0,
+      "pointsPerGame": 2.7,
+      "reboundsPerGame": 0.8,
+      "assistsPerGame": 0.3,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 46.2,
+      "threePointPercentage": 33.3,
+      "freeThrowPercentage": 100
+    },
     "transferHistory": [
       {
         "recordId": "2795",
@@ -11498,7 +15705,17 @@ const basketballTransfers = [
     "destination": "Vermont",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 12.7,
+      "pointsPerGame": 2.7,
+      "reboundsPerGame": 1.9,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 39.7,
+      "threePointPercentage": 37.5,
+      "freeThrowPercentage": 50
+    },
     "transferHistory": [
       {
         "recordId": "2685",
@@ -11518,7 +15735,17 @@ const basketballTransfers = [
     "destination": "Binghamton",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 9.0,
+      "pointsPerGame": 3.1,
+      "reboundsPerGame": 1.2,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 37.3,
+      "threePointPercentage": 36.6,
+      "freeThrowPercentage": 80
+    },
     "transferHistory": [
       {
         "recordId": "8602",
@@ -11538,7 +15765,17 @@ const basketballTransfers = [
     "destination": "Arizona",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 25.2,
+      "pointsPerGame": 12.0,
+      "reboundsPerGame": 5.3,
+      "assistsPerGame": 1.6,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.6,
+      "fieldGoalPercentage": 61.1,
+      "threePointPercentage": 20,
+      "freeThrowPercentage": 66
+    },
     "transferHistory": [
       {
         "recordId": "3808387",
@@ -11558,7 +15795,17 @@ const basketballTransfers = [
     "destination": "Colorado",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 19.5,
+      "pointsPerGame": 5.0,
+      "reboundsPerGame": 3.5,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 1.5,
+      "fieldGoalPercentage": 57.1,
+      "threePointPercentage": 66.7,
+      "freeThrowPercentage": 0
+    },
     "transferHistory": [
       {
         "recordId": "380634",
@@ -11578,7 +15825,17 @@ const basketballTransfers = [
     "destination": "Utah",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 25.1,
+      "pointsPerGame": 8.0,
+      "reboundsPerGame": 6.9,
+      "assistsPerGame": 1.4,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 53.6,
+      "threePointPercentage": 40,
+      "freeThrowPercentage": 47
+    },
     "transferHistory": [
       {
         "recordId": "3353",
@@ -11598,7 +15855,17 @@ const basketballTransfers = [
     "destination": "Miami",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 31.2,
+      "pointsPerGame": 15.6,
+      "reboundsPerGame": 8.7,
+      "assistsPerGame": 1.4,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.6,
+      "fieldGoalPercentage": 63.3,
+      "threePointPercentage": 58.1,
+      "freeThrowPercentage": 77
+    },
     "transferHistory": [
       {
         "recordId": "3358",
@@ -11618,7 +15885,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 13.3,
+      "pointsPerGame": 3.4,
+      "reboundsPerGame": 2.7,
+      "assistsPerGame": 0.1,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 45.2,
+      "threePointPercentage": 33.3,
+      "freeThrowPercentage": 51.6
+    },
     "transferHistory": [
       {
         "recordId": "2860",
@@ -11638,7 +15915,17 @@ const basketballTransfers = [
     "destination": "Syracuse",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 23.4,
+      "pointsPerGame": 9.7,
+      "reboundsPerGame": 7.3,
+      "assistsPerGame": 1.3,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.9,
+      "fieldGoalPercentage": 64.5,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 58.3
+    },
     "transferHistory": [
       {
         "recordId": "2512",
@@ -11658,7 +15945,17 @@ const basketballTransfers = [
     "destination": "South Florida",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 25.0,
+      "pointsPerGame": 7.7,
+      "reboundsPerGame": 5.9,
+      "assistsPerGame": 2.1,
+      "stealsPerGame": 1.0,
+      "blocksPerGame": 0.6,
+      "fieldGoalPercentage": 41.7,
+      "threePointPercentage": 35.2,
+      "freeThrowPercentage": 51.3
+    },
     "transferHistory": [
       {
         "recordId": "2853",
@@ -11678,7 +15975,17 @@ const basketballTransfers = [
     "destination": "Incarnate Word",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 14.6,
+      "pointsPerGame": 4.7,
+      "reboundsPerGame": 2.5,
+      "assistsPerGame": 0.8,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 42.9,
+      "threePointPercentage": 33.3,
+      "freeThrowPercentage": 66.7
+    },
     "transferHistory": [
       {
         "recordId": "134748",
@@ -11698,7 +16005,17 @@ const basketballTransfers = [
     "destination": "Oregon State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 29.3,
+      "pointsPerGame": 13.7,
+      "reboundsPerGame": 6.1,
+      "assistsPerGame": 2.0,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 48.4,
+      "threePointPercentage": 27,
+      "freeThrowPercentage": 64.7
+    },
     "transferHistory": [
       {
         "recordId": "3421",
@@ -11718,7 +16035,17 @@ const basketballTransfers = [
     "destination": "Sacramento State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 30.8,
+      "pointsPerGame": 9.9,
+      "reboundsPerGame": 5.7,
+      "assistsPerGame": 1.7,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.7,
+      "fieldGoalPercentage": 44.8,
+      "threePointPercentage": 20.9,
+      "freeThrowPercentage": 62.6
+    },
     "transferHistory": [
       {
         "recordId": "113188",
@@ -11738,7 +16065,17 @@ const basketballTransfers = [
     "destination": "Minnesota",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 5.7,
+      "pointsPerGame": 2.9,
+      "reboundsPerGame": 1.1,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 35,
+      "threePointPercentage": 31.6,
+      "freeThrowPercentage": 85.7
+    },
     "transferHistory": [
       {
         "recordId": "2491",
@@ -11758,7 +16095,17 @@ const basketballTransfers = [
     "destination": "Marist",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 28.0,
+      "pointsPerGame": 11.2,
+      "reboundsPerGame": 3.0,
+      "assistsPerGame": 1.0,
+      "stealsPerGame": 1.1,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 40.9,
+      "threePointPercentage": 32.2,
+      "freeThrowPercentage": 66.7
+    },
     "transferHistory": [
       {
         "recordId": "319271",
@@ -11778,32 +16125,22 @@ const basketballTransfers = [
     "destination": "Charlotte",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 24.1,
+      "pointsPerGame": 9.5,
+      "reboundsPerGame": 4.2,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 44,
+      "threePointPercentage": 30.6,
+      "freeThrowPercentage": 72.7
+    },
     "transferHistory": [
       {
         "recordId": "2531",
         "previousSchool": "Rutgers",
         "destination": "Charlotte",
-        "season": "2026"
-      }
-    ],
-    "needsReview": false
-  },
-  {
-    "playerId": "46166229",
-    "name": "Allen Graves",
-    "sport": "basketball",
-    "position": "PF",
-    "previousSchool": "Santa Clara",
-    "destination": "",
-    "season": 2026,
-    "profileUrl": "",
-    "stats": {},
-    "transferHistory": [
-      {
-        "recordId": "8599",
-        "previousSchool": "Santa Clara",
-        "destination": "",
         "season": "2026"
       }
     ],
@@ -11826,7 +16163,7 @@ const basketballTransfers = [
       "stealsPerGame": 0.5,
       "blocksPerGame": 0.2,
       "fieldGoalPercentage": 40.4,
-      "threePointPercentage": 35,
+      "threePointPercentage": 35.0,
       "freeThrowPercentage": 78.9
     },
     "transferHistory": [
@@ -11898,7 +16235,17 @@ const basketballTransfers = [
     "destination": "Charleston",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 14.8,
+      "pointsPerGame": 4.3,
+      "reboundsPerGame": 1.8,
+      "assistsPerGame": 1.0,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 37,
+      "threePointPercentage": 33.8,
+      "freeThrowPercentage": 60
+    },
     "transferHistory": [
       {
         "recordId": "134747",
@@ -11918,7 +16265,17 @@ const basketballTransfers = [
     "destination": "UNC Greensboro",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 6.7,
+      "pointsPerGame": 3.4,
+      "reboundsPerGame": 0.5,
+      "assistsPerGame": 0.3,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 41,
+      "threePointPercentage": 42.9,
+      "freeThrowPercentage": 93.3
+    },
     "transferHistory": [
       {
         "recordId": "3082",
@@ -11938,7 +16295,17 @@ const basketballTransfers = [
     "destination": "Indiana State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 30.5,
+      "pointsPerGame": 15.6,
+      "reboundsPerGame": 2.2,
+      "assistsPerGame": 2.9,
+      "stealsPerGame": 1.1,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 41.5,
+      "threePointPercentage": 32.8,
+      "freeThrowPercentage": 74.2
+    },
     "transferHistory": [
       {
         "recordId": "601500",
@@ -11958,7 +16325,17 @@ const basketballTransfers = [
     "destination": "Sam Houston",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 1.3,
+      "pointsPerGame": 0.0,
+      "reboundsPerGame": 0.4,
+      "assistsPerGame": 0.1,
+      "stealsPerGame": 0.0,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 0,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 0
+    },
     "transferHistory": [
       {
         "recordId": "3202",
@@ -11978,7 +16355,17 @@ const basketballTransfers = [
     "destination": "Cleveland State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 13.8,
+      "pointsPerGame": 4.0,
+      "reboundsPerGame": 3.0,
+      "assistsPerGame": 0.8,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 42.4,
+      "threePointPercentage": 29,
+      "freeThrowPercentage": 53.6
+    },
     "transferHistory": [
       {
         "recordId": "2739",
@@ -11998,7 +16385,17 @@ const basketballTransfers = [
     "destination": "Arizona State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 22.9,
+      "pointsPerGame": 6.1,
+      "reboundsPerGame": 5.9,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.9,
+      "fieldGoalPercentage": 58.3,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 52
+    },
     "transferHistory": [
       {
         "recordId": "1350230",
@@ -12038,7 +16435,17 @@ const basketballTransfers = [
     "destination": "Radford",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 13.6,
+      "pointsPerGame": 4.2,
+      "reboundsPerGame": 2.0,
+      "assistsPerGame": 0.7,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 47.8,
+      "threePointPercentage": 43.5,
+      "freeThrowPercentage": 75
+    },
     "transferHistory": [
       {
         "recordId": "2791",
@@ -12058,7 +16465,17 @@ const basketballTransfers = [
     "destination": "Minnesota",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 5.8,
+      "pointsPerGame": 0.9,
+      "reboundsPerGame": 1.2,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 23.8,
+      "threePointPercentage": 23.5,
+      "freeThrowPercentage": 58.3
+    },
     "transferHistory": [
       {
         "recordId": "2991",
@@ -12078,7 +16495,17 @@ const basketballTransfers = [
     "destination": "Radford",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 5.5,
+      "pointsPerGame": 1.0,
+      "reboundsPerGame": 0.8,
+      "assistsPerGame": 0.3,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 12.5,
+      "threePointPercentage": 14.3,
+      "freeThrowPercentage": 42.9
+    },
     "transferHistory": [
       {
         "recordId": "84301",
@@ -12118,7 +16545,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 9.5,
+      "pointsPerGame": 2.0,
+      "reboundsPerGame": 0.7,
+      "assistsPerGame": 0.8,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 50,
+      "threePointPercentage": 14.3,
+      "freeThrowPercentage": 60
+    },
     "transferHistory": [
       {
         "recordId": "3137",
@@ -12138,7 +16575,17 @@ const basketballTransfers = [
     "destination": "Santa Clara",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 3.5,
+      "pointsPerGame": 1.3,
+      "reboundsPerGame": 0.8,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 72.2,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 63.6
+    },
     "transferHistory": [
       {
         "recordId": "38746",
@@ -12158,7 +16605,17 @@ const basketballTransfers = [
     "destination": "Missouri",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 27.7,
+      "pointsPerGame": 13.1,
+      "reboundsPerGame": 3.7,
+      "assistsPerGame": 1.9,
+      "stealsPerGame": 1.1,
+      "blocksPerGame": 0.6,
+      "fieldGoalPercentage": 39.7,
+      "threePointPercentage": 32.4,
+      "freeThrowPercentage": 72.5
+    },
     "transferHistory": [
       {
         "recordId": "6264773",
@@ -12178,7 +16635,17 @@ const basketballTransfers = [
     "destination": "Rutgers",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 17.1,
+      "pointsPerGame": 5.6,
+      "reboundsPerGame": 4.4,
+      "assistsPerGame": 0.4,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 63.2,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 69.6
+    },
     "transferHistory": [
       {
         "recordId": "3123",
@@ -12198,7 +16665,17 @@ const basketballTransfers = [
     "destination": "Ball State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 22.4,
+      "pointsPerGame": 9.7,
+      "reboundsPerGame": 4.2,
+      "assistsPerGame": 1.8,
+      "stealsPerGame": 1.1,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 42.6,
+      "threePointPercentage": 34.1,
+      "freeThrowPercentage": 69.7
+    },
     "transferHistory": [
       {
         "recordId": "2664",
@@ -12218,7 +16695,17 @@ const basketballTransfers = [
     "destination": "DePaul",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 19.0,
+      "pointsPerGame": 8.9,
+      "reboundsPerGame": 4.3,
+      "assistsPerGame": 0.3,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 1.5,
+      "fieldGoalPercentage": 51.9,
+      "threePointPercentage": 43.5,
+      "freeThrowPercentage": 60.6
+    },
     "transferHistory": [
       {
         "recordId": "2887",
@@ -12238,7 +16725,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 36.0,
+      "pointsPerGame": 14.2,
+      "reboundsPerGame": 8.3,
+      "assistsPerGame": 3.1,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 1.4,
+      "fieldGoalPercentage": 40.3,
+      "threePointPercentage": 22.2,
+      "freeThrowPercentage": 74.3
+    },
     "transferHistory": [
       {
         "recordId": "353490",
@@ -12258,7 +16755,17 @@ const basketballTransfers = [
     "destination": "Tennessee Tech",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 27.7,
+      "pointsPerGame": 13.6,
+      "reboundsPerGame": 4.1,
+      "assistsPerGame": 1.5,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.5,
+      "fieldGoalPercentage": 42.1,
+      "threePointPercentage": 34.4,
+      "freeThrowPercentage": 73.6
+    },
     "transferHistory": [
       {
         "recordId": "3398",
@@ -12298,7 +16805,17 @@ const basketballTransfers = [
     "destination": "Texas A&M",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 35.2,
+      "pointsPerGame": 23.4,
+      "reboundsPerGame": 5.3,
+      "assistsPerGame": 3.8,
+      "stealsPerGame": 1.2,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 49,
+      "threePointPercentage": 35.4,
+      "freeThrowPercentage": 70.1
+    },
     "transferHistory": [
       {
         "recordId": "2578",
@@ -12318,7 +16835,17 @@ const basketballTransfers = [
     "destination": "Oklahoma State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 19.8,
+      "pointsPerGame": 9.5,
+      "reboundsPerGame": 4.4,
+      "assistsPerGame": 1.3,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.7,
+      "fieldGoalPercentage": 60.8,
+      "threePointPercentage": 27.3,
+      "freeThrowPercentage": 74.7
+    },
     "transferHistory": [
       {
         "recordId": "204753",
@@ -12338,7 +16865,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 28.4,
+      "pointsPerGame": 5.9,
+      "reboundsPerGame": 3.6,
+      "assistsPerGame": 4.4,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 41.3,
+      "threePointPercentage": 32,
+      "freeThrowPercentage": 81.3
+    },
     "transferHistory": [
       {
         "recordId": "4381695",
@@ -12358,7 +16895,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 31.0,
+      "pointsPerGame": 16.4,
+      "reboundsPerGame": 3.2,
+      "assistsPerGame": 1.6,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 47.9,
+      "threePointPercentage": 43.8,
+      "freeThrowPercentage": 79.2
+    },
     "transferHistory": [
       {
         "recordId": "8611",
@@ -12378,7 +16925,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 7.7,
+      "pointsPerGame": 2.3,
+      "reboundsPerGame": 1.3,
+      "assistsPerGame": 0.6,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 46.2,
+      "threePointPercentage": 30.8,
+      "freeThrowPercentage": 0
+    },
     "transferHistory": [
       {
         "recordId": "323409",
@@ -12398,7 +16955,17 @@ const basketballTransfers = [
     "destination": "St. John's",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 33.6,
+      "pointsPerGame": 19.3,
+      "reboundsPerGame": 6.9,
+      "assistsPerGame": 2.5,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.6,
+      "fieldGoalPercentage": 45.2,
+      "threePointPercentage": 37.9,
+      "freeThrowPercentage": 85.7
+    },
     "transferHistory": [
       {
         "recordId": "3880465",
@@ -12418,7 +16985,17 @@ const basketballTransfers = [
     "destination": "Eastern Kentucky",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 7.5,
+      "pointsPerGame": 1.8,
+      "reboundsPerGame": 0.9,
+      "assistsPerGame": 1.3,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 37.5,
+      "threePointPercentage": 15.4,
+      "freeThrowPercentage": 83.3
+    },
     "transferHistory": [
       {
         "recordId": "111540",
@@ -12438,7 +17015,17 @@ const basketballTransfers = [
     "destination": "Florida Atlantic",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 31.2,
+      "pointsPerGame": 17.8,
+      "reboundsPerGame": 4.6,
+      "assistsPerGame": 2.3,
+      "stealsPerGame": 1.9,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 37.2,
+      "threePointPercentage": 34,
+      "freeThrowPercentage": 88.4
+    },
     "transferHistory": [
       {
         "recordId": "3124",
@@ -12458,7 +17045,17 @@ const basketballTransfers = [
     "destination": "Mississippi State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 29.3,
+      "pointsPerGame": 12.8,
+      "reboundsPerGame": 4.9,
+      "assistsPerGame": 2.3,
+      "stealsPerGame": 1.2,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 47.8,
+      "threePointPercentage": 34.3,
+      "freeThrowPercentage": 72.7
+    },
     "transferHistory": [
       {
         "recordId": "4403289",
@@ -12478,7 +17075,17 @@ const basketballTransfers = [
     "destination": "Akron",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 14.2,
+      "pointsPerGame": 4.1,
+      "reboundsPerGame": 2.8,
+      "assistsPerGame": 0.4,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.5,
+      "fieldGoalPercentage": 47.0,
+      "threePointPercentage": 31.6,
+      "freeThrowPercentage": 77.3
+    },
     "transferHistory": [
       {
         "recordId": "600040",
@@ -12498,7 +17105,17 @@ const basketballTransfers = [
     "destination": "NC State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 30.3,
+      "pointsPerGame": 15.6,
+      "reboundsPerGame": 3.0,
+      "assistsPerGame": 2.5,
+      "stealsPerGame": 1.2,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 48.4,
+      "threePointPercentage": 39.3,
+      "freeThrowPercentage": 78.7
+    },
     "transferHistory": [
       {
         "recordId": "3282",
@@ -12518,7 +17135,17 @@ const basketballTransfers = [
     "destination": "Hawai'i",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 1.0,
+      "pointsPerGame": 0.0,
+      "reboundsPerGame": 0.0,
+      "assistsPerGame": 0.0,
+      "stealsPerGame": 0.0,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 0,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 0
+    },
     "transferHistory": [
       {
         "recordId": "220506",
@@ -12558,7 +17185,17 @@ const basketballTransfers = [
     "destination": "Ole Miss",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 14.9,
+      "pointsPerGame": 4.1,
+      "reboundsPerGame": 5.8,
+      "assistsPerGame": 0.8,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.9,
+      "fieldGoalPercentage": 62.7,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 37
+    },
     "transferHistory": [
       {
         "recordId": "2893",
@@ -12578,7 +17215,17 @@ const basketballTransfers = [
     "destination": "South Carolina",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 12.7,
+      "pointsPerGame": 3.3,
+      "reboundsPerGame": 1.9,
+      "assistsPerGame": 0.8,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 46.2,
+      "threePointPercentage": 36.4,
+      "freeThrowPercentage": 62.5
+    },
     "transferHistory": [
       {
         "recordId": "225726",
@@ -12598,7 +17245,17 @@ const basketballTransfers = [
     "destination": "Milwaukee",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 1.0,
+      "pointsPerGame": 0.0,
+      "reboundsPerGame": 0.0,
+      "assistsPerGame": 0.0,
+      "stealsPerGame": 0.0,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 0,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 0
+    },
     "transferHistory": [
       {
         "recordId": "2824",
@@ -12647,7 +17304,7 @@ const basketballTransfers = [
       "blocksPerGame": 0.2,
       "fieldGoalPercentage": 46.3,
       "threePointPercentage": 38.1,
-      "freeThrowPercentage": 68
+      "freeThrowPercentage": 68.0
     },
     "transferHistory": [
       {
@@ -12668,7 +17325,17 @@ const basketballTransfers = [
     "destination": "Tennessee",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 26.7,
+      "pointsPerGame": 16.2,
+      "reboundsPerGame": 4.0,
+      "assistsPerGame": 2.6,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 51.5,
+      "threePointPercentage": 20,
+      "freeThrowPercentage": 67.4
+    },
     "transferHistory": [
       {
         "recordId": "3044",
@@ -12718,7 +17385,17 @@ const basketballTransfers = [
     "destination": "Elon",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 7.2,
+      "pointsPerGame": 1.8,
+      "reboundsPerGame": 1.2,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 76.9,
+      "threePointPercentage": 60,
+      "freeThrowPercentage": 33.3
+    },
     "transferHistory": [
       {
         "recordId": "2507",
@@ -12738,7 +17415,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 18.4,
+      "pointsPerGame": 7.6,
+      "reboundsPerGame": 1.5,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 40.3,
+      "threePointPercentage": 40.3,
+      "freeThrowPercentage": 83.3
+    },
     "transferHistory": [
       {
         "recordId": "2736",
@@ -12758,7 +17445,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 28.1,
+      "pointsPerGame": 12.4,
+      "reboundsPerGame": 3.8,
+      "assistsPerGame": 2.9,
+      "stealsPerGame": 1.4,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 44.6,
+      "threePointPercentage": 30.9,
+      "freeThrowPercentage": 83.2
+    },
     "transferHistory": [
       {
         "recordId": "2439",
@@ -12778,7 +17475,17 @@ const basketballTransfers = [
     "destination": "Virginia",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 27.5,
+      "pointsPerGame": 12.8,
+      "reboundsPerGame": 3.7,
+      "assistsPerGame": 2.5,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 39.1,
+      "threePointPercentage": 34.6,
+      "freeThrowPercentage": 81.8
+    },
     "transferHistory": [
       {
         "recordId": "3303",
@@ -12798,7 +17505,17 @@ const basketballTransfers = [
     "destination": "VCU",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 18.4,
+      "pointsPerGame": 7.7,
+      "reboundsPerGame": 3.6,
+      "assistsPerGame": 1.2,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 46.4,
+      "threePointPercentage": 36.4,
+      "freeThrowPercentage": 77.6
+    },
     "transferHistory": [
       {
         "recordId": "2529",
@@ -12838,7 +17555,17 @@ const basketballTransfers = [
     "destination": "Tarleton State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 25.8,
+      "pointsPerGame": 7.3,
+      "reboundsPerGame": 3.6,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 45.1,
+      "threePointPercentage": 35.7,
+      "freeThrowPercentage": 72.1
+    },
     "transferHistory": [
       {
         "recordId": "3262",
@@ -12858,7 +17585,17 @@ const basketballTransfers = [
     "destination": "Washington State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 8.8,
+      "pointsPerGame": 3.7,
+      "reboundsPerGame": 0.7,
+      "assistsPerGame": 0.3,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 50,
+      "threePointPercentage": 27.3,
+      "freeThrowPercentage": 100
+    },
     "transferHistory": [
       {
         "recordId": "3230",
@@ -12878,7 +17615,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 31.8,
+      "pointsPerGame": 19.1,
+      "reboundsPerGame": 4.7,
+      "assistsPerGame": 4.9,
+      "stealsPerGame": 1.6,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 53.5,
+      "threePointPercentage": 15.4,
+      "freeThrowPercentage": 59.2
+    },
     "transferHistory": [
       {
         "recordId": "198231",
@@ -12898,7 +17645,17 @@ const basketballTransfers = [
     "destination": "Indiana",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 9.6,
+      "pointsPerGame": 3.3,
+      "reboundsPerGame": 0.8,
+      "assistsPerGame": 0.4,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 36.3,
+      "threePointPercentage": 33.3,
+      "freeThrowPercentage": 76.9
+    },
     "transferHistory": [
       {
         "recordId": "2715",
@@ -12918,7 +17675,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 6.4,
+      "pointsPerGame": 1.4,
+      "reboundsPerGame": 0.6,
+      "assistsPerGame": 0.3,
+      "stealsPerGame": 0.0,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 18.8,
+      "threePointPercentage": 21.4,
+      "freeThrowPercentage": 50
+    },
     "transferHistory": [
       {
         "recordId": "78625",
@@ -12938,7 +17705,17 @@ const basketballTransfers = [
     "destination": "Prairie View A&M",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 9.7,
+      "pointsPerGame": 4.0,
+      "reboundsPerGame": 2.4,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 35.1,
+      "threePointPercentage": 30,
+      "freeThrowPercentage": 80
+    },
     "transferHistory": [
       {
         "recordId": "2603",
@@ -12958,7 +17735,17 @@ const basketballTransfers = [
     "destination": "UMass Lowell",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 11.4,
+      "pointsPerGame": 6.3,
+      "reboundsPerGame": 2.6,
+      "assistsPerGame": 0.6,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 40.4,
+      "threePointPercentage": 30.5,
+      "freeThrowPercentage": 75.6
+    },
     "transferHistory": [
       {
         "recordId": "2907",
@@ -12998,7 +17785,17 @@ const basketballTransfers = [
     "destination": "Tennessee",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 35.2,
+      "pointsPerGame": 21.4,
+      "reboundsPerGame": 6.5,
+      "assistsPerGame": 1.9,
+      "stealsPerGame": 1.3,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 44.4,
+      "threePointPercentage": 33.2,
+      "freeThrowPercentage": 78.3
+    },
     "transferHistory": [
       {
         "recordId": "3005",
@@ -13018,7 +17815,17 @@ const basketballTransfers = [
     "destination": "Eastern Michigan",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 16.9,
+      "pointsPerGame": 5.7,
+      "reboundsPerGame": 2.7,
+      "assistsPerGame": 1.5,
+      "stealsPerGame": 1.1,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 38.6,
+      "threePointPercentage": 18.2,
+      "freeThrowPercentage": 62.5
+    },
     "transferHistory": [
       {
         "recordId": "2618",
@@ -13038,7 +17845,17 @@ const basketballTransfers = [
     "destination": "UNLV",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 12.8,
+      "pointsPerGame": 5.5,
+      "reboundsPerGame": 2.3,
+      "assistsPerGame": 0.3,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.7,
+      "fieldGoalPercentage": 40.4,
+      "threePointPercentage": 28.8,
+      "freeThrowPercentage": 53.3
+    },
     "transferHistory": [
       {
         "recordId": "2744",
@@ -13058,7 +17875,17 @@ const basketballTransfers = [
     "destination": "Loyola Maryland",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 12.3,
+      "pointsPerGame": 3.2,
+      "reboundsPerGame": 2.0,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 46.7,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 62.5
+    },
     "transferHistory": [
       {
         "recordId": "312410",
@@ -13078,7 +17905,17 @@ const basketballTransfers = [
     "destination": "Washington State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 29.5,
+      "pointsPerGame": 14.7,
+      "reboundsPerGame": 6.1,
+      "assistsPerGame": 1.8,
+      "stealsPerGame": 1.2,
+      "blocksPerGame": 0.7,
+      "fieldGoalPercentage": 47.7,
+      "threePointPercentage": 29.6,
+      "freeThrowPercentage": 65.5
+    },
     "transferHistory": [
       {
         "recordId": "135981",
@@ -13098,7 +17935,17 @@ const basketballTransfers = [
     "destination": "Delaware",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 16.7,
+      "pointsPerGame": 5.2,
+      "reboundsPerGame": 2.5,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 60,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 70
+    },
     "transferHistory": [
       {
         "recordId": "3217",
@@ -13118,7 +17965,17 @@ const basketballTransfers = [
     "destination": "Quinnipiac",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 10.6,
+      "pointsPerGame": 2.2,
+      "reboundsPerGame": 3.0,
+      "assistsPerGame": 0.0,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 37.2,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 61.9
+    },
     "transferHistory": [
       {
         "recordId": "3439",
@@ -13138,7 +17995,17 @@ const basketballTransfers = [
     "destination": "Kansas City",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 22.4,
+      "pointsPerGame": 7.0,
+      "reboundsPerGame": 5.0,
+      "assistsPerGame": 1.0,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 45.7,
+      "threePointPercentage": 43.5,
+      "freeThrowPercentage": 70
+    },
     "transferHistory": [
       {
         "recordId": "3227",
@@ -13158,7 +18025,17 @@ const basketballTransfers = [
     "destination": "Gonzaga",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 13.8,
+      "pointsPerGame": 3.6,
+      "reboundsPerGame": 2.0,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 28.1,
+      "threePointPercentage": 27.1,
+      "freeThrowPercentage": 61.3
+    },
     "transferHistory": [
       {
         "recordId": "3153",
@@ -13178,7 +18055,17 @@ const basketballTransfers = [
     "destination": "Ole Miss",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 27.7,
+      "pointsPerGame": 11.1,
+      "reboundsPerGame": 6.4,
+      "assistsPerGame": 1.4,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.6,
+      "fieldGoalPercentage": 48,
+      "threePointPercentage": 29.9,
+      "freeThrowPercentage": 67.6
+    },
     "transferHistory": [
       {
         "recordId": "508381",
@@ -13198,7 +18085,17 @@ const basketballTransfers = [
     "destination": "Cincinnati",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 22.6,
+      "pointsPerGame": 6.7,
+      "reboundsPerGame": 5.6,
+      "assistsPerGame": 0.7,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 1.5,
+      "fieldGoalPercentage": 61.1,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 50
+    },
     "transferHistory": [
       {
         "recordId": "2627",
@@ -13218,7 +18115,17 @@ const basketballTransfers = [
     "destination": "Pittsburgh",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 27.2,
+      "pointsPerGame": 8.2,
+      "reboundsPerGame": 1.8,
+      "assistsPerGame": 2.1,
+      "stealsPerGame": 1.0,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 43.8,
+      "threePointPercentage": 23.8,
+      "freeThrowPercentage": 59
+    },
     "transferHistory": [
       {
         "recordId": "3396",
@@ -13235,15 +18142,25 @@ const basketballTransfers = [
     "sport": "basketball",
     "position": "PG",
     "previousSchool": "South Alabama",
-    "destination": "",
+    "destination": "University of Wisconsin–Parkside",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 10.3,
+      "pointsPerGame": 2.7,
+      "reboundsPerGame": 1.5,
+      "assistsPerGame": 1.0,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 31.4,
+      "threePointPercentage": 33.3,
+      "freeThrowPercentage": 68.0
+    },
     "transferHistory": [
       {
         "recordId": "2730",
         "previousSchool": "South Alabama",
-        "destination": "",
+        "destination": "University of Wisconsin–Parkside",
         "season": "2026"
       }
     ],
@@ -13258,7 +18175,17 @@ const basketballTransfers = [
     "destination": "Southern Indiana",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 10.8,
+      "pointsPerGame": 4.2,
+      "reboundsPerGame": 1.7,
+      "assistsPerGame": 0.6,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 37.5,
+      "threePointPercentage": 26.3,
+      "freeThrowPercentage": 75
+    },
     "transferHistory": [
       {
         "recordId": "220478",
@@ -13278,7 +18205,17 @@ const basketballTransfers = [
     "destination": "Western Michigan",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 29.2,
+      "pointsPerGame": 10.3,
+      "reboundsPerGame": 3.4,
+      "assistsPerGame": 1.5,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 48.9,
+      "threePointPercentage": 46.1,
+      "freeThrowPercentage": 87.7
+    },
     "transferHistory": [
       {
         "recordId": "344207",
@@ -13318,7 +18255,17 @@ const basketballTransfers = [
     "destination": "Pepperdine",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 19.4,
+      "pointsPerGame": 7.2,
+      "reboundsPerGame": 1.9,
+      "assistsPerGame": 1.2,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 35.9,
+      "threePointPercentage": 35.9,
+      "freeThrowPercentage": 75
+    },
     "transferHistory": [
       {
         "recordId": "3224",
@@ -13338,7 +18285,17 @@ const basketballTransfers = [
     "destination": "Wichita State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 18.4,
+      "pointsPerGame": 6.6,
+      "reboundsPerGame": 2.4,
+      "assistsPerGame": 0.8,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 43.8,
+      "threePointPercentage": 36.6,
+      "freeThrowPercentage": 79.1
+    },
     "transferHistory": [
       {
         "recordId": "3078",
@@ -13358,7 +18315,17 @@ const basketballTransfers = [
     "destination": "South Carolina",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 22.5,
+      "pointsPerGame": 5.9,
+      "reboundsPerGame": 2.7,
+      "assistsPerGame": 0.7,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 49.3,
+      "threePointPercentage": 45.4,
+      "freeThrowPercentage": 70.6
+    },
     "transferHistory": [
       {
         "recordId": "2427",
@@ -13378,7 +18345,17 @@ const basketballTransfers = [
     "destination": "Virginia Tech",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 19.1,
+      "pointsPerGame": 5.6,
+      "reboundsPerGame": 4.5,
+      "assistsPerGame": 0.8,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.6,
+      "fieldGoalPercentage": 61.5,
+      "threePointPercentage": 28.6,
+      "freeThrowPercentage": 51
+    },
     "transferHistory": [
       {
         "recordId": "2596",
@@ -13418,7 +18395,17 @@ const basketballTransfers = [
     "destination": "Oklahoma",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 29.8,
+      "pointsPerGame": 11.8,
+      "reboundsPerGame": 4.3,
+      "assistsPerGame": 1.9,
+      "stealsPerGame": 1.2,
+      "blocksPerGame": 0.8,
+      "fieldGoalPercentage": 49.2,
+      "threePointPercentage": 44.8,
+      "freeThrowPercentage": 79.1
+    },
     "transferHistory": [
       {
         "recordId": "191761",
@@ -13438,7 +18425,17 @@ const basketballTransfers = [
     "destination": "Fresno State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 20.2,
+      "pointsPerGame": 4.9,
+      "reboundsPerGame": 5.5,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 53.5,
+      "threePointPercentage": 0.0,
+      "freeThrowPercentage": 55.8
+    },
     "transferHistory": [
       {
         "recordId": "535493",
@@ -13458,7 +18455,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 31.5,
+      "pointsPerGame": 17.7,
+      "reboundsPerGame": 5.7,
+      "assistsPerGame": 2.9,
+      "stealsPerGame": 1.6,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 46.6,
+      "threePointPercentage": 26.8,
+      "freeThrowPercentage": 75.6
+    },
     "transferHistory": [
       {
         "recordId": "3776605",
@@ -13478,7 +18485,17 @@ const basketballTransfers = [
     "destination": "Kent State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 28.2,
+      "pointsPerGame": 10.7,
+      "reboundsPerGame": 3.4,
+      "assistsPerGame": 5.1,
+      "stealsPerGame": 1.3,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 36.7,
+      "threePointPercentage": 26.5,
+      "freeThrowPercentage": 56.3
+    },
     "transferHistory": [
       {
         "recordId": "2686",
@@ -13498,7 +18515,17 @@ const basketballTransfers = [
     "destination": "Temple",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 13.1,
+      "pointsPerGame": 4.6,
+      "reboundsPerGame": 2.4,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.6,
+      "fieldGoalPercentage": 59.3,
+      "threePointPercentage": 33.3,
+      "freeThrowPercentage": 54.1
+    },
     "transferHistory": [
       {
         "recordId": "2644",
@@ -13518,7 +18545,17 @@ const basketballTransfers = [
     "destination": "Cal State Northridge",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 22.1,
+      "pointsPerGame": 9.0,
+      "reboundsPerGame": 3.8,
+      "assistsPerGame": 0.9,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 46.6,
+      "threePointPercentage": 36.8,
+      "freeThrowPercentage": 70.0
+    },
     "transferHistory": [
       {
         "recordId": "3275",
@@ -13538,7 +18575,17 @@ const basketballTransfers = [
     "destination": "South Florida",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 9.1,
+      "pointsPerGame": 3.4,
+      "reboundsPerGame": 2.8,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 48.1,
+      "threePointPercentage": 18.8,
+      "freeThrowPercentage": 67.6
+    },
     "transferHistory": [
       {
         "recordId": "2790",
@@ -13558,7 +18605,17 @@ const basketballTransfers = [
     "destination": "Providence",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 10.2,
+      "pointsPerGame": 4.1,
+      "reboundsPerGame": 1.7,
+      "assistsPerGame": 1.7,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 52.8,
+      "threePointPercentage": 20,
+      "freeThrowPercentage": 67.4
+    },
     "transferHistory": [
       {
         "recordId": "2803",
@@ -13578,7 +18635,17 @@ const basketballTransfers = [
     "destination": "San Diego",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 26.9,
+      "pointsPerGame": 14.0,
+      "reboundsPerGame": 4.4,
+      "assistsPerGame": 2.3,
+      "stealsPerGame": 1.2,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 46.1,
+      "threePointPercentage": 33.9,
+      "freeThrowPercentage": 75.2
+    },
     "transferHistory": [
       {
         "recordId": "3474",
@@ -13598,7 +18665,17 @@ const basketballTransfers = [
     "destination": "Kennesaw State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 30.5,
+      "pointsPerGame": 10.0,
+      "reboundsPerGame": 3.9,
+      "assistsPerGame": 1.7,
+      "stealsPerGame": 1.0,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 51.4,
+      "threePointPercentage": 35.5,
+      "freeThrowPercentage": 70.9
+    },
     "transferHistory": [
       {
         "recordId": "2636",
@@ -13618,7 +18695,17 @@ const basketballTransfers = [
     "destination": "Oakland",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 16.9,
+      "pointsPerGame": 7.0,
+      "reboundsPerGame": 4.4,
+      "assistsPerGame": 0.4,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 44.8,
+      "threePointPercentage": 28.1,
+      "freeThrowPercentage": 48
+    },
     "transferHistory": [
       {
         "recordId": "5479502",
@@ -13638,7 +18725,17 @@ const basketballTransfers = [
     "destination": "Tennessee",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 25.2,
+      "pointsPerGame": 15.0,
+      "reboundsPerGame": 2.7,
+      "assistsPerGame": 2.8,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 46.6,
+      "threePointPercentage": 37,
+      "freeThrowPercentage": 85.7
+    },
     "transferHistory": [
       {
         "recordId": "2993",
@@ -13678,7 +18775,17 @@ const basketballTransfers = [
     "destination": "James Madison",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 25.0,
+      "pointsPerGame": 10.7,
+      "reboundsPerGame": 7.0,
+      "assistsPerGame": 1.3,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.7,
+      "fieldGoalPercentage": 52.6,
+      "threePointPercentage": 40,
+      "freeThrowPercentage": 70.6
+    },
     "transferHistory": [
       {
         "recordId": "3330",
@@ -13698,7 +18805,17 @@ const basketballTransfers = [
     "destination": "Utah",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 30.1,
+      "pointsPerGame": 16.0,
+      "reboundsPerGame": 7.0,
+      "assistsPerGame": 3.6,
+      "stealsPerGame": 2.2,
+      "blocksPerGame": 1.3,
+      "fieldGoalPercentage": 53,
+      "threePointPercentage": 16.2,
+      "freeThrowPercentage": 67.8
+    },
     "transferHistory": [
       {
         "recordId": "3240",
@@ -13738,7 +18855,17 @@ const basketballTransfers = [
     "destination": "Tennessee Tech",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 17.3,
+      "pointsPerGame": 5.7,
+      "reboundsPerGame": 1.6,
+      "assistsPerGame": 1.0,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 40.4,
+      "threePointPercentage": 39.7,
+      "freeThrowPercentage": 41.7
+    },
     "transferHistory": [
       {
         "recordId": "3485",
@@ -13758,7 +18885,17 @@ const basketballTransfers = [
     "destination": "Grand Canyon",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 25.5,
+      "pointsPerGame": 9.2,
+      "reboundsPerGame": 1.9,
+      "assistsPerGame": 2.1,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 42.1,
+      "threePointPercentage": 40.2,
+      "freeThrowPercentage": 81.6
+    },
     "transferHistory": [
       {
         "recordId": "4031301",
@@ -13778,7 +18915,17 @@ const basketballTransfers = [
     "destination": "Memphis",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 13.4,
+      "pointsPerGame": 4.6,
+      "reboundsPerGame": 1.7,
+      "assistsPerGame": 1.8,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 50.5,
+      "threePointPercentage": 40,
+      "freeThrowPercentage": 69.2
+    },
     "transferHistory": [
       {
         "recordId": "2967",
@@ -13798,7 +18945,17 @@ const basketballTransfers = [
     "destination": "DePaul",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 31.9,
+      "pointsPerGame": 19.5,
+      "reboundsPerGame": 5.7,
+      "assistsPerGame": 2.7,
+      "stealsPerGame": 2.0,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 48.3,
+      "threePointPercentage": 35.2,
+      "freeThrowPercentage": 65.5
+    },
     "transferHistory": [
       {
         "recordId": "2975",
@@ -13818,7 +18975,17 @@ const basketballTransfers = [
     "destination": "North Texas",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 5.3,
+      "pointsPerGame": 1.7,
+      "reboundsPerGame": 0.9,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 70.4,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 100
+    },
     "transferHistory": [
       {
         "recordId": "615908",
@@ -13838,7 +19005,17 @@ const basketballTransfers = [
     "destination": "Youngstown State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 27.2,
+      "pointsPerGame": 11.4,
+      "reboundsPerGame": 2.5,
+      "assistsPerGame": 1.7,
+      "stealsPerGame": 1.1,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 43.8,
+      "threePointPercentage": 39.4,
+      "freeThrowPercentage": 76.2
+    },
     "transferHistory": [
       {
         "recordId": "3295",
@@ -13878,7 +19055,17 @@ const basketballTransfers = [
     "destination": "Jacksonville State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 8.6,
+      "pointsPerGame": 2.7,
+      "reboundsPerGame": 1.9,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 46.2,
+      "threePointPercentage": 36.4,
+      "freeThrowPercentage": 86.7
+    },
     "transferHistory": [
       {
         "recordId": "3083",
@@ -13898,7 +19085,17 @@ const basketballTransfers = [
     "destination": "Utah State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 26.3,
+      "pointsPerGame": 11.1,
+      "reboundsPerGame": 4.6,
+      "assistsPerGame": 2.2,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.6,
+      "fieldGoalPercentage": 60.1,
+      "threePointPercentage": 44.4,
+      "freeThrowPercentage": 52.7
+    },
     "transferHistory": [
       {
         "recordId": "10824",
@@ -13938,7 +19135,17 @@ const basketballTransfers = [
     "destination": "Texas State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 30.1,
+      "pointsPerGame": 15.2,
+      "reboundsPerGame": 3.4,
+      "assistsPerGame": 3.3,
+      "stealsPerGame": 1.7,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 46.6,
+      "threePointPercentage": 25.5,
+      "freeThrowPercentage": 75
+    },
     "transferHistory": [
       {
         "recordId": "3094",
@@ -13958,7 +19165,17 @@ const basketballTransfers = [
     "destination": "Florida Gulf Coast",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 6.2,
+      "pointsPerGame": 1.4,
+      "reboundsPerGame": 1.1,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 42.9,
+      "threePointPercentage": 33.3,
+      "freeThrowPercentage": 62.5
+    },
     "transferHistory": [
       {
         "recordId": "2451",
@@ -13998,7 +19215,17 @@ const basketballTransfers = [
     "destination": "Long Island University",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 6.8,
+      "pointsPerGame": 1.3,
+      "reboundsPerGame": 1.5,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.0,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 25,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 80
+    },
     "transferHistory": [
       {
         "recordId": "3423",
@@ -14018,7 +19245,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 27.1,
+      "pointsPerGame": 10.7,
+      "reboundsPerGame": 4.0,
+      "assistsPerGame": 1.7,
+      "stealsPerGame": 1.4,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 46.2,
+      "threePointPercentage": 25,
+      "freeThrowPercentage": 65.1
+    },
     "transferHistory": [
       {
         "recordId": "3428",
@@ -14058,7 +19295,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 35.9,
+      "pointsPerGame": 16.5,
+      "reboundsPerGame": 2.3,
+      "assistsPerGame": 2.1,
+      "stealsPerGame": 1.0,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 35.9,
+      "threePointPercentage": 35.4,
+      "freeThrowPercentage": 86.9
+    },
     "transferHistory": [
       {
         "recordId": "6590686",
@@ -14078,7 +19325,17 @@ const basketballTransfers = [
     "destination": "USC",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 27.6,
+      "pointsPerGame": 9.3,
+      "reboundsPerGame": 4.7,
+      "assistsPerGame": 0.8,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 48.4,
+      "threePointPercentage": 36.4,
+      "freeThrowPercentage": 75
+    },
     "transferHistory": [
       {
         "recordId": "618810",
@@ -14098,7 +19355,17 @@ const basketballTransfers = [
     "destination": "Sacramento State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 31.6,
+      "pointsPerGame": 17.7,
+      "reboundsPerGame": 2.9,
+      "assistsPerGame": 0.9,
+      "stealsPerGame": 1.5,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 42.1,
+      "threePointPercentage": 39.5,
+      "freeThrowPercentage": 86
+    },
     "transferHistory": [
       {
         "recordId": "3128",
@@ -14118,7 +19385,17 @@ const basketballTransfers = [
     "destination": "Austin Peay",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 12.3,
+      "pointsPerGame": 4.3,
+      "reboundsPerGame": 2.5,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 48.8,
+      "threePointPercentage": 39.3,
+      "freeThrowPercentage": 64.7
+    },
     "transferHistory": [
       {
         "recordId": "2735",
@@ -14138,7 +19415,17 @@ const basketballTransfers = [
     "destination": "Barry University",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 10.8,
+      "pointsPerGame": 2.2,
+      "reboundsPerGame": 4.0,
+      "assistsPerGame": 1.2,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 36.4,
+      "threePointPercentage": 33.3,
+      "freeThrowPercentage": 0
+    },
     "transferHistory": [
       {
         "recordId": "3222",
@@ -14158,7 +19445,17 @@ const basketballTransfers = [
     "destination": "Loyola Marymount",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 30.1,
+      "pointsPerGame": 7.7,
+      "reboundsPerGame": 6.6,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.6,
+      "fieldGoalPercentage": 38.3,
+      "threePointPercentage": 37.2,
+      "freeThrowPercentage": 66
+    },
     "transferHistory": [
       {
         "recordId": "3405",
@@ -14178,7 +19475,17 @@ const basketballTransfers = [
     "destination": "Boston College",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 19.2,
+      "pointsPerGame": 8.4,
+      "reboundsPerGame": 5.1,
+      "assistsPerGame": 0.9,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 49.2,
+      "threePointPercentage": 31.1,
+      "freeThrowPercentage": 81.7
+    },
     "transferHistory": [
       {
         "recordId": "2448",
@@ -14198,7 +19505,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 30.9,
+      "pointsPerGame": 21.0,
+      "reboundsPerGame": 4.2,
+      "assistsPerGame": 2.7,
+      "stealsPerGame": 1.4,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 50.6,
+      "threePointPercentage": 36.9,
+      "freeThrowPercentage": 79.6
+    },
     "transferHistory": [
       {
         "recordId": "3106",
@@ -14218,7 +19535,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 28.6,
+      "pointsPerGame": 7.5,
+      "reboundsPerGame": 3.7,
+      "assistsPerGame": 3.0,
+      "stealsPerGame": 1.0,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 41.1,
+      "threePointPercentage": 34.7,
+      "freeThrowPercentage": 78.6
+    },
     "transferHistory": [
       {
         "recordId": "3779611",
@@ -14238,7 +19565,17 @@ const basketballTransfers = [
     "destination": "Southern Indiana",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 12.6,
+      "pointsPerGame": 4.0,
+      "reboundsPerGame": 1.8,
+      "assistsPerGame": 0.7,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 36.1,
+      "threePointPercentage": 32.1,
+      "freeThrowPercentage": 60
+    },
     "transferHistory": [
       {
         "recordId": "2822",
@@ -14258,7 +19595,17 @@ const basketballTransfers = [
     "destination": "Stephen F. Austin",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 3.7,
+      "pointsPerGame": 2.3,
+      "reboundsPerGame": 0.5,
+      "assistsPerGame": 0.0,
+      "stealsPerGame": 0.0,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 35.7,
+      "threePointPercentage": 22.2,
+      "freeThrowPercentage": 100
+    },
     "transferHistory": [
       {
         "recordId": "113196",
@@ -14278,7 +19625,17 @@ const basketballTransfers = [
     "destination": "The Citadel",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 9.0,
+      "pointsPerGame": 1.6,
+      "reboundsPerGame": 3.4,
+      "assistsPerGame": 0.8,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 35.7,
+      "threePointPercentage": 33.3,
+      "freeThrowPercentage": 25
+    },
     "transferHistory": [
       {
         "recordId": "2753",
@@ -14298,7 +19655,17 @@ const basketballTransfers = [
     "destination": "Troy",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 28.4,
+      "pointsPerGame": 12.3,
+      "reboundsPerGame": 3.3,
+      "assistsPerGame": 3.2,
+      "stealsPerGame": 1.4,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 43.7,
+      "threePointPercentage": 25.4,
+      "freeThrowPercentage": 86.2
+    },
     "transferHistory": [
       {
         "recordId": "3333",
@@ -14318,7 +19685,17 @@ const basketballTransfers = [
     "destination": "Denver",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 14.6,
+      "pointsPerGame": 6.2,
+      "reboundsPerGame": 1.1,
+      "assistsPerGame": 1.1,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 40.9,
+      "threePointPercentage": 42.1,
+      "freeThrowPercentage": 81.6
+    },
     "transferHistory": [
       {
         "recordId": "369415",
@@ -14338,7 +19715,17 @@ const basketballTransfers = [
     "destination": "Portland State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 9.2,
+      "pointsPerGame": 3.8,
+      "reboundsPerGame": 1.6,
+      "assistsPerGame": 0.3,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 59.6,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 29.6
+    },
     "transferHistory": [
       {
         "recordId": "4406373",
@@ -14358,7 +19745,17 @@ const basketballTransfers = [
     "destination": "Florida Atlantic",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 7.8,
+      "pointsPerGame": 0.7,
+      "reboundsPerGame": 2.0,
+      "assistsPerGame": 0.3,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 77.8,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 0
+    },
     "transferHistory": [
       {
         "recordId": "2850",
@@ -14398,7 +19795,17 @@ const basketballTransfers = [
     "destination": "California",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 23.6,
+      "pointsPerGame": 9.1,
+      "reboundsPerGame": 3.1,
+      "assistsPerGame": 1.7,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 40.3,
+      "threePointPercentage": 38.7,
+      "freeThrowPercentage": 63.5
+    },
     "transferHistory": [
       {
         "recordId": "2525",
@@ -14418,7 +19825,17 @@ const basketballTransfers = [
     "destination": "Arizona State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 24.4,
+      "pointsPerGame": 6.0,
+      "reboundsPerGame": 3.8,
+      "assistsPerGame": 1.7,
+      "stealsPerGame": 1.0,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 46.9,
+      "threePointPercentage": 28.4,
+      "freeThrowPercentage": 60.6
+    },
     "transferHistory": [
       {
         "recordId": "2959",
@@ -14438,7 +19855,17 @@ const basketballTransfers = [
     "destination": "Oklahoma",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 22.4,
+      "pointsPerGame": 9.8,
+      "reboundsPerGame": 2.5,
+      "assistsPerGame": 2.6,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 42.2,
+      "threePointPercentage": 39.6,
+      "freeThrowPercentage": 76
+    },
     "transferHistory": [
       {
         "recordId": "2437",
@@ -14458,7 +19885,17 @@ const basketballTransfers = [
     "destination": "Northern Illinois",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 19.5,
+      "pointsPerGame": 7.4,
+      "reboundsPerGame": 5.1,
+      "assistsPerGame": 0.4,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 55.7,
+      "threePointPercentage": 20,
+      "freeThrowPercentage": 58.6
+    },
     "transferHistory": [
       {
         "recordId": "842836",
@@ -14518,7 +19955,17 @@ const basketballTransfers = [
     "destination": "Maryland",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 19.8,
+      "pointsPerGame": 7.7,
+      "reboundsPerGame": 3.8,
+      "assistsPerGame": 1.0,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 49.5,
+      "threePointPercentage": 43.2,
+      "freeThrowPercentage": 77.4
+    },
     "transferHistory": [
       {
         "recordId": "3291",
@@ -14547,7 +19994,8 @@ const basketballTransfers = [
         "season": "2026"
       }
     ],
-    "needsReview": false
+    "needsReview": false,
+    "seasonNote": "Brayden Jackson redshirted during the 2025–26 season at St. Bonaventure. N/A statistics reflect his redshirt season."
   },
   {
     "playerId": "46136311",
@@ -14558,7 +20006,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 17.1,
+      "pointsPerGame": 4.0,
+      "reboundsPerGame": 3.9,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.6,
+      "fieldGoalPercentage": 62.7,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 52.5
+    },
     "transferHistory": [
       {
         "recordId": "2833",
@@ -14578,7 +20036,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 26.9,
+      "pointsPerGame": 10.7,
+      "reboundsPerGame": 3.4,
+      "assistsPerGame": 4.6,
+      "stealsPerGame": 1.1,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 49.1,
+      "threePointPercentage": 25.9,
+      "freeThrowPercentage": 70.5
+    },
     "transferHistory": [
       {
         "recordId": "3776600",
@@ -14598,7 +20066,17 @@ const basketballTransfers = [
     "destination": "Georgetown",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 17.7,
+      "pointsPerGame": 4.8,
+      "reboundsPerGame": 1.8,
+      "assistsPerGame": 1.4,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 38.1,
+      "threePointPercentage": 37.2,
+      "freeThrowPercentage": 82.5
+    },
     "transferHistory": [
       {
         "recordId": "2909",
@@ -14618,7 +20096,17 @@ const basketballTransfers = [
     "destination": "Georgia State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 32.1,
+      "pointsPerGame": 12.2,
+      "reboundsPerGame": 4.2,
+      "assistsPerGame": 2.5,
+      "stealsPerGame": 1.5,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 37.8,
+      "threePointPercentage": 32.2,
+      "freeThrowPercentage": 78.3
+    },
     "transferHistory": [
       {
         "recordId": "3276",
@@ -14638,7 +20126,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 25.6,
+      "pointsPerGame": 16.5,
+      "reboundsPerGame": 2.3,
+      "assistsPerGame": 2.9,
+      "stealsPerGame": 1.2,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 42.8,
+      "threePointPercentage": 36.9,
+      "freeThrowPercentage": 85.5
+    },
     "transferHistory": [
       {
         "recordId": "281507",
@@ -14678,7 +20176,17 @@ const basketballTransfers = [
     "destination": "Hampton",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 16.8,
+      "pointsPerGame": 8.6,
+      "reboundsPerGame": 2.0,
+      "assistsPerGame": 0.9,
+      "stealsPerGame": 1.2,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 42,
+      "threePointPercentage": 31.3,
+      "freeThrowPercentage": 76.7
+    },
     "transferHistory": [
       {
         "recordId": "136578",
@@ -14718,7 +20226,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 32.1,
+      "pointsPerGame": 17.3,
+      "reboundsPerGame": 3.6,
+      "assistsPerGame": 5.1,
+      "stealsPerGame": 1.6,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 40.2,
+      "threePointPercentage": 33.9,
+      "freeThrowPercentage": 66.2
+    },
     "transferHistory": [
       {
         "recordId": "4134213",
@@ -14738,7 +20256,17 @@ const basketballTransfers = [
     "destination": "DePaul",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 27.4,
+      "pointsPerGame": 8.8,
+      "reboundsPerGame": 8.8,
+      "assistsPerGame": 1.1,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.8,
+      "fieldGoalPercentage": 48.4,
+      "threePointPercentage": 30.8,
+      "freeThrowPercentage": 74.4
+    },
     "transferHistory": [
       {
         "recordId": "165212",
@@ -14758,7 +20286,17 @@ const basketballTransfers = [
     "destination": "George Washington",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 15.0,
+      "pointsPerGame": 4.5,
+      "reboundsPerGame": 3.8,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.6,
+      "fieldGoalPercentage": 46.1,
+      "threePointPercentage": 5.9,
+      "freeThrowPercentage": 75.6
+    },
     "transferHistory": [
       {
         "recordId": "3218",
@@ -14798,7 +20336,17 @@ const basketballTransfers = [
     "destination": "Charlotte",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 30.0,
+      "pointsPerGame": 10.9,
+      "reboundsPerGame": 2.2,
+      "assistsPerGame": 2.1,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 44,
+      "threePointPercentage": 44.2,
+      "freeThrowPercentage": 77.3
+    },
     "transferHistory": [
       {
         "recordId": "2526",
@@ -14838,7 +20386,17 @@ const basketballTransfers = [
     "destination": "South Florida",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 10.7,
+      "pointsPerGame": 1.5,
+      "reboundsPerGame": 2.0,
+      "assistsPerGame": 0.8,
+      "stealsPerGame": 0.0,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 29.4,
+      "threePointPercentage": 33.3,
+      "freeThrowPercentage": 57.1
+    },
     "transferHistory": [
       {
         "recordId": "2535",
@@ -14858,7 +20416,17 @@ const basketballTransfers = [
     "destination": "North Carolina A&T",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 32.3,
+      "pointsPerGame": 13.6,
+      "reboundsPerGame": 2.9,
+      "assistsPerGame": 3.4,
+      "stealsPerGame": 1.9,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 38.4,
+      "threePointPercentage": 32.8,
+      "freeThrowPercentage": 84.7
+    },
     "transferHistory": [
       {
         "recordId": "672371",
@@ -14878,7 +20446,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 23.9,
+      "pointsPerGame": 7.8,
+      "reboundsPerGame": 1.6,
+      "assistsPerGame": 0.9,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 39.5,
+      "threePointPercentage": 27.4,
+      "freeThrowPercentage": 78.3
+    },
     "transferHistory": [
       {
         "recordId": "2729",
@@ -14898,7 +20476,17 @@ const basketballTransfers = [
     "destination": "Davidson",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 31.5,
+      "pointsPerGame": 16.1,
+      "reboundsPerGame": 5.1,
+      "assistsPerGame": 2.1,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 49.3,
+      "threePointPercentage": 33.5,
+      "freeThrowPercentage": 64.1
+    },
     "transferHistory": [
       {
         "recordId": "2798",
@@ -14918,7 +20506,17 @@ const basketballTransfers = [
     "destination": "Arizona",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 11.0,
+      "pointsPerGame": 7.0,
+      "reboundsPerGame": 2.0,
+      "assistsPerGame": 0.0,
+      "stealsPerGame": 0.0,
+      "blocksPerGame": 2.0,
+      "fieldGoalPercentage": 100,
+      "threePointPercentage": 100,
+      "freeThrowPercentage": 0
+    },
     "transferHistory": [
       {
         "recordId": "311058",
@@ -14938,7 +20536,17 @@ const basketballTransfers = [
     "destination": "Wyoming",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 30.1,
+      "pointsPerGame": 12.4,
+      "reboundsPerGame": 1.8,
+      "assistsPerGame": 2.6,
+      "stealsPerGame": 1.4,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 40.6,
+      "threePointPercentage": 29,
+      "freeThrowPercentage": 74.7
+    },
     "transferHistory": [
       {
         "recordId": "3400",
@@ -14958,7 +20566,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 16.7,
+      "pointsPerGame": 7.6,
+      "reboundsPerGame": 2.8,
+      "assistsPerGame": 0.4,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 41.9,
+      "threePointPercentage": 35.1,
+      "freeThrowPercentage": 62.9
+    },
     "transferHistory": [
       {
         "recordId": "113192",
@@ -14978,7 +20596,17 @@ const basketballTransfers = [
     "destination": "Loyola Chicago",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 8.3,
+      "pointsPerGame": 3.0,
+      "reboundsPerGame": 1.0,
+      "assistsPerGame": 1.0,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 48.9,
+      "threePointPercentage": 35.7,
+      "freeThrowPercentage": 80
+    },
     "transferHistory": [
       {
         "recordId": "138469",
@@ -14998,22 +20626,32 @@ const basketballTransfers = [
     "destination": "Ohio State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 15.7,
+      "pointsPerGame": 5.5,
+      "reboundsPerGame": 4.0,
+      "assistsPerGame": 0.7,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 47.7,
+      "threePointPercentage": 27.6,
+      "freeThrowPercentage": 53.3
+    },
     "transferHistory": [
-      {
-        "recordId": "2748",
-        "previousSchool": "Kentucky",
-        "destination": "Ohio State",
-        "season": "2026"
-      },
       {
         "recordId": "2792512",
         "previousSchool": "Ohio State",
         "destination": "Ohio State",
         "season": "2026"
+      },
+      {
+        "recordId": "2748",
+        "previousSchool": "Kentucky",
+        "destination": "Ohio State",
+        "season": "2026"
       }
     ],
-    "needsReview": false
+    "needsReview": true
   },
   {
     "playerId": "46151602",
@@ -15024,7 +20662,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 18.9,
+      "pointsPerGame": 5.7,
+      "reboundsPerGame": 3.2,
+      "assistsPerGame": 1.0,
+      "stealsPerGame": 1.1,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 37.1,
+      "threePointPercentage": 32.8,
+      "freeThrowPercentage": 71.1
+    },
     "transferHistory": [
       {
         "recordId": "334509",
@@ -15044,7 +20692,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 3.0,
+      "pointsPerGame": 0.0,
+      "reboundsPerGame": 0.0,
+      "assistsPerGame": 0.0,
+      "stealsPerGame": 0.0,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 0,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 0
+    },
     "transferHistory": [
       {
         "recordId": "2639",
@@ -15134,7 +20792,17 @@ const basketballTransfers = [
     "destination": "Virginia Tech",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 21.0,
+      "pointsPerGame": 6.3,
+      "reboundsPerGame": 2.1,
+      "assistsPerGame": 1.0,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 38.5,
+      "threePointPercentage": 35.5,
+      "freeThrowPercentage": 83.0
+    },
     "transferHistory": [
       {
         "recordId": "2542",
@@ -15154,7 +20822,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 8.5,
+      "pointsPerGame": 2.4,
+      "reboundsPerGame": 1.2,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 40.9,
+      "threePointPercentage": 42.9,
+      "freeThrowPercentage": 50
+    },
     "transferHistory": [
       {
         "recordId": "601497",
@@ -15174,7 +20852,17 @@ const basketballTransfers = [
     "destination": "Oregon State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 15.8,
+      "pointsPerGame": 6.2,
+      "reboundsPerGame": 1.4,
+      "assistsPerGame": 1.9,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 43.2,
+      "threePointPercentage": 36.5,
+      "freeThrowPercentage": 70
+    },
     "transferHistory": [
       {
         "recordId": "2559",
@@ -15194,7 +20882,17 @@ const basketballTransfers = [
     "destination": "James Madison",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 24.8,
+      "pointsPerGame": 10.0,
+      "reboundsPerGame": 4.9,
+      "assistsPerGame": 0.7,
+      "stealsPerGame": 1.0,
+      "blocksPerGame": 0.5,
+      "fieldGoalPercentage": 39.9,
+      "threePointPercentage": 32.2,
+      "freeThrowPercentage": 73
+    },
     "transferHistory": [
       {
         "recordId": "3021",
@@ -15214,7 +20912,17 @@ const basketballTransfers = [
     "destination": "Marshall",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 15.3,
+      "pointsPerGame": 3.0,
+      "reboundsPerGame": 2.3,
+      "assistsPerGame": 2.4,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 46.3,
+      "threePointPercentage": 21.7,
+      "freeThrowPercentage": 57.1
+    },
     "transferHistory": [
       {
         "recordId": "3212",
@@ -15234,7 +20942,17 @@ const basketballTransfers = [
     "destination": "UCF",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 26.2,
+      "pointsPerGame": 24.0,
+      "reboundsPerGame": 3.2,
+      "assistsPerGame": 1.6,
+      "stealsPerGame": 1.2,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 51.8,
+      "threePointPercentage": 53.8,
+      "freeThrowPercentage": 84.9
+    },
     "transferHistory": [
       {
         "recordId": "3154",
@@ -15254,7 +20972,17 @@ const basketballTransfers = [
     "destination": "South Florida",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 22.6,
+      "pointsPerGame": 11.4,
+      "reboundsPerGame": 3.4,
+      "assistsPerGame": 1.2,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 40.4,
+      "threePointPercentage": 33.1,
+      "freeThrowPercentage": 83.8
+    },
     "transferHistory": [
       {
         "recordId": "3003",
@@ -15274,7 +21002,17 @@ const basketballTransfers = [
     "destination": "Texas",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 30.6,
+      "pointsPerGame": 16.9,
+      "reboundsPerGame": 2.8,
+      "assistsPerGame": 3.0,
+      "stealsPerGame": 1.0,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 48.6,
+      "threePointPercentage": 37.8,
+      "freeThrowPercentage": 82.1
+    },
     "transferHistory": [
       {
         "recordId": "3207",
@@ -15294,7 +21032,17 @@ const basketballTransfers = [
     "destination": "Iowa State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 30.4,
+      "pointsPerGame": 16.9,
+      "reboundsPerGame": 3.9,
+      "assistsPerGame": 3.6,
+      "stealsPerGame": 2.5,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 42.3,
+      "threePointPercentage": 38.3,
+      "freeThrowPercentage": 78.4
+    },
     "transferHistory": [
       {
         "recordId": "3220",
@@ -15314,7 +21062,17 @@ const basketballTransfers = [
     "destination": "Oregon",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 12.0,
+      "pointsPerGame": 4.9,
+      "reboundsPerGame": 1.1,
+      "assistsPerGame": 1.6,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 40,
+      "threePointPercentage": 34.1,
+      "freeThrowPercentage": 88
+    },
     "transferHistory": [
       {
         "recordId": "2988",
@@ -15334,7 +21092,17 @@ const basketballTransfers = [
     "destination": "Bowling Green",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 27.4,
+      "pointsPerGame": 13.4,
+      "reboundsPerGame": 3.0,
+      "assistsPerGame": 3.5,
+      "stealsPerGame": 1.4,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 43.2,
+      "threePointPercentage": 37,
+      "freeThrowPercentage": 72.6
+    },
     "transferHistory": [
       {
         "recordId": "3360",
@@ -15354,7 +21122,17 @@ const basketballTransfers = [
     "destination": "UNC Asheville",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 31.3,
+      "pointsPerGame": 11.9,
+      "reboundsPerGame": 2.8,
+      "assistsPerGame": 3.4,
+      "stealsPerGame": 2.1,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 35.4,
+      "threePointPercentage": 32.4,
+      "freeThrowPercentage": 80
+    },
     "transferHistory": [
       {
         "recordId": "2551",
@@ -15374,7 +21152,17 @@ const basketballTransfers = [
     "destination": "Tulsa",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 32.4,
+      "pointsPerGame": 15.2,
+      "reboundsPerGame": 3.5,
+      "assistsPerGame": 1.9,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 44.9,
+      "threePointPercentage": 37.4,
+      "freeThrowPercentage": 86.5
+    },
     "transferHistory": [
       {
         "recordId": "3379",
@@ -15394,7 +21182,17 @@ const basketballTransfers = [
     "destination": "Portland State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 9.6,
+      "pointsPerGame": 1.8,
+      "reboundsPerGame": 0.8,
+      "assistsPerGame": 1.4,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 26.7,
+      "threePointPercentage": 19.4,
+      "freeThrowPercentage": 72.7
+    },
     "transferHistory": [
       {
         "recordId": "2650",
@@ -15414,7 +21212,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 25.3,
+      "pointsPerGame": 17.4,
+      "reboundsPerGame": 5.5,
+      "assistsPerGame": 1.4,
+      "stealsPerGame": 1.2,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 49.2,
+      "threePointPercentage": 23.8,
+      "freeThrowPercentage": 77.7
+    },
     "transferHistory": [
       {
         "recordId": "2805",
@@ -15434,7 +21242,17 @@ const basketballTransfers = [
     "destination": "Alabama A&M",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 10.3,
+      "pointsPerGame": 2.8,
+      "reboundsPerGame": 1.9,
+      "assistsPerGame": 0.4,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 32.1,
+      "threePointPercentage": 17.4,
+      "freeThrowPercentage": 58.1
+    },
     "transferHistory": [
       {
         "recordId": "3367",
@@ -15454,7 +21272,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 35.4,
+      "pointsPerGame": 18.2,
+      "reboundsPerGame": 7.4,
+      "assistsPerGame": 3.7,
+      "stealsPerGame": 2.6,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 46.9,
+      "threePointPercentage": 39.2,
+      "freeThrowPercentage": 74.2
+    },
     "transferHistory": [
       {
         "recordId": "137771",
@@ -15494,7 +21322,17 @@ const basketballTransfers = [
     "destination": "Charleston",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 31.9,
+      "pointsPerGame": 19.7,
+      "reboundsPerGame": 2.9,
+      "assistsPerGame": 5.0,
+      "stealsPerGame": 1.2,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 50.6,
+      "threePointPercentage": 37.3,
+      "freeThrowPercentage": 87
+    },
     "transferHistory": [
       {
         "recordId": "3850867",
@@ -15514,7 +21352,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 35.6,
+      "pointsPerGame": 18.3,
+      "reboundsPerGame": 7.2,
+      "assistsPerGame": 1.4,
+      "stealsPerGame": 1.5,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 39.8,
+      "threePointPercentage": 35.5,
+      "freeThrowPercentage": 81.9
+    },
     "transferHistory": [
       {
         "recordId": "3191",
@@ -15534,7 +21382,17 @@ const basketballTransfers = [
     "destination": "Tennessee State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 28.0,
+      "pointsPerGame": 14.6,
+      "reboundsPerGame": 2.7,
+      "assistsPerGame": 4.3,
+      "stealsPerGame": 2.3,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 43.2,
+      "threePointPercentage": 30.9,
+      "freeThrowPercentage": 82.6
+    },
     "transferHistory": [
       {
         "recordId": "3187",
@@ -15554,7 +21412,17 @@ const basketballTransfers = [
     "destination": "Northern Iowa",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 21.4,
+      "pointsPerGame": 10.5,
+      "reboundsPerGame": 4.0,
+      "assistsPerGame": 1.1,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.6,
+      "fieldGoalPercentage": 54.3,
+      "threePointPercentage": 32.5,
+      "freeThrowPercentage": 66.7
+    },
     "transferHistory": [
       {
         "recordId": "3065",
@@ -15583,53 +21451,13 @@ const basketballTransfers = [
       "blocksPerGame": 0.1,
       "fieldGoalPercentage": 41.7,
       "threePointPercentage": 37.5,
-      "freeThrowPercentage": 50
+      "freeThrowPercentage": 50.0
     },
     "transferHistory": [
       {
         "recordId": "319274",
         "previousSchool": "UNC Greensboro",
         "destination": "",
-        "season": "2026"
-      }
-    ],
-    "needsReview": false
-  },
-  {
-    "playerId": "46157128",
-    "name": "Asim Jones",
-    "sport": "basketball",
-    "position": "CG",
-    "previousSchool": "Quinnipiac",
-    "destination": "",
-    "season": 2026,
-    "profileUrl": "",
-    "stats": {},
-    "transferHistory": [
-      {
-        "recordId": "2938",
-        "previousSchool": "Quinnipiac",
-        "destination": "",
-        "season": "2026"
-      }
-    ],
-    "needsReview": false
-  },
-  {
-    "playerId": "46131333",
-    "name": "Christian Jones",
-    "sport": "basketball",
-    "position": "PG",
-    "previousSchool": "Siena",
-    "destination": "UMass Lowell",
-    "season": 2026,
-    "profileUrl": "",
-    "stats": {},
-    "transferHistory": [
-      {
-        "recordId": "911797",
-        "previousSchool": "Siena",
-        "destination": "UMass Lowell",
         "season": "2026"
       }
     ],
@@ -15644,12 +21472,52 @@ const basketballTransfers = [
     "destination": "Murray State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 26.4,
+      "pointsPerGame": 10.0,
+      "reboundsPerGame": 3.0,
+      "assistsPerGame": 3.1,
+      "stealsPerGame": 1.1,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 45.4,
+      "threePointPercentage": 36.4,
+      "freeThrowPercentage": 65.6
+    },
     "transferHistory": [
       {
         "recordId": "2925",
         "previousSchool": "George Washington",
         "destination": "Murray State",
+        "season": "2026"
+      }
+    ],
+    "needsReview": false
+  },
+  {
+    "playerId": "46131333",
+    "name": "Christian Jones",
+    "sport": "basketball",
+    "position": "PG",
+    "previousSchool": "Siena",
+    "destination": "UMass Lowell",
+    "season": 2026,
+    "profileUrl": "",
+    "stats": {
+      "minutesPerGame": 17.1,
+      "pointsPerGame": 4.3,
+      "reboundsPerGame": 0.8,
+      "assistsPerGame": 1.1,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 32.6,
+      "threePointPercentage": 33.7,
+      "freeThrowPercentage": 95.7
+    },
+    "transferHistory": [
+      {
+        "recordId": "911797",
+        "previousSchool": "Siena",
+        "destination": "UMass Lowell",
         "season": "2026"
       }
     ],
@@ -15684,7 +21552,17 @@ const basketballTransfers = [
     "destination": "Seton Hall",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 31.8,
+      "pointsPerGame": 17.2,
+      "reboundsPerGame": 3.5,
+      "assistsPerGame": 3.5,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 41.6,
+      "threePointPercentage": 30.9,
+      "freeThrowPercentage": 80.9
+    },
     "transferHistory": [
       {
         "recordId": "8850",
@@ -15704,7 +21582,17 @@ const basketballTransfers = [
     "destination": "UAB",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 26.9,
+      "pointsPerGame": 15.8,
+      "reboundsPerGame": 4.3,
+      "assistsPerGame": 3.3,
+      "stealsPerGame": 1.3,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 39.8,
+      "threePointPercentage": 26.5,
+      "freeThrowPercentage": 79.7
+    },
     "transferHistory": [
       {
         "recordId": "3443",
@@ -15744,7 +21632,17 @@ const basketballTransfers = [
     "destination": "USC",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 32.9,
+      "pointsPerGame": 15.2,
+      "reboundsPerGame": 8.4,
+      "assistsPerGame": 2.5,
+      "stealsPerGame": 1.4,
+      "blocksPerGame": 0.9,
+      "fieldGoalPercentage": 57.5,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 60.6
+    },
     "transferHistory": [
       {
         "recordId": "2771",
@@ -15764,7 +21662,17 @@ const basketballTransfers = [
     "destination": "Missouri",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 25.7,
+      "pointsPerGame": 11.9,
+      "reboundsPerGame": 4.5,
+      "assistsPerGame": 1.4,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 57,
+      "threePointPercentage": 38.7,
+      "freeThrowPercentage": 66.4
+    },
     "transferHistory": [
       {
         "recordId": "3002",
@@ -15784,7 +21692,17 @@ const basketballTransfers = [
     "destination": "Bethune-Cookman",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 26.9,
+      "pointsPerGame": 9.7,
+      "reboundsPerGame": 3.5,
+      "assistsPerGame": 2.6,
+      "stealsPerGame": 1.4,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 44.1,
+      "threePointPercentage": 33.3,
+      "freeThrowPercentage": 66.7
+    },
     "transferHistory": [
       {
         "recordId": "136570",
@@ -15804,7 +21722,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 8.6,
+      "pointsPerGame": 2.6,
+      "reboundsPerGame": 0.3,
+      "assistsPerGame": 0.3,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 44.7,
+      "threePointPercentage": 26.3,
+      "freeThrowPercentage": 81.3
+    },
     "transferHistory": [
       {
         "recordId": "115615",
@@ -15824,7 +21752,17 @@ const basketballTransfers = [
     "destination": "New Orleans",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 32.1,
+      "pointsPerGame": 14.9,
+      "reboundsPerGame": 3.6,
+      "assistsPerGame": 2.5,
+      "stealsPerGame": 1.8,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 42.7,
+      "threePointPercentage": 28.3,
+      "freeThrowPercentage": 82.6
+    },
     "transferHistory": [
       {
         "recordId": "3451",
@@ -15844,7 +21782,17 @@ const basketballTransfers = [
     "destination": "Rutgers",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 36.2,
+      "pointsPerGame": 14.7,
+      "reboundsPerGame": 4.6,
+      "assistsPerGame": 2.8,
+      "stealsPerGame": 1.0,
+      "blocksPerGame": 0.5,
+      "fieldGoalPercentage": 39.9,
+      "threePointPercentage": 36.6,
+      "freeThrowPercentage": 81.4
+    },
     "transferHistory": [
       {
         "recordId": "1283311",
@@ -15864,7 +21812,17 @@ const basketballTransfers = [
     "destination": "Washington State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 6.3,
+      "pointsPerGame": 2.6,
+      "reboundsPerGame": 0.4,
+      "assistsPerGame": 0.8,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 40,
+      "threePointPercentage": 35.3,
+      "freeThrowPercentage": 50
+    },
     "transferHistory": [
       {
         "recordId": "3313",
@@ -15884,7 +21842,17 @@ const basketballTransfers = [
     "destination": "Toledo",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 21.4,
+      "pointsPerGame": 6.2,
+      "reboundsPerGame": 1.4,
+      "assistsPerGame": 3.9,
+      "stealsPerGame": 1.0,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 31.3,
+      "threePointPercentage": 32.1,
+      "freeThrowPercentage": 68.8
+    },
     "transferHistory": [
       {
         "recordId": "2837",
@@ -15904,7 +21872,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 13.7,
+      "pointsPerGame": 5.3,
+      "reboundsPerGame": 2.7,
+      "assistsPerGame": 0.7,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.5,
+      "fieldGoalPercentage": 49.6,
+      "threePointPercentage": 31.8,
+      "freeThrowPercentage": 94.6
+    },
     "transferHistory": [
       {
         "recordId": "8652",
@@ -15944,7 +21922,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 25.5,
+      "pointsPerGame": 11.5,
+      "reboundsPerGame": 4.3,
+      "assistsPerGame": 2.2,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.5,
+      "fieldGoalPercentage": 52.1,
+      "threePointPercentage": 40.2,
+      "freeThrowPercentage": 80
+    },
     "transferHistory": [
       {
         "recordId": "3027",
@@ -15964,7 +21952,17 @@ const basketballTransfers = [
     "destination": "Dayton",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 17.8,
+      "pointsPerGame": 7.9,
+      "reboundsPerGame": 2.5,
+      "assistsPerGame": 2.1,
+      "stealsPerGame": 1.2,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 48.9,
+      "threePointPercentage": 41.3,
+      "freeThrowPercentage": 70.8
+    },
     "transferHistory": [
       {
         "recordId": "3486",
@@ -15984,7 +21982,17 @@ const basketballTransfers = [
     "destination": "Hawai'i",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 9.5,
+      "pointsPerGame": 1.8,
+      "reboundsPerGame": 2.2,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.5,
+      "fieldGoalPercentage": 53.5,
+      "threePointPercentage": 23.8,
+      "freeThrowPercentage": 75
+    },
     "transferHistory": [
       {
         "recordId": "2815",
@@ -16004,7 +22012,17 @@ const basketballTransfers = [
     "destination": "UCLA",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 18.4,
+      "pointsPerGame": 6.3,
+      "reboundsPerGame": 3.9,
+      "assistsPerGame": 0.6,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 64,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 54.5
+    },
     "transferHistory": [
       {
         "recordId": "2464",
@@ -16024,7 +22042,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 20.0,
+      "pointsPerGame": 4.6,
+      "reboundsPerGame": 2.0,
+      "assistsPerGame": 0.8,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 28.1,
+      "threePointPercentage": 27.4,
+      "freeThrowPercentage": 77.1
+    },
     "transferHistory": [
       {
         "recordId": "2878",
@@ -16064,7 +22092,17 @@ const basketballTransfers = [
     "destination": "St. Bonaventure",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 20.0,
+      "pointsPerGame": 4.1,
+      "reboundsPerGame": 5.3,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 1.4,
+      "fieldGoalPercentage": 57.5,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 71.4
+    },
     "transferHistory": [
       {
         "recordId": "2595",
@@ -16104,7 +22142,17 @@ const basketballTransfers = [
     "destination": "Nebraska",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 26.8,
+      "pointsPerGame": 10.6,
+      "reboundsPerGame": 5.7,
+      "assistsPerGame": 0.7,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 47.9,
+      "threePointPercentage": 33.3,
+      "freeThrowPercentage": 70.7
+    },
     "transferHistory": [
       {
         "recordId": "2976",
@@ -16124,7 +22172,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 5.8,
+      "pointsPerGame": 1.8,
+      "reboundsPerGame": 1.2,
+      "assistsPerGame": 0.0,
+      "stealsPerGame": 0.0,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 60,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 50
+    },
     "transferHistory": [
       {
         "recordId": "8624",
@@ -16144,7 +22202,17 @@ const basketballTransfers = [
     "destination": "Northwestern",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 29.8,
+      "pointsPerGame": 21.7,
+      "reboundsPerGame": 4.7,
+      "assistsPerGame": 1.2,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 56.1,
+      "threePointPercentage": 41.5,
+      "freeThrowPercentage": 80.7
+    },
     "transferHistory": [
       {
         "recordId": "3342",
@@ -16164,7 +22232,17 @@ const basketballTransfers = [
     "destination": "Binghamton",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 4.7,
+      "pointsPerGame": 1.9,
+      "reboundsPerGame": 1.8,
+      "assistsPerGame": 0.3,
+      "stealsPerGame": 0.0,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 61.5,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 50
+    },
     "transferHistory": [
       {
         "recordId": "111541",
@@ -16184,7 +22262,17 @@ const basketballTransfers = [
     "destination": "Kansas",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 28.2,
+      "pointsPerGame": 14.2,
+      "reboundsPerGame": 8.3,
+      "assistsPerGame": 2.6,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 57.8,
+      "threePointPercentage": 15.4,
+      "freeThrowPercentage": 63.6
+    },
     "transferHistory": [
       {
         "recordId": "6554741",
@@ -16204,7 +22292,17 @@ const basketballTransfers = [
     "destination": "Manhattan",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 4.1,
+      "pointsPerGame": 0.6,
+      "reboundsPerGame": 1.0,
+      "assistsPerGame": 0.1,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 18.8,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 50
+    },
     "transferHistory": [
       {
         "recordId": "57978",
@@ -16224,7 +22322,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 5.7,
+      "pointsPerGame": 1.2,
+      "reboundsPerGame": 1.0,
+      "assistsPerGame": 0.3,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 40.0,
+      "threePointPercentage": 12.5,
+      "freeThrowPercentage": 0.0
+    },
     "transferHistory": [
       {
         "recordId": "2648",
@@ -16244,7 +22352,17 @@ const basketballTransfers = [
     "destination": "Radford",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 3.1,
+      "pointsPerGame": 0.4,
+      "reboundsPerGame": 0.4,
+      "assistsPerGame": 0.4,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 14.3,
+      "threePointPercentage": 25,
+      "freeThrowPercentage": 0
+    },
     "transferHistory": [
       {
         "recordId": "8607",
@@ -16304,7 +22422,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 22.6,
+      "pointsPerGame": 6.2,
+      "reboundsPerGame": 7.2,
+      "assistsPerGame": 0.3,
+      "stealsPerGame": 1.0,
+      "blocksPerGame": 1.8,
+      "fieldGoalPercentage": 67.7,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 54.4
+    },
     "transferHistory": [
       {
         "recordId": "4415642",
@@ -16324,7 +22452,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 8.6,
+      "pointsPerGame": 3.3,
+      "reboundsPerGame": 1.8,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 51.6,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 78.6
+    },
     "transferHistory": [
       {
         "recordId": "323408",
@@ -16344,7 +22482,17 @@ const basketballTransfers = [
     "destination": "Davidson",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 8.6,
+      "pointsPerGame": 2.0,
+      "reboundsPerGame": 1.7,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 44.2,
+      "threePointPercentage": 29.4,
+      "freeThrowPercentage": 57.1
+    },
     "transferHistory": [
       {
         "recordId": "2980",
@@ -16364,7 +22512,17 @@ const basketballTransfers = [
     "destination": "UTSA",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 26.6,
+      "pointsPerGame": 8.6,
+      "reboundsPerGame": 3.8,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.8,
+      "fieldGoalPercentage": 52,
+      "threePointPercentage": 32.9,
+      "freeThrowPercentage": 77.3
+    },
     "transferHistory": [
       {
         "recordId": "2792",
@@ -16384,7 +22542,17 @@ const basketballTransfers = [
     "destination": "Florida A&M",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 31.0,
+      "pointsPerGame": 10.2,
+      "reboundsPerGame": 4.4,
+      "assistsPerGame": 3.0,
+      "stealsPerGame": 1.5,
+      "blocksPerGame": 0.7,
+      "fieldGoalPercentage": 37.9,
+      "threePointPercentage": 29.5,
+      "freeThrowPercentage": 62.2
+    },
     "transferHistory": [
       {
         "recordId": "2544",
@@ -16404,7 +22572,17 @@ const basketballTransfers = [
     "destination": "Wake Forest",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 36.8,
+      "pointsPerGame": 18.4,
+      "reboundsPerGame": 4.6,
+      "assistsPerGame": 4.2,
+      "stealsPerGame": 1.9,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 45.1,
+      "threePointPercentage": 32.5,
+      "freeThrowPercentage": 80.9
+    },
     "transferHistory": [
       {
         "recordId": "3092",
@@ -16444,7 +22622,17 @@ const basketballTransfers = [
     "destination": "Kentucky",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 22.9,
+      "pointsPerGame": 6.2,
+      "reboundsPerGame": 6.3,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 2.1,
+      "fieldGoalPercentage": 51.5,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 68.9
+    },
     "transferHistory": [
       {
         "recordId": "110353",
@@ -16464,7 +22652,17 @@ const basketballTransfers = [
     "destination": "UNC Wilmington",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 26.9,
+      "pointsPerGame": 13.1,
+      "reboundsPerGame": 3.2,
+      "assistsPerGame": 2.3,
+      "stealsPerGame": 1.0,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 44.6,
+      "threePointPercentage": 40.2,
+      "freeThrowPercentage": 71.7
+    },
     "transferHistory": [
       {
         "recordId": "542649",
@@ -16544,7 +22742,17 @@ const basketballTransfers = [
     "destination": "Drake",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 17.3,
+      "pointsPerGame": 5.9,
+      "reboundsPerGame": 1.6,
+      "assistsPerGame": 2.2,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 45.5,
+      "threePointPercentage": 34.3,
+      "freeThrowPercentage": 80
+    },
     "transferHistory": [
       {
         "recordId": "2698",
@@ -16564,7 +22772,17 @@ const basketballTransfers = [
     "destination": "Le Moyne",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 14.4,
+      "pointsPerGame": 4.6,
+      "reboundsPerGame": 2.7,
+      "assistsPerGame": 1.2,
+      "stealsPerGame": 1.0,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 42.5,
+      "threePointPercentage": 19.6,
+      "freeThrowPercentage": 70.7
+    },
     "transferHistory": [
       {
         "recordId": "312467",
@@ -16584,7 +22802,17 @@ const basketballTransfers = [
     "destination": "Eastern Kentucky",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 7.7,
+      "pointsPerGame": 2.3,
+      "reboundsPerGame": 0.5,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 40.4,
+      "threePointPercentage": 25.9,
+      "freeThrowPercentage": 85.7
+    },
     "transferHistory": [
       {
         "recordId": "2670",
@@ -16604,7 +22832,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 14.6,
+      "pointsPerGame": 4.2,
+      "reboundsPerGame": 3.1,
+      "assistsPerGame": 0.4,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 45,
+      "threePointPercentage": 40,
+      "freeThrowPercentage": 66.7
+    },
     "transferHistory": [
       {
         "recordId": "136561",
@@ -16624,7 +22862,17 @@ const basketballTransfers = [
     "destination": "Northwest Nazarene",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 17.4,
+      "pointsPerGame": 2.8,
+      "reboundsPerGame": 3.0,
+      "assistsPerGame": 2.9,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 47.3,
+      "threePointPercentage": 29.4,
+      "freeThrowPercentage": 71.1
+    },
     "transferHistory": [
       {
         "recordId": "536953",
@@ -16644,7 +22892,17 @@ const basketballTransfers = [
     "destination": "Creighton",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 24.7,
+      "pointsPerGame": 13.1,
+      "reboundsPerGame": 8.4,
+      "assistsPerGame": 0.8,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 2.1,
+      "fieldGoalPercentage": 64.8,
+      "threePointPercentage": 54.5,
+      "freeThrowPercentage": 61.4
+    },
     "transferHistory": [
       {
         "recordId": "4369374",
@@ -16664,7 +22922,17 @@ const basketballTransfers = [
     "destination": "Little Rock",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 32.2,
+      "pointsPerGame": 14.0,
+      "reboundsPerGame": 3.3,
+      "assistsPerGame": 1.5,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 41.7,
+      "threePointPercentage": 32.2,
+      "freeThrowPercentage": 82.5
+    },
     "transferHistory": [
       {
         "recordId": "2633",
@@ -16684,7 +22952,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 19.2,
+      "pointsPerGame": 7.5,
+      "reboundsPerGame": 3.3,
+      "assistsPerGame": 1.6,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 47.7,
+      "threePointPercentage": 39.3,
+      "freeThrowPercentage": 74.7
+    },
     "transferHistory": [
       {
         "recordId": "3776604",
@@ -16704,7 +22982,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 27.8,
+      "pointsPerGame": 13.7,
+      "reboundsPerGame": 1.9,
+      "assistsPerGame": 1.5,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 41.8,
+      "threePointPercentage": 36.8,
+      "freeThrowPercentage": 84.8
+    },
     "transferHistory": [
       {
         "recordId": "2932",
@@ -16724,7 +23012,17 @@ const basketballTransfers = [
     "destination": "Southern",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 12.8,
+      "pointsPerGame": 4.9,
+      "reboundsPerGame": 2.4,
+      "assistsPerGame": 0.3,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 59.5,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 72.1
+    },
     "transferHistory": [
       {
         "recordId": "911796",
@@ -16744,7 +23042,17 @@ const basketballTransfers = [
     "destination": "Illinois State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 27.0,
+      "pointsPerGame": 7.2,
+      "reboundsPerGame": 2.0,
+      "assistsPerGame": 1.6,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 41.5,
+      "threePointPercentage": 31.4,
+      "freeThrowPercentage": 75.8
+    },
     "transferHistory": [
       {
         "recordId": "2450",
@@ -16764,7 +23072,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 31.3,
+      "pointsPerGame": 12.2,
+      "reboundsPerGame": 3.6,
+      "assistsPerGame": 1.2,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.6,
+      "fieldGoalPercentage": 49.3,
+      "threePointPercentage": 36.7,
+      "freeThrowPercentage": 61.9
+    },
     "transferHistory": [
       {
         "recordId": "194338",
@@ -16793,7 +23111,7 @@ const basketballTransfers = [
       "blocksPerGame": 0.0,
       "fieldGoalPercentage": 53.4,
       "threePointPercentage": 41.2,
-      "freeThrowPercentage": 69
+      "freeThrowPercentage": 69.0
     },
     "transferHistory": [
       {
@@ -16814,7 +23132,17 @@ const basketballTransfers = [
     "destination": "Butler",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 15.0,
+      "pointsPerGame": 4.6,
+      "reboundsPerGame": 2.5,
+      "assistsPerGame": 1.1,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 49.5,
+      "threePointPercentage": 42.6,
+      "freeThrowPercentage": 74.4
+    },
     "transferHistory": [
       {
         "recordId": "2527",
@@ -16831,15 +23159,25 @@ const basketballTransfers = [
     "sport": "basketball",
     "position": "SG",
     "previousSchool": "Lamar",
-    "destination": "",
+    "destination": "UTRGV",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 8.1,
+      "pointsPerGame": 2.7,
+      "reboundsPerGame": 0.6,
+      "assistsPerGame": 0.4,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 24.6,
+      "threePointPercentage": 13.9,
+      "freeThrowPercentage": 95.0
+    },
     "transferHistory": [
       {
         "recordId": "610139",
         "previousSchool": "Lamar",
-        "destination": "",
+        "destination": "UTRGV",
         "season": "2026"
       }
     ],
@@ -16854,7 +23192,17 @@ const basketballTransfers = [
     "destination": "Louisville",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 22.2,
+      "pointsPerGame": 8.1,
+      "reboundsPerGame": 4.5,
+      "assistsPerGame": 1.2,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.5,
+      "fieldGoalPercentage": 46,
+      "threePointPercentage": 37.7,
+      "freeThrowPercentage": 72.7
+    },
     "transferHistory": [
       {
         "recordId": "2999",
@@ -16874,7 +23222,17 @@ const basketballTransfers = [
     "destination": "App State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 35.4,
+      "pointsPerGame": 12.8,
+      "reboundsPerGame": 2.8,
+      "assistsPerGame": 1.3,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 40.4,
+      "threePointPercentage": 36.8,
+      "freeThrowPercentage": 88.7
+    },
     "transferHistory": [
       {
         "recordId": "504113",
@@ -16894,7 +23252,17 @@ const basketballTransfers = [
     "destination": "BYU",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 27.7,
+      "pointsPerGame": 12.5,
+      "reboundsPerGame": 8.9,
+      "assistsPerGame": 1.3,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.7,
+      "fieldGoalPercentage": 50,
+      "threePointPercentage": 38.9,
+      "freeThrowPercentage": 86.9
+    },
     "transferHistory": [
       {
         "recordId": "4373989",
@@ -16914,7 +23282,17 @@ const basketballTransfers = [
     "destination": "Duquesne",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 8.4,
+      "pointsPerGame": 2.6,
+      "reboundsPerGame": 1.8,
+      "assistsPerGame": 0.4,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 59.2,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 65.5
+    },
     "transferHistory": [
       {
         "recordId": "2443",
@@ -16934,7 +23312,17 @@ const basketballTransfers = [
     "destination": "San Diego",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 13.4,
+      "pointsPerGame": 6.4,
+      "reboundsPerGame": 4.7,
+      "assistsPerGame": 0.3,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.8,
+      "fieldGoalPercentage": 55.8,
+      "threePointPercentage": 11.1,
+      "freeThrowPercentage": 57.1
+    },
     "transferHistory": [
       {
         "recordId": "312541",
@@ -16974,7 +23362,17 @@ const basketballTransfers = [
     "destination": "Minnesota",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 4.1,
+      "pointsPerGame": 1.2,
+      "reboundsPerGame": 1.5,
+      "assistsPerGame": 0.1,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 57.1,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 20
+    },
     "transferHistory": [
       {
         "recordId": "2434",
@@ -16994,7 +23392,17 @@ const basketballTransfers = [
     "destination": "George Washington",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 16.4,
+      "pointsPerGame": 4.6,
+      "reboundsPerGame": 1.5,
+      "assistsPerGame": 0.4,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 50,
+      "threePointPercentage": 38,
+      "freeThrowPercentage": 75
+    },
     "transferHistory": [
       {
         "recordId": "2742",
@@ -17064,7 +23472,17 @@ const basketballTransfers = [
     "destination": "Washington State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 11.9,
+      "pointsPerGame": 3.1,
+      "reboundsPerGame": 2.1,
+      "assistsPerGame": 0.3,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 44.2,
+      "threePointPercentage": 27.3,
+      "freeThrowPercentage": 92.3
+    },
     "transferHistory": [
       {
         "recordId": "1842020",
@@ -17084,7 +23502,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 20.2,
+      "pointsPerGame": 5.6,
+      "reboundsPerGame": 2.5,
+      "assistsPerGame": 3.0,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 35.7,
+      "threePointPercentage": 27.8,
+      "freeThrowPercentage": 71.4
+    },
     "transferHistory": [
       {
         "recordId": "2813",
@@ -17104,7 +23532,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 23.5,
+      "pointsPerGame": 13.1,
+      "reboundsPerGame": 6.2,
+      "assistsPerGame": 0.7,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 65.6,
+      "threePointPercentage": 37.5,
+      "freeThrowPercentage": 61.8
+    },
     "transferHistory": [
       {
         "recordId": "136565",
@@ -17132,7 +23570,7 @@ const basketballTransfers = [
       "stealsPerGame": 0.0,
       "blocksPerGame": 0.0,
       "fieldGoalPercentage": 55.6,
-      "threePointPercentage": 0,
+      "threePointPercentage": 0.0,
       "freeThrowPercentage": 71.4
     },
     "transferHistory": [
@@ -17154,7 +23592,17 @@ const basketballTransfers = [
     "destination": "Marshall",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 1.5,
+      "pointsPerGame": 0.0,
+      "reboundsPerGame": 0.5,
+      "assistsPerGame": 1.0,
+      "stealsPerGame": 0.0,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 0,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 0
+    },
     "transferHistory": [
       {
         "recordId": "2062693",
@@ -17214,7 +23662,17 @@ const basketballTransfers = [
     "destination": "Idaho",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 13.5,
+      "pointsPerGame": 1.0,
+      "reboundsPerGame": 1.9,
+      "assistsPerGame": 1.3,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 41.7,
+      "threePointPercentage": 20,
+      "freeThrowPercentage": 0
+    },
     "transferHistory": [
       {
         "recordId": "281512",
@@ -17234,7 +23692,17 @@ const basketballTransfers = [
     "destination": "North Carolina A&T",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 28.6,
+      "pointsPerGame": 10.6,
+      "reboundsPerGame": 2.3,
+      "assistsPerGame": 2.2,
+      "stealsPerGame": 1.0,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 41.3,
+      "threePointPercentage": 41.7,
+      "freeThrowPercentage": 72.5
+    },
     "transferHistory": [
       {
         "recordId": "2830",
@@ -17254,7 +23722,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 29.2,
+      "pointsPerGame": 13.3,
+      "reboundsPerGame": 3.7,
+      "assistsPerGame": 2.2,
+      "stealsPerGame": 1.0,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 40.3,
+      "threePointPercentage": 32.1,
+      "freeThrowPercentage": 80.8
+    },
     "transferHistory": [
       {
         "recordId": "2482",
@@ -17274,7 +23752,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 19.3,
+      "pointsPerGame": 6.1,
+      "reboundsPerGame": 1.7,
+      "assistsPerGame": 3.0,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 39.5,
+      "threePointPercentage": 30.3,
+      "freeThrowPercentage": 86.8
+    },
     "transferHistory": [
       {
         "recordId": "3778100",
@@ -17294,7 +23782,17 @@ const basketballTransfers = [
     "destination": "Marshall",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 2.8,
+      "pointsPerGame": 0.3,
+      "reboundsPerGame": 0.2,
+      "assistsPerGame": 0.0,
+      "stealsPerGame": 0.0,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 0,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 100
+    },
     "transferHistory": [
       {
         "recordId": "2628",
@@ -17314,7 +23812,17 @@ const basketballTransfers = [
     "destination": "Evansville",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 8.2,
+      "pointsPerGame": 3.5,
+      "reboundsPerGame": 0.9,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 37,
+      "threePointPercentage": 27.3,
+      "freeThrowPercentage": 66.7
+    },
     "transferHistory": [
       {
         "recordId": "8608",
@@ -17334,7 +23842,17 @@ const basketballTransfers = [
     "destination": "Columbia",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 10.9,
+      "pointsPerGame": 1.6,
+      "reboundsPerGame": 2.4,
+      "assistsPerGame": 0.3,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.6,
+      "fieldGoalPercentage": 39.5,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 57.1
+    },
     "transferHistory": [
       {
         "recordId": "2541",
@@ -17354,7 +23872,17 @@ const basketballTransfers = [
     "destination": "Nevada",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 4.0,
+      "pointsPerGame": 0.5,
+      "reboundsPerGame": 0.7,
+      "assistsPerGame": 0.0,
+      "stealsPerGame": 0.0,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 66.7,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 100
+    },
     "transferHistory": [
       {
         "recordId": "2866",
@@ -17374,7 +23902,17 @@ const basketballTransfers = [
     "destination": "James Madison",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 36.8,
+      "pointsPerGame": 16.6,
+      "reboundsPerGame": 4.3,
+      "assistsPerGame": 2.4,
+      "stealsPerGame": 1.3,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 39,
+      "threePointPercentage": 39.2,
+      "freeThrowPercentage": 86.7
+    },
     "transferHistory": [
       {
         "recordId": "107943",
@@ -17394,7 +23932,17 @@ const basketballTransfers = [
     "destination": "New Mexico State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 26.0,
+      "pointsPerGame": 9.9,
+      "reboundsPerGame": 7.0,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 44.5,
+      "threePointPercentage": 28.6,
+      "freeThrowPercentage": 82.4
+    },
     "transferHistory": [
       {
         "recordId": "3031",
@@ -17414,7 +23962,17 @@ const basketballTransfers = [
     "destination": "James Madison",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 4.1,
+      "pointsPerGame": 1.7,
+      "reboundsPerGame": 0.3,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 44.4,
+      "threePointPercentage": 0.0,
+      "freeThrowPercentage": 93.3
+    },
     "transferHistory": [
       {
         "recordId": "257517",
@@ -17434,7 +23992,17 @@ const basketballTransfers = [
     "destination": "Clark Atlanta",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 14.3,
+      "pointsPerGame": 5.5,
+      "reboundsPerGame": 1.8,
+      "assistsPerGame": 0.4,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 39.8,
+      "threePointPercentage": 35.2,
+      "freeThrowPercentage": 71
+    },
     "transferHistory": [
       {
         "recordId": "724721",
@@ -17454,7 +24022,17 @@ const basketballTransfers = [
     "destination": "Gonzaga",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 27.4,
+      "pointsPerGame": 11.6,
+      "reboundsPerGame": 3.7,
+      "assistsPerGame": 4.2,
+      "stealsPerGame": 1.2,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 41.8,
+      "threePointPercentage": 28.9,
+      "freeThrowPercentage": 76.5
+    },
     "transferHistory": [
       {
         "recordId": "3776594",
@@ -17474,7 +24052,17 @@ const basketballTransfers = [
     "destination": "Western Michigan",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 28.2,
+      "pointsPerGame": 16.0,
+      "reboundsPerGame": 3.2,
+      "assistsPerGame": 2.0,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 44.1,
+      "threePointPercentage": 40,
+      "freeThrowPercentage": 81.1
+    },
     "transferHistory": [
       {
         "recordId": "3375",
@@ -17494,7 +24082,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 0.9,
+      "pointsPerGame": 0.8,
+      "reboundsPerGame": 0.4,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.0,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 50,
+      "threePointPercentage": 33.3,
+      "freeThrowPercentage": 100
+    },
     "transferHistory": [
       {
         "recordId": "2485",
@@ -17514,7 +24112,17 @@ const basketballTransfers = [
     "destination": "UTSA",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 17.5,
+      "pointsPerGame": 7.5,
+      "reboundsPerGame": 1.7,
+      "assistsPerGame": 3.3,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 43.9,
+      "threePointPercentage": 36.9,
+      "freeThrowPercentage": 81.5
+    },
     "transferHistory": [
       {
         "recordId": "170026",
@@ -17534,7 +24142,17 @@ const basketballTransfers = [
     "destination": "Clemson",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 23.6,
+      "pointsPerGame": 8.0,
+      "reboundsPerGame": 3.4,
+      "assistsPerGame": 0.7,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 45.7,
+      "threePointPercentage": 38,
+      "freeThrowPercentage": 88.7
+    },
     "transferHistory": [
       {
         "recordId": "2561",
@@ -17554,7 +24172,17 @@ const basketballTransfers = [
     "destination": "Nebraska",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 34.5,
+      "pointsPerGame": 11.9,
+      "reboundsPerGame": 5.4,
+      "assistsPerGame": 6.0,
+      "stealsPerGame": 2.1,
+      "blocksPerGame": 0.6,
+      "fieldGoalPercentage": 50.5,
+      "threePointPercentage": 36.8,
+      "freeThrowPercentage": 75.6
+    },
     "transferHistory": [
       {
         "recordId": "3264",
@@ -17574,7 +24202,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 9.6,
+      "pointsPerGame": 3.2,
+      "reboundsPerGame": 1.9,
+      "assistsPerGame": 0.7,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 40.4,
+      "threePointPercentage": 28.3,
+      "freeThrowPercentage": 68
+    },
     "transferHistory": [
       {
         "recordId": "3310",
@@ -17594,7 +24232,17 @@ const basketballTransfers = [
     "destination": "Chattanooga",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 20.5,
+      "pointsPerGame": 5.2,
+      "reboundsPerGame": 4.2,
+      "assistsPerGame": 1.7,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 45.5,
+      "threePointPercentage": 31.9,
+      "freeThrowPercentage": 76.2
+    },
     "transferHistory": [
       {
         "recordId": "8687",
@@ -17622,7 +24270,7 @@ const basketballTransfers = [
       "stealsPerGame": 1.9,
       "blocksPerGame": 0.1,
       "fieldGoalPercentage": 45.6,
-      "threePointPercentage": 27,
+      "threePointPercentage": 27.0,
       "freeThrowPercentage": 58.3
     },
     "transferHistory": [
@@ -17644,7 +24292,17 @@ const basketballTransfers = [
     "destination": "South Florida",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 22.6,
+      "pointsPerGame": 8.1,
+      "reboundsPerGame": 3.8,
+      "assistsPerGame": 0.7,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 51.4,
+      "threePointPercentage": 44.4,
+      "freeThrowPercentage": 77.3
+    },
     "transferHistory": [
       {
         "recordId": "418809",
@@ -17664,7 +24322,17 @@ const basketballTransfers = [
     "destination": "USC",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 30.0,
+      "pointsPerGame": 14.9,
+      "reboundsPerGame": 5.1,
+      "assistsPerGame": 2.5,
+      "stealsPerGame": 2.1,
+      "blocksPerGame": 0.6,
+      "fieldGoalPercentage": 40.8,
+      "threePointPercentage": 30.5,
+      "freeThrowPercentage": 75.2
+    },
     "transferHistory": [
       {
         "recordId": "3329",
@@ -17684,7 +24352,17 @@ const basketballTransfers = [
     "destination": "Tulane",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 36.2,
+      "pointsPerGame": 18.4,
+      "reboundsPerGame": 4.4,
+      "assistsPerGame": 3.2,
+      "stealsPerGame": 1.4,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 36.2,
+      "threePointPercentage": 31.5,
+      "freeThrowPercentage": 84.1
+    },
     "transferHistory": [
       {
         "recordId": "2740",
@@ -17704,7 +24382,17 @@ const basketballTransfers = [
     "destination": "Texas",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 26.8,
+      "pointsPerGame": 13.9,
+      "reboundsPerGame": 2.7,
+      "assistsPerGame": 2.1,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 39.8,
+      "threePointPercentage": 36.8,
+      "freeThrowPercentage": 88.2
+    },
     "transferHistory": [
       {
         "recordId": "3287",
@@ -17724,7 +24412,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 11.8,
+      "pointsPerGame": 2.5,
+      "reboundsPerGame": 0.9,
+      "assistsPerGame": 1.7,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 23.8,
+      "threePointPercentage": 25,
+      "freeThrowPercentage": 78.6
+    },
     "transferHistory": [
       {
         "recordId": "2513",
@@ -17744,7 +24442,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 5.2,
+      "pointsPerGame": 1.6,
+      "reboundsPerGame": 1.0,
+      "assistsPerGame": 0.0,
+      "stealsPerGame": 0.0,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 42.9,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 50
+    },
     "transferHistory": [
       {
         "recordId": "312483",
@@ -17764,7 +24472,17 @@ const basketballTransfers = [
     "destination": "Ball State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 17.6,
+      "pointsPerGame": 7.8,
+      "reboundsPerGame": 2.7,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 42.1,
+      "threePointPercentage": 38.5,
+      "freeThrowPercentage": 74.3
+    },
     "transferHistory": [
       {
         "recordId": "2780",
@@ -17784,7 +24502,17 @@ const basketballTransfers = [
     "destination": "Indiana",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 28.6,
+      "pointsPerGame": 12.3,
+      "reboundsPerGame": 2.1,
+      "assistsPerGame": 2.1,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 38.3,
+      "threePointPercentage": 35.6,
+      "freeThrowPercentage": 77.1
+    },
     "transferHistory": [
       {
         "recordId": "2966",
@@ -17874,7 +24602,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 7.7,
+      "pointsPerGame": 2.9,
+      "reboundsPerGame": 0.9,
+      "assistsPerGame": 0.4,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 34.2,
+      "threePointPercentage": 32.1,
+      "freeThrowPercentage": 77.8
+    },
     "transferHistory": [
       {
         "recordId": "78561",
@@ -17894,7 +24632,17 @@ const basketballTransfers = [
     "destination": "Lamar",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 20.0,
+      "pointsPerGame": 5.8,
+      "reboundsPerGame": 3.8,
+      "assistsPerGame": 0.6,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 41.4,
+      "threePointPercentage": 28.3,
+      "freeThrowPercentage": 62.5
+    },
     "transferHistory": [
       {
         "recordId": "109142",
@@ -17914,7 +24662,17 @@ const basketballTransfers = [
     "destination": "Saint Joseph's",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 15.7,
+      "pointsPerGame": 3.7,
+      "reboundsPerGame": 3.4,
+      "assistsPerGame": 0.7,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 2.4,
+      "fieldGoalPercentage": 49.4,
+      "threePointPercentage": 28.6,
+      "freeThrowPercentage": 37.8
+    },
     "transferHistory": [
       {
         "recordId": "2666",
@@ -17934,7 +24692,17 @@ const basketballTransfers = [
     "destination": "Memphis",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 11.1,
+      "pointsPerGame": 4.8,
+      "reboundsPerGame": 3.1,
+      "assistsPerGame": 0.0,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.5,
+      "fieldGoalPercentage": 67.4,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 42.9
+    },
     "transferHistory": [
       {
         "recordId": "78628",
@@ -17954,7 +24722,17 @@ const basketballTransfers = [
     "destination": "UL Monroe",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 15.2,
+      "pointsPerGame": 6.5,
+      "reboundsPerGame": 1.6,
+      "assistsPerGame": 1.1,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 34.6,
+      "threePointPercentage": 24.7,
+      "freeThrowPercentage": 75
+    },
     "transferHistory": [
       {
         "recordId": "882375",
@@ -17974,7 +24752,17 @@ const basketballTransfers = [
     "destination": "Wichita State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 33.8,
+      "pointsPerGame": 12.2,
+      "reboundsPerGame": 3.4,
+      "assistsPerGame": 3.9,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 45.4,
+      "threePointPercentage": 37.7,
+      "freeThrowPercentage": 82.6
+    },
     "transferHistory": [
       {
         "recordId": "2995",
@@ -17994,7 +24782,17 @@ const basketballTransfers = [
     "destination": "Tulsa",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 24.9,
+      "pointsPerGame": 7.3,
+      "reboundsPerGame": 6.3,
+      "assistsPerGame": 0.8,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 1.2,
+      "fieldGoalPercentage": 51.9,
+      "threePointPercentage": 26.3,
+      "freeThrowPercentage": 62.2
+    },
     "transferHistory": [
       {
         "recordId": "3246",
@@ -18044,7 +24842,17 @@ const basketballTransfers = [
     "destination": "St. Thomas-Minnesota",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 10.4,
+      "pointsPerGame": 2.2,
+      "reboundsPerGame": 1.8,
+      "assistsPerGame": 1.0,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 60,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 50
+    },
     "transferHistory": [
       {
         "recordId": "2732",
@@ -18064,7 +24872,17 @@ const basketballTransfers = [
     "destination": "Austin Peay",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 24.8,
+      "pointsPerGame": 7.2,
+      "reboundsPerGame": 2.6,
+      "assistsPerGame": 1.0,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 40,
+      "threePointPercentage": 32.8,
+      "freeThrowPercentage": 78.9
+    },
     "transferHistory": [
       {
         "recordId": "2532",
@@ -18084,7 +24902,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 17.9,
+      "pointsPerGame": 4.3,
+      "reboundsPerGame": 1.5,
+      "assistsPerGame": 2.5,
+      "stealsPerGame": 1.0,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 37.1,
+      "threePointPercentage": 34.9,
+      "freeThrowPercentage": 63.6
+    },
     "transferHistory": [
       {
         "recordId": "3374",
@@ -18104,7 +24932,17 @@ const basketballTransfers = [
     "destination": "Georgetown",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 18.6,
+      "pointsPerGame": 8.0,
+      "reboundsPerGame": 2.1,
+      "assistsPerGame": 2.4,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 35.8,
+      "threePointPercentage": 20.8,
+      "freeThrowPercentage": 70.4
+    },
     "transferHistory": [
       {
         "recordId": "3203",
@@ -18124,7 +24962,17 @@ const basketballTransfers = [
     "destination": "Cleveland State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 15.5,
+      "pointsPerGame": 4.6,
+      "reboundsPerGame": 1.4,
+      "assistsPerGame": 1.2,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 36.8,
+      "threePointPercentage": 29.9,
+      "freeThrowPercentage": 80
+    },
     "transferHistory": [
       {
         "recordId": "2841",
@@ -18144,7 +24992,17 @@ const basketballTransfers = [
     "destination": "Dayton",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 23.3,
+      "pointsPerGame": 8.1,
+      "reboundsPerGame": 2.9,
+      "assistsPerGame": 1.7,
+      "stealsPerGame": 1.1,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 37.1,
+      "threePointPercentage": 30.2,
+      "freeThrowPercentage": 83.3
+    },
     "transferHistory": [
       {
         "recordId": "2746",
@@ -18164,7 +25022,17 @@ const basketballTransfers = [
     "destination": "Tennessee",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 26.5,
+      "pointsPerGame": 10.9,
+      "reboundsPerGame": 5.3,
+      "assistsPerGame": 1.2,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 1.4,
+      "fieldGoalPercentage": 45.2,
+      "threePointPercentage": 26.7,
+      "freeThrowPercentage": 69.5
+    },
     "transferHistory": [
       {
         "recordId": "2657",
@@ -18184,7 +25052,17 @@ const basketballTransfers = [
     "destination": "Tennessee",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 34.1,
+      "pointsPerGame": 15.6,
+      "reboundsPerGame": 2.7,
+      "assistsPerGame": 1.8,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 43,
+      "threePointPercentage": 40.6,
+      "freeThrowPercentage": 93.4
+    },
     "transferHistory": [
       {
         "recordId": "3069",
@@ -18204,7 +25082,17 @@ const basketballTransfers = [
     "destination": "Fresno State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 25.7,
+      "pointsPerGame": 13.8,
+      "reboundsPerGame": 5.3,
+      "assistsPerGame": 2.8,
+      "stealsPerGame": 1.3,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 62,
+      "threePointPercentage": 27.3,
+      "freeThrowPercentage": 54.5
+    },
     "transferHistory": [
       {
         "recordId": "2536",
@@ -18254,7 +25142,17 @@ const basketballTransfers = [
     "destination": "Georgetown",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 19.7,
+      "pointsPerGame": 8.9,
+      "reboundsPerGame": 5.5,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 2.5,
+      "fieldGoalPercentage": 59.2,
+      "threePointPercentage": 27.3,
+      "freeThrowPercentage": 68.1
+    },
     "transferHistory": [
       {
         "recordId": "3419",
@@ -18274,7 +25172,17 @@ const basketballTransfers = [
     "destination": "UConn",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 33.7,
+      "pointsPerGame": 17.2,
+      "reboundsPerGame": 5.7,
+      "assistsPerGame": 2.6,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.5,
+      "fieldGoalPercentage": 43.2,
+      "threePointPercentage": 38.2,
+      "freeThrowPercentage": 79
+    },
     "transferHistory": [
       {
         "recordId": "3459",
@@ -18294,7 +25202,17 @@ const basketballTransfers = [
     "destination": "Providence",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 32.2,
+      "pointsPerGame": 13.6,
+      "reboundsPerGame": 3.0,
+      "assistsPerGame": 4.1,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 38.1,
+      "threePointPercentage": 29.8,
+      "freeThrowPercentage": 81.8
+    },
     "transferHistory": [
       {
         "recordId": "3112",
@@ -18314,32 +25232,22 @@ const basketballTransfers = [
     "destination": "UNLV",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 16.4,
+      "pointsPerGame": 7.0,
+      "reboundsPerGame": 1.3,
+      "assistsPerGame": 0.6,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 40.7,
+      "threePointPercentage": 27.3,
+      "freeThrowPercentage": 67.7
+    },
     "transferHistory": [
       {
         "recordId": "3072",
         "previousSchool": "Missouri",
         "destination": "UNLV",
-        "season": "2026"
-      }
-    ],
-    "needsReview": false
-  },
-  {
-    "playerId": "46154176",
-    "name": "Brandon Maclin",
-    "sport": "basketball",
-    "position": "SG",
-    "previousSchool": "DePaul",
-    "destination": "",
-    "season": 2026,
-    "profileUrl": "",
-    "stats": {},
-    "transferHistory": [
-      {
-        "recordId": "281460",
-        "previousSchool": "DePaul",
-        "destination": "",
         "season": "2026"
       }
     ],
@@ -18354,7 +25262,17 @@ const basketballTransfers = [
     "destination": "UCLA",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 18.5,
+      "pointsPerGame": 5.0,
+      "reboundsPerGame": 4.8,
+      "assistsPerGame": 0.8,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 55.7,
+      "threePointPercentage": 28.6,
+      "freeThrowPercentage": 43.2
+    },
     "transferHistory": [
       {
         "recordId": "2676",
@@ -18374,7 +25292,17 @@ const basketballTransfers = [
     "destination": "Samford",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 7.2,
+      "pointsPerGame": 2.6,
+      "reboundsPerGame": 2.0,
+      "assistsPerGame": 0.1,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 30.0,
+      "threePointPercentage": 29.6,
+      "freeThrowPercentage": 68.8
+    },
     "transferHistory": [
       {
         "recordId": "2629",
@@ -18423,7 +25351,8 @@ const basketballTransfers = [
         "season": "2026"
       }
     ],
-    "needsReview": false
+    "needsReview": false,
+    "seasonNote": "Brunel Madzou redshirted during the 2025–26 season at Washington State. N/A statistics reflect his redshirt season."
   },
   {
     "playerId": "46148867",
@@ -18442,7 +25371,7 @@ const basketballTransfers = [
       "stealsPerGame": 0.3,
       "blocksPerGame": 0.2,
       "fieldGoalPercentage": 57.6,
-      "threePointPercentage": 0,
+      "threePointPercentage": 0.0,
       "freeThrowPercentage": 51.2
     },
     "transferHistory": [
@@ -18472,7 +25401,7 @@ const basketballTransfers = [
       "stealsPerGame": 0.3,
       "blocksPerGame": 0.3,
       "fieldGoalPercentage": 44.4,
-      "threePointPercentage": 20,
+      "threePointPercentage": 20.0,
       "freeThrowPercentage": 64.3
     },
     "transferHistory": [
@@ -18494,7 +25423,17 @@ const basketballTransfers = [
     "destination": "Murray State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 10.8,
+      "pointsPerGame": 3.5,
+      "reboundsPerGame": 0.9,
+      "assistsPerGame": 1.8,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 39.7,
+      "threePointPercentage": 28.6,
+      "freeThrowPercentage": 87.5
+    },
     "transferHistory": [
       {
         "recordId": "2562",
@@ -18514,7 +25453,17 @@ const basketballTransfers = [
     "destination": "Cincinnati",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 21.9,
+      "pointsPerGame": 7.8,
+      "reboundsPerGame": 5.6,
+      "assistsPerGame": 1.5,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.6,
+      "fieldGoalPercentage": 53,
+      "threePointPercentage": 39.1,
+      "freeThrowPercentage": 76.3
+    },
     "transferHistory": [
       {
         "recordId": "3032",
@@ -18534,7 +25483,17 @@ const basketballTransfers = [
     "destination": "Denver",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 5.1,
+      "pointsPerGame": 0.2,
+      "reboundsPerGame": 0.4,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 0,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 100
+    },
     "transferHistory": [
       {
         "recordId": "2558",
@@ -18554,7 +25513,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 5.5,
+      "pointsPerGame": 1.0,
+      "reboundsPerGame": 0.9,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 27.3,
+      "threePointPercentage": 12.5,
+      "freeThrowPercentage": 100
+    },
     "transferHistory": [
       {
         "recordId": "3302",
@@ -18574,7 +25543,17 @@ const basketballTransfers = [
     "destination": "Nevada",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 12.4,
+      "pointsPerGame": 2.9,
+      "reboundsPerGame": 2.4,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.6,
+      "fieldGoalPercentage": 46.7,
+      "threePointPercentage": 28.6,
+      "freeThrowPercentage": 71.8
+    },
     "transferHistory": [
       {
         "recordId": "2433",
@@ -18594,7 +25573,17 @@ const basketballTransfers = [
     "destination": "Pepperdine",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 31.1,
+      "pointsPerGame": 14.4,
+      "reboundsPerGame": 6.4,
+      "assistsPerGame": 1.8,
+      "stealsPerGame": 1.7,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 52.4,
+      "threePointPercentage": 28.6,
+      "freeThrowPercentage": 77.5
+    },
     "transferHistory": [
       {
         "recordId": "133516",
@@ -18614,7 +25603,17 @@ const basketballTransfers = [
     "destination": "Marshall",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 5.5,
+      "pointsPerGame": 1.2,
+      "reboundsPerGame": 1.2,
+      "assistsPerGame": 0.0,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 50,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 25
+    },
     "transferHistory": [
       {
         "recordId": "3075",
@@ -18634,7 +25633,17 @@ const basketballTransfers = [
     "destination": "Belmont",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 29.7,
+      "pointsPerGame": 17.0,
+      "reboundsPerGame": 5.4,
+      "assistsPerGame": 1.5,
+      "stealsPerGame": 1.0,
+      "blocksPerGame": 0.6,
+      "fieldGoalPercentage": 47.7,
+      "threePointPercentage": 32.9,
+      "freeThrowPercentage": 73.9
+    },
     "transferHistory": [
       {
         "recordId": "2432",
@@ -18654,7 +25663,17 @@ const basketballTransfers = [
     "destination": "UCF",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 22.4,
+      "pointsPerGame": 10.5,
+      "reboundsPerGame": 5.8,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 1.9,
+      "fieldGoalPercentage": 59.2,
+      "threePointPercentage": 44,
+      "freeThrowPercentage": 78.2
+    },
     "transferHistory": [
       {
         "recordId": "52306",
@@ -18674,7 +25693,17 @@ const basketballTransfers = [
     "destination": "Wichita State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 11.6,
+      "pointsPerGame": 3.7,
+      "reboundsPerGame": 2.5,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 67.3,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 47.8
+    },
     "transferHistory": [
       {
         "recordId": "2831",
@@ -18694,7 +25723,17 @@ const basketballTransfers = [
     "destination": "Kansas State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 15.2,
+      "pointsPerGame": 4.2,
+      "reboundsPerGame": 1.4,
+      "assistsPerGame": 0.9,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 35,
+      "threePointPercentage": 33.3,
+      "freeThrowPercentage": 71.4
+    },
     "transferHistory": [
       {
         "recordId": "60299",
@@ -18744,7 +25783,17 @@ const basketballTransfers = [
     "destination": "Arizona",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 19.7,
+      "pointsPerGame": 5.2,
+      "reboundsPerGame": 2.1,
+      "assistsPerGame": 3.2,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 43.6,
+      "threePointPercentage": 28.2,
+      "freeThrowPercentage": 70
+    },
     "transferHistory": [
       {
         "recordId": "3007",
@@ -18764,7 +25813,17 @@ const basketballTransfers = [
     "destination": "Tarleton State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 11.8,
+      "pointsPerGame": 6.0,
+      "reboundsPerGame": 2.7,
+      "assistsPerGame": 0.4,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 45,
+      "threePointPercentage": 30,
+      "freeThrowPercentage": 68
+    },
     "transferHistory": [
       {
         "recordId": "3449",
@@ -18804,7 +25863,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 30.4,
+      "pointsPerGame": 13.3,
+      "reboundsPerGame": 5.7,
+      "assistsPerGame": 2.8,
+      "stealsPerGame": 1.1,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 49.6,
+      "threePointPercentage": 31.8,
+      "freeThrowPercentage": 78
+    },
     "transferHistory": [
       {
         "recordId": "2586",
@@ -18824,7 +25893,17 @@ const basketballTransfers = [
     "destination": "Western Carolina",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 19.8,
+      "pointsPerGame": 10.7,
+      "reboundsPerGame": 3.9,
+      "assistsPerGame": 1.3,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 46,
+      "threePointPercentage": 34.9,
+      "freeThrowPercentage": 86.8
+    },
     "transferHistory": [
       {
         "recordId": "2649",
@@ -18844,7 +25923,17 @@ const basketballTransfers = [
     "destination": "Iowa State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 20.7,
+      "pointsPerGame": 4.2,
+      "reboundsPerGame": 5.1,
+      "assistsPerGame": 0.9,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.7,
+      "fieldGoalPercentage": 48.5,
+      "threePointPercentage": 18.5,
+      "freeThrowPercentage": 69.7
+    },
     "transferHistory": [
       {
         "recordId": "2788",
@@ -18884,7 +25973,17 @@ const basketballTransfers = [
     "destination": "George Mason",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 24.0,
+      "pointsPerGame": 7.8,
+      "reboundsPerGame": 6.0,
+      "assistsPerGame": 0.4,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.5,
+      "fieldGoalPercentage": 47.1,
+      "threePointPercentage": 33.3,
+      "freeThrowPercentage": 70.7
+    },
     "transferHistory": [
       {
         "recordId": "3239",
@@ -18924,7 +26023,17 @@ const basketballTransfers = [
     "destination": "Temple",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 18.3,
+      "pointsPerGame": 7.2,
+      "reboundsPerGame": 2.0,
+      "assistsPerGame": 1.9,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 40,
+      "threePointPercentage": 35.7,
+      "freeThrowPercentage": 77.8
+    },
     "transferHistory": [
       {
         "recordId": "3100",
@@ -18953,7 +26062,7 @@ const basketballTransfers = [
       "blocksPerGame": 0.0,
       "fieldGoalPercentage": 48.8,
       "threePointPercentage": 33.3,
-      "freeThrowPercentage": 60
+      "freeThrowPercentage": 60.0
     },
     "transferHistory": [
       {
@@ -18974,7 +26083,17 @@ const basketballTransfers = [
     "destination": "Bucknell",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 16.5,
+      "pointsPerGame": 3.5,
+      "reboundsPerGame": 2.8,
+      "assistsPerGame": 2.0,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 41.2,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 0
+    },
     "transferHistory": [
       {
         "recordId": "911795",
@@ -18994,7 +26113,17 @@ const basketballTransfers = [
     "destination": "Charlotte",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 10.6,
+      "pointsPerGame": 3.3,
+      "reboundsPerGame": 2.9,
+      "assistsPerGame": 0.8,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.8,
+      "fieldGoalPercentage": 53.8,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 58.6
+    },
     "transferHistory": [
       {
         "recordId": "2859",
@@ -19014,7 +26143,17 @@ const basketballTransfers = [
     "destination": "Cal State Northridge",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 7.4,
+      "pointsPerGame": 1.9,
+      "reboundsPerGame": 1.4,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 59.1,
+      "threePointPercentage": 20,
+      "freeThrowPercentage": 62.5
+    },
     "transferHistory": [
       {
         "recordId": "640488",
@@ -19054,7 +26193,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 27.3,
+      "pointsPerGame": 16.0,
+      "reboundsPerGame": 2.0,
+      "assistsPerGame": 3.9,
+      "stealsPerGame": 1.5,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 42.4,
+      "threePointPercentage": 30.2,
+      "freeThrowPercentage": 83.9
+    },
     "transferHistory": [
       {
         "recordId": "83139",
@@ -19074,7 +26223,17 @@ const basketballTransfers = [
     "destination": "Bethune-Cookman",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 15.5,
+      "pointsPerGame": 4.2,
+      "reboundsPerGame": 2.9,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 1.7,
+      "fieldGoalPercentage": 74.4,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 31.3
+    },
     "transferHistory": [
       {
         "recordId": "3415",
@@ -19094,22 +26253,32 @@ const basketballTransfers = [
     "destination": "George Mason",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 26.2,
+      "pointsPerGame": 9.5,
+      "reboundsPerGame": 2.0,
+      "assistsPerGame": 2.3,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 45.4,
+      "threePointPercentage": 52.2,
+      "freeThrowPercentage": 75
+    },
     "transferHistory": [
-      {
-        "recordId": "167478",
-        "previousSchool": "UNC Wilmington",
-        "destination": "George Mason",
-        "season": "2026"
-      },
       {
         "recordId": "187937",
         "previousSchool": "UNC Greensboro",
         "destination": "George Mason",
         "season": "2026"
+      },
+      {
+        "recordId": "167478",
+        "previousSchool": "UNC Wilmington",
+        "destination": "George Mason",
+        "season": "2026"
       }
     ],
-    "needsReview": false
+    "needsReview": true
   },
   {
     "playerId": "46129656",
@@ -19120,7 +26289,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 20.1,
+      "pointsPerGame": 7.4,
+      "reboundsPerGame": 2.6,
+      "assistsPerGame": 1.4,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 38.9,
+      "threePointPercentage": 33.8,
+      "freeThrowPercentage": 67.7
+    },
     "transferHistory": [
       {
         "recordId": "4373988",
@@ -19140,7 +26319,17 @@ const basketballTransfers = [
     "destination": "East Tennessee State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 16.9,
+      "pointsPerGame": 6.5,
+      "reboundsPerGame": 3.6,
+      "assistsPerGame": 0.6,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 45.9,
+      "threePointPercentage": 29.8,
+      "freeThrowPercentage": 68.5
+    },
     "transferHistory": [
       {
         "recordId": "2934",
@@ -19160,7 +26349,17 @@ const basketballTransfers = [
     "destination": "UC Davis",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 3.4,
+      "pointsPerGame": 0.3,
+      "reboundsPerGame": 0.2,
+      "assistsPerGame": 0.3,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 14.3,
+      "threePointPercentage": 14.3,
+      "freeThrowPercentage": 50
+    },
     "transferHistory": [
       {
         "recordId": "2941",
@@ -19180,7 +26379,17 @@ const basketballTransfers = [
     "destination": "SE Louisiana",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 16.7,
+      "pointsPerGame": 8.5,
+      "reboundsPerGame": 2.8,
+      "assistsPerGame": 0.4,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 50.2,
+      "threePointPercentage": 8.3,
+      "freeThrowPercentage": 66.2
+    },
     "transferHistory": [
       {
         "recordId": "2892",
@@ -19220,7 +26429,17 @@ const basketballTransfers = [
     "destination": "Pacific",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 1.5,
+      "pointsPerGame": 0.5,
+      "reboundsPerGame": 0.0,
+      "assistsPerGame": 0.0,
+      "stealsPerGame": 0.0,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 100,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 0
+    },
     "transferHistory": [
       {
         "recordId": "195633",
@@ -19270,7 +26489,17 @@ const basketballTransfers = [
     "destination": "New Mexico",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 23.9,
+      "pointsPerGame": 11.1,
+      "reboundsPerGame": 5.7,
+      "assistsPerGame": 1.7,
+      "stealsPerGame": 1.0,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 54.5,
+      "threePointPercentage": 35.5,
+      "freeThrowPercentage": 79.8
+    },
     "transferHistory": [
       {
         "recordId": "3165",
@@ -19290,7 +26519,17 @@ const basketballTransfers = [
     "destination": "Elon",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 23.1,
+      "pointsPerGame": 4.5,
+      "reboundsPerGame": 2.2,
+      "assistsPerGame": 2.6,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 33.3,
+      "threePointPercentage": 25.3,
+      "freeThrowPercentage": 65.4
+    },
     "transferHistory": [
       {
         "recordId": "3362",
@@ -19310,7 +26549,16 @@ const basketballTransfers = [
     "destination": "Denver",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 8.0,
+      "pointsPerGame": 1.2,
+      "reboundsPerGame": 1.5,
+      "assistsPerGame": 0.3,
+      "stealsPerGame": 0.8,
+      "fieldGoalPercentage": 48.0,
+      "threePointPercentage": 0.0,
+      "freeThrowPercentage": 26.3
+    },
     "transferHistory": [
       {
         "recordId": "312562",
@@ -19330,7 +26578,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 5.1,
+      "pointsPerGame": 1.2,
+      "reboundsPerGame": 1.4,
+      "assistsPerGame": 0.0,
+      "stealsPerGame": 0.0,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 68.8,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 36.4
+    },
     "transferHistory": [
       {
         "recordId": "2944",
@@ -19350,7 +26608,17 @@ const basketballTransfers = [
     "destination": "Kentucky",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 27.1,
+      "pointsPerGame": 15.3,
+      "reboundsPerGame": 5.6,
+      "assistsPerGame": 1.5,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.6,
+      "fieldGoalPercentage": 49.4,
+      "threePointPercentage": 40,
+      "freeThrowPercentage": 78.2
+    },
     "transferHistory": [
       {
         "recordId": "3064",
@@ -19370,7 +26638,17 @@ const basketballTransfers = [
     "destination": "Richmond",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 9.6,
+      "pointsPerGame": 2.8,
+      "reboundsPerGame": 1.6,
+      "assistsPerGame": 0.4,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 40,
+      "threePointPercentage": 21.4,
+      "freeThrowPercentage": 75
+    },
     "transferHistory": [
       {
         "recordId": "3426",
@@ -19390,7 +26668,17 @@ const basketballTransfers = [
     "destination": "Manhattan",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 2.0,
+      "pointsPerGame": 0.5,
+      "reboundsPerGame": 0.5,
+      "assistsPerGame": 0.0,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 25,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 0
+    },
     "transferHistory": [
       {
         "recordId": "2453",
@@ -19410,7 +26698,17 @@ const basketballTransfers = [
     "destination": "Pepperdine",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 24.2,
+      "pointsPerGame": 13.0,
+      "reboundsPerGame": 4.0,
+      "assistsPerGame": 2.5,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 36.7,
+      "threePointPercentage": 45,
+      "freeThrowPercentage": 84
+    },
     "transferHistory": [
       {
         "recordId": "254865",
@@ -19430,7 +26728,17 @@ const basketballTransfers = [
     "destination": "Northern Iowa",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 29.5,
+      "pointsPerGame": 9.7,
+      "reboundsPerGame": 4.8,
+      "assistsPerGame": 1.4,
+      "stealsPerGame": 1.3,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 37.5,
+      "threePointPercentage": 34.6,
+      "freeThrowPercentage": 79.2
+    },
     "transferHistory": [
       {
         "recordId": "219154",
@@ -19450,7 +26758,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 34.4,
+      "pointsPerGame": 13.9,
+      "reboundsPerGame": 3.7,
+      "assistsPerGame": 4.6,
+      "stealsPerGame": 2.0,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 41.3,
+      "threePointPercentage": 32.9,
+      "freeThrowPercentage": 84.9
+    },
     "transferHistory": [
       {
         "recordId": "3776606",
@@ -19470,7 +26788,17 @@ const basketballTransfers = [
     "destination": "Wake Forest",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 17.3,
+      "pointsPerGame": 3.3,
+      "reboundsPerGame": 1.6,
+      "assistsPerGame": 1.1,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 36,
+      "threePointPercentage": 34.9,
+      "freeThrowPercentage": 62.5
+    },
     "transferHistory": [
       {
         "recordId": "2781",
@@ -19490,7 +26818,17 @@ const basketballTransfers = [
     "destination": "Northwestern",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 25.6,
+      "pointsPerGame": 11.7,
+      "reboundsPerGame": 6.2,
+      "assistsPerGame": 1.3,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.6,
+      "fieldGoalPercentage": 64.5,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 42.1
+    },
     "transferHistory": [
       {
         "recordId": "2845",
@@ -19510,7 +26848,17 @@ const basketballTransfers = [
     "destination": "Pacific",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 3.0,
+      "pointsPerGame": 0.0,
+      "reboundsPerGame": 0.8,
+      "assistsPerGame": 0.0,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 0,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 0
+    },
     "transferHistory": [
       {
         "recordId": "2862",
@@ -19530,7 +26878,17 @@ const basketballTransfers = [
     "destination": "UT Arlington",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 4.3,
+      "pointsPerGame": 1.3,
+      "reboundsPerGame": 1.0,
+      "assistsPerGame": 0.0,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 20.0,
+      "threePointPercentage": 25.0,
+      "freeThrowPercentage": 50.0
+    },
     "transferHistory": [
       {
         "recordId": "2682",
@@ -19558,7 +26916,7 @@ const basketballTransfers = [
       "stealsPerGame": 0.5,
       "blocksPerGame": 0.8,
       "fieldGoalPercentage": 50.0,
-      "threePointPercentage": 0,
+      "threePointPercentage": 0.0,
       "freeThrowPercentage": 62.8
     },
     "transferHistory": [
@@ -19580,7 +26938,17 @@ const basketballTransfers = [
     "destination": "New Hampshire",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 11.0,
+      "pointsPerGame": 4.0,
+      "reboundsPerGame": 2.5,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 41.2,
+      "threePointPercentage": 24.1,
+      "freeThrowPercentage": 76.2
+    },
     "transferHistory": [
       {
         "recordId": "3039",
@@ -19600,7 +26968,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 9.2,
+      "pointsPerGame": 2.0,
+      "reboundsPerGame": 1.8,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 60,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 100
+    },
     "transferHistory": [
       {
         "recordId": "3488",
@@ -19620,7 +26998,17 @@ const basketballTransfers = [
     "destination": "Charlotte",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 12.1,
+      "pointsPerGame": 1.8,
+      "reboundsPerGame": 2.2,
+      "assistsPerGame": 0.6,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 51.2,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 22.2
+    },
     "transferHistory": [
       {
         "recordId": "140974",
@@ -19663,19 +27051,19 @@ const basketballTransfers = [
     "stats": {},
     "transferHistory": [
       {
-        "recordId": "4400321",
-        "previousSchool": "Grambling",
-        "destination": "Alabama State",
-        "season": "2026"
-      },
-      {
         "recordId": "2477",
         "previousSchool": "Canisius",
         "destination": "",
         "season": "2026"
+      },
+      {
+        "recordId": "4400321",
+        "previousSchool": "Grambling",
+        "destination": "Alabama State",
+        "season": "2026"
       }
     ],
-    "needsReview": false
+    "needsReview": true
   },
   {
     "playerId": "46144626",
@@ -19686,7 +27074,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 28.3,
+      "pointsPerGame": 11.5,
+      "reboundsPerGame": 4.2,
+      "assistsPerGame": 1.3,
+      "stealsPerGame": 1.0,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 37.8,
+      "threePointPercentage": 33.3,
+      "freeThrowPercentage": 75.4
+    },
     "transferHistory": [
       {
         "recordId": "2818",
@@ -19746,7 +27144,17 @@ const basketballTransfers = [
     "destination": "UL Monroe",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 10.8,
+      "pointsPerGame": 4.4,
+      "reboundsPerGame": 1.6,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 44.2,
+      "threePointPercentage": 30,
+      "freeThrowPercentage": 77.5
+    },
     "transferHistory": [
       {
         "recordId": "3084",
@@ -19793,7 +27201,7 @@ const basketballTransfers = [
       "assistsPerGame": 1.0,
       "stealsPerGame": 0.6,
       "blocksPerGame": 0.0,
-      "fieldGoalPercentage": 51,
+      "fieldGoalPercentage": 51.0,
       "threePointPercentage": 38.6,
       "freeThrowPercentage": 65.5
     },
@@ -19836,7 +27244,17 @@ const basketballTransfers = [
     "destination": "East Carolina",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 33.4,
+      "pointsPerGame": 10.5,
+      "reboundsPerGame": 2.3,
+      "assistsPerGame": 6.4,
+      "stealsPerGame": 1.3,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 34.6,
+      "threePointPercentage": 32.1,
+      "freeThrowPercentage": 74.4
+    },
     "transferHistory": [
       {
         "recordId": "258845",
@@ -19856,7 +27274,17 @@ const basketballTransfers = [
     "destination": "DePaul",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 27.2,
+      "pointsPerGame": 5.9,
+      "reboundsPerGame": 3.2,
+      "assistsPerGame": 2.6,
+      "stealsPerGame": 1.4,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 38.4,
+      "threePointPercentage": 31,
+      "freeThrowPercentage": 82.9
+    },
     "transferHistory": [
       {
         "recordId": "2868",
@@ -19876,7 +27304,17 @@ const basketballTransfers = [
     "destination": "South Dakota State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 4.9,
+      "pointsPerGame": 2.1,
+      "reboundsPerGame": 1.3,
+      "assistsPerGame": 0.4,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 25,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 92.9
+    },
     "transferHistory": [
       {
         "recordId": "2597",
@@ -19896,7 +27334,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 17.3,
+      "pointsPerGame": 6.0,
+      "reboundsPerGame": 1.6,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 34.9,
+      "threePointPercentage": 32.7,
+      "freeThrowPercentage": 53.8
+    },
     "transferHistory": [
       {
         "recordId": "2800",
@@ -19916,7 +27364,17 @@ const basketballTransfers = [
     "destination": "Colorado State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 29.3,
+      "pointsPerGame": 12.9,
+      "reboundsPerGame": 2.9,
+      "assistsPerGame": 3.8,
+      "stealsPerGame": 1.2,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 44.4,
+      "threePointPercentage": 36.3,
+      "freeThrowPercentage": 92.6
+    },
     "transferHistory": [
       {
         "recordId": "3319",
@@ -19936,7 +27394,17 @@ const basketballTransfers = [
     "destination": "Georgia State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 28.5,
+      "pointsPerGame": 12.4,
+      "reboundsPerGame": 3.8,
+      "assistsPerGame": 1.1,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 40.9,
+      "threePointPercentage": 31.4,
+      "freeThrowPercentage": 80.3
+    },
     "transferHistory": [
       {
         "recordId": "3408",
@@ -19964,7 +27432,7 @@ const basketballTransfers = [
       "stealsPerGame": 0.5,
       "blocksPerGame": 0.2,
       "fieldGoalPercentage": 40.1,
-      "threePointPercentage": 29,
+      "threePointPercentage": 29.0,
       "freeThrowPercentage": 72.2
     },
     "transferHistory": [
@@ -19986,7 +27454,17 @@ const basketballTransfers = [
     "destination": "Coastal Carolina",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 10.2,
+      "pointsPerGame": 3.2,
+      "reboundsPerGame": 3.4,
+      "assistsPerGame": 0.3,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 56.2,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 66.7
+    },
     "transferHistory": [
       {
         "recordId": "2811",
@@ -20006,7 +27484,17 @@ const basketballTransfers = [
     "destination": "San José State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 25.7,
+      "pointsPerGame": 6.9,
+      "reboundsPerGame": 4.0,
+      "assistsPerGame": 1.2,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.8,
+      "fieldGoalPercentage": 39.8,
+      "threePointPercentage": 36.9,
+      "freeThrowPercentage": 73.9
+    },
     "transferHistory": [
       {
         "recordId": "2613",
@@ -20054,7 +27542,7 @@ const basketballTransfers = [
       "stealsPerGame": 0.7,
       "blocksPerGame": 1.7,
       "fieldGoalPercentage": 64.5,
-      "threePointPercentage": 0,
+      "threePointPercentage": 0.0,
       "freeThrowPercentage": 53.9
     },
     "transferHistory": [
@@ -20076,7 +27564,17 @@ const basketballTransfers = [
     "destination": "UNLV",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 14.0,
+      "pointsPerGame": 5.4,
+      "reboundsPerGame": 1.0,
+      "assistsPerGame": 1.7,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 36.1,
+      "threePointPercentage": 21.6,
+      "freeThrowPercentage": 67.6
+    },
     "transferHistory": [
       {
         "recordId": "3173",
@@ -20096,7 +27594,17 @@ const basketballTransfers = [
     "destination": "Loyola Marymount",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 9.5,
+      "pointsPerGame": 1.6,
+      "reboundsPerGame": 1.9,
+      "assistsPerGame": 0.4,
+      "stealsPerGame": 0.0,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 34.1,
+      "threePointPercentage": 24,
+      "freeThrowPercentage": 50
+    },
     "transferHistory": [
       {
         "recordId": "2919",
@@ -20116,32 +27624,22 @@ const basketballTransfers = [
     "destination": "Wright State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 7.4,
+      "pointsPerGame": 2.1,
+      "reboundsPerGame": 0.4,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 35.7,
+      "threePointPercentage": 35.7,
+      "freeThrowPercentage": 75
+    },
     "transferHistory": [
       {
         "recordId": "3277",
         "previousSchool": "DePaul",
         "destination": "Wright State",
-        "season": "2026"
-      }
-    ],
-    "needsReview": false
-  },
-  {
-    "playerId": "46135996",
-    "name": "Baba Miller",
-    "sport": "basketball",
-    "position": "PF",
-    "previousSchool": "Cincinnati",
-    "destination": "",
-    "season": 2026,
-    "profileUrl": "",
-    "stats": {},
-    "transferHistory": [
-      {
-        "recordId": "164931",
-        "previousSchool": "Cincinnati",
-        "destination": "",
         "season": "2026"
       }
     ],
@@ -20176,7 +27674,17 @@ const basketballTransfers = [
     "destination": "Georgetown",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 25.5,
+      "pointsPerGame": 10.8,
+      "reboundsPerGame": 2.7,
+      "assistsPerGame": 1.7,
+      "stealsPerGame": 1.1,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 41.8,
+      "threePointPercentage": 37.5,
+      "freeThrowPercentage": 85.7
+    },
     "transferHistory": [
       {
         "recordId": "2814",
@@ -20196,7 +27704,17 @@ const basketballTransfers = [
     "destination": "Samford",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 8.6,
+      "pointsPerGame": 2.9,
+      "reboundsPerGame": 0.7,
+      "assistsPerGame": 0.6,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 39.3,
+      "threePointPercentage": 40.5,
+      "freeThrowPercentage": 88.9
+    },
     "transferHistory": [
       {
         "recordId": "8995",
@@ -20216,7 +27734,17 @@ const basketballTransfers = [
     "destination": "Miami",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 19.4,
+      "pointsPerGame": 6.1,
+      "reboundsPerGame": 3.9,
+      "assistsPerGame": 0.7,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 1.4,
+      "fieldGoalPercentage": 65.7,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 69.9
+    },
     "transferHistory": [
       {
         "recordId": "27547",
@@ -20236,7 +27764,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 31.5,
+      "pointsPerGame": 19.1,
+      "reboundsPerGame": 5.6,
+      "assistsPerGame": 3.4,
+      "stealsPerGame": 1.4,
+      "blocksPerGame": 0.7,
+      "fieldGoalPercentage": 50.5,
+      "threePointPercentage": 38.8,
+      "freeThrowPercentage": 69.9
+    },
     "transferHistory": [
       {
         "recordId": "2896",
@@ -20256,7 +27794,17 @@ const basketballTransfers = [
     "destination": "Longwood",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 7.0,
+      "pointsPerGame": 1.8,
+      "reboundsPerGame": 1.4,
+      "assistsPerGame": 0.4,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 56.3,
+      "threePointPercentage": 20,
+      "freeThrowPercentage": 62.5
+    },
     "transferHistory": [
       {
         "recordId": "2675",
@@ -20276,7 +27824,17 @@ const basketballTransfers = [
     "destination": "South Carolina",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 34.0,
+      "pointsPerGame": 14.3,
+      "reboundsPerGame": 3.7,
+      "assistsPerGame": 2.9,
+      "stealsPerGame": 1.1,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 44.2,
+      "threePointPercentage": 39.1,
+      "freeThrowPercentage": 88.7
+    },
     "transferHistory": [
       {
         "recordId": "3156",
@@ -20296,7 +27854,17 @@ const basketballTransfers = [
     "destination": "Marquette",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 31.0,
+      "pointsPerGame": 19.8,
+      "reboundsPerGame": 4.6,
+      "assistsPerGame": 4.3,
+      "stealsPerGame": 1.6,
+      "blocksPerGame": 0.6,
+      "fieldGoalPercentage": 50.6,
+      "threePointPercentage": 30.6,
+      "freeThrowPercentage": 75
+    },
     "transferHistory": [
       {
         "recordId": "8626",
@@ -20316,7 +27884,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 27.7,
+      "pointsPerGame": 12.6,
+      "reboundsPerGame": 3.4,
+      "assistsPerGame": 4.4,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 43.2,
+      "threePointPercentage": 36.9,
+      "freeThrowPercentage": 75.9
+    },
     "transferHistory": [
       {
         "recordId": "219151",
@@ -20336,7 +27914,17 @@ const basketballTransfers = [
     "destination": "Baylor",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 32.1,
+      "pointsPerGame": 13.7,
+      "reboundsPerGame": 3.5,
+      "assistsPerGame": 4.3,
+      "stealsPerGame": 2.1,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 47.7,
+      "threePointPercentage": 24.4,
+      "freeThrowPercentage": 70.5
+    },
     "transferHistory": [
       {
         "recordId": "2557",
@@ -20356,7 +27944,17 @@ const basketballTransfers = [
     "destination": "Grambling",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 8.1,
+      "pointsPerGame": 3.7,
+      "reboundsPerGame": 1.5,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.8,
+      "fieldGoalPercentage": 40.4,
+      "threePointPercentage": 15.4,
+      "freeThrowPercentage": 66.7
+    },
     "transferHistory": [
       {
         "recordId": "194339",
@@ -20406,7 +28004,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 14.2,
+      "pointsPerGame": 3.7,
+      "reboundsPerGame": 3.3,
+      "assistsPerGame": 0.7,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 53.2,
+      "threePointPercentage": 33.3,
+      "freeThrowPercentage": 30.8
+    },
     "transferHistory": [
       {
         "recordId": "280092",
@@ -20426,7 +28034,17 @@ const basketballTransfers = [
     "destination": "UNC Greensboro",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 31.5,
+      "pointsPerGame": 14.3,
+      "reboundsPerGame": 4.8,
+      "assistsPerGame": 3.4,
+      "stealsPerGame": 1.5,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 47.0,
+      "threePointPercentage": 38.1,
+      "freeThrowPercentage": 78.8
+    },
     "transferHistory": [
       {
         "recordId": "319273",
@@ -20446,7 +28064,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 33.6,
+      "pointsPerGame": 16.3,
+      "reboundsPerGame": 10.1,
+      "assistsPerGame": 2.7,
+      "stealsPerGame": 1.4,
+      "blocksPerGame": 0.5,
+      "fieldGoalPercentage": 55.6,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 61.4
+    },
     "transferHistory": [
       {
         "recordId": "2546",
@@ -20466,7 +28094,17 @@ const basketballTransfers = [
     "destination": "Iona",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 10.6,
+      "pointsPerGame": 3.2,
+      "reboundsPerGame": 2.6,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 40.4,
+      "threePointPercentage": 20.8,
+      "freeThrowPercentage": 61.8
+    },
     "transferHistory": [
       {
         "recordId": "2987",
@@ -20486,7 +28124,17 @@ const basketballTransfers = [
     "destination": "Ohio",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 30.4,
+      "pointsPerGame": 13.7,
+      "reboundsPerGame": 3.3,
+      "assistsPerGame": 3.6,
+      "stealsPerGame": 1.2,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 39.7,
+      "threePointPercentage": 36.3,
+      "freeThrowPercentage": 79.7
+    },
     "transferHistory": [
       {
         "recordId": "3280",
@@ -20506,7 +28154,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 33.8,
+      "pointsPerGame": 18.3,
+      "reboundsPerGame": 5.2,
+      "assistsPerGame": 3.6,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.5,
+      "fieldGoalPercentage": 54.7,
+      "threePointPercentage": 38.8,
+      "freeThrowPercentage": 66.9
+    },
     "transferHistory": [
       {
         "recordId": "3776602",
@@ -20546,7 +28204,17 @@ const basketballTransfers = [
     "destination": "Pennsylvania",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 16.4,
+      "pointsPerGame": 5.7,
+      "reboundsPerGame": 2.6,
+      "assistsPerGame": 1.5,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 42,
+      "threePointPercentage": 28.6,
+      "freeThrowPercentage": 54.5
+    },
     "transferHistory": [
       {
         "recordId": "3332",
@@ -20566,7 +28234,17 @@ const basketballTransfers = [
     "destination": "Kentucky",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 30.4,
+      "pointsPerGame": 16.9,
+      "reboundsPerGame": 3.1,
+      "assistsPerGame": 1.0,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 50.6,
+      "threePointPercentage": 48.4,
+      "freeThrowPercentage": 87.8
+    },
     "transferHistory": [
       {
         "recordId": "55709",
@@ -20586,7 +28264,17 @@ const basketballTransfers = [
     "destination": "Indiana",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 20.8,
+      "pointsPerGame": 6.0,
+      "reboundsPerGame": 1.2,
+      "assistsPerGame": 1.6,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 40.1,
+      "threePointPercentage": 27,
+      "freeThrowPercentage": 72.2
+    },
     "transferHistory": [
       {
         "recordId": "1009240",
@@ -20663,9 +28351,9 @@ const basketballTransfers = [
       "assistsPerGame": 0.0,
       "stealsPerGame": 0.0,
       "blocksPerGame": 0.0,
-      "fieldGoalPercentage": 0,
-      "threePointPercentage": 0,
-      "freeThrowPercentage": 0
+      "fieldGoalPercentage": 0.0,
+      "threePointPercentage": 0.0,
+      "freeThrowPercentage": 0.0
     },
     "transferHistory": [
       {
@@ -20686,7 +28374,17 @@ const basketballTransfers = [
     "destination": "Binghamton",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 5.2,
+      "pointsPerGame": 0.8,
+      "reboundsPerGame": 0.6,
+      "assistsPerGame": 0.1,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 42.9,
+      "threePointPercentage": 0.0,
+      "freeThrowPercentage": 14.3
+    },
     "transferHistory": [
       {
         "recordId": "312546",
@@ -20706,7 +28404,17 @@ const basketballTransfers = [
     "destination": "Louisville",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 30.6,
+      "pointsPerGame": 13.4,
+      "reboundsPerGame": 4.0,
+      "assistsPerGame": 2.1,
+      "stealsPerGame": 2.1,
+      "blocksPerGame": 0.6,
+      "fieldGoalPercentage": 49,
+      "threePointPercentage": 33.5,
+      "freeThrowPercentage": 78.9
+    },
     "transferHistory": [
       {
         "recordId": "2475",
@@ -20726,7 +28434,17 @@ const basketballTransfers = [
     "destination": "Butler",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 25.0,
+      "pointsPerGame": 11.2,
+      "reboundsPerGame": 3.1,
+      "assistsPerGame": 1.0,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 42.9,
+      "threePointPercentage": 38.7,
+      "freeThrowPercentage": 67.2
+    },
     "transferHistory": [
       {
         "recordId": "3467",
@@ -20746,7 +28464,17 @@ const basketballTransfers = [
     "destination": "McNeese",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 5.0,
+      "pointsPerGame": 0.0,
+      "reboundsPerGame": 0.0,
+      "assistsPerGame": 0.0,
+      "stealsPerGame": 0.0,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 0,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 0
+    },
     "transferHistory": [
       {
         "recordId": "2755",
@@ -20766,7 +28494,17 @@ const basketballTransfers = [
     "destination": "Hofstra",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 30.0,
+      "pointsPerGame": 10.9,
+      "reboundsPerGame": 2.2,
+      "assistsPerGame": 3.8,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 39.5,
+      "threePointPercentage": 29.8,
+      "freeThrowPercentage": 74
+    },
     "transferHistory": [
       {
         "recordId": "2550",
@@ -20806,7 +28544,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 4.4,
+      "pointsPerGame": 1.1,
+      "reboundsPerGame": 0.9,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 21.4,
+      "threePointPercentage": 16.7,
+      "freeThrowPercentage": 40
+    },
     "transferHistory": [
       {
         "recordId": "514086",
@@ -20846,7 +28594,17 @@ const basketballTransfers = [
     "destination": "Lamar",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 26.2,
+      "pointsPerGame": 5.6,
+      "reboundsPerGame": 2.0,
+      "assistsPerGame": 3.3,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 46.5,
+      "threePointPercentage": 26.7,
+      "freeThrowPercentage": 67.2
+    },
     "transferHistory": [
       {
         "recordId": "2503",
@@ -20916,7 +28674,17 @@ const basketballTransfers = [
     "destination": "Bethune-Cookman",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 29.5,
+      "pointsPerGame": 11.3,
+      "reboundsPerGame": 2.5,
+      "assistsPerGame": 2.9,
+      "stealsPerGame": 2.1,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 45.1,
+      "threePointPercentage": 30,
+      "freeThrowPercentage": 78.9
+    },
     "transferHistory": [
       {
         "recordId": "348432",
@@ -20936,7 +28704,17 @@ const basketballTransfers = [
     "destination": "Kentucky",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 24.9,
+      "pointsPerGame": 7.8,
+      "reboundsPerGame": 1.9,
+      "assistsPerGame": 2.6,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 43.8,
+      "threePointPercentage": 38.8,
+      "freeThrowPercentage": 82
+    },
     "transferHistory": [
       {
         "recordId": "2620",
@@ -20956,7 +28734,17 @@ const basketballTransfers = [
     "destination": "Loyola Marymount",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 6.3,
+      "pointsPerGame": 1.8,
+      "reboundsPerGame": 0.6,
+      "assistsPerGame": 0.3,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 34.3,
+      "threePointPercentage": 38.5,
+      "freeThrowPercentage": 0
+    },
     "transferHistory": [
       {
         "recordId": "2738",
@@ -20976,7 +28764,17 @@ const basketballTransfers = [
     "destination": "Tulsa",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 26.7,
+      "pointsPerGame": 9.6,
+      "reboundsPerGame": 4.7,
+      "assistsPerGame": 0.9,
+      "stealsPerGame": 1.4,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 35.8,
+      "threePointPercentage": 32.7,
+      "freeThrowPercentage": 74.4
+    },
     "transferHistory": [
       {
         "recordId": "3036",
@@ -21016,7 +28814,17 @@ const basketballTransfers = [
     "destination": "Youngstown State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 11.6,
+      "pointsPerGame": 2.7,
+      "reboundsPerGame": 1.6,
+      "assistsPerGame": 0.7,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 38.5,
+      "threePointPercentage": 23.5,
+      "freeThrowPercentage": 45.5
+    },
     "transferHistory": [
       {
         "recordId": "8630",
@@ -21036,7 +28844,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 31.3,
+      "pointsPerGame": 20.4,
+      "reboundsPerGame": 6.2,
+      "assistsPerGame": 2.0,
+      "stealsPerGame": 1.0,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 44.3,
+      "threePointPercentage": 37.2,
+      "freeThrowPercentage": 87.8
+    },
     "transferHistory": [
       {
         "recordId": "2504",
@@ -21056,7 +28874,17 @@ const basketballTransfers = [
     "destination": "The Citadel",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 9.6,
+      "pointsPerGame": 2.0,
+      "reboundsPerGame": 0.9,
+      "assistsPerGame": 0.3,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 31.3,
+      "threePointPercentage": 29.8,
+      "freeThrowPercentage": 90.9
+    },
     "transferHistory": [
       {
         "recordId": "2468",
@@ -21076,7 +28904,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 6.9,
+      "pointsPerGame": 2.6,
+      "reboundsPerGame": 1.1,
+      "assistsPerGame": 0.1,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.9,
+      "fieldGoalPercentage": 76.5,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 58.8
+    },
     "transferHistory": [
       {
         "recordId": "3113",
@@ -21096,7 +28934,17 @@ const basketballTransfers = [
     "destination": "Georgia Tech",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 12.7,
+      "pointsPerGame": 3.2,
+      "reboundsPerGame": 1.9,
+      "assistsPerGame": 1.4,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 42.4,
+      "threePointPercentage": 21.1,
+      "freeThrowPercentage": 55
+    },
     "transferHistory": [
       {
         "recordId": "3129",
@@ -21116,7 +28964,17 @@ const basketballTransfers = [
     "destination": "Utah State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 17.2,
+      "pointsPerGame": 7.6,
+      "reboundsPerGame": 3.4,
+      "assistsPerGame": 1.7,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.5,
+      "fieldGoalPercentage": 44.2,
+      "threePointPercentage": 21.7,
+      "freeThrowPercentage": 81.6
+    },
     "transferHistory": [
       {
         "recordId": "3251",
@@ -21136,7 +28994,17 @@ const basketballTransfers = [
     "destination": "Florida Atlantic",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 5.4,
+      "pointsPerGame": 0.8,
+      "reboundsPerGame": 1.1,
+      "assistsPerGame": 0.1,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 41.7,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 100
+    },
     "transferHistory": [
       {
         "recordId": "2961",
@@ -21165,7 +29033,8 @@ const basketballTransfers = [
         "season": "2026"
       }
     ],
-    "needsReview": false
+    "needsReview": false,
+    "seasonNote": "Brady Muller missed the 2025–26 season following hip surgery. Season statistics are unavailable."
   },
   {
     "playerId": "46151045",
@@ -21176,7 +29045,17 @@ const basketballTransfers = [
     "destination": "SMU",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 21.1,
+      "pointsPerGame": 7.9,
+      "reboundsPerGame": 5.1,
+      "assistsPerGame": 1.0,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.7,
+      "fieldGoalPercentage": 52.7,
+      "threePointPercentage": 12.5,
+      "freeThrowPercentage": 63.5
+    },
     "transferHistory": [
       {
         "recordId": "3057",
@@ -21196,7 +29075,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 30.5,
+      "pointsPerGame": 9.5,
+      "reboundsPerGame": 4.0,
+      "assistsPerGame": 4.9,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 47.3,
+      "threePointPercentage": 36.5,
+      "freeThrowPercentage": 70.1
+    },
     "transferHistory": [
       {
         "recordId": "4406374",
@@ -21246,7 +29135,17 @@ const basketballTransfers = [
     "destination": "Arizona State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 32.2,
+      "pointsPerGame": 18.4,
+      "reboundsPerGame": 7.5,
+      "assistsPerGame": 2.1,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.5,
+      "fieldGoalPercentage": 48.4,
+      "threePointPercentage": 33.3,
+      "freeThrowPercentage": 84
+    },
     "transferHistory": [
       {
         "recordId": "3306",
@@ -21266,7 +29165,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 6.0,
+      "pointsPerGame": 2.0,
+      "reboundsPerGame": 1.5,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 50,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 0
+    },
     "transferHistory": [
       {
         "recordId": "2821",
@@ -21286,7 +29195,17 @@ const basketballTransfers = [
     "destination": "Indiana",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 27.8,
+      "pointsPerGame": 10.4,
+      "reboundsPerGame": 4.3,
+      "assistsPerGame": 2.4,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 43.3,
+      "threePointPercentage": 38.9,
+      "freeThrowPercentage": 72.7
+    },
     "transferHistory": [
       {
         "recordId": "3009",
@@ -21336,7 +29255,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 8.9,
+      "pointsPerGame": 2.9,
+      "reboundsPerGame": 0.9,
+      "assistsPerGame": 0.6,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 35,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 60
+    },
     "transferHistory": [
       {
         "recordId": "8682",
@@ -21356,7 +29285,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 15.8,
+      "pointsPerGame": 5.2,
+      "reboundsPerGame": 2.9,
+      "assistsPerGame": 2.3,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 38.7,
+      "threePointPercentage": 25,
+      "freeThrowPercentage": 60
+    },
     "transferHistory": [
       {
         "recordId": "105626",
@@ -21376,7 +29315,17 @@ const basketballTransfers = [
     "destination": "Jackson State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 21.0,
+      "pointsPerGame": 7.7,
+      "reboundsPerGame": 3.6,
+      "assistsPerGame": 0.6,
+      "stealsPerGame": 1.4,
+      "blocksPerGame": 0.5,
+      "fieldGoalPercentage": 40.8,
+      "threePointPercentage": 33.7,
+      "freeThrowPercentage": 81.8
+    },
     "transferHistory": [
       {
         "recordId": "79652",
@@ -21396,7 +29345,17 @@ const basketballTransfers = [
     "destination": "Tulane",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 26.5,
+      "pointsPerGame": 13.8,
+      "reboundsPerGame": 3.2,
+      "assistsPerGame": 1.0,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 49,
+      "threePointPercentage": 46.7,
+      "freeThrowPercentage": 86.3
+    },
     "transferHistory": [
       {
         "recordId": "3326",
@@ -21416,7 +29375,17 @@ const basketballTransfers = [
     "destination": "UConn",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 25.8,
+      "pointsPerGame": 5.1,
+      "reboundsPerGame": 2.8,
+      "assistsPerGame": 4.0,
+      "stealsPerGame": 1.0,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 30.6,
+      "threePointPercentage": 28.6,
+      "freeThrowPercentage": 69.2
+    },
     "transferHistory": [
       {
         "recordId": "2809",
@@ -21456,7 +29425,17 @@ const basketballTransfers = [
     "destination": "Oklahoma State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 26.4,
+      "pointsPerGame": 10.8,
+      "reboundsPerGame": 8.2,
+      "assistsPerGame": 2.4,
+      "stealsPerGame": 2.0,
+      "blocksPerGame": 0.5,
+      "fieldGoalPercentage": 42.9,
+      "threePointPercentage": 38.3,
+      "freeThrowPercentage": 78
+    },
     "transferHistory": [
       {
         "recordId": "2912",
@@ -21476,7 +29455,17 @@ const basketballTransfers = [
     "destination": "Middle Tennessee",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 28.9,
+      "pointsPerGame": 11.2,
+      "reboundsPerGame": 6.0,
+      "assistsPerGame": 1.8,
+      "stealsPerGame": 1.3,
+      "blocksPerGame": 0.5,
+      "fieldGoalPercentage": 47,
+      "threePointPercentage": 29.1,
+      "freeThrowPercentage": 67.4
+    },
     "transferHistory": [
       {
         "recordId": "2946",
@@ -21496,7 +29485,17 @@ const basketballTransfers = [
     "destination": "Kansas State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 9.3,
+      "pointsPerGame": 2.0,
+      "reboundsPerGame": 2.3,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 1.0,
+      "fieldGoalPercentage": 46.8,
+      "threePointPercentage": 42.9,
+      "freeThrowPercentage": 55.6
+    },
     "transferHistory": [
       {
         "recordId": "2614",
@@ -21516,7 +29515,17 @@ const basketballTransfers = [
     "destination": "Pittsburgh",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 27.2,
+      "pointsPerGame": 11.8,
+      "reboundsPerGame": 8.1,
+      "assistsPerGame": 2.4,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 1.0,
+      "fieldGoalPercentage": 55.6,
+      "threePointPercentage": 35.7,
+      "freeThrowPercentage": 71.6
+    },
     "transferHistory": [
       {
         "recordId": "3144",
@@ -21564,7 +29573,7 @@ const basketballTransfers = [
       "stealsPerGame": 0.3,
       "blocksPerGame": 0.1,
       "fieldGoalPercentage": 43.5,
-      "threePointPercentage": 50,
+      "threePointPercentage": 50.0,
       "freeThrowPercentage": 66.7
     },
     "transferHistory": [
@@ -21586,7 +29595,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 2.2,
+      "pointsPerGame": 0.8,
+      "reboundsPerGame": 0.2,
+      "assistsPerGame": 0.0,
+      "stealsPerGame": 0.0,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 37.5,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 0
+    },
     "transferHistory": [
       {
         "recordId": "2492",
@@ -21626,7 +29645,17 @@ const basketballTransfers = [
     "destination": "Colorado",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 32.3,
+      "pointsPerGame": 17.9,
+      "reboundsPerGame": 11.5,
+      "assistsPerGame": 2.4,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 54.2,
+      "threePointPercentage": 31.4,
+      "freeThrowPercentage": 78.4
+    },
     "transferHistory": [
       {
         "recordId": "3190",
@@ -21646,7 +29675,17 @@ const basketballTransfers = [
     "destination": "Utah Valley",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 8.3,
+      "pointsPerGame": 3.7,
+      "reboundsPerGame": 0.9,
+      "assistsPerGame": 0.3,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 44.4,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 60.4
+    },
     "transferHistory": [
       {
         "recordId": "2667",
@@ -21666,7 +29705,17 @@ const basketballTransfers = [
     "destination": "Loyola Chicago",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 27.4,
+      "pointsPerGame": 15.5,
+      "reboundsPerGame": 6.3,
+      "assistsPerGame": 2.5,
+      "stealsPerGame": 1.0,
+      "blocksPerGame": 0.6,
+      "fieldGoalPercentage": 55.3,
+      "threePointPercentage": 33.3,
+      "freeThrowPercentage": 75
+    },
     "transferHistory": [
       {
         "recordId": "109258",
@@ -21686,7 +29735,17 @@ const basketballTransfers = [
     "destination": "UMass Lowell",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 17.0,
+      "pointsPerGame": 7.2,
+      "reboundsPerGame": 3.6,
+      "assistsPerGame": 0.9,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 33.3,
+      "threePointPercentage": 26.2,
+      "freeThrowPercentage": 82.1
+    },
     "transferHistory": [
       {
         "recordId": "317894",
@@ -21706,7 +29765,17 @@ const basketballTransfers = [
     "destination": "Colorado",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 20.8,
+      "pointsPerGame": 4.2,
+      "reboundsPerGame": 5.1,
+      "assistsPerGame": 1.1,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 1.2,
+      "fieldGoalPercentage": 48.9,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 74.5
+    },
     "transferHistory": [
       {
         "recordId": "4586100",
@@ -21726,7 +29795,17 @@ const basketballTransfers = [
     "destination": "Georgia State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 4.0,
+      "pointsPerGame": 0.4,
+      "reboundsPerGame": 1.0,
+      "assistsPerGame": 0.0,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 50,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 0
+    },
     "transferHistory": [
       {
         "recordId": "140973",
@@ -21758,26 +29837,6 @@ const basketballTransfers = [
     "needsReview": false
   },
   {
-    "playerId": "46116839",
-    "name": "Adam Njie",
-    "sport": "basketball",
-    "position": "CG",
-    "previousSchool": "Dayton",
-    "destination": "Hampton",
-    "season": 2026,
-    "profileUrl": "",
-    "stats": {},
-    "transferHistory": [
-      {
-        "recordId": "135982",
-        "previousSchool": "Dayton",
-        "destination": "Hampton",
-        "season": "2026"
-      }
-    ],
-    "needsReview": false
-  },
-  {
     "playerId": "46166100",
     "name": "Baboucarr Njie",
     "sport": "basketball",
@@ -21786,7 +29845,17 @@ const basketballTransfers = [
     "destination": "Temple",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 25.6,
+      "pointsPerGame": 9.4,
+      "reboundsPerGame": 5.2,
+      "assistsPerGame": 1.5,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 1.6,
+      "fieldGoalPercentage": 46.2,
+      "threePointPercentage": 6.5,
+      "freeThrowPercentage": 63.5
+    },
     "transferHistory": [
       {
         "recordId": "3034",
@@ -21806,7 +29875,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 11.5,
+      "pointsPerGame": 2.5,
+      "reboundsPerGame": 3.4,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 63.2,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 72
+    },
     "transferHistory": [
       {
         "recordId": "2463",
@@ -21826,7 +29905,17 @@ const basketballTransfers = [
     "destination": "George Mason",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 8.2,
+      "pointsPerGame": 1.4,
+      "reboundsPerGame": 2.1,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 69.2,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 57.1
+    },
     "transferHistory": [
       {
         "recordId": "2684",
@@ -21846,7 +29935,17 @@ const basketballTransfers = [
     "destination": "Bryant",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 1.0,
+      "pointsPerGame": 0.0,
+      "reboundsPerGame": 1.0,
+      "assistsPerGame": 0.0,
+      "stealsPerGame": 0.0,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 0,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 0
+    },
     "transferHistory": [
       {
         "recordId": "2974",
@@ -21866,7 +29965,17 @@ const basketballTransfers = [
     "destination": "Samford",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 27.5,
+      "pointsPerGame": 18.2,
+      "reboundsPerGame": 3.3,
+      "assistsPerGame": 2.0,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 50,
+      "threePointPercentage": 37.6,
+      "freeThrowPercentage": 90.3
+    },
     "transferHistory": [
       {
         "recordId": "4455840",
@@ -21886,7 +29995,17 @@ const basketballTransfers = [
     "destination": "Michigan",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 33.1,
+      "pointsPerGame": 17.1,
+      "reboundsPerGame": 3.4,
+      "assistsPerGame": 3.6,
+      "stealsPerGame": 1.5,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 45,
+      "threePointPercentage": 37.7,
+      "freeThrowPercentage": 92.2
+    },
     "transferHistory": [
       {
         "recordId": "4407917",
@@ -21906,7 +30025,17 @@ const basketballTransfers = [
     "destination": "Western Kentucky",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 25.1,
+      "pointsPerGame": 7.7,
+      "reboundsPerGame": 2.1,
+      "assistsPerGame": 1.5,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 40.3,
+      "threePointPercentage": 37.2,
+      "freeThrowPercentage": 70
+    },
     "transferHistory": [
       {
         "recordId": "3186",
@@ -21926,7 +30055,17 @@ const basketballTransfers = [
     "destination": "Milwaukee",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 8.1,
+      "pointsPerGame": 2.2,
+      "reboundsPerGame": 1.4,
+      "assistsPerGame": 0.7,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 43.1,
+      "threePointPercentage": 11.1,
+      "freeThrowPercentage": 64.5
+    },
     "transferHistory": [
       {
         "recordId": "3148",
@@ -22016,7 +30155,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 16.3,
+      "pointsPerGame": 12.7,
+      "reboundsPerGame": 5.7,
+      "assistsPerGame": 1.3,
+      "stealsPerGame": 1.0,
+      "blocksPerGame": 0.7,
+      "fieldGoalPercentage": 44.8,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 75
+    },
     "transferHistory": [
       {
         "recordId": "3490",
@@ -22036,7 +30185,17 @@ const basketballTransfers = [
     "destination": "Kent State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 19.4,
+      "pointsPerGame": 5.4,
+      "reboundsPerGame": 5.5,
+      "assistsPerGame": 0.3,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 1.6,
+      "fieldGoalPercentage": 65.8,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 54.8
+    },
     "transferHistory": [
       {
         "recordId": "2774",
@@ -22056,7 +30215,17 @@ const basketballTransfers = [
     "destination": "Youngstown State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 11.3,
+      "pointsPerGame": 2.9,
+      "reboundsPerGame": 2.3,
+      "assistsPerGame": 0.7,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 30.3,
+      "threePointPercentage": 24,
+      "freeThrowPercentage": 50
+    },
     "transferHistory": [
       {
         "recordId": "2823",
@@ -22076,7 +30245,17 @@ const basketballTransfers = [
     "destination": "Xavier",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 21.9,
+      "pointsPerGame": 13.5,
+      "reboundsPerGame": 5.9,
+      "assistsPerGame": 0.8,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.8,
+      "fieldGoalPercentage": 61.4,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 75.9
+    },
     "transferHistory": [
       {
         "recordId": "2566",
@@ -22096,7 +30275,17 @@ const basketballTransfers = [
     "destination": "Seton Hall",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 10.1,
+      "pointsPerGame": 2.2,
+      "reboundsPerGame": 1.5,
+      "assistsPerGame": 0.4,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 37.3,
+      "threePointPercentage": 36.4,
+      "freeThrowPercentage": 68.6
+    },
     "transferHistory": [
       {
         "recordId": "8606",
@@ -22116,7 +30305,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 5.0,
+      "pointsPerGame": 0.8,
+      "reboundsPerGame": 1.4,
+      "assistsPerGame": 0.0,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 33.3,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 0
+    },
     "transferHistory": [
       {
         "recordId": "139005",
@@ -22136,7 +30335,17 @@ const basketballTransfers = [
     "destination": "Wake Forest",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 25.8,
+      "pointsPerGame": 8.5,
+      "reboundsPerGame": 6.3,
+      "assistsPerGame": 0.6,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.9,
+      "fieldGoalPercentage": 53.6,
+      "threePointPercentage": 35.3,
+      "freeThrowPercentage": 62.2
+    },
     "transferHistory": [
       {
         "recordId": "2895",
@@ -22186,7 +30395,17 @@ const basketballTransfers = [
     "destination": "Delaware",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 28.4,
+      "pointsPerGame": 11.7,
+      "reboundsPerGame": 4.8,
+      "assistsPerGame": 1.3,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.9,
+      "fieldGoalPercentage": 46.8,
+      "threePointPercentage": 41.5,
+      "freeThrowPercentage": 69.9
+    },
     "transferHistory": [
       {
         "recordId": "3180",
@@ -22206,7 +30425,17 @@ const basketballTransfers = [
     "destination": "Boston University",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 4.4,
+      "pointsPerGame": 1.8,
+      "reboundsPerGame": 1.2,
+      "assistsPerGame": 0.1,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 69.2,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 80
+    },
     "transferHistory": [
       {
         "recordId": "220481",
@@ -22226,7 +30455,17 @@ const basketballTransfers = [
     "destination": "Penn State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 21.0,
+      "pointsPerGame": 8.5,
+      "reboundsPerGame": 4.8,
+      "assistsPerGame": 0.3,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 1.4,
+      "fieldGoalPercentage": 61.1,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 49.2
+    },
     "transferHistory": [
       {
         "recordId": "2743",
@@ -22246,7 +30485,17 @@ const basketballTransfers = [
     "destination": "Auburn",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 17.8,
+      "pointsPerGame": 7.9,
+      "reboundsPerGame": 4.1,
+      "assistsPerGame": 0.6,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 1.2,
+      "fieldGoalPercentage": 66.7,
+      "threePointPercentage": 24.2,
+      "freeThrowPercentage": 65.6
+    },
     "transferHistory": [
       {
         "recordId": "84309",
@@ -22286,7 +30535,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 3.5,
+      "pointsPerGame": 0.8,
+      "reboundsPerGame": 0.2,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 36.4,
+      "threePointPercentage": 25,
+      "freeThrowPercentage": 0
+    },
     "transferHistory": [
       {
         "recordId": "2794",
@@ -22306,7 +30565,17 @@ const basketballTransfers = [
     "destination": "Fordham",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 5.4,
+      "pointsPerGame": 1.5,
+      "reboundsPerGame": 1.9,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 46.7,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 50
+    },
     "transferHistory": [
       {
         "recordId": "138470",
@@ -22326,7 +30595,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 33.8,
+      "pointsPerGame": 16.4,
+      "reboundsPerGame": 3.1,
+      "assistsPerGame": 5.7,
+      "stealsPerGame": 1.4,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 40.6,
+      "threePointPercentage": 37.7,
+      "freeThrowPercentage": 82.9
+    },
     "transferHistory": [
       {
         "recordId": "3776596",
@@ -22346,7 +30625,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 19.0,
+      "pointsPerGame": 4.7,
+      "reboundsPerGame": 6.0,
+      "assistsPerGame": 0.4,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 1.2,
+      "fieldGoalPercentage": 59.8,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 54.3
+    },
     "transferHistory": [
       {
         "recordId": "132349",
@@ -22396,7 +30685,17 @@ const basketballTransfers = [
     "destination": "Mississippi State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 23.2,
+      "pointsPerGame": 11.0,
+      "reboundsPerGame": 5.7,
+      "assistsPerGame": 0.9,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 1.4,
+      "fieldGoalPercentage": 58.3,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 64.4
+    },
     "transferHistory": [
       {
         "recordId": "3125",
@@ -22436,7 +30735,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 29.8,
+      "pointsPerGame": 10.8,
+      "reboundsPerGame": 7.3,
+      "assistsPerGame": 0.9,
+      "stealsPerGame": 1.0,
+      "blocksPerGame": 2.0,
+      "fieldGoalPercentage": 69.1,
+      "threePointPercentage": 100,
+      "freeThrowPercentage": 56.5
+    },
     "transferHistory": [
       {
         "recordId": "3469",
@@ -22456,7 +30765,17 @@ const basketballTransfers = [
     "destination": "George Mason",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 34.1,
+      "pointsPerGame": 19.7,
+      "reboundsPerGame": 3.1,
+      "assistsPerGame": 5.3,
+      "stealsPerGame": 1.4,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 42.9,
+      "threePointPercentage": 32.5,
+      "freeThrowPercentage": 81.8
+    },
     "transferHistory": [
       {
         "recordId": "3139",
@@ -22476,7 +30795,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 16.9,
+      "pointsPerGame": 6.2,
+      "reboundsPerGame": 5.2,
+      "assistsPerGame": 0.4,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.9,
+      "fieldGoalPercentage": 57,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 67.2
+    },
     "transferHistory": [
       {
         "recordId": "2689",
@@ -22496,7 +30825,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 28.5,
+      "pointsPerGame": 13.9,
+      "reboundsPerGame": 3.8,
+      "assistsPerGame": 2.2,
+      "stealsPerGame": 1.1,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 39.3,
+      "threePointPercentage": 30.4,
+      "freeThrowPercentage": 73
+    },
     "transferHistory": [
       {
         "recordId": "3914833",
@@ -22516,7 +30855,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 23.7,
+      "pointsPerGame": 10.0,
+      "reboundsPerGame": 6.5,
+      "assistsPerGame": 0.9,
+      "stealsPerGame": 1.1,
+      "blocksPerGame": 1.2,
+      "fieldGoalPercentage": 54.3,
+      "threePointPercentage": 15.4,
+      "freeThrowPercentage": 54.5
+    },
     "transferHistory": [
       {
         "recordId": "4458815",
@@ -22536,7 +30885,17 @@ const basketballTransfers = [
     "destination": "George Mason",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 16.4,
+      "pointsPerGame": 5.0,
+      "reboundsPerGame": 2.2,
+      "assistsPerGame": 2.0,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 41,
+      "threePointPercentage": 10.5,
+      "freeThrowPercentage": 62.1
+    },
     "transferHistory": [
       {
         "recordId": "3162",
@@ -22556,7 +30915,17 @@ const basketballTransfers = [
     "destination": "NJIT",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 9.9,
+      "pointsPerGame": 3.5,
+      "reboundsPerGame": 1.9,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 38.5,
+      "threePointPercentage": 29.4,
+      "freeThrowPercentage": 75.9
+    },
     "transferHistory": [
       {
         "recordId": "643397",
@@ -22576,7 +30945,17 @@ const basketballTransfers = [
     "destination": "Duquesne",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 4.6,
+      "pointsPerGame": 1.4,
+      "reboundsPerGame": 0.5,
+      "assistsPerGame": 0.0,
+      "stealsPerGame": 0.0,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 41.7,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 50
+    },
     "transferHistory": [
       {
         "recordId": "109139",
@@ -22626,7 +31005,17 @@ const basketballTransfers = [
     "destination": "Portland",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 29.2,
+      "pointsPerGame": 13.7,
+      "reboundsPerGame": 4.5,
+      "assistsPerGame": 1.9,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 39.3,
+      "threePointPercentage": 35.6,
+      "freeThrowPercentage": 72
+    },
     "transferHistory": [
       {
         "recordId": "2707",
@@ -22646,7 +31035,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 27.2,
+      "pointsPerGame": 11.3,
+      "reboundsPerGame": 5.3,
+      "assistsPerGame": 1.7,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 45.5,
+      "threePointPercentage": 29.7,
+      "freeThrowPercentage": 78.2
+    },
     "transferHistory": [
       {
         "recordId": "3784148",
@@ -22675,7 +31074,8 @@ const basketballTransfers = [
         "season": "2026"
       }
     ],
-    "needsReview": false
+    "needsReview": false,
+    "seasonNote": "BJ Omot missed the 2025–26 season due to injury. Season statistics are unavailable."
   },
   {
     "playerId": "46166394",
@@ -22686,7 +31086,17 @@ const basketballTransfers = [
     "destination": "Wisconsin",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 17.9,
+      "pointsPerGame": 4.7,
+      "reboundsPerGame": 6.9,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 1.0,
+      "fieldGoalPercentage": 56.6,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 49
+    },
     "transferHistory": [
       {
         "recordId": "216680",
@@ -22726,7 +31136,17 @@ const basketballTransfers = [
     "destination": "San Francisco",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 24.0,
+      "pointsPerGame": 7.6,
+      "reboundsPerGame": 4.2,
+      "assistsPerGame": 1.6,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 49.8,
+      "threePointPercentage": 36.8,
+      "freeThrowPercentage": 69.2
+    },
     "transferHistory": [
       {
         "recordId": "311055",
@@ -22746,7 +31166,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 9.5,
+      "pointsPerGame": 3.8,
+      "reboundsPerGame": 2.5,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 1.0,
+      "fieldGoalPercentage": 76.9,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 50
+    },
     "transferHistory": [
       {
         "recordId": "342839",
@@ -22766,7 +31196,17 @@ const basketballTransfers = [
     "destination": "Akron",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 35.7,
+      "pointsPerGame": 20.9,
+      "reboundsPerGame": 3.0,
+      "assistsPerGame": 4.2,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 48,
+      "threePointPercentage": 40.2,
+      "freeThrowPercentage": 88.7
+    },
     "transferHistory": [
       {
         "recordId": "137559",
@@ -22786,7 +31226,17 @@ const basketballTransfers = [
     "destination": "Nebraska",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 25.6,
+      "pointsPerGame": 12.7,
+      "reboundsPerGame": 5.0,
+      "assistsPerGame": 1.8,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.7,
+      "fieldGoalPercentage": 55.9,
+      "threePointPercentage": 39.7,
+      "freeThrowPercentage": 63.6
+    },
     "transferHistory": [
       {
         "recordId": "2428",
@@ -22806,7 +31256,17 @@ const basketballTransfers = [
     "destination": "Mount St. Mary's",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 2.5,
+      "pointsPerGame": 0.4,
+      "reboundsPerGame": 0.1,
+      "assistsPerGame": 0.1,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 50,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 20
+    },
     "transferHistory": [
       {
         "recordId": "3073",
@@ -22846,7 +31306,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 3.0,
+      "pointsPerGame": 0.7,
+      "reboundsPerGame": 1.0,
+      "assistsPerGame": 0.0,
+      "stealsPerGame": 0.0,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 33.3,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 0
+    },
     "transferHistory": [
       {
         "recordId": "3159",
@@ -22866,7 +31336,17 @@ const basketballTransfers = [
     "destination": "Marshall",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 20.3,
+      "pointsPerGame": 9.2,
+      "reboundsPerGame": 1.4,
+      "assistsPerGame": 0.7,
+      "stealsPerGame": 1.1,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 41.6,
+      "threePointPercentage": 34.9,
+      "freeThrowPercentage": 93.5
+    },
     "transferHistory": [
       {
         "recordId": "286778",
@@ -22886,7 +31366,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 31.5,
+      "pointsPerGame": 14.5,
+      "reboundsPerGame": 3.4,
+      "assistsPerGame": 3.5,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 46,
+      "threePointPercentage": 30,
+      "freeThrowPercentage": 84.5
+    },
     "transferHistory": [
       {
         "recordId": "196933",
@@ -22906,7 +31396,17 @@ const basketballTransfers = [
     "destination": "Arizona",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 14.8,
+      "pointsPerGame": 4.7,
+      "reboundsPerGame": 3.8,
+      "assistsPerGame": 0.3,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 1.7,
+      "fieldGoalPercentage": 52.2,
+      "threePointPercentage": 100,
+      "freeThrowPercentage": 60.7
+    },
     "transferHistory": [
       {
         "recordId": "1137966",
@@ -22926,7 +31426,17 @@ const basketballTransfers = [
     "destination": "Southern Miss",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 10.5,
+      "pointsPerGame": 2.8,
+      "reboundsPerGame": 3.2,
+      "assistsPerGame": 0.3,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 54.2,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 52.6
+    },
     "transferHistory": [
       {
         "recordId": "406049",
@@ -22973,9 +31483,9 @@ const basketballTransfers = [
       "assistsPerGame": 0.0,
       "stealsPerGame": 0.0,
       "blocksPerGame": 0.0,
-      "fieldGoalPercentage": 0,
-      "threePointPercentage": 0,
-      "freeThrowPercentage": 0
+      "fieldGoalPercentage": 0.0,
+      "threePointPercentage": 0.0,
+      "freeThrowPercentage": 0.0
     },
     "transferHistory": [
       {
@@ -23004,7 +31514,7 @@ const basketballTransfers = [
       "stealsPerGame": 0.9,
       "blocksPerGame": 1.2,
       "fieldGoalPercentage": 54.6,
-      "threePointPercentage": 25,
+      "threePointPercentage": 25.0,
       "freeThrowPercentage": 65.6
     },
     "transferHistory": [
@@ -23026,7 +31536,17 @@ const basketballTransfers = [
     "destination": "Minnesota",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 18.3,
+      "pointsPerGame": 4.6,
+      "reboundsPerGame": 1.7,
+      "assistsPerGame": 0.6,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 46.6,
+      "threePointPercentage": 35.9,
+      "freeThrowPercentage": 76.2
+    },
     "transferHistory": [
       {
         "recordId": "193050",
@@ -23066,7 +31586,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 5.6,
+      "pointsPerGame": 0.9,
+      "reboundsPerGame": 0.9,
+      "assistsPerGame": 0.7,
+      "stealsPerGame": 0.0,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 25,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 40
+    },
     "transferHistory": [
       {
         "recordId": "2510",
@@ -23086,7 +31616,17 @@ const basketballTransfers = [
     "destination": "Georgetown",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 21.8,
+      "pointsPerGame": 9.6,
+      "reboundsPerGame": 6.0,
+      "assistsPerGame": 1.2,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 51.1,
+      "threePointPercentage": 16,
+      "freeThrowPercentage": 61.6
+    },
     "transferHistory": [
       {
         "recordId": "2922",
@@ -23106,7 +31646,17 @@ const basketballTransfers = [
     "destination": "Ball State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 20.8,
+      "pointsPerGame": 10.7,
+      "reboundsPerGame": 1.9,
+      "assistsPerGame": 2.0,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 44.5,
+      "threePointPercentage": 40.8,
+      "freeThrowPercentage": 90
+    },
     "transferHistory": [
       {
         "recordId": "3170",
@@ -23126,7 +31676,17 @@ const basketballTransfers = [
     "destination": "Kennesaw State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 5.9,
+      "pointsPerGame": 1.7,
+      "reboundsPerGame": 0.7,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.0,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 54.2,
+      "threePointPercentage": 28.6,
+      "freeThrowPercentage": 58.8
+    },
     "transferHistory": [
       {
         "recordId": "322025",
@@ -23146,7 +31706,17 @@ const basketballTransfers = [
     "destination": "Kansas",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 29.2,
+      "pointsPerGame": 18.2,
+      "reboundsPerGame": 5.9,
+      "assistsPerGame": 1.3,
+      "stealsPerGame": 1.4,
+      "blocksPerGame": 0.5,
+      "fieldGoalPercentage": 48.4,
+      "threePointPercentage": 37.7,
+      "freeThrowPercentage": 65.7
+    },
     "transferHistory": [
       {
         "recordId": "2940",
@@ -23166,7 +31736,17 @@ const basketballTransfers = [
     "destination": "Georgia State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 25.7,
+      "pointsPerGame": 10.7,
+      "reboundsPerGame": 2.2,
+      "assistsPerGame": 0.7,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 37.1,
+      "threePointPercentage": 33.1,
+      "freeThrowPercentage": 81.8
+    },
     "transferHistory": [
       {
         "recordId": "3228",
@@ -23186,7 +31766,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 33.5,
+      "pointsPerGame": 14.4,
+      "reboundsPerGame": 2.8,
+      "assistsPerGame": 2.4,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 41.4,
+      "threePointPercentage": 40.2,
+      "freeThrowPercentage": 84.5
+    },
     "transferHistory": [
       {
         "recordId": "113017",
@@ -23236,7 +31826,17 @@ const basketballTransfers = [
     "destination": "Duquesne",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 8.2,
+      "pointsPerGame": 2.0,
+      "reboundsPerGame": 0.8,
+      "assistsPerGame": 0.7,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 35,
+      "threePointPercentage": 14.3,
+      "freeThrowPercentage": 53.8
+    },
     "transferHistory": [
       {
         "recordId": "3307",
@@ -23276,7 +31876,17 @@ const basketballTransfers = [
     "destination": "Stonehill",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 6.2,
+      "pointsPerGame": 1.6,
+      "reboundsPerGame": 0.5,
+      "assistsPerGame": 0.1,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 31.3,
+      "threePointPercentage": 29.6,
+      "freeThrowPercentage": 66.7
+    },
     "transferHistory": [
       {
         "recordId": "2899",
@@ -23316,7 +31926,17 @@ const basketballTransfers = [
     "destination": "Saint Peter's",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 8.1,
+      "pointsPerGame": 1.4,
+      "reboundsPerGame": 1.6,
+      "assistsPerGame": 0.0,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 26.1,
+      "threePointPercentage": 22.2,
+      "freeThrowPercentage": 66.7
+    },
     "transferHistory": [
       {
         "recordId": "2696",
@@ -23356,7 +31976,17 @@ const basketballTransfers = [
     "destination": "Oregon",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 34.7,
+      "pointsPerGame": 15.8,
+      "reboundsPerGame": 4.2,
+      "assistsPerGame": 2.7,
+      "stealsPerGame": 1.1,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 39.9,
+      "threePointPercentage": 31.5,
+      "freeThrowPercentage": 77.2
+    },
     "transferHistory": [
       {
         "recordId": "2956",
@@ -23376,7 +32006,17 @@ const basketballTransfers = [
     "destination": "Long Beach State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 21.5,
+      "pointsPerGame": 6.6,
+      "reboundsPerGame": 4.1,
+      "assistsPerGame": 1.3,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 38.1,
+      "threePointPercentage": 31.6,
+      "freeThrowPercentage": 82.4
+    },
     "transferHistory": [
       {
         "recordId": "3340",
@@ -23396,7 +32036,17 @@ const basketballTransfers = [
     "destination": "New Mexico State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 20.2,
+      "pointsPerGame": 5.9,
+      "reboundsPerGame": 6.5,
+      "assistsPerGame": 0.6,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 1.2,
+      "fieldGoalPercentage": 52.4,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 51.8
+    },
     "transferHistory": [
       {
         "recordId": "3920944",
@@ -23416,7 +32066,17 @@ const basketballTransfers = [
     "destination": "Bradley",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 33.8,
+      "pointsPerGame": 9.9,
+      "reboundsPerGame": 3.6,
+      "assistsPerGame": 2.9,
+      "stealsPerGame": 1.0,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 51.9,
+      "threePointPercentage": 47.1,
+      "freeThrowPercentage": 75
+    },
     "transferHistory": [
       {
         "recordId": "3268",
@@ -23476,7 +32136,17 @@ const basketballTransfers = [
     "destination": "Akron",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 23.5,
+      "pointsPerGame": 9.4,
+      "reboundsPerGame": 4.4,
+      "assistsPerGame": 1.6,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 53.7,
+      "threePointPercentage": 36,
+      "freeThrowPercentage": 69.9
+    },
     "transferHistory": [
       {
         "recordId": "9915",
@@ -23496,7 +32166,17 @@ const basketballTransfers = [
     "destination": "Portland",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 6.7,
+      "pointsPerGame": 2.3,
+      "reboundsPerGame": 1.5,
+      "assistsPerGame": 0.1,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 32.7,
+      "threePointPercentage": 26.1,
+      "freeThrowPercentage": 100
+    },
     "transferHistory": [
       {
         "recordId": "2705",
@@ -23556,7 +32236,17 @@ const basketballTransfers = [
     "destination": "Dayton",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 16.5,
+      "pointsPerGame": 5.3,
+      "reboundsPerGame": 1.6,
+      "assistsPerGame": 1.1,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 34.3,
+      "threePointPercentage": 35.3,
+      "freeThrowPercentage": 88
+    },
     "transferHistory": [
       {
         "recordId": "2430",
@@ -23576,7 +32266,17 @@ const basketballTransfers = [
     "destination": "Coastal Carolina",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 13.1,
+      "pointsPerGame": 5.8,
+      "reboundsPerGame": 1.6,
+      "assistsPerGame": 1.3,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 52.4,
+      "threePointPercentage": 38.3,
+      "freeThrowPercentage": 74.5
+    },
     "transferHistory": [
       {
         "recordId": "3050",
@@ -23596,7 +32296,17 @@ const basketballTransfers = [
     "destination": "Cincinnati",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 13.9,
+      "pointsPerGame": 4.4,
+      "reboundsPerGame": 1.6,
+      "assistsPerGame": 3.1,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 43.9,
+      "threePointPercentage": 29.6,
+      "freeThrowPercentage": 80
+    },
     "transferHistory": [
       {
         "recordId": "2654",
@@ -23616,7 +32326,17 @@ const basketballTransfers = [
     "destination": "New Mexico",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 16.7,
+      "pointsPerGame": 5.3,
+      "reboundsPerGame": 4.0,
+      "assistsPerGame": 1.0,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.9,
+      "fieldGoalPercentage": 56,
+      "threePointPercentage": 33.3,
+      "freeThrowPercentage": 53.8
+    },
     "transferHistory": [
       {
         "recordId": "2462",
@@ -23656,7 +32376,17 @@ const basketballTransfers = [
     "destination": "Seton Hall",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 5.8,
+      "pointsPerGame": 1.6,
+      "reboundsPerGame": 0.7,
+      "assistsPerGame": 1.1,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 33.3,
+      "threePointPercentage": 20,
+      "freeThrowPercentage": 83.3
+    },
     "transferHistory": [
       {
         "recordId": "38744",
@@ -23676,7 +32406,17 @@ const basketballTransfers = [
     "destination": "Wagner",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 11.5,
+      "pointsPerGame": 2.2,
+      "reboundsPerGame": 1.8,
+      "assistsPerGame": 1.8,
+      "stealsPerGame": 1.3,
+      "blocksPerGame": 0.5,
+      "fieldGoalPercentage": 29.4,
+      "threePointPercentage": 10,
+      "freeThrowPercentage": 50
+    },
     "transferHistory": [
       {
         "recordId": "2678",
@@ -23696,7 +32436,17 @@ const basketballTransfers = [
     "destination": "UCLA",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 30.4,
+      "pointsPerGame": 9.9,
+      "reboundsPerGame": 3.9,
+      "assistsPerGame": 2.2,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 40.6,
+      "threePointPercentage": 37.5,
+      "freeThrowPercentage": 77.1
+    },
     "transferHistory": [
       {
         "recordId": "2518",
@@ -23746,7 +32496,17 @@ const basketballTransfers = [
     "destination": "Texas A&M",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 16.8,
+      "pointsPerGame": 3.8,
+      "reboundsPerGame": 4.0,
+      "assistsPerGame": 0.4,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 1.1,
+      "fieldGoalPercentage": 65.4,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 30.8
+    },
     "transferHistory": [
       {
         "recordId": "2989",
@@ -23766,7 +32526,17 @@ const basketballTransfers = [
     "destination": "Washington State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 11.3,
+      "pointsPerGame": 2.7,
+      "reboundsPerGame": 0.9,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 31.5,
+      "threePointPercentage": 29.5,
+      "freeThrowPercentage": 83.3
+    },
     "transferHistory": [
       {
         "recordId": "2426",
@@ -23806,7 +32576,17 @@ const basketballTransfers = [
     "destination": "UNC Asheville",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 17.6,
+      "pointsPerGame": 4.7,
+      "reboundsPerGame": 1.7,
+      "assistsPerGame": 1.0,
+      "stealsPerGame": 1.0,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 47.6,
+      "threePointPercentage": 43.1,
+      "freeThrowPercentage": 47.7
+    },
     "transferHistory": [
       {
         "recordId": "3259",
@@ -23826,7 +32606,17 @@ const basketballTransfers = [
     "destination": "Nevada",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 34.0,
+      "pointsPerGame": 13.4,
+      "reboundsPerGame": 5.9,
+      "assistsPerGame": 5.2,
+      "stealsPerGame": 1.5,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 42,
+      "threePointPercentage": 26.7,
+      "freeThrowPercentage": 78.5
+    },
     "transferHistory": [
       {
         "recordId": "193743",
@@ -23846,7 +32636,17 @@ const basketballTransfers = [
     "destination": "Long Island University",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 27.0,
+      "pointsPerGame": 5.8,
+      "reboundsPerGame": 1.5,
+      "assistsPerGame": 2.3,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 35.3,
+      "threePointPercentage": 34.7,
+      "freeThrowPercentage": 68.9
+    },
     "transferHistory": [
       {
         "recordId": "113200",
@@ -23866,7 +32666,17 @@ const basketballTransfers = [
     "destination": "Charleston",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 6.5,
+      "pointsPerGame": 1.2,
+      "reboundsPerGame": 0.9,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 66.7,
+      "threePointPercentage": 0.0,
+      "freeThrowPercentage": 60.0
+    },
     "transferHistory": [
       {
         "recordId": "2926",
@@ -23906,7 +32716,17 @@ const basketballTransfers = [
     "destination": "Grambling",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 28.0,
+      "pointsPerGame": 8.5,
+      "reboundsPerGame": 2.3,
+      "assistsPerGame": 2.7,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 34.3,
+      "threePointPercentage": 30.8,
+      "freeThrowPercentage": 62.1
+    },
     "transferHistory": [
       {
         "recordId": "2797",
@@ -23926,7 +32746,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 30.2,
+      "pointsPerGame": 14.6,
+      "reboundsPerGame": 3.9,
+      "assistsPerGame": 2.4,
+      "stealsPerGame": 1.7,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 39.3,
+      "threePointPercentage": 37.8,
+      "freeThrowPercentage": 78.7
+    },
     "transferHistory": [
       {
         "recordId": "407673",
@@ -23946,7 +32776,17 @@ const basketballTransfers = [
     "destination": "Oregon State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 4.1,
+      "pointsPerGame": 0.8,
+      "reboundsPerGame": 1.2,
+      "assistsPerGame": 0.1,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 53.8,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 33.3
+    },
     "transferHistory": [
       {
         "recordId": "798991",
@@ -23966,7 +32806,17 @@ const basketballTransfers = [
     "destination": "Wake Forest",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 18.2,
+      "pointsPerGame": 6.2,
+      "reboundsPerGame": 3.7,
+      "assistsPerGame": 0.7,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.6,
+      "fieldGoalPercentage": 40.6,
+      "threePointPercentage": 35.2,
+      "freeThrowPercentage": 85.4
+    },
     "transferHistory": [
       {
         "recordId": "2704",
@@ -23986,7 +32836,17 @@ const basketballTransfers = [
     "destination": "Ohio State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 30.8,
+      "pointsPerGame": 14.2,
+      "reboundsPerGame": 3.9,
+      "assistsPerGame": 4.6,
+      "stealsPerGame": 1.9,
+      "blocksPerGame": 0.6,
+      "fieldGoalPercentage": 37.2,
+      "threePointPercentage": 32.9,
+      "freeThrowPercentage": 82.7
+    },
     "transferHistory": [
       {
         "recordId": "2886",
@@ -24006,7 +32866,17 @@ const basketballTransfers = [
     "destination": "Buffalo",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 24.3,
+      "pointsPerGame": 6.4,
+      "reboundsPerGame": 6.6,
+      "assistsPerGame": 0.9,
+      "stealsPerGame": 1.2,
+      "blocksPerGame": 0.6,
+      "fieldGoalPercentage": 62.3,
+      "threePointPercentage": 16.7,
+      "freeThrowPercentage": 83.9
+    },
     "transferHistory": [
       {
         "recordId": "2915",
@@ -24026,7 +32896,17 @@ const basketballTransfers = [
     "destination": "Jacksonville State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 0.2,
+      "pointsPerGame": 0.0,
+      "reboundsPerGame": 0.0,
+      "assistsPerGame": 0.0,
+      "stealsPerGame": 0.0,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 0,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 0
+    },
     "transferHistory": [
       {
         "recordId": "3019",
@@ -24076,7 +32956,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 11.3,
+      "pointsPerGame": 4.6,
+      "reboundsPerGame": 2.3,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 45,
+      "threePointPercentage": 15.4,
+      "freeThrowPercentage": 68.1
+    },
     "transferHistory": [
       {
         "recordId": "3132",
@@ -24096,7 +32986,17 @@ const basketballTransfers = [
     "destination": "Louisiana",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 17.6,
+      "pointsPerGame": 10.6,
+      "reboundsPerGame": 4.9,
+      "assistsPerGame": 0.7,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.7,
+      "fieldGoalPercentage": 52.1,
+      "threePointPercentage": 35.3,
+      "freeThrowPercentage": 78.8
+    },
     "transferHistory": [
       {
         "recordId": "312441",
@@ -24146,7 +33046,17 @@ const basketballTransfers = [
     "destination": "Lander",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 12.5,
+      "pointsPerGame": 3.2,
+      "reboundsPerGame": 1.5,
+      "assistsPerGame": 0.6,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 29,
+      "threePointPercentage": 28,
+      "freeThrowPercentage": 77.8
+    },
     "transferHistory": [
       {
         "recordId": "3037",
@@ -24166,7 +33076,17 @@ const basketballTransfers = [
     "destination": "Pittsburgh",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 16.3,
+      "pointsPerGame": 4.8,
+      "reboundsPerGame": 2.4,
+      "assistsPerGame": 0.7,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 38.4,
+      "threePointPercentage": 36.5,
+      "freeThrowPercentage": 48.3
+    },
     "transferHistory": [
       {
         "recordId": "2890",
@@ -24186,7 +33106,17 @@ const basketballTransfers = [
     "destination": "Iowa State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 34.4,
+      "pointsPerGame": 15.9,
+      "reboundsPerGame": 3.9,
+      "assistsPerGame": 3.7,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 43.9,
+      "threePointPercentage": 37.5,
+      "freeThrowPercentage": 84.7
+    },
     "transferHistory": [
       {
         "recordId": "3299",
@@ -24206,7 +33136,17 @@ const basketballTransfers = [
     "destination": "Northwestern",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 33.0,
+      "pointsPerGame": 17.0,
+      "reboundsPerGame": 1.7,
+      "assistsPerGame": 3.3,
+      "stealsPerGame": 2.3,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 47.5,
+      "threePointPercentage": 27.3,
+      "freeThrowPercentage": 90.9
+    },
     "transferHistory": [
       {
         "recordId": "132972",
@@ -24226,7 +33166,17 @@ const basketballTransfers = [
     "destination": "Montana State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 4.6,
+      "pointsPerGame": 2.2,
+      "reboundsPerGame": 1.6,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 41.9,
+      "threePointPercentage": 23.5,
+      "freeThrowPercentage": 100
+    },
     "transferHistory": [
       {
         "recordId": "3389",
@@ -24246,7 +33196,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 5.7,
+      "pointsPerGame": 2.4,
+      "reboundsPerGame": 0.3,
+      "assistsPerGame": 0.3,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 31.7,
+      "threePointPercentage": 34.4,
+      "freeThrowPercentage": 87.5
+    },
     "transferHistory": [
       {
         "recordId": "3418",
@@ -24266,7 +33226,17 @@ const basketballTransfers = [
     "destination": "Western Carolina",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 16.4,
+      "pointsPerGame": 3.8,
+      "reboundsPerGame": 2.0,
+      "assistsPerGame": 0.9,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 33.3,
+      "threePointPercentage": 26.1,
+      "freeThrowPercentage": 83.9
+    },
     "transferHistory": [
       {
         "recordId": "842835",
@@ -24286,7 +33256,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 18.1,
+      "pointsPerGame": 2.9,
+      "reboundsPerGame": 2.5,
+      "assistsPerGame": 1.2,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 42.5,
+      "threePointPercentage": 22.2,
+      "freeThrowPercentage": 47.4
+    },
     "transferHistory": [
       {
         "recordId": "2969",
@@ -24306,7 +33286,17 @@ const basketballTransfers = [
     "destination": "Texas",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 29.7,
+      "pointsPerGame": 14.1,
+      "reboundsPerGame": 6.8,
+      "assistsPerGame": 2.0,
+      "stealsPerGame": 1.3,
+      "blocksPerGame": 1.9,
+      "fieldGoalPercentage": 50.3,
+      "threePointPercentage": 23.9,
+      "freeThrowPercentage": 65.3
+    },
     "transferHistory": [
       {
         "recordId": "2496",
@@ -24326,7 +33316,17 @@ const basketballTransfers = [
     "destination": "Indiana State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 2.5,
+      "pointsPerGame": 0.3,
+      "reboundsPerGame": 0.4,
+      "assistsPerGame": 0.0,
+      "stealsPerGame": 0.0,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 20,
+      "threePointPercentage": 33.3,
+      "freeThrowPercentage": 33.3
+    },
     "transferHistory": [
       {
         "recordId": "877968",
@@ -24346,7 +33346,17 @@ const basketballTransfers = [
     "destination": "Arkansas State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 25.4,
+      "pointsPerGame": 12.6,
+      "reboundsPerGame": 5.1,
+      "assistsPerGame": 1.6,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 52.3,
+      "threePointPercentage": 40.4,
+      "freeThrowPercentage": 70.7
+    },
     "transferHistory": [
       {
         "recordId": "110340",
@@ -24366,7 +33376,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 37.1,
+      "pointsPerGame": 14.5,
+      "reboundsPerGame": 4.9,
+      "assistsPerGame": 6.4,
+      "stealsPerGame": 1.2,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 46.5,
+      "threePointPercentage": 17.4,
+      "freeThrowPercentage": 78.4
+    },
     "transferHistory": [
       {
         "recordId": "2567",
@@ -24386,7 +33406,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 33.6,
+      "pointsPerGame": 19.7,
+      "reboundsPerGame": 4.0,
+      "assistsPerGame": 3.0,
+      "stealsPerGame": 1.1,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 45.7,
+      "threePointPercentage": 34.3,
+      "freeThrowPercentage": 74.4
+    },
     "transferHistory": [
       {
         "recordId": "105565",
@@ -24406,7 +33436,17 @@ const basketballTransfers = [
     "destination": "Fairfield",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 9.2,
+      "pointsPerGame": 2.2,
+      "reboundsPerGame": 1.8,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 25,
+      "threePointPercentage": 23.1,
+      "freeThrowPercentage": 70
+    },
     "transferHistory": [
       {
         "recordId": "2571",
@@ -24426,7 +33466,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 24.5,
+      "pointsPerGame": 9.8,
+      "reboundsPerGame": 4.3,
+      "assistsPerGame": 1.7,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 58,
+      "threePointPercentage": 50,
+      "freeThrowPercentage": 67.2
+    },
     "transferHistory": [
       {
         "recordId": "2640",
@@ -24446,7 +33496,17 @@ const basketballTransfers = [
     "destination": "VCU",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 30.5,
+      "pointsPerGame": 14.3,
+      "reboundsPerGame": 3.8,
+      "assistsPerGame": 0.7,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 45.4,
+      "threePointPercentage": 44,
+      "freeThrowPercentage": 83.6
+    },
     "transferHistory": [
       {
         "recordId": "411717",
@@ -24486,7 +33546,17 @@ const basketballTransfers = [
     "destination": "Florida State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 28.0,
+      "pointsPerGame": 12.3,
+      "reboundsPerGame": 5.5,
+      "assistsPerGame": 2.0,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.5,
+      "fieldGoalPercentage": 40.4,
+      "threePointPercentage": 33.1,
+      "freeThrowPercentage": 86
+    },
     "transferHistory": [
       {
         "recordId": "3184",
@@ -24506,7 +33576,17 @@ const basketballTransfers = [
     "destination": "Dayton",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 31.7,
+      "pointsPerGame": 11.3,
+      "reboundsPerGame": 6.6,
+      "assistsPerGame": 0.8,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.7,
+      "fieldGoalPercentage": 45.3,
+      "threePointPercentage": 32.3,
+      "freeThrowPercentage": 73.2
+    },
     "transferHistory": [
       {
         "recordId": "3221",
@@ -24526,7 +33606,17 @@ const basketballTransfers = [
     "destination": "Oregon State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 31.0,
+      "pointsPerGame": 13.5,
+      "reboundsPerGame": 4.7,
+      "assistsPerGame": 1.3,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 48.5,
+      "threePointPercentage": 31.5,
+      "freeThrowPercentage": 68.3
+    },
     "transferHistory": [
       {
         "recordId": "3261",
@@ -24546,7 +33636,17 @@ const basketballTransfers = [
     "destination": "Marshall",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 15.1,
+      "pointsPerGame": 2.6,
+      "reboundsPerGame": 1.8,
+      "assistsPerGame": 0.7,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 38.6,
+      "threePointPercentage": 23.3,
+      "freeThrowPercentage": 27.3
+    },
     "transferHistory": [
       {
         "recordId": "536920",
@@ -24566,7 +33666,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 8.6,
+      "pointsPerGame": 1.0,
+      "reboundsPerGame": 1.7,
+      "assistsPerGame": 0.3,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 33.3,
+      "threePointPercentage": 30.8,
+      "freeThrowPercentage": 55.6
+    },
     "transferHistory": [
       {
         "recordId": "106817",
@@ -24586,7 +33696,17 @@ const basketballTransfers = [
     "destination": "Wake Forest",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 28.4,
+      "pointsPerGame": 11.3,
+      "reboundsPerGame": 2.1,
+      "assistsPerGame": 1.2,
+      "stealsPerGame": 1.1,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 43.9,
+      "threePointPercentage": 42,
+      "freeThrowPercentage": 88.9
+    },
     "transferHistory": [
       {
         "recordId": "3327",
@@ -24606,7 +33726,17 @@ const basketballTransfers = [
     "destination": "Northern Colorado",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 20.0,
+      "pointsPerGame": 6.7,
+      "reboundsPerGame": 4.8,
+      "assistsPerGame": 0.8,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.7,
+      "fieldGoalPercentage": 39,
+      "threePointPercentage": 22.7,
+      "freeThrowPercentage": 56.9
+    },
     "transferHistory": [
       {
         "recordId": "2710",
@@ -24626,7 +33756,17 @@ const basketballTransfers = [
     "destination": "Western Carolina",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 6.5,
+      "pointsPerGame": 1.5,
+      "reboundsPerGame": 1.4,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 66.7,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 45.8
+    },
     "transferHistory": [
       {
         "recordId": "2694",
@@ -24646,7 +33786,17 @@ const basketballTransfers = [
     "destination": "Kansas State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 27.8,
+      "pointsPerGame": 12.0,
+      "reboundsPerGame": 2.2,
+      "assistsPerGame": 2.5,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 45.1,
+      "threePointPercentage": 40.0,
+      "freeThrowPercentage": 80.9
+    },
     "transferHistory": [
       {
         "recordId": "3014",
@@ -24666,7 +33816,17 @@ const basketballTransfers = [
     "destination": "Central Missouri",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 10.9,
+      "pointsPerGame": 2.5,
+      "reboundsPerGame": 1.7,
+      "assistsPerGame": 1.2,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 35.9,
+      "threePointPercentage": 22.4,
+      "freeThrowPercentage": 63.2
+    },
     "transferHistory": [
       {
         "recordId": "2972",
@@ -24686,7 +33846,17 @@ const basketballTransfers = [
     "destination": "Texas A&M",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 23.8,
+      "pointsPerGame": 5.8,
+      "reboundsPerGame": 1.9,
+      "assistsPerGame": 3.6,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 35.8,
+      "threePointPercentage": 29.9,
+      "freeThrowPercentage": 72.3
+    },
     "transferHistory": [
       {
         "recordId": "190476",
@@ -24714,7 +33884,7 @@ const basketballTransfers = [
       "stealsPerGame": 0.5,
       "blocksPerGame": 0.7,
       "fieldGoalPercentage": 59.6,
-      "threePointPercentage": 0,
+      "threePointPercentage": 0.0,
       "freeThrowPercentage": 55.6
     },
     "transferHistory": [
@@ -24736,7 +33906,17 @@ const basketballTransfers = [
     "destination": "Michigan",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 17.8,
+      "pointsPerGame": 9.5,
+      "reboundsPerGame": 5.7,
+      "assistsPerGame": 0.7,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 57.1,
+      "threePointPercentage": 42.9,
+      "freeThrowPercentage": 66.7
+    },
     "transferHistory": [
       {
         "recordId": "3241",
@@ -24756,7 +33936,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 28.2,
+      "pointsPerGame": 11.5,
+      "reboundsPerGame": 4.1,
+      "assistsPerGame": 1.0,
+      "stealsPerGame": 1.0,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 48.8,
+      "threePointPercentage": 36.8,
+      "freeThrowPercentage": 87.2
+    },
     "transferHistory": [
       {
         "recordId": "3881271",
@@ -24776,7 +33966,17 @@ const basketballTransfers = [
     "destination": "Lamar",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 6.8,
+      "pointsPerGame": 1.6,
+      "reboundsPerGame": 1.3,
+      "assistsPerGame": 0.1,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 37,
+      "threePointPercentage": 21.4,
+      "freeThrowPercentage": 50
+    },
     "transferHistory": [
       {
         "recordId": "3462",
@@ -24796,7 +33996,17 @@ const basketballTransfers = [
     "destination": "Buffalo",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 10.5,
+      "pointsPerGame": 4.9,
+      "reboundsPerGame": 0.7,
+      "assistsPerGame": 0.1,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 52.5,
+      "threePointPercentage": 53.2,
+      "freeThrowPercentage": 66.7
+    },
     "transferHistory": [
       {
         "recordId": "3425",
@@ -24816,7 +34026,17 @@ const basketballTransfers = [
     "destination": "Kansas",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 21.4,
+      "pointsPerGame": 11.1,
+      "reboundsPerGame": 7.8,
+      "assistsPerGame": 0.4,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 1.4,
+      "fieldGoalPercentage": 65.4,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 60.4
+    },
     "transferHistory": [
       {
         "recordId": "8960",
@@ -24836,7 +34056,17 @@ const basketballTransfers = [
     "destination": "USC",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 13.8,
+      "pointsPerGame": 5.9,
+      "reboundsPerGame": 3.3,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.7,
+      "fieldGoalPercentage": 65.8,
+      "threePointPercentage": 30.8,
+      "freeThrowPercentage": 52.1
+    },
     "transferHistory": [
       {
         "recordId": "8603",
@@ -24856,7 +34086,17 @@ const basketballTransfers = [
     "destination": "Memphis",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 25.8,
+      "pointsPerGame": 10.1,
+      "reboundsPerGame": 1.4,
+      "assistsPerGame": 5.0,
+      "stealsPerGame": 1.0,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 39,
+      "threePointPercentage": 31.7,
+      "freeThrowPercentage": 82
+    },
     "transferHistory": [
       {
         "recordId": "2889",
@@ -24876,7 +34116,17 @@ const basketballTransfers = [
     "destination": "James Madison",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 23.0,
+      "pointsPerGame": 3.0,
+      "reboundsPerGame": 1.0,
+      "assistsPerGame": 1.0,
+      "stealsPerGame": 1.0,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 12.5,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 50
+    },
     "transferHistory": [
       {
         "recordId": "579937",
@@ -24896,7 +34146,17 @@ const basketballTransfers = [
     "destination": "Northern Colorado",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 33.2,
+      "pointsPerGame": 11.6,
+      "reboundsPerGame": 4.3,
+      "assistsPerGame": 4.5,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 54,
+      "threePointPercentage": 25.6,
+      "freeThrowPercentage": 59.2
+    },
     "transferHistory": [
       {
         "recordId": "3779610",
@@ -24936,7 +34196,17 @@ const basketballTransfers = [
     "destination": "Middle Tennessee",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 19.8,
+      "pointsPerGame": 6.7,
+      "reboundsPerGame": 1.7,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 38.5,
+      "threePointPercentage": 39,
+      "freeThrowPercentage": 77.3
+    },
     "transferHistory": [
       {
         "recordId": "2952",
@@ -24956,7 +34226,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 16.5,
+      "pointsPerGame": 5.6,
+      "reboundsPerGame": 2.1,
+      "assistsPerGame": 1.3,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 36.6,
+      "threePointPercentage": 34.4,
+      "freeThrowPercentage": 92.6
+    },
     "transferHistory": [
       {
         "recordId": "312480",
@@ -24996,7 +34276,17 @@ const basketballTransfers = [
     "destination": "Eastern Michigan",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 26.0,
+      "pointsPerGame": 9.7,
+      "reboundsPerGame": 3.4,
+      "assistsPerGame": 1.1,
+      "stealsPerGame": 1.0,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 43.3,
+      "threePointPercentage": 32.1,
+      "freeThrowPercentage": 73.5
+    },
     "transferHistory": [
       {
         "recordId": "3331",
@@ -25016,7 +34306,17 @@ const basketballTransfers = [
     "destination": "California Baptist",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 6.6,
+      "pointsPerGame": 0.3,
+      "reboundsPerGame": 1.3,
+      "assistsPerGame": 0.3,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 75,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 25
+    },
     "transferHistory": [
       {
         "recordId": "2816",
@@ -25036,7 +34336,17 @@ const basketballTransfers = [
     "destination": "Loyola Chicago",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 26.8,
+      "pointsPerGame": 7.0,
+      "reboundsPerGame": 5.6,
+      "assistsPerGame": 1.6,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.5,
+      "fieldGoalPercentage": 48.4,
+      "threePointPercentage": 27.8,
+      "freeThrowPercentage": 78.7
+    },
     "transferHistory": [
       {
         "recordId": "2754",
@@ -25056,7 +34366,17 @@ const basketballTransfers = [
     "destination": "Niagara",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 16.3,
+      "pointsPerGame": 4.0,
+      "reboundsPerGame": 1.2,
+      "assistsPerGame": 1.5,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 39.6,
+      "threePointPercentage": 34.8,
+      "freeThrowPercentage": 74.5
+    },
     "transferHistory": [
       {
         "recordId": "2651",
@@ -25076,7 +34396,17 @@ const basketballTransfers = [
     "destination": "Cincinnati",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 27.7,
+      "pointsPerGame": 15.0,
+      "reboundsPerGame": 3.9,
+      "assistsPerGame": 4.4,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 44.7,
+      "threePointPercentage": 38.9,
+      "freeThrowPercentage": 87.1
+    },
     "transferHistory": [
       {
         "recordId": "2662",
@@ -25116,7 +34446,17 @@ const basketballTransfers = [
     "destination": "UC Irvine",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 1.5,
+      "pointsPerGame": 0.6,
+      "reboundsPerGame": 0.5,
+      "assistsPerGame": 0.1,
+      "stealsPerGame": 0.0,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 50,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 50
+    },
     "transferHistory": [
       {
         "recordId": "3150",
@@ -25136,7 +34476,17 @@ const basketballTransfers = [
     "destination": "Pacific",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 17.0,
+      "pointsPerGame": 4.1,
+      "reboundsPerGame": 2.5,
+      "assistsPerGame": 1.5,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 46.1,
+      "threePointPercentage": 23.5,
+      "freeThrowPercentage": 80
+    },
     "transferHistory": [
       {
         "recordId": "351213",
@@ -25163,9 +34513,9 @@ const basketballTransfers = [
       "assistsPerGame": 0.0,
       "stealsPerGame": 0.0,
       "blocksPerGame": 0.0,
-      "fieldGoalPercentage": 40,
+      "fieldGoalPercentage": 40.0,
       "threePointPercentage": 66.7,
-      "freeThrowPercentage": 0
+      "freeThrowPercentage": 0.0
     },
     "transferHistory": [
       {
@@ -25186,7 +34536,17 @@ const basketballTransfers = [
     "destination": "High Point",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 35.2,
+      "pointsPerGame": 15.8,
+      "reboundsPerGame": 8.1,
+      "assistsPerGame": 3.0,
+      "stealsPerGame": 2.1,
+      "blocksPerGame": 1.1,
+      "fieldGoalPercentage": 40.2,
+      "threePointPercentage": 31.5,
+      "freeThrowPercentage": 81
+    },
     "transferHistory": [
       {
         "recordId": "3168",
@@ -25206,7 +34566,17 @@ const basketballTransfers = [
     "destination": "Notre Dame",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 30.5,
+      "pointsPerGame": 16.9,
+      "reboundsPerGame": 3.9,
+      "assistsPerGame": 2.3,
+      "stealsPerGame": 1.0,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 40.1,
+      "threePointPercentage": 41.2,
+      "freeThrowPercentage": 79.9
+    },
     "transferHistory": [
       {
         "recordId": "3349",
@@ -25264,7 +34634,7 @@ const basketballTransfers = [
       "stealsPerGame": 0.3,
       "blocksPerGame": 0.5,
       "fieldGoalPercentage": 54.3,
-      "threePointPercentage": 0,
+      "threePointPercentage": 0.0,
       "freeThrowPercentage": 43.4
     },
     "transferHistory": [
@@ -25293,7 +34663,7 @@ const basketballTransfers = [
       "assistsPerGame": 2.5,
       "stealsPerGame": 1.5,
       "blocksPerGame": 0.3,
-      "fieldGoalPercentage": 47,
+      "fieldGoalPercentage": 47.0,
       "threePointPercentage": 43.3,
       "freeThrowPercentage": 71.1
     },
@@ -25316,7 +34686,17 @@ const basketballTransfers = [
     "destination": "Creighton",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 35.8,
+      "pointsPerGame": 17.6,
+      "reboundsPerGame": 2.7,
+      "assistsPerGame": 6.7,
+      "stealsPerGame": 1.3,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 41.3,
+      "threePointPercentage": 36.8,
+      "freeThrowPercentage": 79.8
+    },
     "transferHistory": [
       {
         "recordId": "3085",
@@ -25336,7 +34716,17 @@ const basketballTransfers = [
     "destination": "Radford",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 17.2,
+      "pointsPerGame": 6.6,
+      "reboundsPerGame": 2.9,
+      "assistsPerGame": 2.0,
+      "stealsPerGame": 1.0,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 51.7,
+      "threePointPercentage": 40,
+      "freeThrowPercentage": 75.4
+    },
     "transferHistory": [
       {
         "recordId": "3081",
@@ -25376,7 +34766,17 @@ const basketballTransfers = [
     "destination": "Binghamton",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 25.5,
+      "pointsPerGame": 10.7,
+      "reboundsPerGame": 1.7,
+      "assistsPerGame": 2.3,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 40.6,
+      "threePointPercentage": 30.3,
+      "freeThrowPercentage": 82.7
+    },
     "transferHistory": [
       {
         "recordId": "2617",
@@ -25396,7 +34796,17 @@ const basketballTransfers = [
     "destination": "Texas A&M-Corpus Christi",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 27.4,
+      "pointsPerGame": 14.8,
+      "reboundsPerGame": 3.0,
+      "assistsPerGame": 2.2,
+      "stealsPerGame": 1.3,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 45.2,
+      "threePointPercentage": 24,
+      "freeThrowPercentage": 70.1
+    },
     "transferHistory": [
       {
         "recordId": "3004",
@@ -25416,7 +34826,17 @@ const basketballTransfers = [
     "destination": "Longwood",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 19.5,
+      "pointsPerGame": 9.6,
+      "reboundsPerGame": 1.9,
+      "assistsPerGame": 2.7,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 37.9,
+      "threePointPercentage": 26.5,
+      "freeThrowPercentage": 73.9
+    },
     "transferHistory": [
       {
         "recordId": "908852",
@@ -25443,9 +34863,9 @@ const basketballTransfers = [
       "assistsPerGame": 3.0,
       "stealsPerGame": 1.6,
       "blocksPerGame": 0.3,
-      "fieldGoalPercentage": 41,
+      "fieldGoalPercentage": 41.0,
       "threePointPercentage": 31.4,
-      "freeThrowPercentage": 67
+      "freeThrowPercentage": 67.0
     },
     "transferHistory": [
       {
@@ -25466,7 +34886,17 @@ const basketballTransfers = [
     "destination": "Hampton",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 24.9,
+      "pointsPerGame": 8.0,
+      "reboundsPerGame": 3.9,
+      "assistsPerGame": 1.3,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 45.8,
+      "threePointPercentage": 31.3,
+      "freeThrowPercentage": 64.2
+    },
     "transferHistory": [
       {
         "recordId": "536933",
@@ -25486,7 +34916,17 @@ const basketballTransfers = [
     "destination": "North Dakota State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 1.9,
+      "pointsPerGame": 1.0,
+      "reboundsPerGame": 0.5,
+      "assistsPerGame": 0.1,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 75,
+      "threePointPercentage": 75,
+      "freeThrowPercentage": 66.7
+    },
     "transferHistory": [
       {
         "recordId": "3321",
@@ -25506,7 +34946,17 @@ const basketballTransfers = [
     "destination": "Kansas State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 12.8,
+      "pointsPerGame": 6.2,
+      "reboundsPerGame": 3.5,
+      "assistsPerGame": 0.4,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.9,
+      "fieldGoalPercentage": 54.5,
+      "threePointPercentage": 39.7,
+      "freeThrowPercentage": 64.4
+    },
     "transferHistory": [
       {
         "recordId": "2598",
@@ -25526,7 +34976,17 @@ const basketballTransfers = [
     "destination": "Penn State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 29.2,
+      "pointsPerGame": 11.0,
+      "reboundsPerGame": 2.2,
+      "assistsPerGame": 6.9,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 42.6,
+      "threePointPercentage": 36.2,
+      "freeThrowPercentage": 81.7
+    },
     "transferHistory": [
       {
         "recordId": "3392",
@@ -25586,7 +35046,17 @@ const basketballTransfers = [
     "destination": "Murray State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 18.3,
+      "pointsPerGame": 7.1,
+      "reboundsPerGame": 3.9,
+      "assistsPerGame": 1.7,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.6,
+      "fieldGoalPercentage": 72.5,
+      "threePointPercentage": 0.0,
+      "freeThrowPercentage": 50.0
+    },
     "transferHistory": [
       {
         "recordId": "3351",
@@ -25636,7 +35106,17 @@ const basketballTransfers = [
     "destination": "Miami (OH)",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 26.6,
+      "pointsPerGame": 9.1,
+      "reboundsPerGame": 4.5,
+      "assistsPerGame": 2.1,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 46.1,
+      "threePointPercentage": 36.8,
+      "freeThrowPercentage": 88.1
+    },
     "transferHistory": [
       {
         "recordId": "3026",
@@ -25656,7 +35136,17 @@ const basketballTransfers = [
     "destination": "SE Louisiana",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 17.2,
+      "pointsPerGame": 5.5,
+      "reboundsPerGame": 1.7,
+      "assistsPerGame": 2.6,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 38.2,
+      "threePointPercentage": 22,
+      "freeThrowPercentage": 76
+    },
     "transferHistory": [
       {
         "recordId": "2718",
@@ -25676,7 +35166,17 @@ const basketballTransfers = [
     "destination": "Oklahoma",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 15.9,
+      "pointsPerGame": 5.3,
+      "reboundsPerGame": 4.3,
+      "assistsPerGame": 1.0,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.5,
+      "fieldGoalPercentage": 44.9,
+      "threePointPercentage": 22.4,
+      "freeThrowPercentage": 64.9
+    },
     "transferHistory": [
       {
         "recordId": "3102",
@@ -25696,7 +35196,17 @@ const basketballTransfers = [
     "destination": "Towson",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 27.5,
+      "pointsPerGame": 12.0,
+      "reboundsPerGame": 1.6,
+      "assistsPerGame": 1.1,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 39.4,
+      "threePointPercentage": 41.1,
+      "freeThrowPercentage": 82.1
+    },
     "transferHistory": [
       {
         "recordId": "2616",
@@ -25716,7 +35226,17 @@ const basketballTransfers = [
     "destination": "California",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 20.8,
+      "pointsPerGame": 6.7,
+      "reboundsPerGame": 2.5,
+      "assistsPerGame": 2.3,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 42,
+      "threePointPercentage": 31,
+      "freeThrowPercentage": 77.9
+    },
     "transferHistory": [
       {
         "recordId": "2908",
@@ -25736,7 +35256,17 @@ const basketballTransfers = [
     "destination": "Washington State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 30.6,
+      "pointsPerGame": 11.0,
+      "reboundsPerGame": 5.8,
+      "assistsPerGame": 1.1,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.5,
+      "fieldGoalPercentage": 44.7,
+      "threePointPercentage": 31.6,
+      "freeThrowPercentage": 77.5
+    },
     "transferHistory": [
       {
         "recordId": "3422",
@@ -25764,7 +35294,7 @@ const basketballTransfers = [
       "stealsPerGame": 0.5,
       "blocksPerGame": 0.2,
       "fieldGoalPercentage": 43.1,
-      "threePointPercentage": 39,
+      "threePointPercentage": 39.0,
       "freeThrowPercentage": 85.7
     },
     "transferHistory": [
@@ -25786,7 +35316,17 @@ const basketballTransfers = [
     "destination": "Villanova",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 32.7,
+      "pointsPerGame": 13.7,
+      "reboundsPerGame": 5.6,
+      "assistsPerGame": 1.6,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 47.9,
+      "threePointPercentage": 32,
+      "freeThrowPercentage": 80.8
+    },
     "transferHistory": [
       {
         "recordId": "3201",
@@ -25826,7 +35366,17 @@ const basketballTransfers = [
     "destination": "Tennessee",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 29.7,
+      "pointsPerGame": 11.3,
+      "reboundsPerGame": 7.1,
+      "assistsPerGame": 2.3,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 2.2,
+      "fieldGoalPercentage": 58.5,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 54.3
+    },
     "transferHistory": [
       {
         "recordId": "2884",
@@ -25846,7 +35396,17 @@ const basketballTransfers = [
     "destination": "Pittsburgh",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 31.5,
+      "pointsPerGame": 12.9,
+      "reboundsPerGame": 4.6,
+      "assistsPerGame": 1.8,
+      "stealsPerGame": 1.0,
+      "blocksPerGame": 0.7,
+      "fieldGoalPercentage": 40.8,
+      "threePointPercentage": 36.2,
+      "freeThrowPercentage": 83.7
+    },
     "transferHistory": [
       {
         "recordId": "8609",
@@ -25866,7 +35426,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 32.4,
+      "pointsPerGame": 22.0,
+      "reboundsPerGame": 2.7,
+      "assistsPerGame": 5.1,
+      "stealsPerGame": 1.5,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 41.5,
+      "threePointPercentage": 30.6,
+      "freeThrowPercentage": 84
+    },
     "transferHistory": [
       {
         "recordId": "3176",
@@ -25906,7 +35476,17 @@ const basketballTransfers = [
     "destination": "Canisius",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 22.3,
+      "pointsPerGame": 7.2,
+      "reboundsPerGame": 4.0,
+      "assistsPerGame": 1.3,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 44.1,
+      "threePointPercentage": 30,
+      "freeThrowPercentage": 69.3
+    },
     "transferHistory": [
       {
         "recordId": "3424",
@@ -25926,7 +35506,17 @@ const basketballTransfers = [
     "destination": "South Dakota State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 27.3,
+      "pointsPerGame": 7.5,
+      "reboundsPerGame": 1.7,
+      "assistsPerGame": 1.9,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 39.8,
+      "threePointPercentage": 31.2,
+      "freeThrowPercentage": 89.1
+    },
     "transferHistory": [
       {
         "recordId": "2745",
@@ -25946,7 +35536,17 @@ const basketballTransfers = [
     "destination": "Providence",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 36.2,
+      "pointsPerGame": 18.9,
+      "reboundsPerGame": 3.2,
+      "assistsPerGame": 3.2,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 43.3,
+      "threePointPercentage": 40.3,
+      "freeThrowPercentage": 85.9
+    },
     "transferHistory": [
       {
         "recordId": "3097",
@@ -25966,7 +35566,17 @@ const basketballTransfers = [
     "destination": "Virginia Tech",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 12.4,
+      "pointsPerGame": 2.3,
+      "reboundsPerGame": 2.8,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.5,
+      "fieldGoalPercentage": 59.6,
+      "threePointPercentage": 25,
+      "freeThrowPercentage": 45.5
+    },
     "transferHistory": [
       {
         "recordId": "159874",
@@ -26026,7 +35636,17 @@ const basketballTransfers = [
     "destination": "Kansas City",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 16.4,
+      "pointsPerGame": 4.7,
+      "reboundsPerGame": 1.9,
+      "assistsPerGame": 1.4,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 32.3,
+      "threePointPercentage": 28.9,
+      "freeThrowPercentage": 91.7
+    },
     "transferHistory": [
       {
         "recordId": "2505",
@@ -26046,7 +35666,17 @@ const basketballTransfers = [
     "destination": "South Dakota",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 24.8,
+      "pointsPerGame": 9.4,
+      "reboundsPerGame": 2.1,
+      "assistsPerGame": 0.8,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 45.5,
+      "threePointPercentage": 42.8,
+      "freeThrowPercentage": 78.6
+    },
     "transferHistory": [
       {
         "recordId": "3381",
@@ -26066,7 +35696,17 @@ const basketballTransfers = [
     "destination": "Tennessee Tech",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 8.2,
+      "pointsPerGame": 3.1,
+      "reboundsPerGame": 1.6,
+      "assistsPerGame": 0.8,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 44.4,
+      "threePointPercentage": 33.3,
+      "freeThrowPercentage": 66.7
+    },
     "transferHistory": [
       {
         "recordId": "2998",
@@ -26086,7 +35726,17 @@ const basketballTransfers = [
     "destination": "Monmouth",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 29.9,
+      "pointsPerGame": 10.7,
+      "reboundsPerGame": 3.4,
+      "assistsPerGame": 4.2,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 40,
+      "threePointPercentage": 36.5,
+      "freeThrowPercentage": 74.5
+    },
     "transferHistory": [
       {
         "recordId": "420249",
@@ -26106,7 +35756,17 @@ const basketballTransfers = [
     "destination": "Mississippi State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 20.1,
+      "pointsPerGame": 5.2,
+      "reboundsPerGame": 3.1,
+      "assistsPerGame": 0.7,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 44.2,
+      "threePointPercentage": 40.3,
+      "freeThrowPercentage": 38.7
+    },
     "transferHistory": [
       {
         "recordId": "2484",
@@ -26126,7 +35786,17 @@ const basketballTransfers = [
     "destination": "West Virginia",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 20.9,
+      "pointsPerGame": 7.9,
+      "reboundsPerGame": 2.4,
+      "assistsPerGame": 0.7,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 33.8,
+      "threePointPercentage": 33.6,
+      "freeThrowPercentage": 76.8
+    },
     "transferHistory": [
       {
         "recordId": "132290",
@@ -26146,7 +35816,17 @@ const basketballTransfers = [
     "destination": "UAlbany",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 18.4,
+      "pointsPerGame": 6.9,
+      "reboundsPerGame": 4.1,
+      "assistsPerGame": 0.7,
+      "stealsPerGame": 1.6,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 41.5,
+      "threePointPercentage": 28.2,
+      "freeThrowPercentage": 67.7
+    },
     "transferHistory": [
       {
         "recordId": "3410",
@@ -26166,7 +35846,17 @@ const basketballTransfers = [
     "destination": "Richmond",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 29.7,
+      "pointsPerGame": 11.5,
+      "reboundsPerGame": 5.3,
+      "assistsPerGame": 3.4,
+      "stealsPerGame": 1.7,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 40.3,
+      "threePointPercentage": 26.5,
+      "freeThrowPercentage": 68.5
+    },
     "transferHistory": [
       {
         "recordId": "2438",
@@ -26186,7 +35876,17 @@ const basketballTransfers = [
     "destination": "UVA Wise",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 3.1,
+      "pointsPerGame": 1.5,
+      "reboundsPerGame": 0.5,
+      "assistsPerGame": 0.1,
+      "stealsPerGame": 0.0,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 54.5,
+      "threePointPercentage": 60,
+      "freeThrowPercentage": 100
+    },
     "transferHistory": [
       {
         "recordId": "3293",
@@ -26206,7 +35906,17 @@ const basketballTransfers = [
     "destination": "Duke",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 21.7,
+      "pointsPerGame": 10.7,
+      "reboundsPerGame": 6.0,
+      "assistsPerGame": 2.6,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 1.3,
+      "fieldGoalPercentage": 68.1,
+      "threePointPercentage": 20,
+      "freeThrowPercentage": 43.6
+    },
     "transferHistory": [
       {
         "recordId": "3442",
@@ -26226,7 +35936,17 @@ const basketballTransfers = [
     "destination": "Loyola Chicago",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 16.7,
+      "pointsPerGame": 8.0,
+      "reboundsPerGame": 4.0,
+      "assistsPerGame": 1.1,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.7,
+      "fieldGoalPercentage": 54.2,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 67.5
+    },
     "transferHistory": [
       {
         "recordId": "79695",
@@ -26246,7 +35966,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 30.0,
+      "pointsPerGame": 10.7,
+      "reboundsPerGame": 9.1,
+      "assistsPerGame": 1.5,
+      "stealsPerGame": 1.5,
+      "blocksPerGame": 0.6,
+      "fieldGoalPercentage": 56.5,
+      "threePointPercentage": 23.1,
+      "freeThrowPercentage": 62
+    },
     "transferHistory": [
       {
         "recordId": "2807",
@@ -26266,7 +35996,17 @@ const basketballTransfers = [
     "destination": "Kansas State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 24.8,
+      "pointsPerGame": 7.7,
+      "reboundsPerGame": 1.6,
+      "assistsPerGame": 0.9,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 38.4,
+      "threePointPercentage": 38.5,
+      "freeThrowPercentage": 86.2
+    },
     "transferHistory": [
       {
         "recordId": "2985",
@@ -26286,7 +36026,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 27.8,
+      "pointsPerGame": 9.7,
+      "reboundsPerGame": 4.7,
+      "assistsPerGame": 1.9,
+      "stealsPerGame": 1.1,
+      "blocksPerGame": 0.6,
+      "fieldGoalPercentage": 48.3,
+      "threePointPercentage": 37.2,
+      "freeThrowPercentage": 68.4
+    },
     "transferHistory": [
       {
         "recordId": "78529",
@@ -26306,7 +36056,17 @@ const basketballTransfers = [
     "destination": "Tulane",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 24.6,
+      "pointsPerGame": 10.1,
+      "reboundsPerGame": 3.1,
+      "assistsPerGame": 0.8,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 43.4,
+      "threePointPercentage": 40.9,
+      "freeThrowPercentage": 69
+    },
     "transferHistory": [
       {
         "recordId": "9003",
@@ -26326,7 +36086,17 @@ const basketballTransfers = [
     "destination": "Florida State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 20.3,
+      "pointsPerGame": 5.1,
+      "reboundsPerGame": 2.5,
+      "assistsPerGame": 0.9,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.6,
+      "fieldGoalPercentage": 50.4,
+      "threePointPercentage": 34.3,
+      "freeThrowPercentage": 73.7
+    },
     "transferHistory": [
       {
         "recordId": "3110",
@@ -26366,7 +36136,17 @@ const basketballTransfers = [
     "destination": "Georgia",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 17.9,
+      "pointsPerGame": 3.9,
+      "reboundsPerGame": 4.5,
+      "assistsPerGame": 0.6,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 1.3,
+      "fieldGoalPercentage": 72.9,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 50
+    },
     "transferHistory": [
       {
         "recordId": "380636",
@@ -26406,7 +36186,17 @@ const basketballTransfers = [
     "destination": "Chicago",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 17.4,
+      "pointsPerGame": 5.8,
+      "reboundsPerGame": 5.4,
+      "assistsPerGame": 0.4,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 1.1,
+      "fieldGoalPercentage": 67.3,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 48.8
+    },
     "transferHistory": [
       {
         "recordId": "288119",
@@ -26426,7 +36216,17 @@ const basketballTransfers = [
     "destination": "Florida International",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 17.8,
+      "pointsPerGame": 7.4,
+      "reboundsPerGame": 3.8,
+      "assistsPerGame": 0.6,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.5,
+      "fieldGoalPercentage": 42.4,
+      "threePointPercentage": 33.3,
+      "freeThrowPercentage": 77.8
+    },
     "transferHistory": [
       {
         "recordId": "2625",
@@ -26446,7 +36246,17 @@ const basketballTransfers = [
     "destination": "SMU",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 28.6,
+      "pointsPerGame": 10.3,
+      "reboundsPerGame": 2.7,
+      "assistsPerGame": 1.6,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 42.9,
+      "threePointPercentage": 35.1,
+      "freeThrowPercentage": 85.9
+    },
     "transferHistory": [
       {
         "recordId": "3776603",
@@ -26486,7 +36296,17 @@ const basketballTransfers = [
     "destination": "Loyola Marymount",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 25.2,
+      "pointsPerGame": 10.9,
+      "reboundsPerGame": 7.6,
+      "assistsPerGame": 0.8,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 43.5,
+      "threePointPercentage": 36,
+      "freeThrowPercentage": 82.4
+    },
     "transferHistory": [
       {
         "recordId": "3237",
@@ -26506,7 +36326,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 25.5,
+      "pointsPerGame": 4.5,
+      "reboundsPerGame": 6.2,
+      "assistsPerGame": 0.7,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 1.2,
+      "fieldGoalPercentage": 51.9,
+      "threePointPercentage": 13.3,
+      "freeThrowPercentage": 60
+    },
     "transferHistory": [
       {
         "recordId": "3927065",
@@ -26526,7 +36356,17 @@ const basketballTransfers = [
     "destination": "Arizona State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 27.5,
+      "pointsPerGame": 7.5,
+      "reboundsPerGame": 5.3,
+      "assistsPerGame": 1.5,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.6,
+      "fieldGoalPercentage": 43.1,
+      "threePointPercentage": 41.6,
+      "freeThrowPercentage": 69.7
+    },
     "transferHistory": [
       {
         "recordId": "3061",
@@ -26546,7 +36386,17 @@ const basketballTransfers = [
     "destination": "UConn",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 18.3,
+      "pointsPerGame": 8.1,
+      "reboundsPerGame": 2.1,
+      "assistsPerGame": 0.6,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.5,
+      "fieldGoalPercentage": 46.4,
+      "threePointPercentage": 46.4,
+      "freeThrowPercentage": 81.1
+    },
     "transferHistory": [
       {
         "recordId": "1313031",
@@ -26566,7 +36416,17 @@ const basketballTransfers = [
     "destination": "Texas A&M",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 31.2,
+      "pointsPerGame": 13.7,
+      "reboundsPerGame": 6.6,
+      "assistsPerGame": 2.7,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.6,
+      "fieldGoalPercentage": 45.7,
+      "threePointPercentage": 28.7,
+      "freeThrowPercentage": 70.4
+    },
     "transferHistory": [
       {
         "recordId": "3298",
@@ -26586,7 +36446,17 @@ const basketballTransfers = [
     "destination": "Louisville",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 34.9,
+      "pointsPerGame": 15.6,
+      "reboundsPerGame": 2.9,
+      "assistsPerGame": 4.9,
+      "stealsPerGame": 1.4,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 39.1,
+      "threePointPercentage": 31.4,
+      "freeThrowPercentage": 84.6
+    },
     "transferHistory": [
       {
         "recordId": "3312",
@@ -26606,7 +36476,17 @@ const basketballTransfers = [
     "destination": "Boston College",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 36.9,
+      "pointsPerGame": 15.9,
+      "reboundsPerGame": 3.1,
+      "assistsPerGame": 0.9,
+      "stealsPerGame": 1.2,
+      "blocksPerGame": 0.5,
+      "fieldGoalPercentage": 38.6,
+      "threePointPercentage": 34.6,
+      "freeThrowPercentage": 87.2
+    },
     "transferHistory": [
       {
         "recordId": "3091",
@@ -26626,7 +36506,17 @@ const basketballTransfers = [
     "destination": "High Point",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 25.4,
+      "pointsPerGame": 10.5,
+      "reboundsPerGame": 8.4,
+      "assistsPerGame": 0.9,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.7,
+      "fieldGoalPercentage": 47.6,
+      "threePointPercentage": 29.1,
+      "freeThrowPercentage": 73.3
+    },
     "transferHistory": [
       {
         "recordId": "2605",
@@ -26676,7 +36566,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 17.5,
+      "pointsPerGame": 6.3,
+      "reboundsPerGame": 4.7,
+      "assistsPerGame": 0.9,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.5,
+      "fieldGoalPercentage": 65.8,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 70
+    },
     "transferHistory": [
       {
         "recordId": "2902",
@@ -26726,7 +36626,17 @@ const basketballTransfers = [
     "destination": "Nicholls",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 6.1,
+      "pointsPerGame": 0.9,
+      "reboundsPerGame": 1.0,
+      "assistsPerGame": 0.1,
+      "stealsPerGame": 0.0,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 80,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 0
+    },
     "transferHistory": [
       {
         "recordId": "2782",
@@ -26774,8 +36684,8 @@ const basketballTransfers = [
       "stealsPerGame": 0.0,
       "blocksPerGame": 0.0,
       "fieldGoalPercentage": 28.6,
-      "threePointPercentage": 25,
-      "freeThrowPercentage": 0
+      "threePointPercentage": 25.0,
+      "freeThrowPercentage": 0.0
     },
     "transferHistory": [
       {
@@ -26816,7 +36726,17 @@ const basketballTransfers = [
     "destination": "Villanova",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 35.5,
+      "pointsPerGame": 16.4,
+      "reboundsPerGame": 1.9,
+      "assistsPerGame": 2.8,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 44.2,
+      "threePointPercentage": 43.1,
+      "freeThrowPercentage": 89.9
+    },
     "transferHistory": [
       {
         "recordId": "2661",
@@ -26856,7 +36776,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 4.5,
+      "pointsPerGame": 0.5,
+      "reboundsPerGame": 1.2,
+      "assistsPerGame": 0.0,
+      "stealsPerGame": 0.0,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 25,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 0
+    },
     "transferHistory": [
       {
         "recordId": "2483",
@@ -26926,7 +36856,17 @@ const basketballTransfers = [
     "destination": "Iowa State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 25.0,
+      "pointsPerGame": 7.6,
+      "reboundsPerGame": 4.8,
+      "assistsPerGame": 1.5,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.6,
+      "fieldGoalPercentage": 47.7,
+      "threePointPercentage": 16.7,
+      "freeThrowPercentage": 73.8
+    },
     "transferHistory": [
       {
         "recordId": "3022",
@@ -26946,7 +36886,17 @@ const basketballTransfers = [
     "destination": "Georgia State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 19.2,
+      "pointsPerGame": 6.5,
+      "reboundsPerGame": 3.6,
+      "assistsPerGame": 0.6,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 1.8,
+      "fieldGoalPercentage": 62,
+      "threePointPercentage": 14.3,
+      "freeThrowPercentage": 47.9
+    },
     "transferHistory": [
       {
         "recordId": "2431",
@@ -26966,7 +36916,17 @@ const basketballTransfers = [
     "destination": "Malone",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 9.9,
+      "pointsPerGame": 3.4,
+      "reboundsPerGame": 2.3,
+      "assistsPerGame": 0.7,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 50,
+      "threePointPercentage": 10,
+      "freeThrowPercentage": 90
+    },
     "transferHistory": [
       {
         "recordId": "3046",
@@ -26986,7 +36946,17 @@ const basketballTransfers = [
     "destination": "Ole Miss",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 26.6,
+      "pointsPerGame": 10.1,
+      "reboundsPerGame": 5.5,
+      "assistsPerGame": 0.9,
+      "stealsPerGame": 1.0,
+      "blocksPerGame": 0.6,
+      "fieldGoalPercentage": 46.3,
+      "threePointPercentage": 29.6,
+      "freeThrowPercentage": 50
+    },
     "transferHistory": [
       {
         "recordId": "3101",
@@ -27006,7 +36976,17 @@ const basketballTransfers = [
     "destination": "Grand Canyon",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 25.5,
+      "pointsPerGame": 9.4,
+      "reboundsPerGame": 5.7,
+      "assistsPerGame": 2.0,
+      "stealsPerGame": 1.0,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 44.6,
+      "threePointPercentage": 29.7,
+      "freeThrowPercentage": 71.2
+    },
     "transferHistory": [
       {
         "recordId": "3920943",
@@ -27026,7 +37006,17 @@ const basketballTransfers = [
     "destination": "Montana State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 6.8,
+      "pointsPerGame": 1.5,
+      "reboundsPerGame": 0.6,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 40,
+      "threePointPercentage": 10,
+      "freeThrowPercentage": 90.9
+    },
     "transferHistory": [
       {
         "recordId": "3024",
@@ -27046,7 +37036,17 @@ const basketballTransfers = [
     "destination": "Northern Iowa",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 13.8,
+      "pointsPerGame": 3.1,
+      "reboundsPerGame": 3.7,
+      "assistsPerGame": 1.0,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 52.7,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 38.9
+    },
     "transferHistory": [
       {
         "recordId": "78626",
@@ -27066,7 +37066,17 @@ const basketballTransfers = [
     "destination": "Oregon State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 21.3,
+      "pointsPerGame": 8.1,
+      "reboundsPerGame": 1.9,
+      "assistsPerGame": 0.6,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 45.6,
+      "threePointPercentage": 42,
+      "freeThrowPercentage": 87.5
+    },
     "transferHistory": [
       {
         "recordId": "3108",
@@ -27123,9 +37133,9 @@ const basketballTransfers = [
       "assistsPerGame": 0.0,
       "stealsPerGame": 0.2,
       "blocksPerGame": 0.2,
-      "fieldGoalPercentage": 25,
-      "threePointPercentage": 0,
-      "freeThrowPercentage": 50
+      "fieldGoalPercentage": 25.0,
+      "threePointPercentage": 0.0,
+      "freeThrowPercentage": 50.0
     },
     "transferHistory": [
       {
@@ -27155,7 +37165,8 @@ const basketballTransfers = [
         "season": "2026"
       }
     ],
-    "needsReview": false
+    "needsReview": false,
+    "seasonNote": "Blake Smith redshirted during the 2025–26 season and did not record game statistics."
   },
   {
     "playerId": "46102045",
@@ -27166,7 +37177,17 @@ const basketballTransfers = [
     "destination": "Notre Dame",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 17.1,
+      "pointsPerGame": 5.1,
+      "reboundsPerGame": 2.2,
+      "assistsPerGame": 3.6,
+      "stealsPerGame": 1.0,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 46.7,
+      "threePointPercentage": 33.3,
+      "freeThrowPercentage": 80.5
+    },
     "transferHistory": [
       {
         "recordId": "2920",
@@ -27186,7 +37207,17 @@ const basketballTransfers = [
     "destination": "Arkansas-Pine Bluff",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 7.4,
+      "pointsPerGame": 1.5,
+      "reboundsPerGame": 1.2,
+      "assistsPerGame": 0.1,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 29.4,
+      "threePointPercentage": 33.3,
+      "freeThrowPercentage": 75
+    },
     "transferHistory": [
       {
         "recordId": "2655",
@@ -27206,7 +37237,17 @@ const basketballTransfers = [
     "destination": "Northwestern",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 29.4,
+      "pointsPerGame": 11.9,
+      "reboundsPerGame": 4.2,
+      "assistsPerGame": 1.5,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 45.5,
+      "threePointPercentage": 40.5,
+      "freeThrowPercentage": 80
+    },
     "transferHistory": [
       {
         "recordId": "3172",
@@ -27226,7 +37267,17 @@ const basketballTransfers = [
     "destination": "Ball State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 9.1,
+      "pointsPerGame": 2.8,
+      "reboundsPerGame": 1.8,
+      "assistsPerGame": 0.3,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.5,
+      "fieldGoalPercentage": 45.7,
+      "threePointPercentage": 18.2,
+      "freeThrowPercentage": 69.4
+    },
     "transferHistory": [
       {
         "recordId": "2548",
@@ -27246,7 +37297,17 @@ const basketballTransfers = [
     "destination": "Kansas City",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 24.8,
+      "pointsPerGame": 9.3,
+      "reboundsPerGame": 2.6,
+      "assistsPerGame": 2.8,
+      "stealsPerGame": 1.3,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 40.3,
+      "threePointPercentage": 35.2,
+      "freeThrowPercentage": 80
+    },
     "transferHistory": [
       {
         "recordId": "764378",
@@ -27266,7 +37327,17 @@ const basketballTransfers = [
     "destination": "Duquesne",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 27.1,
+      "pointsPerGame": 16.2,
+      "reboundsPerGame": 2.1,
+      "assistsPerGame": 2.1,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 39.7,
+      "threePointPercentage": 34.8,
+      "freeThrowPercentage": 73.7
+    },
     "transferHistory": [
       {
         "recordId": "3472",
@@ -27286,7 +37357,17 @@ const basketballTransfers = [
     "destination": "Long Beach State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 8.0,
+      "pointsPerGame": 1.4,
+      "reboundsPerGame": 1.2,
+      "assistsPerGame": 0.3,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 18.4,
+      "threePointPercentage": 10.5,
+      "freeThrowPercentage": 77.8
+    },
     "transferHistory": [
       {
         "recordId": "2495",
@@ -27306,7 +37387,17 @@ const basketballTransfers = [
     "destination": "UC Santa Barbara",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 27.7,
+      "pointsPerGame": 6.6,
+      "reboundsPerGame": 2.4,
+      "assistsPerGame": 2.4,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 36.4,
+      "threePointPercentage": 30.8,
+      "freeThrowPercentage": 75
+    },
     "transferHistory": [
       {
         "recordId": "110339",
@@ -27356,7 +37447,17 @@ const basketballTransfers = [
     "destination": "Rutgers",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 32.7,
+      "pointsPerGame": 20.7,
+      "reboundsPerGame": 5.4,
+      "assistsPerGame": 1.2,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 45.6,
+      "threePointPercentage": 37.6,
+      "freeThrowPercentage": 89.8
+    },
     "transferHistory": [
       {
         "recordId": "3461",
@@ -27376,7 +37477,17 @@ const basketballTransfers = [
     "destination": "Delaware",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 4.1,
+      "pointsPerGame": 1.9,
+      "reboundsPerGame": 1.2,
+      "assistsPerGame": 0.1,
+      "stealsPerGame": 0.0,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 77.8,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 50
+    },
     "transferHistory": [
       {
         "recordId": "2522",
@@ -27396,7 +37507,17 @@ const basketballTransfers = [
     "destination": "West Virginia",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 26.0,
+      "pointsPerGame": 8.0,
+      "reboundsPerGame": 3.0,
+      "assistsPerGame": 2.4,
+      "stealsPerGame": 1.5,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 33.6,
+      "threePointPercentage": 33.7,
+      "freeThrowPercentage": 79.1
+    },
     "transferHistory": [
       {
         "recordId": "3114",
@@ -27416,7 +37537,17 @@ const basketballTransfers = [
     "destination": "Wyoming",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 28.5,
+      "pointsPerGame": 10.7,
+      "reboundsPerGame": 4.2,
+      "assistsPerGame": 1.0,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 44.1,
+      "threePointPercentage": 34.4,
+      "freeThrowPercentage": 68.3
+    },
     "transferHistory": [
       {
         "recordId": "2708",
@@ -27456,7 +37587,17 @@ const basketballTransfers = [
     "destination": "Northwestern",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 20.0,
+      "pointsPerGame": 5.9,
+      "reboundsPerGame": 4.6,
+      "assistsPerGame": 1.5,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.9,
+      "fieldGoalPercentage": 49.2,
+      "threePointPercentage": 21.4,
+      "freeThrowPercentage": 63.3
+    },
     "transferHistory": [
       {
         "recordId": "1109827",
@@ -27476,7 +37617,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 17.1,
+      "pointsPerGame": 2.8,
+      "reboundsPerGame": 3.1,
+      "assistsPerGame": 0.4,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 31.1,
+      "threePointPercentage": 6.7,
+      "freeThrowPercentage": 76.9
+    },
     "transferHistory": [
       {
         "recordId": "142708",
@@ -27496,7 +37647,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 33.3,
+      "pointsPerGame": 17.2,
+      "reboundsPerGame": 3.2,
+      "assistsPerGame": 2.6,
+      "stealsPerGame": 1.4,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 41.2,
+      "threePointPercentage": 39.0,
+      "freeThrowPercentage": 80.4
+    },
     "transferHistory": [
       {
         "recordId": "2929",
@@ -27516,7 +37677,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 4.9,
+      "pointsPerGame": 1.2,
+      "reboundsPerGame": 1.1,
+      "assistsPerGame": 0.4,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 31.3,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 88.9
+    },
     "transferHistory": [
       {
         "recordId": "3013",
@@ -27536,7 +37707,17 @@ const basketballTransfers = [
     "destination": "Florida Atlantic",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 32.7,
+      "pointsPerGame": 15.3,
+      "reboundsPerGame": 4.4,
+      "assistsPerGame": 3.8,
+      "stealsPerGame": 1.0,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 44.5,
+      "threePointPercentage": 36.5,
+      "freeThrowPercentage": 82.2
+    },
     "transferHistory": [
       {
         "recordId": "3460",
@@ -27556,7 +37737,17 @@ const basketballTransfers = [
     "destination": "Lindenwood",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 33.9,
+      "pointsPerGame": 11.9,
+      "reboundsPerGame": 4.4,
+      "assistsPerGame": 2.9,
+      "stealsPerGame": 1.2,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 44.1,
+      "threePointPercentage": 34.9,
+      "freeThrowPercentage": 77.3
+    },
     "transferHistory": [
       {
         "recordId": "3441",
@@ -27576,7 +37767,17 @@ const basketballTransfers = [
     "destination": "UNC Greensboro",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 28.2,
+      "pointsPerGame": 11.8,
+      "reboundsPerGame": 3.4,
+      "assistsPerGame": 1.4,
+      "stealsPerGame": 1.0,
+      "blocksPerGame": 0.5,
+      "fieldGoalPercentage": 41.1,
+      "threePointPercentage": 31.9,
+      "freeThrowPercentage": 80.3
+    },
     "transferHistory": [
       {
         "recordId": "3844791",
@@ -27596,7 +37797,17 @@ const basketballTransfers = [
     "destination": "Boise State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 24.6,
+      "pointsPerGame": 8.8,
+      "reboundsPerGame": 5.8,
+      "assistsPerGame": 0.7,
+      "stealsPerGame": 1.1,
+      "blocksPerGame": 2.0,
+      "fieldGoalPercentage": 52.2,
+      "threePointPercentage": 14.3,
+      "freeThrowPercentage": 67.8
+    },
     "transferHistory": [
       {
         "recordId": "3146",
@@ -27616,7 +37827,17 @@ const basketballTransfers = [
     "destination": "Towson",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 5.0,
+      "pointsPerGame": 1.3,
+      "reboundsPerGame": 0.5,
+      "assistsPerGame": 0.4,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 50,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 75
+    },
     "transferHistory": [
       {
         "recordId": "3025",
@@ -27636,7 +37857,17 @@ const basketballTransfers = [
     "destination": "Missouri",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 30.0,
+      "pointsPerGame": 14.1,
+      "reboundsPerGame": 4.0,
+      "assistsPerGame": 2.1,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 35.9,
+      "threePointPercentage": 29.6,
+      "freeThrowPercentage": 80.3
+    },
     "transferHistory": [
       {
         "recordId": "3372",
@@ -27676,7 +37907,17 @@ const basketballTransfers = [
     "destination": "Oregon State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 5.3,
+      "pointsPerGame": 0.6,
+      "reboundsPerGame": 0.6,
+      "assistsPerGame": 0.3,
+      "stealsPerGame": 0.0,
+      "blocksPerGame": 0.6,
+      "fieldGoalPercentage": 50,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 50
+    },
     "transferHistory": [
       {
         "recordId": "2881",
@@ -27696,7 +37937,17 @@ const basketballTransfers = [
     "destination": "Akron",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 35.3,
+      "pointsPerGame": 17.3,
+      "reboundsPerGame": 3.9,
+      "assistsPerGame": 4.1,
+      "stealsPerGame": 1.0,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 43.6,
+      "threePointPercentage": 37.3,
+      "freeThrowPercentage": 79.8
+    },
     "transferHistory": [
       {
         "recordId": "27509",
@@ -27716,7 +37967,17 @@ const basketballTransfers = [
     "destination": "Mercer",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 20.6,
+      "pointsPerGame": 8.1,
+      "reboundsPerGame": 4.5,
+      "assistsPerGame": 0.9,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.9,
+      "fieldGoalPercentage": 60.5,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 55
+    },
     "transferHistory": [
       {
         "recordId": "600048",
@@ -27736,7 +37997,17 @@ const basketballTransfers = [
     "destination": "Buffalo",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 30.8,
+      "pointsPerGame": 9.9,
+      "reboundsPerGame": 3.1,
+      "assistsPerGame": 2.5,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 40.4,
+      "threePointPercentage": 29.9,
+      "freeThrowPercentage": 67.2
+    },
     "transferHistory": [
       {
         "recordId": "3304",
@@ -27756,7 +38027,17 @@ const basketballTransfers = [
     "destination": "Texas State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 11.3,
+      "pointsPerGame": 3.3,
+      "reboundsPerGame": 1.0,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 33.3,
+      "threePointPercentage": 30.7,
+      "freeThrowPercentage": 66.7
+    },
     "transferHistory": [
       {
         "recordId": "2611",
@@ -27776,7 +38057,17 @@ const basketballTransfers = [
     "destination": "Cal State Northridge",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 15.5,
+      "pointsPerGame": 3.5,
+      "reboundsPerGame": 4.2,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.5,
+      "fieldGoalPercentage": 50.7,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 42.3
+    },
     "transferHistory": [
       {
         "recordId": "2577",
@@ -27816,7 +38107,17 @@ const basketballTransfers = [
     "destination": "Ole Miss",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 31.2,
+      "pointsPerGame": 18.0,
+      "reboundsPerGame": 6.3,
+      "assistsPerGame": 1.6,
+      "stealsPerGame": 1.3,
+      "blocksPerGame": 0.5,
+      "fieldGoalPercentage": 45.7,
+      "threePointPercentage": 39.5,
+      "freeThrowPercentage": 74.2
+    },
     "transferHistory": [
       {
         "recordId": "4621823",
@@ -27836,7 +38137,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 29.8,
+      "pointsPerGame": 13.9,
+      "reboundsPerGame": 3.6,
+      "assistsPerGame": 3.1,
+      "stealsPerGame": 1.6,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 42.4,
+      "threePointPercentage": 34.2,
+      "freeThrowPercentage": 79.6
+    },
     "transferHistory": [
       {
         "recordId": "3325",
@@ -27876,7 +38187,17 @@ const basketballTransfers = [
     "destination": "Richmond",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 22.5,
+      "pointsPerGame": 6.6,
+      "reboundsPerGame": 2.2,
+      "assistsPerGame": 1.6,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 40.1,
+      "threePointPercentage": 34.8,
+      "freeThrowPercentage": 79.1
+    },
     "transferHistory": [
       {
         "recordId": "2521",
@@ -27896,7 +38217,17 @@ const basketballTransfers = [
     "destination": "Tennessee State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 5.5,
+      "pointsPerGame": 1.2,
+      "reboundsPerGame": 0.9,
+      "assistsPerGame": 0.3,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 50,
+      "threePointPercentage": 40,
+      "freeThrowPercentage": 66.7
+    },
     "transferHistory": [
       {
         "recordId": "2761",
@@ -27916,7 +38247,17 @@ const basketballTransfers = [
     "destination": "SMU",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 16.2,
+      "pointsPerGame": 4.2,
+      "reboundsPerGame": 2.6,
+      "assistsPerGame": 1.1,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 43,
+      "threePointPercentage": 34.5,
+      "freeThrowPercentage": 59.3
+    },
     "transferHistory": [
       {
         "recordId": "198229",
@@ -27936,7 +38277,17 @@ const basketballTransfers = [
     "destination": "Jacksonville State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 27.5,
+      "pointsPerGame": 9.9,
+      "reboundsPerGame": 3.1,
+      "assistsPerGame": 1.4,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.5,
+      "fieldGoalPercentage": 38.8,
+      "threePointPercentage": 33.7,
+      "freeThrowPercentage": 81.1
+    },
     "transferHistory": [
       {
         "recordId": "3371",
@@ -27956,7 +38307,17 @@ const basketballTransfers = [
     "destination": "Texas Tech",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 28.4,
+      "pointsPerGame": 11.7,
+      "reboundsPerGame": 8.2,
+      "assistsPerGame": 2.2,
+      "stealsPerGame": 1.1,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 50.6,
+      "threePointPercentage": 30.8,
+      "freeThrowPercentage": 70.2
+    },
     "transferHistory": [
       {
         "recordId": "159868",
@@ -27976,7 +38337,17 @@ const basketballTransfers = [
     "destination": "Cleveland State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 8.9,
+      "pointsPerGame": 1.4,
+      "reboundsPerGame": 0.9,
+      "assistsPerGame": 0.7,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 28.6,
+      "threePointPercentage": 12.5,
+      "freeThrowPercentage": 86.7
+    },
     "transferHistory": [
       {
         "recordId": "2508",
@@ -27996,7 +38367,17 @@ const basketballTransfers = [
     "destination": "NJIT",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 4.0,
+      "pointsPerGame": 0.0,
+      "reboundsPerGame": 1.0,
+      "assistsPerGame": 0.0,
+      "stealsPerGame": 0.0,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 0.0,
+      "threePointPercentage": 0.0,
+      "freeThrowPercentage": 0.0
+    },
     "transferHistory": [
       {
         "recordId": "3089",
@@ -28024,7 +38405,7 @@ const basketballTransfers = [
       "stealsPerGame": 0.9,
       "blocksPerGame": 0.1,
       "fieldGoalPercentage": 44.8,
-      "threePointPercentage": 35,
+      "threePointPercentage": 35.0,
       "freeThrowPercentage": 78.3
     },
     "transferHistory": [
@@ -28046,7 +38427,17 @@ const basketballTransfers = [
     "destination": "San Diego",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 22.6,
+      "pointsPerGame": 6.4,
+      "reboundsPerGame": 2.7,
+      "assistsPerGame": 1.1,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 35.3,
+      "threePointPercentage": 33,
+      "freeThrowPercentage": 80
+    },
     "transferHistory": [
       {
         "recordId": "2576",
@@ -28066,7 +38457,17 @@ const basketballTransfers = [
     "destination": "Saint Louis",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 17.1,
+      "pointsPerGame": 10.0,
+      "reboundsPerGame": 2.3,
+      "assistsPerGame": 0.9,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 44.6,
+      "threePointPercentage": 27.8,
+      "freeThrowPercentage": 75.9
+    },
     "transferHistory": [
       {
         "recordId": "3366",
@@ -28126,7 +38527,17 @@ const basketballTransfers = [
     "destination": "Stetson",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 13.7,
+      "pointsPerGame": 3.6,
+      "reboundsPerGame": 1.0,
+      "assistsPerGame": 2.2,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 41,
+      "threePointPercentage": 44,
+      "freeThrowPercentage": 82.6
+    },
     "transferHistory": [
       {
         "recordId": "2843",
@@ -28176,7 +38587,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 25.8,
+      "pointsPerGame": 9.9,
+      "reboundsPerGame": 2.5,
+      "assistsPerGame": 0.9,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 45.3,
+      "threePointPercentage": 42.2,
+      "freeThrowPercentage": 75
+    },
     "transferHistory": [
       {
         "recordId": "139002",
@@ -28196,7 +38617,17 @@ const basketballTransfers = [
     "destination": "James Madison",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 17.9,
+      "pointsPerGame": 3.5,
+      "reboundsPerGame": 3.2,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 44.4,
+      "threePointPercentage": 30.8,
+      "freeThrowPercentage": 63.2
+    },
     "transferHistory": [
       {
         "recordId": "3318",
@@ -28216,7 +38647,17 @@ const basketballTransfers = [
     "destination": "Southeast Missouri State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 13.7,
+      "pointsPerGame": 4.6,
+      "reboundsPerGame": 4.3,
+      "assistsPerGame": 0.8,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.6,
+      "fieldGoalPercentage": 53.6,
+      "threePointPercentage": 30.8,
+      "freeThrowPercentage": 58.8
+    },
     "transferHistory": [
       {
         "recordId": "2587",
@@ -28236,7 +38677,17 @@ const basketballTransfers = [
     "destination": "UC San Diego",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 17.5,
+      "pointsPerGame": 5.5,
+      "reboundsPerGame": 2.7,
+      "assistsPerGame": 0.8,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 57.8,
+      "threePointPercentage": 36.7,
+      "freeThrowPercentage": 65.5
+    },
     "transferHistory": [
       {
         "recordId": "2840",
@@ -28276,7 +38727,17 @@ const basketballTransfers = [
     "destination": "Oakland",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 20.6,
+      "pointsPerGame": 7.7,
+      "reboundsPerGame": 4.6,
+      "assistsPerGame": 0.4,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 40.8,
+      "threePointPercentage": 34.1,
+      "freeThrowPercentage": 69.6
+    },
     "transferHistory": [
       {
         "recordId": "2779",
@@ -28296,7 +38757,17 @@ const basketballTransfers = [
     "destination": "San Diego State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 28.0,
+      "pointsPerGame": 10.0,
+      "reboundsPerGame": 4.6,
+      "assistsPerGame": 1.7,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 34.1,
+      "threePointPercentage": 35.4,
+      "freeThrowPercentage": 87.1
+    },
     "transferHistory": [
       {
         "recordId": "8992",
@@ -28336,7 +38807,17 @@ const basketballTransfers = [
     "destination": "TCU",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 32.9,
+      "pointsPerGame": 19.4,
+      "reboundsPerGame": 3.0,
+      "assistsPerGame": 1.5,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 47.3,
+      "threePointPercentage": 38.7,
+      "freeThrowPercentage": 79.5
+    },
     "transferHistory": [
       {
         "recordId": "2992",
@@ -28356,7 +38837,17 @@ const basketballTransfers = [
     "destination": "West Virginia",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 21.4,
+      "pointsPerGame": 9.6,
+      "reboundsPerGame": 7.2,
+      "assistsPerGame": 0.6,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 1.2,
+      "fieldGoalPercentage": 57.9,
+      "threePointPercentage": 25,
+      "freeThrowPercentage": 42.9
+    },
     "transferHistory": [
       {
         "recordId": "3103",
@@ -28376,7 +38867,17 @@ const basketballTransfers = [
     "destination": "Hofstra",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 22.9,
+      "pointsPerGame": 8.9,
+      "reboundsPerGame": 2.3,
+      "assistsPerGame": 1.8,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 34.3,
+      "threePointPercentage": 31.4,
+      "freeThrowPercentage": 88.6
+    },
     "transferHistory": [
       {
         "recordId": "2547",
@@ -28396,7 +38897,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 25.9,
+      "pointsPerGame": 15.3,
+      "reboundsPerGame": 6.8,
+      "assistsPerGame": 2.3,
+      "stealsPerGame": 2.2,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 51.5,
+      "threePointPercentage": 17.2,
+      "freeThrowPercentage": 58.8
+    },
     "transferHistory": [
       {
         "recordId": "3436",
@@ -28416,7 +38927,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 21.0,
+      "pointsPerGame": 8.7,
+      "reboundsPerGame": 2.7,
+      "assistsPerGame": 0.3,
+      "stealsPerGame": 0.0,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 38.9,
+      "threePointPercentage": 11.1,
+      "freeThrowPercentage": 68.8
+    },
     "transferHistory": [
       {
         "recordId": "26419",
@@ -28456,32 +38977,22 @@ const basketballTransfers = [
     "destination": "Arkansas State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 24.7,
+      "pointsPerGame": 8.0,
+      "reboundsPerGame": 2.7,
+      "assistsPerGame": 3.3,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 40.8,
+      "threePointPercentage": 34.5,
+      "freeThrowPercentage": 78.9
+    },
     "transferHistory": [
       {
         "recordId": "2875",
         "previousSchool": "Murray State",
         "destination": "Arkansas State",
-        "season": "2026"
-      }
-    ],
-    "needsReview": false
-  },
-  {
-    "playerId": "46112806",
-    "name": "Brian Taylor II",
-    "sport": "basketball",
-    "position": "PG",
-    "previousSchool": "East Tennessee State",
-    "destination": "",
-    "season": 2026,
-    "profileUrl": "",
-    "stats": {},
-    "transferHistory": [
-      {
-        "recordId": "139722",
-        "previousSchool": "East Tennessee State",
-        "destination": "",
         "season": "2026"
       }
     ],
@@ -28516,7 +39027,17 @@ const basketballTransfers = [
     "destination": "Le Moyne",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 14.6,
+      "pointsPerGame": 6.0,
+      "reboundsPerGame": 1.6,
+      "assistsPerGame": 0.9,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 33.5,
+      "threePointPercentage": 34.7,
+      "freeThrowPercentage": 82.8
+    },
     "transferHistory": [
       {
         "recordId": "139000",
@@ -28536,7 +39057,17 @@ const basketballTransfers = [
     "destination": "Cincinnati",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 35.5,
+      "pointsPerGame": 17.7,
+      "reboundsPerGame": 5.5,
+      "assistsPerGame": 2.3,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 43.2,
+      "threePointPercentage": 29.1,
+      "freeThrowPercentage": 88.2
+    },
     "transferHistory": [
       {
         "recordId": "3196",
@@ -28556,7 +39087,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 19.1,
+      "pointsPerGame": 8.8,
+      "reboundsPerGame": 4.2,
+      "assistsPerGame": 0.8,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.9,
+      "fieldGoalPercentage": 50.2,
+      "threePointPercentage": 32.8,
+      "freeThrowPercentage": 65.5
+    },
     "transferHistory": [
       {
         "recordId": "3247",
@@ -28576,7 +39117,17 @@ const basketballTransfers = [
     "destination": "UTSA",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 16.5,
+      "pointsPerGame": 6.0,
+      "reboundsPerGame": 1.5,
+      "assistsPerGame": 2.1,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 45.9,
+      "threePointPercentage": 42.6,
+      "freeThrowPercentage": 74.1
+    },
     "transferHistory": [
       {
         "recordId": "2874",
@@ -28596,7 +39147,17 @@ const basketballTransfers = [
     "destination": "SMU",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 32.8,
+      "pointsPerGame": 13.5,
+      "reboundsPerGame": 3.7,
+      "assistsPerGame": 4.6,
+      "stealsPerGame": 1.7,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 42.8,
+      "threePointPercentage": 25.7,
+      "freeThrowPercentage": 67.3
+    },
     "transferHistory": [
       {
         "recordId": "27548",
@@ -28616,7 +39177,17 @@ const basketballTransfers = [
     "destination": "Duke",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 23.4,
+      "pointsPerGame": 13.1,
+      "reboundsPerGame": 3.6,
+      "assistsPerGame": 2.7,
+      "stealsPerGame": 1.6,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 46.1,
+      "threePointPercentage": 29.6,
+      "freeThrowPercentage": 67.2
+    },
     "transferHistory": [
       {
         "recordId": "670914",
@@ -28636,7 +39207,17 @@ const basketballTransfers = [
     "destination": "Michigan",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 27.2,
+      "pointsPerGame": 12.8,
+      "reboundsPerGame": 7.1,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 1.6,
+      "fieldGoalPercentage": 52.5,
+      "threePointPercentage": 28.8,
+      "freeThrowPercentage": 63.3
+    },
     "transferHistory": [
       {
         "recordId": "2851",
@@ -28665,7 +39246,7 @@ const basketballTransfers = [
       "blocksPerGame": 0.4,
       "fieldGoalPercentage": 40.7,
       "threePointPercentage": 38.2,
-      "freeThrowPercentage": 74
+      "freeThrowPercentage": 74.0
     },
     "transferHistory": [
       {
@@ -28683,15 +39264,25 @@ const basketballTransfers = [
     "sport": "basketball",
     "position": "SG",
     "previousSchool": "Winthrop",
-    "destination": "",
+    "destination": "Alcorn State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 7.3,
+      "pointsPerGame": 4.1,
+      "reboundsPerGame": 1.4,
+      "assistsPerGame": 0.6,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 40.7,
+      "threePointPercentage": 22.2,
+      "freeThrowPercentage": 83.3
+    },
     "transferHistory": [
       {
         "recordId": "113208",
         "previousSchool": "Winthrop",
-        "destination": "",
+        "destination": "Alcorn State",
         "season": "2026"
       }
     ],
@@ -28706,7 +39297,17 @@ const basketballTransfers = [
     "destination": "Georgia State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 14.1,
+      "pointsPerGame": 4.2,
+      "reboundsPerGame": 1.1,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 44.6,
+      "threePointPercentage": 42.1,
+      "freeThrowPercentage": 87.5
+    },
     "transferHistory": [
       {
         "recordId": "2683",
@@ -28726,7 +39327,17 @@ const basketballTransfers = [
     "destination": "Northwestern State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 18.0,
+      "pointsPerGame": 5.1,
+      "reboundsPerGame": 5.3,
+      "assistsPerGame": 0.4,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 48.3,
+      "threePointPercentage": 33.3,
+      "freeThrowPercentage": 56.4
+    },
     "transferHistory": [
       {
         "recordId": "2825",
@@ -28746,7 +39357,17 @@ const basketballTransfers = [
     "destination": "TCU",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 16.8,
+      "pointsPerGame": 6.6,
+      "reboundsPerGame": 2.1,
+      "assistsPerGame": 0.6,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 49.5,
+      "threePointPercentage": 26.9,
+      "freeThrowPercentage": 62.5
+    },
     "transferHistory": [
       {
         "recordId": "2583",
@@ -28766,7 +39387,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 21.3,
+      "pointsPerGame": 8.9,
+      "reboundsPerGame": 2.2,
+      "assistsPerGame": 1.5,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 39.6,
+      "threePointPercentage": 30.3,
+      "freeThrowPercentage": 76.6
+    },
     "transferHistory": [
       {
         "recordId": "106819",
@@ -28786,7 +39417,17 @@ const basketballTransfers = [
     "destination": "Seton Hall",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 29.2,
+      "pointsPerGame": 15.9,
+      "reboundsPerGame": 3.0,
+      "assistsPerGame": 1.2,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 44.6,
+      "threePointPercentage": 44.7,
+      "freeThrowPercentage": 79.5
+    },
     "transferHistory": [
       {
         "recordId": "3135",
@@ -28806,7 +39447,17 @@ const basketballTransfers = [
     "destination": "South Dakota",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 28.5,
+      "pointsPerGame": 5.8,
+      "reboundsPerGame": 2.4,
+      "assistsPerGame": 3.0,
+      "stealsPerGame": 1.2,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 39.1,
+      "threePointPercentage": 25.4,
+      "freeThrowPercentage": 73.1
+    },
     "transferHistory": [
       {
         "recordId": "3195",
@@ -28826,7 +39477,17 @@ const basketballTransfers = [
     "destination": "UNLV",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 26.8,
+      "pointsPerGame": 10.8,
+      "reboundsPerGame": 8.0,
+      "assistsPerGame": 1.5,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.7,
+      "fieldGoalPercentage": 53.1,
+      "threePointPercentage": 66.7,
+      "freeThrowPercentage": 73.3
+    },
     "transferHistory": [
       {
         "recordId": "204743",
@@ -28866,7 +39527,17 @@ const basketballTransfers = [
     "destination": "Alcorn State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 22.5,
+      "pointsPerGame": 11.8,
+      "reboundsPerGame": 3.2,
+      "assistsPerGame": 1.0,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 38.2,
+      "threePointPercentage": 18.8,
+      "freeThrowPercentage": 100
+    },
     "transferHistory": [
       {
         "recordId": "3257",
@@ -28894,7 +39565,7 @@ const basketballTransfers = [
       "stealsPerGame": 1.2,
       "blocksPerGame": 0.5,
       "fieldGoalPercentage": 40.3,
-      "threePointPercentage": 30,
+      "threePointPercentage": 30.0,
       "freeThrowPercentage": 77.8
     },
     "transferHistory": [
@@ -28916,7 +39587,17 @@ const basketballTransfers = [
     "destination": "Houston",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 29.4,
+      "pointsPerGame": 15.1,
+      "reboundsPerGame": 2.7,
+      "assistsPerGame": 6.4,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 45.6,
+      "threePointPercentage": 30.2,
+      "freeThrowPercentage": 83.1
+    },
     "transferHistory": [
       {
         "recordId": "3266",
@@ -28956,7 +39637,17 @@ const basketballTransfers = [
     "destination": "Pacific",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 11.2,
+      "pointsPerGame": 2.3,
+      "reboundsPerGame": 1.2,
+      "assistsPerGame": 0.3,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 45.5,
+      "threePointPercentage": 21.1,
+      "freeThrowPercentage": 66.7
+    },
     "transferHistory": [
       {
         "recordId": "2626",
@@ -28996,7 +39687,17 @@ const basketballTransfers = [
     "destination": "Seattle U",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 22.8,
+      "pointsPerGame": 8.8,
+      "reboundsPerGame": 4.1,
+      "assistsPerGame": 1.1,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 43.9,
+      "threePointPercentage": 28.8,
+      "freeThrowPercentage": 73.8
+    },
     "transferHistory": [
       {
         "recordId": "3208",
@@ -29016,7 +39717,17 @@ const basketballTransfers = [
     "destination": "Elon",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 17.0,
+      "pointsPerGame": 6.0,
+      "reboundsPerGame": 1.6,
+      "assistsPerGame": 1.3,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 38.2,
+      "threePointPercentage": 41.9,
+      "freeThrowPercentage": 86.8
+    },
     "transferHistory": [
       {
         "recordId": "118054",
@@ -29036,7 +39747,17 @@ const basketballTransfers = [
     "destination": "Old Dominion",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 11.8,
+      "pointsPerGame": 2.5,
+      "reboundsPerGame": 0.8,
+      "assistsPerGame": 1.3,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 34.1,
+      "threePointPercentage": 20,
+      "freeThrowPercentage": 64.3
+    },
     "transferHistory": [
       {
         "recordId": "3457",
@@ -29056,7 +39777,17 @@ const basketballTransfers = [
     "destination": "Missouri",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 25.9,
+      "pointsPerGame": 7.9,
+      "reboundsPerGame": 6.1,
+      "assistsPerGame": 1.0,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 1.3,
+      "fieldGoalPercentage": 44.9,
+      "threePointPercentage": 26.9,
+      "freeThrowPercentage": 69.4
+    },
     "transferHistory": [
       {
         "recordId": "2950",
@@ -29076,7 +39807,17 @@ const basketballTransfers = [
     "destination": "Charlotte",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 12.4,
+      "pointsPerGame": 3.8,
+      "reboundsPerGame": 1.2,
+      "assistsPerGame": 1.8,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 37,
+      "threePointPercentage": 33.3,
+      "freeThrowPercentage": 70
+    },
     "transferHistory": [
       {
         "recordId": "2865",
@@ -29123,9 +39864,9 @@ const basketballTransfers = [
       "assistsPerGame": 2.0,
       "stealsPerGame": 1.2,
       "blocksPerGame": 0.2,
-      "fieldGoalPercentage": 48,
+      "fieldGoalPercentage": 48.0,
       "threePointPercentage": 33.8,
-      "freeThrowPercentage": 80
+      "freeThrowPercentage": 80.0
     },
     "transferHistory": [
       {
@@ -29146,7 +39887,17 @@ const basketballTransfers = [
     "destination": "Jacksonville State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 3.4,
+      "pointsPerGame": 0.3,
+      "reboundsPerGame": 1.3,
+      "assistsPerGame": 0.0,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 16.7,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 0
+    },
     "transferHistory": [
       {
         "recordId": "2990",
@@ -29166,7 +39917,17 @@ const basketballTransfers = [
     "destination": "Furman",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 21.4,
+      "pointsPerGame": 6.3,
+      "reboundsPerGame": 1.6,
+      "assistsPerGame": 2.2,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 41.9,
+      "threePointPercentage": 39.2,
+      "freeThrowPercentage": 57.1
+    },
     "transferHistory": [
       {
         "recordId": "3058",
@@ -29186,7 +39947,17 @@ const basketballTransfers = [
     "destination": "Fairleigh Dickinson",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 8.1,
+      "pointsPerGame": 1.7,
+      "reboundsPerGame": 2.1,
+      "assistsPerGame": 0.0,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 53.1,
+      "threePointPercentage": 33.3,
+      "freeThrowPercentage": 100
+    },
     "transferHistory": [
       {
         "recordId": "3071",
@@ -29206,7 +39977,17 @@ const basketballTransfers = [
     "destination": "Bellarmine",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 9.2,
+      "pointsPerGame": 3.3,
+      "reboundsPerGame": 2.2,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 46.6,
+      "threePointPercentage": 35.7,
+      "freeThrowPercentage": 60.5
+    },
     "transferHistory": [
       {
         "recordId": "223088",
@@ -29234,7 +40015,7 @@ const basketballTransfers = [
       "stealsPerGame": 0.4,
       "blocksPerGame": 1.0,
       "fieldGoalPercentage": 62.9,
-      "threePointPercentage": 0,
+      "threePointPercentage": 0.0,
       "freeThrowPercentage": 36.8
     },
     "transferHistory": [
@@ -29256,7 +40037,17 @@ const basketballTransfers = [
     "destination": "South Dakota",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 5.0,
+      "pointsPerGame": 6.0,
+      "reboundsPerGame": 0.0,
+      "assistsPerGame": 0.0,
+      "stealsPerGame": 0.0,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 75,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 0
+    },
     "transferHistory": [
       {
         "recordId": "2727",
@@ -29276,7 +40067,17 @@ const basketballTransfers = [
     "destination": "Stanford",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 33.4,
+      "pointsPerGame": 16.3,
+      "reboundsPerGame": 7.4,
+      "assistsPerGame": 4.3,
+      "stealsPerGame": 1.1,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 51.1,
+      "threePointPercentage": 46.3,
+      "freeThrowPercentage": 75.3
+    },
     "transferHistory": [
       {
         "recordId": "4377069",
@@ -29296,7 +40097,17 @@ const basketballTransfers = [
     "destination": "Morgan State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 6.3,
+      "pointsPerGame": 1.3,
+      "reboundsPerGame": 0.7,
+      "assistsPerGame": 0.0,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 66.7,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 0
+    },
     "transferHistory": [
       {
         "recordId": "2581",
@@ -29316,7 +40127,17 @@ const basketballTransfers = [
     "destination": "West Virginia",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 28.7,
+      "pointsPerGame": 9.0,
+      "reboundsPerGame": 3.4,
+      "assistsPerGame": 2.0,
+      "stealsPerGame": 1.2,
+      "blocksPerGame": 0.5,
+      "fieldGoalPercentage": 38.6,
+      "threePointPercentage": 33.3,
+      "freeThrowPercentage": 72.7
+    },
     "transferHistory": [
       {
         "recordId": "2489",
@@ -29336,7 +40157,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 19.6,
+      "pointsPerGame": 8.2,
+      "reboundsPerGame": 3.0,
+      "assistsPerGame": 0.8,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 54.7,
+      "threePointPercentage": 20,
+      "freeThrowPercentage": 70.9
+    },
     "transferHistory": [
       {
         "recordId": "6554746",
@@ -29356,7 +40187,17 @@ const basketballTransfers = [
     "destination": "Louisville",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 32.5,
+      "pointsPerGame": 14.0,
+      "reboundsPerGame": 3.8,
+      "assistsPerGame": 3.0,
+      "stealsPerGame": 1.3,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 47.1,
+      "threePointPercentage": 28.6,
+      "freeThrowPercentage": 66.7
+    },
     "transferHistory": [
       {
         "recordId": "286780",
@@ -29406,7 +40247,17 @@ const basketballTransfers = [
     "destination": "Ole Miss",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 25.7,
+      "pointsPerGame": 8.1,
+      "reboundsPerGame": 6.1,
+      "assistsPerGame": 0.9,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.7,
+      "fieldGoalPercentage": 44.8,
+      "threePointPercentage": 20.8,
+      "freeThrowPercentage": 78.3
+    },
     "transferHistory": [
       {
         "recordId": "2472",
@@ -29426,7 +40277,17 @@ const basketballTransfers = [
     "destination": "Saint Peter's",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 4.7,
+      "pointsPerGame": 2.6,
+      "reboundsPerGame": 2.0,
+      "assistsPerGame": 0.1,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 69.2,
+      "threePointPercentage": 0.0,
+      "freeThrowPercentage": 0.0
+    },
     "transferHistory": [
       {
         "recordId": "312409",
@@ -29446,7 +40307,17 @@ const basketballTransfers = [
     "destination": "South Carolina Upstate",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 8.8,
+      "pointsPerGame": 3.3,
+      "reboundsPerGame": 2.0,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 37.5,
+      "threePointPercentage": 33.3,
+      "freeThrowPercentage": 62.5
+    },
     "transferHistory": [
       {
         "recordId": "26828",
@@ -29466,7 +40337,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 26.3,
+      "pointsPerGame": 12.5,
+      "reboundsPerGame": 6.8,
+      "assistsPerGame": 1.1,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 58.8,
+      "threePointPercentage": 50,
+      "freeThrowPercentage": 71.2
+    },
     "transferHistory": [
       {
         "recordId": "113204",
@@ -29486,7 +40367,17 @@ const basketballTransfers = [
     "destination": "Grand Canyon",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 31.5,
+      "pointsPerGame": 13.5,
+      "reboundsPerGame": 2.1,
+      "assistsPerGame": 3.0,
+      "stealsPerGame": 1.0,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 42.5,
+      "threePointPercentage": 32.5,
+      "freeThrowPercentage": 81.3
+    },
     "transferHistory": [
       {
         "recordId": "3369",
@@ -29506,7 +40397,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 22.8,
+      "pointsPerGame": 7.8,
+      "reboundsPerGame": 2.0,
+      "assistsPerGame": 2.4,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 44.6,
+      "threePointPercentage": 31.3,
+      "freeThrowPercentage": 77
+    },
     "transferHistory": [
       {
         "recordId": "3305",
@@ -29526,7 +40427,17 @@ const basketballTransfers = [
     "destination": "Murray State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 24.6,
+      "pointsPerGame": 6.4,
+      "reboundsPerGame": 5.8,
+      "assistsPerGame": 0.8,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 1.2,
+      "fieldGoalPercentage": 58,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 65.5
+    },
     "transferHistory": [
       {
         "recordId": "3232",
@@ -29546,7 +40457,17 @@ const basketballTransfers = [
     "destination": "Utah State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 20.1,
+      "pointsPerGame": 11.6,
+      "reboundsPerGame": 6.1,
+      "assistsPerGame": 1.1,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 2.3,
+      "fieldGoalPercentage": 47.4,
+      "threePointPercentage": 22.2,
+      "freeThrowPercentage": 66.7
+    },
     "transferHistory": [
       {
         "recordId": "2937",
@@ -29566,7 +40487,17 @@ const basketballTransfers = [
     "destination": "Jacksonville",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 5.9,
+      "pointsPerGame": 0.7,
+      "reboundsPerGame": 1.6,
+      "assistsPerGame": 0.3,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 20,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 50
+    },
     "transferHistory": [
       {
         "recordId": "3363",
@@ -29586,7 +40517,17 @@ const basketballTransfers = [
     "destination": "Sacramento State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 22.5,
+      "pointsPerGame": 7.1,
+      "reboundsPerGame": 7.8,
+      "assistsPerGame": 1.0,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.6,
+      "fieldGoalPercentage": 59.4,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 53.8
+    },
     "transferHistory": [
       {
         "recordId": "312408",
@@ -29606,7 +40547,17 @@ const basketballTransfers = [
     "destination": "Buffalo",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 19.0,
+      "pointsPerGame": 6.2,
+      "reboundsPerGame": 1.2,
+      "assistsPerGame": 1.4,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 39.9,
+      "threePointPercentage": 39.8,
+      "freeThrowPercentage": 64.7
+    },
     "transferHistory": [
       {
         "recordId": "3070",
@@ -29626,7 +40577,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 36.7,
+      "pointsPerGame": 19.6,
+      "reboundsPerGame": 5.4,
+      "assistsPerGame": 2.1,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 50,
+      "threePointPercentage": 41.3,
+      "freeThrowPercentage": 81.8
+    },
     "transferHistory": [
       {
         "recordId": "293508",
@@ -29646,7 +40607,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 18.1,
+      "pointsPerGame": 6.7,
+      "reboundsPerGame": 3.5,
+      "assistsPerGame": 0.8,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 45.2,
+      "threePointPercentage": 28.6,
+      "freeThrowPercentage": 71.1
+    },
     "transferHistory": [
       {
         "recordId": "2723",
@@ -29666,7 +40637,17 @@ const basketballTransfers = [
     "destination": "LSU",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 16.0,
+      "pointsPerGame": 5.1,
+      "reboundsPerGame": 1.5,
+      "assistsPerGame": 1.5,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 50.6,
+      "threePointPercentage": 44.2,
+      "freeThrowPercentage": 55.6
+    },
     "transferHistory": [
       {
         "recordId": "341449",
@@ -29686,7 +40667,17 @@ const basketballTransfers = [
     "destination": "Stony Brook",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 10.8,
+      "pointsPerGame": 1.3,
+      "reboundsPerGame": 1.4,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 25,
+      "threePointPercentage": 17.1,
+      "freeThrowPercentage": 55.6
+    },
     "transferHistory": [
       {
         "recordId": "8597",
@@ -29706,7 +40697,17 @@ const basketballTransfers = [
     "destination": "Robert Morris",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 18.9,
+      "pointsPerGame": 5.2,
+      "reboundsPerGame": 5.1,
+      "assistsPerGame": 0.6,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 2.2,
+      "fieldGoalPercentage": 58.1,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 55.8
+    },
     "transferHistory": [
       {
         "recordId": "3355",
@@ -29726,7 +40727,17 @@ const basketballTransfers = [
     "destination": "Illinois",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 31.5,
+      "pointsPerGame": 15.8,
+      "reboundsPerGame": 2.5,
+      "assistsPerGame": 3.2,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 40.3,
+      "threePointPercentage": 35,
+      "freeThrowPercentage": 83.9
+    },
     "transferHistory": [
       {
         "recordId": "3448",
@@ -29746,7 +40757,17 @@ const basketballTransfers = [
     "destination": "New Mexico",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 26.8,
+      "pointsPerGame": 11.8,
+      "reboundsPerGame": 4.1,
+      "assistsPerGame": 2.5,
+      "stealsPerGame": 1.2,
+      "blocksPerGame": 0.8,
+      "fieldGoalPercentage": 46.1,
+      "threePointPercentage": 35,
+      "freeThrowPercentage": 78.2
+    },
     "transferHistory": [
       {
         "recordId": "204748",
@@ -29766,7 +40787,17 @@ const basketballTransfers = [
     "destination": "San José State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 21.4,
+      "pointsPerGame": 5.0,
+      "reboundsPerGame": 7.6,
+      "assistsPerGame": 1.4,
+      "stealsPerGame": 1.2,
+      "blocksPerGame": 0.6,
+      "fieldGoalPercentage": 70,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 50
+    },
     "transferHistory": [
       {
         "recordId": "8613",
@@ -29786,7 +40817,17 @@ const basketballTransfers = [
     "destination": "Georgia Tech",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 29.2,
+      "pointsPerGame": 14.8,
+      "reboundsPerGame": 4.0,
+      "assistsPerGame": 4.5,
+      "stealsPerGame": 1.4,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 40.6,
+      "threePointPercentage": 24.4,
+      "freeThrowPercentage": 76.1
+    },
     "transferHistory": [
       {
         "recordId": "3213",
@@ -29815,7 +40856,7 @@ const basketballTransfers = [
       "blocksPerGame": 0.0,
       "fieldGoalPercentage": 50.6,
       "threePointPercentage": 38.1,
-      "freeThrowPercentage": 77
+      "freeThrowPercentage": 77.0
     },
     "transferHistory": [
       {
@@ -29836,7 +40877,17 @@ const basketballTransfers = [
     "destination": "George Mason",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 30.7,
+      "pointsPerGame": 13.3,
+      "reboundsPerGame": 5.3,
+      "assistsPerGame": 1.0,
+      "stealsPerGame": 1.0,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 41.3,
+      "threePointPercentage": 35.8,
+      "freeThrowPercentage": 81.3
+    },
     "transferHistory": [
       {
         "recordId": "2772",
@@ -29856,7 +40907,17 @@ const basketballTransfers = [
     "destination": "South Dakota",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 5.9,
+      "pointsPerGame": 1.4,
+      "reboundsPerGame": 1.8,
+      "assistsPerGame": 0.4,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 83.3,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 30
+    },
     "transferHistory": [
       {
         "recordId": "2758",
@@ -29896,7 +40957,17 @@ const basketballTransfers = [
     "destination": "Providence",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 31.2,
+      "pointsPerGame": 15.8,
+      "reboundsPerGame": 6.3,
+      "assistsPerGame": 2.4,
+      "stealsPerGame": 1.5,
+      "blocksPerGame": 0.8,
+      "fieldGoalPercentage": 43.8,
+      "threePointPercentage": 35.1,
+      "freeThrowPercentage": 78.2
+    },
     "transferHistory": [
       {
         "recordId": "3048",
@@ -29916,7 +40987,17 @@ const basketballTransfers = [
     "destination": "UCF",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 31.9,
+      "pointsPerGame": 10.4,
+      "reboundsPerGame": 4.5,
+      "assistsPerGame": 4.1,
+      "stealsPerGame": 1.1,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 39.9,
+      "threePointPercentage": 32.1,
+      "freeThrowPercentage": 80
+    },
     "transferHistory": [
       {
         "recordId": "78494",
@@ -29936,7 +41017,17 @@ const basketballTransfers = [
     "destination": "Stony Brook",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 3.0,
+      "pointsPerGame": 1.2,
+      "reboundsPerGame": 0.4,
+      "assistsPerGame": 0.0,
+      "stealsPerGame": 0.0,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 66.7,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 66.7
+    },
     "transferHistory": [
       {
         "recordId": "2460",
@@ -29976,7 +41067,17 @@ const basketballTransfers = [
     "destination": "Memphis",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 25.3,
+      "pointsPerGame": 11.5,
+      "reboundsPerGame": 4.0,
+      "assistsPerGame": 0.4,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 46.6,
+      "threePointPercentage": 41.2,
+      "freeThrowPercentage": 88.9
+    },
     "transferHistory": [
       {
         "recordId": "3117",
@@ -29996,7 +41097,17 @@ const basketballTransfers = [
     "destination": "Washington",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 15.0,
+      "pointsPerGame": 5.0,
+      "reboundsPerGame": 1.3,
+      "assistsPerGame": 1.0,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 38.6,
+      "threePointPercentage": 36.7,
+      "freeThrowPercentage": 83.3
+    },
     "transferHistory": [
       {
         "recordId": "2888",
@@ -30016,7 +41127,17 @@ const basketballTransfers = [
     "destination": "Kansas State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 5.3,
+      "pointsPerGame": 2.0,
+      "reboundsPerGame": 1.8,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 61.1,
+      "threePointPercentage": 36.4,
+      "freeThrowPercentage": 68.8
+    },
     "transferHistory": [
       {
         "recordId": "2523",
@@ -30036,7 +41157,17 @@ const basketballTransfers = [
     "destination": "Virginia",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 28.8,
+      "pointsPerGame": 12.1,
+      "reboundsPerGame": 3.0,
+      "assistsPerGame": 4.0,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 45.3,
+      "threePointPercentage": 32.3,
+      "freeThrowPercentage": 75.3
+    },
     "transferHistory": [
       {
         "recordId": "3080",
@@ -30076,7 +41207,17 @@ const basketballTransfers = [
     "destination": "Northern Iowa",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 14.8,
+      "pointsPerGame": 5.8,
+      "reboundsPerGame": 2.2,
+      "assistsPerGame": 0.8,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 43.5,
+      "threePointPercentage": 30.6,
+      "freeThrowPercentage": 60.7
+    },
     "transferHistory": [
       {
         "recordId": "2776",
@@ -30103,9 +41244,9 @@ const basketballTransfers = [
       "assistsPerGame": 0.0,
       "stealsPerGame": 0.0,
       "blocksPerGame": 0.0,
-      "fieldGoalPercentage": 50,
-      "threePointPercentage": 0,
-      "freeThrowPercentage": 0
+      "fieldGoalPercentage": 50.0,
+      "threePointPercentage": 0.0,
+      "freeThrowPercentage": 0.0
     },
     "transferHistory": [
       {
@@ -30126,7 +41267,17 @@ const basketballTransfers = [
     "destination": "Cleveland State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 20.4,
+      "pointsPerGame": 7.9,
+      "reboundsPerGame": 3.9,
+      "assistsPerGame": 1.3,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.5,
+      "fieldGoalPercentage": 55.5,
+      "threePointPercentage": 42.1,
+      "freeThrowPercentage": 53.8
+    },
     "transferHistory": [
       {
         "recordId": "85849",
@@ -30155,7 +41306,7 @@ const basketballTransfers = [
       "blocksPerGame": 0.4,
       "fieldGoalPercentage": 62.2,
       "threePointPercentage": 33.3,
-      "freeThrowPercentage": 69
+      "freeThrowPercentage": 69.0
     },
     "transferHistory": [
       {
@@ -30176,7 +41327,17 @@ const basketballTransfers = [
     "destination": "Campbell",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 29.4,
+      "pointsPerGame": 12.9,
+      "reboundsPerGame": 4.8,
+      "assistsPerGame": 2.1,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 44.6,
+      "threePointPercentage": 38.2,
+      "freeThrowPercentage": 67.9
+    },
     "transferHistory": [
       {
         "recordId": "4455839",
@@ -30196,7 +41357,17 @@ const basketballTransfers = [
     "destination": "UC San Diego",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 28.8,
+      "pointsPerGame": 11.9,
+      "reboundsPerGame": 4.4,
+      "assistsPerGame": 1.9,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 37.5,
+      "threePointPercentage": 34.3,
+      "freeThrowPercentage": 91.5
+    },
     "transferHistory": [
       {
         "recordId": "3402",
@@ -30216,7 +41387,17 @@ const basketballTransfers = [
     "destination": "Maryland",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 23.6,
+      "pointsPerGame": 7.4,
+      "reboundsPerGame": 1.6,
+      "assistsPerGame": 2.4,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 42.9,
+      "threePointPercentage": 34.6,
+      "freeThrowPercentage": 72.4
+    },
     "transferHistory": [
       {
         "recordId": "2933",
@@ -30236,7 +41417,17 @@ const basketballTransfers = [
     "destination": "North Dakota",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 7.1,
+      "pointsPerGame": 2.6,
+      "reboundsPerGame": 1.2,
+      "assistsPerGame": 0.1,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 41.7,
+      "threePointPercentage": 38.6,
+      "freeThrowPercentage": 75
+    },
     "transferHistory": [
       {
         "recordId": "3420",
@@ -30276,7 +41467,17 @@ const basketballTransfers = [
     "destination": "BYU",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 20.5,
+      "pointsPerGame": 5.3,
+      "reboundsPerGame": 3.9,
+      "assistsPerGame": 0.7,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 40,
+      "threePointPercentage": 34,
+      "freeThrowPercentage": 68.8
+    },
     "transferHistory": [
       {
         "recordId": "3233",
@@ -30323,15 +41524,25 @@ const basketballTransfers = [
     "sport": "basketball",
     "position": "PF",
     "previousSchool": "Mississippi State",
-    "destination": "",
+    "destination": "Jacksonville State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 9.0,
+      "pointsPerGame": 4.7,
+      "reboundsPerGame": 2.1,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 50.7,
+      "threePointPercentage": 28.6,
+      "freeThrowPercentage": 43.3
+    },
     "transferHistory": [
       {
         "recordId": "2516",
         "previousSchool": "Mississippi State",
-        "destination": "",
+        "destination": "Jacksonville State",
         "season": "2026"
       }
     ],
@@ -30366,7 +41577,17 @@ const basketballTransfers = [
     "destination": "Western Kentucky",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 15.9,
+      "pointsPerGame": 2.9,
+      "reboundsPerGame": 2.7,
+      "assistsPerGame": 0.4,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 42.9,
+      "threePointPercentage": 24.1,
+      "freeThrowPercentage": 47.1
+    },
     "transferHistory": [
       {
         "recordId": "3356",
@@ -30386,7 +41607,17 @@ const basketballTransfers = [
     "destination": "Oklahoma State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 25.8,
+      "pointsPerGame": 11.4,
+      "reboundsPerGame": 2.2,
+      "assistsPerGame": 2.5,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 43.6,
+      "threePointPercentage": 35.2,
+      "freeThrowPercentage": 74.8
+    },
     "transferHistory": [
       {
         "recordId": "2828",
@@ -30406,7 +41637,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 7.2,
+      "pointsPerGame": 2.5,
+      "reboundsPerGame": 1.5,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 45.5,
+      "threePointPercentage": 27.3,
+      "freeThrowPercentage": 80
+    },
     "transferHistory": [
       {
         "recordId": "85740",
@@ -30426,7 +41667,17 @@ const basketballTransfers = [
     "destination": "UCF",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 34.2,
+      "pointsPerGame": 18.9,
+      "reboundsPerGame": 5.0,
+      "assistsPerGame": 1.8,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 50.8,
+      "threePointPercentage": 36.7,
+      "freeThrowPercentage": 86.2
+    },
     "transferHistory": [
       {
         "recordId": "3188",
@@ -30486,7 +41737,17 @@ const basketballTransfers = [
     "destination": "Southern Miss",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 28.6,
+      "pointsPerGame": 12.7,
+      "reboundsPerGame": 6.9,
+      "assistsPerGame": 1.8,
+      "stealsPerGame": 1.0,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 48.8,
+      "threePointPercentage": 5.3,
+      "freeThrowPercentage": 57.4
+    },
     "transferHistory": [
       {
         "recordId": "374475",
@@ -30506,7 +41767,17 @@ const basketballTransfers = [
     "destination": "Texas A&M",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 23.9,
+      "pointsPerGame": 7.9,
+      "reboundsPerGame": 2.5,
+      "assistsPerGame": 1.1,
+      "stealsPerGame": 1.1,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 52,
+      "threePointPercentage": 45.5,
+      "freeThrowPercentage": 75.4
+    },
     "transferHistory": [
       {
         "recordId": "8846",
@@ -30526,7 +41797,17 @@ const basketballTransfers = [
     "destination": "Troy",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 9.2,
+      "pointsPerGame": 2.6,
+      "reboundsPerGame": 1.0,
+      "assistsPerGame": 0.4,
+      "stealsPerGame": 0.0,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 40,
+      "threePointPercentage": 34.9,
+      "freeThrowPercentage": 0
+    },
     "transferHistory": [
       {
         "recordId": "3041",
@@ -30566,7 +41847,17 @@ const basketballTransfers = [
     "destination": "Massachusetts",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 20.2,
+      "pointsPerGame": 8.5,
+      "reboundsPerGame": 3.0,
+      "assistsPerGame": 0.8,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 42.6,
+      "threePointPercentage": 34.2,
+      "freeThrowPercentage": 75.3
+    },
     "transferHistory": [
       {
         "recordId": "867702",
@@ -30586,7 +41877,17 @@ const basketballTransfers = [
     "destination": "Idaho",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 18.6,
+      "pointsPerGame": 4.5,
+      "reboundsPerGame": 3.4,
+      "assistsPerGame": 0.8,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 46.3,
+      "threePointPercentage": 33.3,
+      "freeThrowPercentage": 0
+    },
     "transferHistory": [
       {
         "recordId": "3143",
@@ -30618,26 +41919,6 @@ const basketballTransfers = [
     "needsReview": false
   },
   {
-    "playerId": "46103341",
-    "name": "Bryson Warren",
-    "sport": "basketball",
-    "position": "CG",
-    "previousSchool": "Texas A&M",
-    "destination": "",
-    "season": 2026,
-    "profileUrl": "",
-    "stats": {},
-    "transferHistory": [
-      {
-        "recordId": "4699524",
-        "previousSchool": "Texas A&M",
-        "destination": "",
-        "season": "2026"
-      }
-    ],
-    "needsReview": false
-  },
-  {
     "playerId": "46110640",
     "name": "Dellquan Warren",
     "sport": "basketball",
@@ -30646,7 +41927,17 @@ const basketballTransfers = [
     "destination": "McNeese",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 7.5,
+      "pointsPerGame": 1.2,
+      "reboundsPerGame": 0.4,
+      "assistsPerGame": 0.9,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 37.5,
+      "threePointPercentage": 20,
+      "freeThrowPercentage": 20
+    },
     "transferHistory": [
       {
         "recordId": "3285",
@@ -30666,7 +41957,17 @@ const basketballTransfers = [
     "destination": "New Mexico State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 31.6,
+      "pointsPerGame": 12.5,
+      "reboundsPerGame": 4.5,
+      "assistsPerGame": 1.5,
+      "stealsPerGame": 1.2,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 47.4,
+      "threePointPercentage": 33.7,
+      "freeThrowPercentage": 73.1
+    },
     "transferHistory": [
       {
         "recordId": "2480",
@@ -30686,7 +41987,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 8.2,
+      "pointsPerGame": 2.5,
+      "reboundsPerGame": 1.2,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.0,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 37,
+      "threePointPercentage": 11.1,
+      "freeThrowPercentage": 64.3
+    },
     "transferHistory": [
       {
         "recordId": "2756",
@@ -30706,7 +42017,17 @@ const basketballTransfers = [
     "destination": "Tennessee",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 20.6,
+      "pointsPerGame": 8.9,
+      "reboundsPerGame": 5.6,
+      "assistsPerGame": 0.9,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 1.3,
+      "fieldGoalPercentage": 56.3,
+      "threePointPercentage": 29.4,
+      "freeThrowPercentage": 74.1
+    },
     "transferHistory": [
       {
         "recordId": "3778118",
@@ -30746,7 +42067,17 @@ const basketballTransfers = [
     "destination": "New Mexico State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 34.7,
+      "pointsPerGame": 11.5,
+      "reboundsPerGame": 1.8,
+      "assistsPerGame": 2.9,
+      "stealsPerGame": 1.0,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 40.2,
+      "threePointPercentage": 36.7,
+      "freeThrowPercentage": 62.3
+    },
     "transferHistory": [
       {
         "recordId": "2540",
@@ -30766,7 +42097,17 @@ const basketballTransfers = [
     "destination": "Boise State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 28.5,
+      "pointsPerGame": 9.6,
+      "reboundsPerGame": 4.7,
+      "assistsPerGame": 5.1,
+      "stealsPerGame": 1.5,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 39.1,
+      "threePointPercentage": 28.8,
+      "freeThrowPercentage": 75.5
+    },
     "transferHistory": [
       {
         "recordId": "3920945",
@@ -30786,7 +42127,17 @@ const basketballTransfers = [
     "destination": "Xavier",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 27.4,
+      "pointsPerGame": 12.0,
+      "reboundsPerGame": 4.1,
+      "assistsPerGame": 1.7,
+      "stealsPerGame": 1.8,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 44.7,
+      "threePointPercentage": 35.2,
+      "freeThrowPercentage": 74.4
+    },
     "transferHistory": [
       {
         "recordId": "3205",
@@ -30806,7 +42157,17 @@ const basketballTransfers = [
     "destination": "Coastal Carolina",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 14.8,
+      "pointsPerGame": 5.2,
+      "reboundsPerGame": 2.2,
+      "assistsPerGame": 1.7,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 43.8,
+      "threePointPercentage": 31.3,
+      "freeThrowPercentage": 65.3
+    },
     "transferHistory": [
       {
         "recordId": "2917",
@@ -30826,7 +42187,17 @@ const basketballTransfers = [
     "destination": "East Carolina",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 31.4,
+      "pointsPerGame": 12.5,
+      "reboundsPerGame": 5.0,
+      "assistsPerGame": 1.5,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 38.8,
+      "threePointPercentage": 38.2,
+      "freeThrowPercentage": 81.3
+    },
     "transferHistory": [
       {
         "recordId": "850133",
@@ -30846,7 +42217,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 23.9,
+      "pointsPerGame": 8.0,
+      "reboundsPerGame": 1.9,
+      "assistsPerGame": 3.3,
+      "stealsPerGame": 2.3,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 34,
+      "threePointPercentage": 29.4,
+      "freeThrowPercentage": 60
+    },
     "transferHistory": [
       {
         "recordId": "2834",
@@ -30866,7 +42247,17 @@ const basketballTransfers = [
     "destination": "UTSA",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 17.0,
+      "pointsPerGame": 4.3,
+      "reboundsPerGame": 1.8,
+      "assistsPerGame": 0.7,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 34.1,
+      "threePointPercentage": 29.3,
+      "freeThrowPercentage": 64.3
+    },
     "transferHistory": [
       {
         "recordId": "8598",
@@ -30886,7 +42277,17 @@ const basketballTransfers = [
     "destination": "Washington",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 27.3,
+      "pointsPerGame": 11.8,
+      "reboundsPerGame": 6.0,
+      "assistsPerGame": 2.4,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 43.3,
+      "threePointPercentage": 32.1,
+      "freeThrowPercentage": 76.9
+    },
     "transferHistory": [
       {
         "recordId": "2948",
@@ -30906,7 +42307,17 @@ const basketballTransfers = [
     "destination": "Houston",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 20.9,
+      "pointsPerGame": 5.8,
+      "reboundsPerGame": 4.1,
+      "assistsPerGame": 1.1,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 44.6,
+      "threePointPercentage": 21.7,
+      "freeThrowPercentage": 71.4
+    },
     "transferHistory": [
       {
         "recordId": "3882795",
@@ -30946,7 +42357,17 @@ const basketballTransfers = [
     "destination": "UAlbany",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 6.2,
+      "pointsPerGame": 0.8,
+      "reboundsPerGame": 1.0,
+      "assistsPerGame": 0.0,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.8,
+      "fieldGoalPercentage": 50,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 14.3
+    },
     "transferHistory": [
       {
         "recordId": "110830",
@@ -30966,7 +42387,17 @@ const basketballTransfers = [
     "destination": "South Carolina Upstate",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 27.2,
+      "pointsPerGame": 9.5,
+      "reboundsPerGame": 5.9,
+      "assistsPerGame": 0.7,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 56,
+      "threePointPercentage": 40.9,
+      "freeThrowPercentage": 48.1
+    },
     "transferHistory": [
       {
         "recordId": "3211",
@@ -30986,7 +42417,17 @@ const basketballTransfers = [
     "destination": "Texas Southern",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 3.0,
+      "pointsPerGame": 0.0,
+      "reboundsPerGame": 1.0,
+      "assistsPerGame": 0.0,
+      "stealsPerGame": 0.0,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 0,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 0
+    },
     "transferHistory": [
       {
         "recordId": "2904",
@@ -31006,7 +42447,17 @@ const basketballTransfers = [
     "destination": "Memphis",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 33.3,
+      "pointsPerGame": 19.7,
+      "reboundsPerGame": 5.4,
+      "assistsPerGame": 2.3,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 46.4,
+      "threePointPercentage": 22.2,
+      "freeThrowPercentage": 82.3
+    },
     "transferHistory": [
       {
         "recordId": "3177",
@@ -31026,7 +42477,17 @@ const basketballTransfers = [
     "destination": "Xavier",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 30.5,
+      "pointsPerGame": 15.5,
+      "reboundsPerGame": 3.8,
+      "assistsPerGame": 5.6,
+      "stealsPerGame": 1.3,
+      "blocksPerGame": 0.5,
+      "fieldGoalPercentage": 48.7,
+      "threePointPercentage": 24.1,
+      "freeThrowPercentage": 70.8
+    },
     "transferHistory": [
       {
         "recordId": "2514",
@@ -31046,7 +42507,17 @@ const basketballTransfers = [
     "destination": "Hofstra",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 16.5,
+      "pointsPerGame": 2.6,
+      "reboundsPerGame": 5.2,
+      "assistsPerGame": 0.4,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 1.0,
+      "fieldGoalPercentage": 52.8,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 33.3
+    },
     "transferHistory": [
       {
         "recordId": "319269",
@@ -31066,7 +42537,17 @@ const basketballTransfers = [
     "destination": "Kansas State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 22.3,
+      "pointsPerGame": 8.5,
+      "reboundsPerGame": 1.1,
+      "assistsPerGame": 2.8,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 42.6,
+      "threePointPercentage": 33.7,
+      "freeThrowPercentage": 71.2
+    },
     "transferHistory": [
       {
         "recordId": "341810",
@@ -31086,7 +42567,17 @@ const basketballTransfers = [
     "destination": "Boise State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 30.5,
+      "pointsPerGame": 14.5,
+      "reboundsPerGame": 3.5,
+      "assistsPerGame": 2.8,
+      "stealsPerGame": 1.2,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 40.6,
+      "threePointPercentage": 38.3,
+      "freeThrowPercentage": 76.9
+    },
     "transferHistory": [
       {
         "recordId": "2955",
@@ -31126,7 +42617,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 9.0,
+      "pointsPerGame": 4.5,
+      "reboundsPerGame": 1.8,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.0,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 42.1,
+      "threePointPercentage": 30,
+      "freeThrowPercentage": 88.9
+    },
     "transferHistory": [
       {
         "recordId": "112022",
@@ -31146,7 +42647,17 @@ const basketballTransfers = [
     "destination": "Akron",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 8.6,
+      "pointsPerGame": 0.9,
+      "reboundsPerGame": 1.0,
+      "assistsPerGame": 0.4,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 39.3,
+      "threePointPercentage": 11.8,
+      "freeThrowPercentage": 20
+    },
     "transferHistory": [
       {
         "recordId": "2971",
@@ -31166,7 +42677,17 @@ const basketballTransfers = [
     "destination": "Temple",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 29.6,
+      "pointsPerGame": 9.7,
+      "reboundsPerGame": 2.7,
+      "assistsPerGame": 2.1,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 37.6,
+      "threePointPercentage": 37.9,
+      "freeThrowPercentage": 79.1
+    },
     "transferHistory": [
       {
         "recordId": "2549",
@@ -31206,7 +42727,17 @@ const basketballTransfers = [
     "destination": "Indiana State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 30.4,
+      "pointsPerGame": 10.5,
+      "reboundsPerGame": 3.7,
+      "assistsPerGame": 3.1,
+      "stealsPerGame": 2.0,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 43.3,
+      "threePointPercentage": 38,
+      "freeThrowPercentage": 85.7
+    },
     "transferHistory": [
       {
         "recordId": "3292",
@@ -31246,7 +42777,17 @@ const basketballTransfers = [
     "destination": "UTEP",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 30.8,
+      "pointsPerGame": 11.2,
+      "reboundsPerGame": 3.5,
+      "assistsPerGame": 2.7,
+      "stealsPerGame": 1.2,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 45,
+      "threePointPercentage": 36.2,
+      "freeThrowPercentage": 82.4
+    },
     "transferHistory": [
       {
         "recordId": "3456",
@@ -31266,7 +42807,17 @@ const basketballTransfers = [
     "destination": "Georgia Tech",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 35.0,
+      "pointsPerGame": 20.5,
+      "reboundsPerGame": 3.5,
+      "assistsPerGame": 3.3,
+      "stealsPerGame": 1.0,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 46.6,
+      "threePointPercentage": 43.3,
+      "freeThrowPercentage": 78.8
+    },
     "transferHistory": [
       {
         "recordId": "3030",
@@ -31286,7 +42837,17 @@ const basketballTransfers = [
     "destination": "North Alabama",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 15.3,
+      "pointsPerGame": 3.1,
+      "reboundsPerGame": 3.9,
+      "assistsPerGame": 0.8,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 32.1,
+      "threePointPercentage": 23.1,
+      "freeThrowPercentage": 64.7
+    },
     "transferHistory": [
       {
         "recordId": "194341",
@@ -31306,7 +42867,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 33.3,
+      "pointsPerGame": 17.8,
+      "reboundsPerGame": 6.7,
+      "assistsPerGame": 2.8,
+      "stealsPerGame": 1.4,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 41,
+      "threePointPercentage": 36.3,
+      "freeThrowPercentage": 72.5
+    },
     "transferHistory": [
       {
         "recordId": "3234",
@@ -31326,7 +42897,17 @@ const basketballTransfers = [
     "destination": "Gonzaga",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 27.9,
+      "pointsPerGame": 13.3,
+      "reboundsPerGame": 3.9,
+      "assistsPerGame": 0.9,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 48.1,
+      "threePointPercentage": 38.9,
+      "freeThrowPercentage": 85.1
+    },
     "transferHistory": [
       {
         "recordId": "84302",
@@ -31366,7 +42947,17 @@ const basketballTransfers = [
     "destination": "Georgia State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 17.0,
+      "pointsPerGame": 4.6,
+      "reboundsPerGame": 2.2,
+      "assistsPerGame": 0.9,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 38.4,
+      "threePointPercentage": 29.6,
+      "freeThrowPercentage": 60.7
+    },
     "transferHistory": [
       {
         "recordId": "710167",
@@ -31386,7 +42977,17 @@ const basketballTransfers = [
     "destination": "Seton Hall",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 18.6,
+      "pointsPerGame": 5.6,
+      "reboundsPerGame": 1.8,
+      "assistsPerGame": 1.8,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 36.8,
+      "threePointPercentage": 34.4,
+      "freeThrowPercentage": 91.7
+    },
     "transferHistory": [
       {
         "recordId": "2447",
@@ -31413,7 +43014,7 @@ const basketballTransfers = [
       "assistsPerGame": 4.7,
       "stealsPerGame": 0.8,
       "blocksPerGame": 0.1,
-      "fieldGoalPercentage": 46,
+      "fieldGoalPercentage": 46.0,
       "threePointPercentage": 32.8,
       "freeThrowPercentage": 82.4
     },
@@ -31436,7 +43037,17 @@ const basketballTransfers = [
     "destination": "St. Thomas-Minnesota",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 21.5,
+      "pointsPerGame": 6.9,
+      "reboundsPerGame": 2.9,
+      "assistsPerGame": 0.6,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 42.9,
+      "threePointPercentage": 40.3,
+      "freeThrowPercentage": 68.3
+    },
     "transferHistory": [
       {
         "recordId": "3466",
@@ -31476,7 +43087,17 @@ const basketballTransfers = [
     "destination": "Nebraska",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 24.0,
+      "pointsPerGame": 13.9,
+      "reboundsPerGame": 6.4,
+      "assistsPerGame": 1.2,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.8,
+      "fieldGoalPercentage": 58.9,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 72
+    },
     "transferHistory": [
       {
         "recordId": "382041",
@@ -31496,7 +43117,17 @@ const basketballTransfers = [
     "destination": "Arkansas",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 25.6,
+      "pointsPerGame": 17.4,
+      "reboundsPerGame": 2.0,
+      "assistsPerGame": 1.7,
+      "stealsPerGame": 1.6,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 41.1,
+      "threePointPercentage": 35.7,
+      "freeThrowPercentage": 78.6
+    },
     "transferHistory": [
       {
         "recordId": "3183",
@@ -31523,9 +43154,9 @@ const basketballTransfers = [
       "assistsPerGame": 0.0,
       "stealsPerGame": 1.0,
       "blocksPerGame": 0.0,
-      "fieldGoalPercentage": 50,
-      "threePointPercentage": 0,
-      "freeThrowPercentage": 0
+      "fieldGoalPercentage": 50.0,
+      "threePointPercentage": 0.0,
+      "freeThrowPercentage": 0.0
     },
     "transferHistory": [
       {
@@ -31546,7 +43177,17 @@ const basketballTransfers = [
     "destination": "Jacksonville",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 31.7,
+      "pointsPerGame": 15.6,
+      "reboundsPerGame": 3.4,
+      "assistsPerGame": 3.1,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 38.9,
+      "threePointPercentage": 33.2,
+      "freeThrowPercentage": 87.9
+    },
     "transferHistory": [
       {
         "recordId": "3473",
@@ -31566,7 +43207,17 @@ const basketballTransfers = [
     "destination": "Kent State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 23.9,
+      "pointsPerGame": 10.6,
+      "reboundsPerGame": 4.6,
+      "assistsPerGame": 1.0,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 50.4,
+      "threePointPercentage": 26.8,
+      "freeThrowPercentage": 79.8
+    },
     "transferHistory": [
       {
         "recordId": "312423",
@@ -31586,7 +43237,17 @@ const basketballTransfers = [
     "destination": "Memphis",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 32.5,
+      "pointsPerGame": 12.2,
+      "reboundsPerGame": 9.3,
+      "assistsPerGame": 0.8,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.8,
+      "fieldGoalPercentage": 55.1,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 72.5
+    },
     "transferHistory": [
       {
         "recordId": "3378",
@@ -31606,7 +43267,17 @@ const basketballTransfers = [
     "destination": "Texas Tech",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 30.1,
+      "pointsPerGame": 14.0,
+      "reboundsPerGame": 4.6,
+      "assistsPerGame": 2.8,
+      "stealsPerGame": 1.1,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 41.4,
+      "threePointPercentage": 40.4,
+      "freeThrowPercentage": 77.3
+    },
     "transferHistory": [
       {
         "recordId": "3778834",
@@ -31626,7 +43297,17 @@ const basketballTransfers = [
     "destination": "UTSA",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 22.0,
+      "pointsPerGame": 9.7,
+      "reboundsPerGame": 3.2,
+      "assistsPerGame": 0.9,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 46.9,
+      "threePointPercentage": 30.9,
+      "freeThrowPercentage": 79.4
+    },
     "transferHistory": [
       {
         "recordId": "1314518",
@@ -31646,7 +43327,17 @@ const basketballTransfers = [
     "destination": "Seton Hall",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 23.8,
+      "pointsPerGame": 7.5,
+      "reboundsPerGame": 5.1,
+      "assistsPerGame": 1.3,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 2.5,
+      "fieldGoalPercentage": 51.3,
+      "threePointPercentage": 30.6,
+      "freeThrowPercentage": 67.4
+    },
     "transferHistory": [
       {
         "recordId": "2936",
@@ -31666,7 +43357,17 @@ const basketballTransfers = [
     "destination": "UNLV",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 32.0,
+      "pointsPerGame": 15.2,
+      "reboundsPerGame": 5.1,
+      "assistsPerGame": 2.0,
+      "stealsPerGame": 2.6,
+      "blocksPerGame": 0.8,
+      "fieldGoalPercentage": 45,
+      "threePointPercentage": 29.3,
+      "freeThrowPercentage": 56.3
+    },
     "transferHistory": [
       {
         "recordId": "799022",
@@ -31686,7 +43387,17 @@ const basketballTransfers = [
     "destination": "Northwestern",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 8.7,
+      "pointsPerGame": 2.1,
+      "reboundsPerGame": 1.0,
+      "assistsPerGame": 1.6,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 37.5,
+      "threePointPercentage": 25,
+      "freeThrowPercentage": 33.3
+    },
     "transferHistory": [
       {
         "recordId": "3481",
@@ -31706,7 +43417,17 @@ const basketballTransfers = [
     "destination": "Jackson State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 8.0,
+      "pointsPerGame": 2.2,
+      "reboundsPerGame": 2.1,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.6,
+      "fieldGoalPercentage": 62.5,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 61.5
+    },
     "transferHistory": [
       {
         "recordId": "380632",
@@ -31726,7 +43447,17 @@ const basketballTransfers = [
     "destination": "Ohio State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 29.7,
+      "pointsPerGame": 15.0,
+      "reboundsPerGame": 4.5,
+      "assistsPerGame": 2.6,
+      "stealsPerGame": 1.5,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 46.2,
+      "threePointPercentage": 33.9,
+      "freeThrowPercentage": 75.7
+    },
     "transferHistory": [
       {
         "recordId": "3038",
@@ -31746,7 +43477,17 @@ const basketballTransfers = [
     "destination": "Maryland",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 10.5,
+      "pointsPerGame": 2.0,
+      "reboundsPerGame": 1.6,
+      "assistsPerGame": 0.8,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 23.1,
+      "threePointPercentage": 23.1,
+      "freeThrowPercentage": 84.6
+    },
     "transferHistory": [
       {
         "recordId": "2486",
@@ -31766,7 +43507,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 27.1,
+      "pointsPerGame": 14.0,
+      "reboundsPerGame": 2.7,
+      "assistsPerGame": 2.5,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 43.2,
+      "threePointPercentage": 33.5,
+      "freeThrowPercentage": 78.6
+    },
     "transferHistory": [
       {
         "recordId": "3284",
@@ -31826,7 +43577,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 35.0,
+      "pointsPerGame": 17.1,
+      "reboundsPerGame": 3.0,
+      "assistsPerGame": 4.5,
+      "stealsPerGame": 1.2,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 36.3,
+      "threePointPercentage": 26.5,
+      "freeThrowPercentage": 83
+    },
     "transferHistory": [
       {
         "recordId": "164933",
@@ -31846,7 +43607,17 @@ const basketballTransfers = [
     "destination": "Boston College",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 31.2,
+      "pointsPerGame": 20.6,
+      "reboundsPerGame": 4.3,
+      "assistsPerGame": 4.7,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 49.3,
+      "threePointPercentage": 34,
+      "freeThrowPercentage": 85.5
+    },
     "transferHistory": [
       {
         "recordId": "3174",
@@ -31866,7 +43637,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 36.1,
+      "pointsPerGame": 17.7,
+      "reboundsPerGame": 8.2,
+      "assistsPerGame": 5.2,
+      "stealsPerGame": 1.8,
+      "blocksPerGame": 0.8,
+      "fieldGoalPercentage": 46.4,
+      "threePointPercentage": 32.2,
+      "freeThrowPercentage": 73.6
+    },
     "transferHistory": [
       {
         "recordId": "3989886",
@@ -31886,7 +43667,17 @@ const basketballTransfers = [
     "destination": "Vanderbilt",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 27.3,
+      "pointsPerGame": 7.0,
+      "reboundsPerGame": 3.5,
+      "assistsPerGame": 1.5,
+      "stealsPerGame": 1.2,
+      "blocksPerGame": 0.8,
+      "fieldGoalPercentage": 50.5,
+      "threePointPercentage": 30.8,
+      "freeThrowPercentage": 51.9
+    },
     "transferHistory": [
       {
         "recordId": "285438",
@@ -31906,7 +43697,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 21.3,
+      "pointsPerGame": 6.6,
+      "reboundsPerGame": 2.9,
+      "assistsPerGame": 0.7,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 37.3,
+      "threePointPercentage": 27.4,
+      "freeThrowPercentage": 70.2
+    },
     "transferHistory": [
       {
         "recordId": "114404",
@@ -31926,7 +43727,17 @@ const basketballTransfers = [
     "destination": "High Point",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 32.1,
+      "pointsPerGame": 12.4,
+      "reboundsPerGame": 4.8,
+      "assistsPerGame": 1.2,
+      "stealsPerGame": 1.3,
+      "blocksPerGame": 0.5,
+      "fieldGoalPercentage": 40,
+      "threePointPercentage": 33.5,
+      "freeThrowPercentage": 82.5
+    },
     "transferHistory": [
       {
         "recordId": "2693",
@@ -31976,7 +43787,17 @@ const basketballTransfers = [
     "destination": "Rhode Island",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 35.9,
+      "pointsPerGame": 14.6,
+      "reboundsPerGame": 2.5,
+      "assistsPerGame": 3.4,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 38.6,
+      "threePointPercentage": 34,
+      "freeThrowPercentage": 74.5
+    },
     "transferHistory": [
       {
         "recordId": "3052",
@@ -31996,7 +43817,17 @@ const basketballTransfers = [
     "destination": "Pepperdine",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 25.1,
+      "pointsPerGame": 10.3,
+      "reboundsPerGame": 2.0,
+      "assistsPerGame": 0.9,
+      "stealsPerGame": 0.9,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 44.7,
+      "threePointPercentage": 44.5,
+      "freeThrowPercentage": 82.6
+    },
     "transferHistory": [
       {
         "recordId": "2905",
@@ -32036,7 +43867,17 @@ const basketballTransfers = [
     "destination": "Kent State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 26.6,
+      "pointsPerGame": 6.3,
+      "reboundsPerGame": 3.0,
+      "assistsPerGame": 3.3,
+      "stealsPerGame": 2.4,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 41,
+      "threePointPercentage": 18.2,
+      "freeThrowPercentage": 45.5
+    },
     "transferHistory": [
       {
         "recordId": "109137",
@@ -32056,7 +43897,17 @@ const basketballTransfers = [
     "destination": "Saint Peter's",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 28.2,
+      "pointsPerGame": 9.9,
+      "reboundsPerGame": 4.4,
+      "assistsPerGame": 0.9,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.6,
+      "fieldGoalPercentage": 41.8,
+      "threePointPercentage": 24.1,
+      "freeThrowPercentage": 77.5
+    },
     "transferHistory": [
       {
         "recordId": "2817",
@@ -32096,7 +43947,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 19.8,
+      "pointsPerGame": 3.7,
+      "reboundsPerGame": 1.4,
+      "assistsPerGame": 2.6,
+      "stealsPerGame": 1.0,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 31.8,
+      "threePointPercentage": 17.6,
+      "freeThrowPercentage": 63
+    },
     "transferHistory": [
       {
         "recordId": "113207",
@@ -32116,7 +43977,17 @@ const basketballTransfers = [
     "destination": "Syracuse",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 28.2,
+      "pointsPerGame": 10.7,
+      "reboundsPerGame": 8.3,
+      "assistsPerGame": 0.6,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 1.8,
+      "fieldGoalPercentage": 64,
+      "threePointPercentage": 50,
+      "freeThrowPercentage": 56.7
+    },
     "transferHistory": [
       {
         "recordId": "3119",
@@ -32136,7 +44007,17 @@ const basketballTransfers = [
     "destination": "Sacramento State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 26.4,
+      "pointsPerGame": 12.4,
+      "reboundsPerGame": 3.2,
+      "assistsPerGame": 3.9,
+      "stealsPerGame": 1.1,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 42.8,
+      "threePointPercentage": 32.4,
+      "freeThrowPercentage": 78.5
+    },
     "transferHistory": [
       {
         "recordId": "2476",
@@ -32156,7 +44037,17 @@ const basketballTransfers = [
     "destination": "South Florida",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 36.2,
+      "pointsPerGame": 16.9,
+      "reboundsPerGame": 3.7,
+      "assistsPerGame": 4.5,
+      "stealsPerGame": 1.3,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 49.1,
+      "threePointPercentage": 37.3,
+      "freeThrowPercentage": 69.1
+    },
     "transferHistory": [
       {
         "recordId": "3140",
@@ -32176,7 +44067,17 @@ const basketballTransfers = [
     "destination": "James Madison",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 12.4,
+      "pointsPerGame": 3.5,
+      "reboundsPerGame": 1.4,
+      "assistsPerGame": 1.1,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 31.9,
+      "threePointPercentage": 32.4,
+      "freeThrowPercentage": 100
+    },
     "transferHistory": [
       {
         "recordId": "3271",
@@ -32196,7 +44097,17 @@ const basketballTransfers = [
     "destination": "Canisius",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 6.8,
+      "pointsPerGame": 2.3,
+      "reboundsPerGame": 0.7,
+      "assistsPerGame": 0.5,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 47.4,
+      "threePointPercentage": 39.3,
+      "freeThrowPercentage": 60
+    },
     "transferHistory": [
       {
         "recordId": "2857",
@@ -32216,7 +44127,17 @@ const basketballTransfers = [
     "destination": "George Washington",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 27.8,
+      "pointsPerGame": 7.5,
+      "reboundsPerGame": 3.0,
+      "assistsPerGame": 2.5,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.6,
+      "fieldGoalPercentage": 38,
+      "threePointPercentage": 28.7,
+      "freeThrowPercentage": 64.5
+    },
     "transferHistory": [
       {
         "recordId": "2699",
@@ -32236,7 +44157,17 @@ const basketballTransfers = [
     "destination": "Seton Hall",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 20.0,
+      "pointsPerGame": 10.5,
+      "reboundsPerGame": 2.7,
+      "assistsPerGame": 0.7,
+      "stealsPerGame": 1.0,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 48.6,
+      "threePointPercentage": 39.1,
+      "freeThrowPercentage": 71.4
+    },
     "transferHistory": [
       {
         "recordId": "3249",
@@ -32249,7 +44180,7 @@ const basketballTransfers = [
   },
   {
     "playerId": "46152757",
-    "name": "Aaron Womack",
+    "name": "Aaron Womack II",
     "sport": "basketball",
     "position": "SF",
     "previousSchool": "Syracuse",
@@ -32262,26 +44193,6 @@ const basketballTransfers = [
         "recordId": "2769",
         "previousSchool": "Syracuse",
         "destination": "Milwaukee",
-        "season": "2026"
-      }
-    ],
-    "needsReview": false
-  },
-  {
-    "playerId": "46157080",
-    "name": "Alfred Worrell",
-    "sport": "basketball",
-    "position": "SG",
-    "previousSchool": "Morgan State",
-    "destination": "",
-    "season": 2026,
-    "profileUrl": "",
-    "stats": {},
-    "transferHistory": [
-      {
-        "recordId": "3401",
-        "previousSchool": "Morgan State",
-        "destination": "",
         "season": "2026"
       }
     ],
@@ -32338,26 +44249,6 @@ const basketballTransfers = [
     "needsReview": false
   },
   {
-    "playerId": "46157210",
-    "name": "Always Wright",
-    "sport": "basketball",
-    "position": "SG",
-    "previousSchool": "UT Rio Grande Valley",
-    "destination": "",
-    "season": 2026,
-    "profileUrl": "",
-    "stats": {},
-    "transferHistory": [
-      {
-        "recordId": "3380",
-        "previousSchool": "UT Rio Grande Valley",
-        "destination": "",
-        "season": "2026"
-      }
-    ],
-    "needsReview": false
-  },
-  {
     "playerId": "46129001",
     "name": "Rob Wright III",
     "sport": "basketball",
@@ -32386,7 +44277,17 @@ const basketballTransfers = [
     "destination": "Idaho",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 9.4,
+      "pointsPerGame": 4.0,
+      "reboundsPerGame": 0.4,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.4,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 50,
+      "threePointPercentage": 40,
+      "freeThrowPercentage": 0
+    },
     "transferHistory": [
       {
         "recordId": "2720",
@@ -32406,7 +44307,17 @@ const basketballTransfers = [
     "destination": "Oklahoma",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 15.0,
+      "pointsPerGame": 6.6,
+      "reboundsPerGame": 2.2,
+      "assistsPerGame": 0.4,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.5,
+      "fieldGoalPercentage": 51,
+      "threePointPercentage": 27.3,
+      "freeThrowPercentage": 82.9
+    },
     "transferHistory": [
       {
         "recordId": "219569",
@@ -32426,7 +44337,17 @@ const basketballTransfers = [
     "destination": "NC State",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 28.3,
+      "pointsPerGame": 10.1,
+      "reboundsPerGame": 5.7,
+      "assistsPerGame": 1.7,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 47,
+      "threePointPercentage": 39.8,
+      "freeThrowPercentage": 79.7
+    },
     "transferHistory": [
       {
         "recordId": "3343",
@@ -32466,7 +44387,17 @@ const basketballTransfers = [
     "destination": "North Alabama",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 17.1,
+      "pointsPerGame": 6.8,
+      "reboundsPerGame": 3.7,
+      "assistsPerGame": 0.7,
+      "stealsPerGame": 1.2,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 45.6,
+      "threePointPercentage": 34.5,
+      "freeThrowPercentage": 64.8
+    },
     "transferHistory": [
       {
         "recordId": "204742",
@@ -32486,7 +44417,17 @@ const basketballTransfers = [
     "destination": "Vermont",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 31.4,
+      "pointsPerGame": 10.3,
+      "reboundsPerGame": 3.1,
+      "assistsPerGame": 3.2,
+      "stealsPerGame": 0.8,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 39.2,
+      "threePointPercentage": 36.3,
+      "freeThrowPercentage": 75
+    },
     "transferHistory": [
       {
         "recordId": "2615",
@@ -32506,7 +44447,17 @@ const basketballTransfers = [
     "destination": "St. John's",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 32.7,
+      "pointsPerGame": 17.8,
+      "reboundsPerGame": 5.9,
+      "assistsPerGame": 1.6,
+      "stealsPerGame": 2.0,
+      "blocksPerGame": 0.6,
+      "fieldGoalPercentage": 46.5,
+      "threePointPercentage": 29.3,
+      "freeThrowPercentage": 74.6
+    },
     "transferHistory": [
       {
         "recordId": "324791",
@@ -32546,7 +44497,17 @@ const basketballTransfers = [
     "destination": "Northeastern",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 4.3,
+      "pointsPerGame": 0.3,
+      "reboundsPerGame": 0.9,
+      "assistsPerGame": 0.1,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 66.7,
+      "threePointPercentage": 0.0,
+      "freeThrowPercentage": 0.0
+    },
     "transferHistory": [
       {
         "recordId": "2679",
@@ -32566,7 +44527,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 3.0,
+      "pointsPerGame": 0.0,
+      "reboundsPerGame": 0.0,
+      "assistsPerGame": 0.0,
+      "stealsPerGame": 0.0,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 0,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 0
+    },
     "transferHistory": [
       {
         "recordId": "3145",
@@ -32586,7 +44557,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 7.1,
+      "pointsPerGame": 1.7,
+      "reboundsPerGame": 0.9,
+      "assistsPerGame": 0.3,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 30,
+      "threePointPercentage": 28.3,
+      "freeThrowPercentage": 75
+    },
     "transferHistory": [
       {
         "recordId": "2923",
@@ -32606,7 +44587,17 @@ const basketballTransfers = [
     "destination": "Western Kentucky",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 19.1,
+      "pointsPerGame": 7.2,
+      "reboundsPerGame": 2.6,
+      "assistsPerGame": 1.6,
+      "stealsPerGame": 1.2,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 40.3,
+      "threePointPercentage": 33.3,
+      "freeThrowPercentage": 83.3
+    },
     "transferHistory": [
       {
         "recordId": "2734",
@@ -32626,7 +44617,17 @@ const basketballTransfers = [
     "destination": "La Salle",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 21.0,
+      "pointsPerGame": 8.1,
+      "reboundsPerGame": 2.4,
+      "assistsPerGame": 0.8,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 47.6,
+      "threePointPercentage": 38.5,
+      "freeThrowPercentage": 84.2
+    },
     "transferHistory": [
       {
         "recordId": "228376",
@@ -32654,7 +44655,7 @@ const basketballTransfers = [
       "stealsPerGame": 1.4,
       "blocksPerGame": 0.3,
       "fieldGoalPercentage": 40.2,
-      "threePointPercentage": 33,
+      "threePointPercentage": 33.0,
       "freeThrowPercentage": 77.9
     },
     "transferHistory": [
@@ -32676,7 +44677,17 @@ const basketballTransfers = [
     "destination": "Grand Canyon",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 32.4,
+      "pointsPerGame": 15.1,
+      "reboundsPerGame": 2.5,
+      "assistsPerGame": 2.3,
+      "stealsPerGame": 0.7,
+      "blocksPerGame": 0.5,
+      "fieldGoalPercentage": 37.1,
+      "threePointPercentage": 31.1,
+      "freeThrowPercentage": 67.1
+    },
     "transferHistory": [
       {
         "recordId": "3270",
@@ -32696,7 +44707,17 @@ const basketballTransfers = [
     "destination": "",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 3.6,
+      "pointsPerGame": 2.2,
+      "reboundsPerGame": 0.4,
+      "assistsPerGame": 0.2,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 35.7,
+      "threePointPercentage": 41.7,
+      "freeThrowPercentage": 83.3
+    },
     "transferHistory": [
       {
         "recordId": "3250",
@@ -32716,7 +44737,17 @@ const basketballTransfers = [
     "destination": "Belmont",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 5.0,
+      "pointsPerGame": 1.5,
+      "reboundsPerGame": 0.4,
+      "assistsPerGame": 0.1,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 33.3,
+      "threePointPercentage": 25,
+      "freeThrowPercentage": 81.8
+    },
     "transferHistory": [
       {
         "recordId": "84307",
@@ -32736,7 +44767,17 @@ const basketballTransfers = [
     "destination": "Hofstra",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 14.7,
+      "pointsPerGame": 5.8,
+      "reboundsPerGame": 2.8,
+      "assistsPerGame": 0.3,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 1.9,
+      "fieldGoalPercentage": 63.8,
+      "threePointPercentage": 33.3,
+      "freeThrowPercentage": 69.6
+    },
     "transferHistory": [
       {
         "recordId": "3452",
@@ -32756,7 +44797,17 @@ const basketballTransfers = [
     "destination": "Saint Mary's",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 9.0,
+      "pointsPerGame": 2.6,
+      "reboundsPerGame": 2.4,
+      "assistsPerGame": 0.6,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.2,
+      "fieldGoalPercentage": 57.1,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 65.2
+    },
     "transferHistory": [
       {
         "recordId": "27501",
@@ -32776,7 +44827,17 @@ const basketballTransfers = [
     "destination": "Washington",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 19.0,
+      "pointsPerGame": 6.5,
+      "reboundsPerGame": 1.6,
+      "assistsPerGame": 0.6,
+      "stealsPerGame": 0.5,
+      "blocksPerGame": 0.0,
+      "fieldGoalPercentage": 35.6,
+      "threePointPercentage": 33.8,
+      "freeThrowPercentage": 78.9
+    },
     "transferHistory": [
       {
         "recordId": "2764",
@@ -32796,7 +44857,17 @@ const basketballTransfers = [
     "destination": "Santa Clara",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 16.2,
+      "pointsPerGame": 5.2,
+      "reboundsPerGame": 2.0,
+      "assistsPerGame": 0.9,
+      "stealsPerGame": 0.3,
+      "blocksPerGame": 0.1,
+      "fieldGoalPercentage": 39.2,
+      "threePointPercentage": 30.5,
+      "freeThrowPercentage": 82.5
+    },
     "transferHistory": [
       {
         "recordId": "2502",

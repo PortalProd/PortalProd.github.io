@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Basketball Player Profile | College Transfer Portal</title>
+<style>
+body{font:16px Arial,sans-serif;background:#101827;color:#f8fafc;margin:0}main{max-width:950px;margin:auto;padding:35px 22px}a{color:#38bdf8}h1{color:#38bdf8;font-size:2.3rem}.card{background:#1e293b;border:1px solid #334155;border-radius:14px;padding:22px;margin:18px 0}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px}.stat{background:#0f172a;border-radius:9px;padding:15px}.stat span{display:block;color:#cbd5e1;font-size:14px;margin-bottom:8px}.stat strong{font-size:22px}table{width:100%;border-collapse:collapse}td,th{border-bottom:1px solid #334155;padding:12px;text-align:left}.note{color:#cbd5e1;font-size:14px;line-height:1.5}table{display:block;overflow-x:auto}
+</style></head><body><main>
+<a href="directory.html#basketball">← Back to transfer directory</a>
+<h1 id="player-name">Loading player…</h1><p id="position"></p>
+<section class="card"><h2>Player overview</h2><p><strong>Previous school:</strong> <span id="previous-school"></span></p><p><strong>Destination:</strong> <span id="destination"></span></p><p><strong>Transfer season:</strong> <span id="season"></span></p></section>
+<section class="card"><h2>Season statistics</h2><div class="grid" id="statistics"></div><p class="note">Statistics reflect available player data. Unavailable values are marked N/A; not all records have been administrator-reviewed.</p></section>
+<section class="card"><h2>Transfer history</h2><table><thead><tr><th>Season</th><th>From</th><th>To</th></tr></thead><tbody id="history"></tbody></table></section>
+<p class="note">College Transfer Portal is an independent information resource. Transfer information may change and is not an official NCAA record.</p>
+</main><script src="scripts/basketball-players.js"></script><script>
+(function(){
+ const id=new URLSearchParams(window.location.search).get('id');
+ const players=typeof basketballTransfers!=='undefined'?basketballTransfers:[];
+ const player=players.find(p=>String(p.playerId)===String(id));
+ const put=(key,value)=>{document.getElementById(key).textContent=value===null||value===undefined||value===''?'Not listed':String(value)};
+ if(!player){put('player-name','Player not found');document.getElementById('position').textContent='No basketball player matches this ID.';document.querySelectorAll('section.card').forEach(e=>e.hidden=true);return;}
+ put('player-name',player.name);document.title=(player.name||'Player')+' | College Transfer Portal';
+ put('position',"Men's Basketball · "+(player.position||'Position not listed'));
+ put('previous-school',player.previousSchool);put('destination',player.destination);put('season',player.season);
+ const stats=player.stats||{};
+ const fields=[['Minutes per game',['minutesPerGame','mpg']],['Points per game',['pointsPerGame','ppg']],['Rebounds per game',['reboundsPerGame','rpg']],['Assists per game',['assistsPerGame','apg']],['Steals per game',['stealsPerGame','spg']],['Blocks per game',['blocksPerGame','bpg']],['Field goal',['fieldGoalPercentage','fieldGoalPct','fgPct']],['Three-point',['threePointPercentage','threePointPct','threePointFieldGoalPercentage']],['Free throw',['freeThrowPercentage','freeThrowPct','ftPct']]];
+ const grid=document.getElementById('statistics');
+ for(const [label,keys] of fields){const val=keys.map(k=>stats[k]).find(v=>v!==null&&v!==undefined&&v!=='');const item=document.createElement('div');item.className='stat';const span=document.createElement('span');span.textContent=label;const strong=document.createElement('strong');strong.textContent=val===undefined?'N/A':String(val)+(label==='Field goal'||label==='Three-point'||label==='Free throw'?'%':'');item.append(span,strong);grid.appendChild(item)}
+ const history=document.getElementById('history');const entries=Array.isArray(player.transferHistory)?player.transferHistory:[];
+ if(!entries.length){const row=document.createElement('tr');const cell=document.createElement('td');cell.colSpan=3;cell.textContent='No transfer history available';row.appendChild(cell);history.appendChild(row)}
+ for(const record of entries){const row=document.createElement('tr');for(const value of [record.season,record.previousSchool,record.destination]){const cell=document.createElement('td');cell.textContent=value===null||value===undefined||value===''?'Not listed':String(value);row.appendChild(cell)}history.appendChild(row)}
+})();
+</script></body></html>

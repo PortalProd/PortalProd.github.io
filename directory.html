@@ -226,7 +226,7 @@ basketballTransfers
             const name = document.createElement('h3');
             const link = document.createElement('a');
 
-            link.href = player.profileUrl;
+            link.href = 'basketball-profile.html?id=' + encodeURIComponent(String(player.playerId));
             link.textContent = player.name;
             name.appendChild(link);
 
@@ -368,7 +368,7 @@ if (currentSport === 'all' && basketballCount > 0) {
 
             const name = document.createElement('h3');
             const link = document.createElement('a');
-            link.href = player.profileUrl;
+            link.href = 'basketball-profile.html?id=' + encodeURIComponent(String(player.playerId));
             link.textContent = player.name;
             name.appendChild(link);
 

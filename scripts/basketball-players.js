@@ -733,7 +733,8 @@ const basketballTransfers = [
         "season": "2026"
       }
     ],
-    "needsReview": false
+    "needsReview": false,
+    "seasonNote": "Redshirted at Kansas during the 2025–26 season."
   },
   {
     "playerId": "46080136",
@@ -1340,26 +1341,6 @@ const basketballTransfers = [
         "recordId": "164935",
         "previousSchool": "Iona",
         "destination": "Merrimack",
-        "season": "2026"
-      }
-    ],
-    "needsReview": false
-  },
-  {
-    "playerId": "46084352",
-    "name": "C.J. Anthony",
-    "sport": "basketball",
-    "position": "PG",
-    "previousSchool": "Iona",
-    "destination": "",
-    "season": 2026,
-    "profileUrl": "",
-    "stats": {},
-    "transferHistory": [
-      {
-        "recordId": "2470",
-        "previousSchool": "Iona",
-        "destination": "",
         "season": "2026"
       }
     ],
@@ -2656,36 +2637,6 @@ const basketballTransfers = [
     "needsReview": false
   },
   {
-    "playerId": "46097796",
-    "name": "Chris Bell",
-    "sport": "basketball",
-    "position": "SF",
-    "previousSchool": "California",
-    "destination": "",
-    "season": 2026,
-    "profileUrl": "",
-    "stats": {
-      "minutesPerGame": 27.8,
-      "pointsPerGame": 14.2,
-      "reboundsPerGame": 2.6,
-      "assistsPerGame": 0.6,
-      "stealsPerGame": 0.5,
-      "blocksPerGame": 0.6,
-      "fieldGoalPercentage": 45.9,
-      "threePointPercentage": 40,
-      "freeThrowPercentage": 85.7
-    },
-    "transferHistory": [
-      {
-        "recordId": "3778112",
-        "previousSchool": "California",
-        "destination": "",
-        "season": "2026"
-      }
-    ],
-    "needsReview": false
-  },
-  {
     "playerId": "46165991",
     "name": "Jaxson Bell",
     "sport": "basketball",
@@ -2853,7 +2804,8 @@ const basketballTransfers = [
         "season": "2026"
       }
     ],
-    "needsReview": false
+    "needsReview": false,
+    "seasonNote": "Redshirted during the 2025–26 season."
   },
   {
     "playerId": "46169615",
@@ -6127,36 +6079,6 @@ const basketballTransfers = [
     "needsReview": false
   },
   {
-    "playerId": "46166098",
-    "name": "Cris Carroll",
-    "sport": "basketball",
-    "position": "SF",
-    "previousSchool": "Youngstown State",
-    "destination": "",
-    "season": 2026,
-    "profileUrl": "",
-    "stats": {
-      "minutesPerGame": 30.3,
-      "pointsPerGame": 17.4,
-      "reboundsPerGame": 5.2,
-      "assistsPerGame": 1.8,
-      "stealsPerGame": 1.2,
-      "blocksPerGame": 0.4,
-      "fieldGoalPercentage": 47.6,
-      "threePointPercentage": 39.5,
-      "freeThrowPercentage": 78
-    },
-    "transferHistory": [
-      {
-        "recordId": "2931",
-        "previousSchool": "Youngstown State",
-        "destination": "",
-        "season": "2026"
-      }
-    ],
-    "needsReview": false
-  },
-  {
     "playerId": "46165696",
     "name": "Jon Carroll",
     "sport": "basketball",
@@ -7274,7 +7196,8 @@ const basketballTransfers = [
         "season": "2026"
       }
     ],
-    "needsReview": false
+    "needsReview": false,
+    "seasonNote": "Redshirted at NC State during the 2025–26 season."
   },
   {
     "playerId": "46156863",
@@ -7981,36 +7904,6 @@ const basketballTransfers = [
         "recordId": "2799",
         "previousSchool": "Ball State",
         "destination": "Miami (OH)",
-        "season": "2026"
-      }
-    ],
-    "needsReview": false
-  },
-  {
-    "playerId": "46104200",
-    "name": "Cameron Corhen",
-    "sport": "basketball",
-    "position": "C",
-    "previousSchool": "Pittsburgh",
-    "destination": "",
-    "season": 2026,
-    "profileUrl": "",
-    "stats": {
-      "minutesPerGame": 33.8,
-      "pointsPerGame": 13.5,
-      "reboundsPerGame": 6.8,
-      "assistsPerGame": 1.9,
-      "stealsPerGame": 1.0,
-      "blocksPerGame": 0.5,
-      "fieldGoalPercentage": 53.1,
-      "threePointPercentage": 36.8,
-      "freeThrowPercentage": 69.2
-    },
-    "transferHistory": [
-      {
-        "recordId": "3776598",
-        "previousSchool": "Pittsburgh",
-        "destination": "",
         "season": "2026"
       }
     ],
@@ -16778,7 +16671,7 @@ const basketballTransfers = [
   },
   {
     "playerId": "46135830",
-    "name": "Corey Hadnot",
+    "name": "Corey Hadnot II",
     "sport": "basketball",
     "position": "SG",
     "previousSchool": "Purdue Fort Wayne",
@@ -17437,36 +17330,6 @@ const basketballTransfers = [
     "needsReview": false
   },
   {
-    "playerId": "46166207",
-    "name": "CJ Hardy",
-    "sport": "basketball",
-    "position": "CG",
-    "previousSchool": "Cal State Bakersfield",
-    "destination": "",
-    "season": 2026,
-    "profileUrl": "",
-    "stats": {
-      "minutesPerGame": 28.1,
-      "pointsPerGame": 12.4,
-      "reboundsPerGame": 3.8,
-      "assistsPerGame": 2.9,
-      "stealsPerGame": 1.4,
-      "blocksPerGame": 0.3,
-      "fieldGoalPercentage": 44.6,
-      "threePointPercentage": 30.9,
-      "freeThrowPercentage": 83.2
-    },
-    "transferHistory": [
-      {
-        "recordId": "2439",
-        "previousSchool": "Cal State Bakersfield",
-        "destination": "",
-        "season": "2026"
-      }
-    ],
-    "needsReview": false
-  },
-  {
     "playerId": "46165834",
     "name": "Christian Harmon",
     "sport": "basketball",
@@ -17612,7 +17475,7 @@ const basketballTransfers = [
     "sport": "basketball",
     "position": "CG",
     "previousSchool": "South Alabama",
-    "destination": "",
+    "destination": "Charlotte",
     "season": 2026,
     "profileUrl": "",
     "stats": {
@@ -17630,7 +17493,7 @@ const basketballTransfers = [
       {
         "recordId": "198231",
         "previousSchool": "South Alabama",
-        "destination": "",
+        "destination": "Charlotte",
         "season": "2026"
       }
     ],
@@ -19497,36 +19360,6 @@ const basketballTransfers = [
     "needsReview": false
   },
   {
-    "playerId": "46148284",
-    "name": "Camren Hunter",
-    "sport": "basketball",
-    "position": "SG",
-    "previousSchool": "Central Arkansas",
-    "destination": "",
-    "season": 2026,
-    "profileUrl": "",
-    "stats": {
-      "minutesPerGame": 30.9,
-      "pointsPerGame": 21.0,
-      "reboundsPerGame": 4.2,
-      "assistsPerGame": 2.7,
-      "stealsPerGame": 1.4,
-      "blocksPerGame": 0.2,
-      "fieldGoalPercentage": 50.6,
-      "threePointPercentage": 36.9,
-      "freeThrowPercentage": 79.6
-    },
-    "transferHistory": [
-      {
-        "recordId": "3106",
-        "previousSchool": "Central Arkansas",
-        "destination": "",
-        "season": "2026"
-      }
-    ],
-    "needsReview": false
-  },
-  {
     "playerId": "46057971",
     "name": "Dillon Hunter",
     "sport": "basketball",
@@ -19772,7 +19605,7 @@ const basketballTransfers = [
     "sport": "basketball",
     "position": "SF",
     "previousSchool": "Kansas State",
-    "destination": "",
+    "destination": "Troy",
     "season": 2026,
     "profileUrl": "",
     "stats": {},
@@ -19780,7 +19613,7 @@ const basketballTransfers = [
       {
         "recordId": "2750",
         "previousSchool": "Kansas State",
-        "destination": "",
+        "destination": "Troy",
         "season": "2026"
       }
     ],
@@ -20003,7 +19836,7 @@ const basketballTransfers = [
     "sport": "basketball",
     "position": "C",
     "previousSchool": "UT Arlington",
-    "destination": "",
+    "destination": "Radford",
     "season": 2026,
     "profileUrl": "",
     "stats": {
@@ -20021,7 +19854,7 @@ const basketballTransfers = [
       {
         "recordId": "2833",
         "previousSchool": "UT Arlington",
-        "destination": "",
+        "destination": "Radford",
         "season": "2026"
       }
     ],
@@ -20819,7 +20652,7 @@ const basketballTransfers = [
     "sport": "basketball",
     "position": "PG",
     "previousSchool": "South Carolina Upstate",
-    "destination": "",
+    "destination": "Defiance College",
     "season": 2026,
     "profileUrl": "",
     "stats": {
@@ -20837,7 +20670,7 @@ const basketballTransfers = [
       {
         "recordId": "601497",
         "previousSchool": "South Carolina Upstate",
-        "destination": "",
+        "destination": "Defiance College",
         "season": "2026"
       }
     ],
@@ -23517,36 +23350,6 @@ const basketballTransfers = [
       {
         "recordId": "2813",
         "previousSchool": "Pacific",
-        "destination": "",
-        "season": "2026"
-      }
-    ],
-    "needsReview": false
-  },
-  {
-    "playerId": "46136129",
-    "name": "Collin Kuhl",
-    "sport": "basketball",
-    "position": "PF",
-    "previousSchool": "Stetson",
-    "destination": "",
-    "season": 2026,
-    "profileUrl": "",
-    "stats": {
-      "minutesPerGame": 23.5,
-      "pointsPerGame": 13.1,
-      "reboundsPerGame": 6.2,
-      "assistsPerGame": 0.7,
-      "stealsPerGame": 0.9,
-      "blocksPerGame": 0.2,
-      "fieldGoalPercentage": 65.6,
-      "threePointPercentage": 37.5,
-      "freeThrowPercentage": 61.8
-    },
-    "transferHistory": [
-      {
-        "recordId": "136565",
-        "previousSchool": "Stetson",
         "destination": "",
         "season": "2026"
       }
@@ -26965,7 +26768,7 @@ const basketballTransfers = [
     "sport": "basketball",
     "position": "PF",
     "previousSchool": "Western Carolina",
-    "destination": "",
+    "destination": "Wingate",
     "season": 2026,
     "profileUrl": "",
     "stats": {
@@ -26983,7 +26786,7 @@ const basketballTransfers = [
       {
         "recordId": "3488",
         "previousSchool": "Western Carolina",
-        "destination": "",
+        "destination": "Wingate",
         "season": "2026"
       }
     ],
@@ -28646,26 +28449,6 @@ const basketballTransfers = [
     "needsReview": false
   },
   {
-    "playerId": "46166529",
-    "name": "Cam Morris",
-    "sport": "basketball",
-    "position": "SF",
-    "previousSchool": "East Tennessee State",
-    "destination": "",
-    "season": 2026,
-    "profileUrl": "",
-    "stats": {},
-    "transferHistory": [
-      {
-        "recordId": "376421",
-        "previousSchool": "East Tennessee State",
-        "destination": "",
-        "season": "2026"
-      }
-    ],
-    "needsReview": false
-  },
-  {
     "playerId": "46156999",
     "name": "Jameel Morris",
     "sport": "basketball",
@@ -29834,7 +29617,8 @@ const basketballTransfers = [
         "season": "2026"
       }
     ],
-    "needsReview": false
+    "needsReview": false,
+    "seasonNote": "Redshirted at Washington during the 2025–26 season."
   },
   {
     "playerId": "46166100",
@@ -31785,7 +31569,8 @@ const basketballTransfers = [
         "season": "2026"
       }
     ],
-    "needsReview": false
+    "needsReview": false,
+    "portalStatus": "Returned to Presbyterian"
   },
   {
     "playerId": "46166122",
@@ -32705,7 +32490,8 @@ const basketballTransfers = [
         "season": "2026"
       }
     ],
-    "needsReview": false
+    "needsReview": false,
+    "seasonNote": "Redshirted at Princeton during the 2025–26 season."
   },
   {
     "playerId": "46117766",
@@ -36125,7 +35911,8 @@ const basketballTransfers = [
         "season": "2026"
       }
     ],
-    "needsReview": false
+    "needsReview": false,
+    "seasonNote": "Redshirted during the 2025–26 season."
   },
   {
     "playerId": "46133024",
@@ -36773,7 +36560,7 @@ const basketballTransfers = [
     "sport": "basketball",
     "position": "SF",
     "previousSchool": "Texas State",
-    "destination": "",
+    "destination": "Nicholls",
     "season": 2026,
     "profileUrl": "",
     "stats": {
@@ -36791,7 +36578,7 @@ const basketballTransfers = [
       {
         "recordId": "2483",
         "previousSchool": "Texas State",
-        "destination": "",
+        "destination": "Nicholls",
         "season": "2026"
       }
     ],
@@ -37614,7 +37401,7 @@ const basketballTransfers = [
     "sport": "basketball",
     "position": "SF",
     "previousSchool": "Idaho State",
-    "destination": "",
+    "destination": "California State University, Monterey Bay",
     "season": 2026,
     "profileUrl": "",
     "stats": {
@@ -37632,7 +37419,7 @@ const basketballTransfers = [
       {
         "recordId": "142708",
         "previousSchool": "Idaho State",
-        "destination": "",
+        "destination": "California State University, Monterey Bay",
         "season": "2026"
       }
     ],
@@ -38084,7 +37871,7 @@ const basketballTransfers = [
     "sport": "basketball",
     "position": "SG",
     "previousSchool": "Minnesota",
-    "destination": "",
+    "destination": "Vanguard",
     "season": 2026,
     "profileUrl": "",
     "stats": {},
@@ -38092,11 +37879,12 @@ const basketballTransfers = [
       {
         "recordId": "106821",
         "previousSchool": "Minnesota",
-        "destination": "",
+        "destination": "Vanguard",
         "season": "2026"
       }
     ],
-    "needsReview": false
+    "needsReview": false,
+    "seasonNote": "Did not play during the 2025–26 season due to illness."
   },
   {
     "playerId": "46157121",
@@ -40596,7 +40384,8 @@ const basketballTransfers = [
         "season": "2026"
       }
     ],
-    "needsReview": false
+    "needsReview": false,
+    "eligibilityNote": "Eligibility pending; do not represent as confirmed eligible."
   },
   {
     "playerId": "46138144",
@@ -41566,7 +41355,8 @@ const basketballTransfers = [
         "season": "2026"
       }
     ],
-    "needsReview": false
+    "needsReview": false,
+    "seasonNote": "Redshirted during the 2025–26 season."
   },
   {
     "playerId": "46135790",
@@ -42614,7 +42404,7 @@ const basketballTransfers = [
     "sport": "basketball",
     "position": "SG",
     "previousSchool": "Northern Colorado",
-    "destination": "",
+    "destination": "University of Arkansas–Fort Smith",
     "season": 2026,
     "profileUrl": "",
     "stats": {
@@ -42632,7 +42422,7 @@ const basketballTransfers = [
       {
         "recordId": "112022",
         "previousSchool": "Northern Colorado",
-        "destination": "",
+        "destination": "University of Arkansas–Fort Smith",
         "season": "2026"
       }
     ],
@@ -43694,7 +43484,7 @@ const basketballTransfers = [
     "sport": "basketball",
     "position": "SG",
     "previousSchool": "Gardner-Webb",
-    "destination": "",
+    "destination": "California State University, San Bernardino",
     "season": 2026,
     "profileUrl": "",
     "stats": {
@@ -43712,7 +43502,7 @@ const basketballTransfers = [
       {
         "recordId": "114404",
         "previousSchool": "Gardner-Webb",
-        "destination": "",
+        "destination": "California State University, San Bernardino",
         "season": "2026"
       }
     ],
@@ -44524,7 +44314,7 @@ const basketballTransfers = [
     "sport": "basketball",
     "position": "CG",
     "previousSchool": "Pacific",
-    "destination": "",
+    "destination": "South Plains College",
     "season": 2026,
     "profileUrl": "",
     "stats": {
@@ -44542,7 +44332,7 @@ const basketballTransfers = [
       {
         "recordId": "3145",
         "previousSchool": "Pacific",
-        "destination": "",
+        "destination": "South Plains College",
         "season": "2026"
       }
     ],

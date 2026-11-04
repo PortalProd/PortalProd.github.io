@@ -9,8 +9,8 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 16.0,
-      "pointsPerGame": 7.0,
+      "minutesPerGame": 16,
+      "pointsPerGame": 7,
       "reboundsPerGame": 2.9,
       "assistsPerGame": 1.1,
       "stealsPerGame": 0.4,
@@ -235,7 +235,7 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 19.0,
+      "minutesPerGame": 19,
       "pointsPerGame": 5.8,
       "reboundsPerGame": 1.3,
       "assistsPerGame": 1.7,
@@ -265,10 +265,10 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 25.3,
+      "minutesPerGame": 25.4,
       "pointsPerGame": 14.6,
       "reboundsPerGame": 5.4,
-      "assistsPerGame": 1.0,
+      "assistsPerGame": 1,
       "stealsPerGame": 0.3,
       "blocksPerGame": 0.3,
       "fieldGoalPercentage": 46.6,
@@ -360,7 +360,7 @@ const basketballTransfers = [
       "reboundsPerGame": 2.1,
       "assistsPerGame": 0.5,
       "stealsPerGame": 0.8,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 39.6,
       "threePointPercentage": 28.1,
       "freeThrowPercentage": 82.5
@@ -501,8 +501,8 @@ const basketballTransfers = [
       "assistsPerGame": 0.4,
       "stealsPerGame": 0.1,
       "blocksPerGame": 1.4,
-      "fieldGoalPercentage": 50.0,
-      "threePointPercentage": 0.0,
+      "fieldGoalPercentage": 50,
+      "threePointPercentage": 0,
       "freeThrowPercentage": 41.7
     },
     "transferHistory": [
@@ -650,7 +650,7 @@ const basketballTransfers = [
       "reboundsPerGame": 1.7,
       "assistsPerGame": 0.2,
       "stealsPerGame": 0.2,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 34.2,
       "threePointPercentage": 30.8,
       "freeThrowPercentage": 57.1
@@ -679,7 +679,7 @@ const basketballTransfers = [
       "pointsPerGame": 9.5,
       "reboundsPerGame": 7.4,
       "assistsPerGame": 0.7,
-      "stealsPerGame": 1.0,
+      "stealsPerGame": 1,
       "blocksPerGame": 0.7,
       "fieldGoalPercentage": 46.7,
       "threePointPercentage": 34.8,
@@ -749,7 +749,7 @@ const basketballTransfers = [
       "minutesPerGame": 24.6,
       "pointsPerGame": 9.8,
       "reboundsPerGame": 4.3,
-      "assistsPerGame": 1.0,
+      "assistsPerGame": 1,
       "stealsPerGame": 1.5,
       "blocksPerGame": 1.6,
       "fieldGoalPercentage": 40,
@@ -778,7 +778,7 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 24.9,
       "pointsPerGame": 13.6,
-      "reboundsPerGame": 6.0,
+      "reboundsPerGame": 6,
       "assistsPerGame": 0.8,
       "stealsPerGame": 0.6,
       "blocksPerGame": 0.3,
@@ -826,11 +826,11 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 27.0,
+      "minutesPerGame": 27,
       "pointsPerGame": 14.1,
       "reboundsPerGame": 3.7,
       "assistsPerGame": 0.7,
-      "stealsPerGame": 1.0,
+      "stealsPerGame": 1,
       "blocksPerGame": 0.2,
       "fieldGoalPercentage": 42.4,
       "threePointPercentage": 31.6,
@@ -980,10 +980,10 @@ const basketballTransfers = [
       "pointsPerGame": 1.4,
       "reboundsPerGame": 0.8,
       "assistsPerGame": 0.3,
-      "stealsPerGame": 0.0,
+      "stealsPerGame": 0,
       "blocksPerGame": 0.5,
       "fieldGoalPercentage": 54.5,
-      "threePointPercentage": 0.0,
+      "threePointPercentage": 0,
       "freeThrowPercentage": 42.9
     },
     "transferHistory": [
@@ -1010,7 +1010,7 @@ const basketballTransfers = [
       "pointsPerGame": 5.1,
       "reboundsPerGame": 2.2,
       "assistsPerGame": 0.4,
-      "stealsPerGame": 0.0,
+      "stealsPerGame": 0,
       "blocksPerGame": 0.5,
       "fieldGoalPercentage": 57.7,
       "threePointPercentage": 0,
@@ -1038,7 +1038,7 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 31.9,
       "pointsPerGame": 16.9,
-      "reboundsPerGame": 2.0,
+      "reboundsPerGame": 2,
       "assistsPerGame": 2.2,
       "stealsPerGame": 0.7,
       "blocksPerGame": 0.1,
@@ -1132,9 +1132,9 @@ const basketballTransfers = [
       "assistsPerGame": 0.3,
       "stealsPerGame": 0.3,
       "blocksPerGame": 0.1,
-      "fieldGoalPercentage": 33.0,
+      "fieldGoalPercentage": 33,
       "threePointPercentage": 33.3,
-      "freeThrowPercentage": 50.0
+      "freeThrowPercentage": 50
     },
     "transferHistory": [
       {
@@ -1161,7 +1161,7 @@ const basketballTransfers = [
       "reboundsPerGame": 1.7,
       "assistsPerGame": 0.7,
       "stealsPerGame": 0.9,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 33.9,
       "threePointPercentage": 24.1,
       "freeThrowPercentage": 52.9
@@ -1383,7 +1383,7 @@ const basketballTransfers = [
       "stealsPerGame": 0.3,
       "blocksPerGame": 0.1,
       "fieldGoalPercentage": 40.8,
-      "threePointPercentage": 40.0,
+      "threePointPercentage": 40,
       "freeThrowPercentage": 66.7
     },
     "transferHistory": [
@@ -1529,12 +1529,12 @@ const basketballTransfers = [
       "minutesPerGame": 2.6,
       "pointsPerGame": 0.7,
       "reboundsPerGame": 0.7,
-      "assistsPerGame": 0.0,
-      "stealsPerGame": 0.0,
+      "assistsPerGame": 0,
+      "stealsPerGame": 0,
       "blocksPerGame": 0.1,
       "fieldGoalPercentage": 33.3,
-      "threePointPercentage": 0.0,
-      "freeThrowPercentage": 50.0
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 50
     },
     "transferHistory": [
       {
@@ -1559,7 +1559,7 @@ const basketballTransfers = [
       "minutesPerGame": 14.2,
       "pointsPerGame": 3.9,
       "reboundsPerGame": 3.7,
-      "assistsPerGame": 0.0,
+      "assistsPerGame": 0,
       "stealsPerGame": 0.2,
       "blocksPerGame": 0.7,
       "fieldGoalPercentage": 59.7,
@@ -1637,7 +1637,7 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 12.3,
-      "pointsPerGame": 7.0,
+      "pointsPerGame": 7,
       "reboundsPerGame": 1.2,
       "assistsPerGame": 0.2,
       "stealsPerGame": 0.2,
@@ -1831,7 +1831,7 @@ const basketballTransfers = [
       "reboundsPerGame": 2.2,
       "assistsPerGame": 0.8,
       "stealsPerGame": 0.7,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 30.5,
       "threePointPercentage": 27.8,
       "freeThrowPercentage": 72.4
@@ -1856,10 +1856,10 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 18.0,
+      "minutesPerGame": 18,
       "pointsPerGame": 6.3,
       "reboundsPerGame": 2.4,
-      "assistsPerGame": 1.0,
+      "assistsPerGame": 1,
       "stealsPerGame": 0.4,
       "blocksPerGame": 0.1,
       "fieldGoalPercentage": 38.7,
@@ -1894,7 +1894,7 @@ const basketballTransfers = [
       "blocksPerGame": 0.6,
       "fieldGoalPercentage": 50.5,
       "threePointPercentage": 30.5,
-      "freeThrowPercentage": 60.0
+      "freeThrowPercentage": 60
     },
     "transferHistory": [
       {
@@ -1978,13 +1978,13 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 13.8,
       "pointsPerGame": 2.8,
-      "reboundsPerGame": 3.0,
+      "reboundsPerGame": 3,
       "assistsPerGame": 0.2,
       "stealsPerGame": 0.5,
       "blocksPerGame": 0.8,
       "fieldGoalPercentage": 50.9,
-      "threePointPercentage": 0.0,
-      "freeThrowPercentage": 50.0
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 50
     },
     "transferHistory": [
       {
@@ -2040,7 +2040,7 @@ const basketballTransfers = [
       "pointsPerGame": 10.2,
       "reboundsPerGame": 4.6,
       "assistsPerGame": 1.1,
-      "stealsPerGame": 1.0,
+      "stealsPerGame": 1,
       "blocksPerGame": 0.2,
       "fieldGoalPercentage": 52,
       "threePointPercentage": 44.2,
@@ -2104,7 +2104,7 @@ const basketballTransfers = [
       "blocksPerGame": 0.2,
       "fieldGoalPercentage": 58.9,
       "threePointPercentage": 38.3,
-      "freeThrowPercentage": 84.0
+      "freeThrowPercentage": 84
     },
     "transferHistory": [
       {
@@ -2161,7 +2161,7 @@ const basketballTransfers = [
       "reboundsPerGame": 1.6,
       "assistsPerGame": 1.3,
       "stealsPerGame": 0.5,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 34.3,
       "threePointPercentage": 11.1,
       "freeThrowPercentage": 82.4
@@ -2187,10 +2187,10 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 4.7,
-      "pointsPerGame": 2.0,
+      "pointsPerGame": 2,
       "reboundsPerGame": 0.7,
-      "assistsPerGame": 0.0,
-      "stealsPerGame": 0.0,
+      "assistsPerGame": 0,
+      "stealsPerGame": 0,
       "blocksPerGame": 0.3,
       "fieldGoalPercentage": 25,
       "threePointPercentage": 33.3,
@@ -2249,7 +2249,7 @@ const basketballTransfers = [
       "minutesPerGame": 31.6,
       "pointsPerGame": 11.7,
       "reboundsPerGame": 2.8,
-      "assistsPerGame": 5.0,
+      "assistsPerGame": 5,
       "stealsPerGame": 1.4,
       "blocksPerGame": 0.1,
       "fieldGoalPercentage": 45.4,
@@ -2279,7 +2279,7 @@ const basketballTransfers = [
       "minutesPerGame": 22.8,
       "pointsPerGame": 8.6,
       "reboundsPerGame": 2.7,
-      "assistsPerGame": 3.0,
+      "assistsPerGame": 3,
       "stealsPerGame": 1.2,
       "blocksPerGame": 0.2,
       "fieldGoalPercentage": 46,
@@ -2327,14 +2327,14 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 8.8,
-      "pointsPerGame": 2.0,
+      "pointsPerGame": 2,
       "reboundsPerGame": 0.5,
       "assistsPerGame": 0.5,
       "stealsPerGame": 0.2,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 26.7,
       "threePointPercentage": 15.4,
-      "freeThrowPercentage": 100.0
+      "freeThrowPercentage": 100
     },
     "transferHistory": [
       {
@@ -2361,7 +2361,7 @@ const basketballTransfers = [
       "reboundsPerGame": 2.2,
       "assistsPerGame": 2.3,
       "stealsPerGame": 0.5,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 42.1,
       "threePointPercentage": 44.4,
       "freeThrowPercentage": 68.8
@@ -2442,7 +2442,7 @@ const basketballTransfers = [
       "assistsPerGame": 5.9,
       "stealsPerGame": 1.2,
       "blocksPerGame": 0.1,
-      "fieldGoalPercentage": 37.0,
+      "fieldGoalPercentage": 37,
       "threePointPercentage": 27.7,
       "freeThrowPercentage": 78.3
     },
@@ -2499,7 +2499,7 @@ const basketballTransfers = [
       "minutesPerGame": 33.2,
       "pointsPerGame": 13.6,
       "reboundsPerGame": 3.4,
-      "assistsPerGame": 4.0,
+      "assistsPerGame": 4,
       "stealsPerGame": 1.2,
       "blocksPerGame": 0.1,
       "fieldGoalPercentage": 40.7,
@@ -2556,7 +2556,7 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 26.0,
+      "minutesPerGame": 26,
       "pointsPerGame": 11.3,
       "reboundsPerGame": 3.3,
       "assistsPerGame": 1.3,
@@ -2618,7 +2618,7 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 25.3,
       "pointsPerGame": 12.2,
-      "reboundsPerGame": 5.0,
+      "reboundsPerGame": 5,
       "assistsPerGame": 1.5,
       "stealsPerGame": 1.1,
       "blocksPerGame": 0.2,
@@ -2713,7 +2713,7 @@ const basketballTransfers = [
       "stealsPerGame": 0.7,
       "blocksPerGame": 1.6,
       "fieldGoalPercentage": 56.5,
-      "threePointPercentage": 25.0,
+      "threePointPercentage": 25,
       "freeThrowPercentage": 68.6
     },
     "transferHistory": [
@@ -2739,7 +2739,7 @@ const basketballTransfers = [
       "minutesPerGame": 20.4,
       "pointsPerGame": 5.8,
       "reboundsPerGame": 2.7,
-      "assistsPerGame": 1.0,
+      "assistsPerGame": 1,
       "stealsPerGame": 0.9,
       "blocksPerGame": 0.3,
       "fieldGoalPercentage": 39.1,
@@ -2877,7 +2877,7 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 18.0,
+      "minutesPerGame": 18,
       "pointsPerGame": 6.1,
       "reboundsPerGame": 2.5,
       "assistsPerGame": 1.2,
@@ -2912,7 +2912,7 @@ const basketballTransfers = [
       "reboundsPerGame": 0.6,
       "assistsPerGame": 0.1,
       "stealsPerGame": 0.1,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 31.8,
       "threePointPercentage": 16.7,
       "freeThrowPercentage": 63.6
@@ -2937,7 +2937,7 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 8.0,
+      "minutesPerGame": 8,
       "pointsPerGame": 3.9,
       "reboundsPerGame": 1.7,
       "assistsPerGame": 0.5,
@@ -2967,7 +2967,7 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 18.0,
+      "minutesPerGame": 18,
       "pointsPerGame": 6.7,
       "reboundsPerGame": 2.8,
       "assistsPerGame": 0.4,
@@ -3001,7 +3001,7 @@ const basketballTransfers = [
       "pointsPerGame": 3.1,
       "reboundsPerGame": 1.1,
       "assistsPerGame": 0.2,
-      "stealsPerGame": 0.0,
+      "stealsPerGame": 0,
       "blocksPerGame": 0.1,
       "fieldGoalPercentage": 56.3,
       "threePointPercentage": 62.5,
@@ -3027,7 +3027,7 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 25.0,
+      "minutesPerGame": 25,
       "pointsPerGame": 11.8,
       "reboundsPerGame": 4.9,
       "assistsPerGame": 0.4,
@@ -3062,7 +3062,7 @@ const basketballTransfers = [
       "reboundsPerGame": 1.3,
       "assistsPerGame": 0.2,
       "stealsPerGame": 0.2,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 31.6,
       "threePointPercentage": 26.7,
       "freeThrowPercentage": 75
@@ -3119,7 +3119,7 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 31.5,
       "pointsPerGame": 13.3,
-      "reboundsPerGame": 9.0,
+      "reboundsPerGame": 9,
       "assistsPerGame": 1.5,
       "stealsPerGame": 0.7,
       "blocksPerGame": 2.6,
@@ -3257,7 +3257,7 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 34.0,
+      "minutesPerGame": 34,
       "pointsPerGame": 17.1,
       "reboundsPerGame": 2.2,
       "assistsPerGame": 2.6,
@@ -3352,7 +3352,7 @@ const basketballTransfers = [
       "reboundsPerGame": 1.8,
       "assistsPerGame": 0.2,
       "stealsPerGame": 0.2,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 50,
       "threePointPercentage": 22.2,
       "freeThrowPercentage": 77.8
@@ -3377,7 +3377,7 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 28.0,
+      "minutesPerGame": 28,
       "pointsPerGame": 17.2,
       "reboundsPerGame": 7.2,
       "assistsPerGame": 3.1,
@@ -3457,11 +3457,11 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 2.0,
+      "minutesPerGame": 2,
       "pointsPerGame": 0.4,
       "reboundsPerGame": 0.6,
-      "assistsPerGame": 0.0,
-      "stealsPerGame": 0.0,
+      "assistsPerGame": 0,
+      "stealsPerGame": 0,
       "blocksPerGame": 0.2,
       "fieldGoalPercentage": 33.3,
       "threePointPercentage": 0,
@@ -3519,9 +3519,9 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 33.2,
       "pointsPerGame": 13.9,
-      "reboundsPerGame": 5.0,
+      "reboundsPerGame": 5,
       "assistsPerGame": 1.5,
-      "stealsPerGame": 2.0,
+      "stealsPerGame": 2,
       "blocksPerGame": 0.3,
       "fieldGoalPercentage": 38.8,
       "threePointPercentage": 36.9,
@@ -3602,7 +3602,7 @@ const basketballTransfers = [
       "reboundsPerGame": 3.4,
       "assistsPerGame": 1.1,
       "stealsPerGame": 0.6,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 45.6,
       "threePointPercentage": 40.7,
       "freeThrowPercentage": 63.6
@@ -3632,7 +3632,7 @@ const basketballTransfers = [
       "reboundsPerGame": 3.1,
       "assistsPerGame": 2.2,
       "stealsPerGame": 1.1,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 41.9,
       "threePointPercentage": 35.5,
       "freeThrowPercentage": 86.5
@@ -3659,7 +3659,7 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 33.4,
       "pointsPerGame": 16.4,
-      "reboundsPerGame": 4.0,
+      "reboundsPerGame": 4,
       "assistsPerGame": 4.2,
       "stealsPerGame": 1.8,
       "blocksPerGame": 0.3,
@@ -3692,7 +3692,7 @@ const basketballTransfers = [
       "reboundsPerGame": 2.5,
       "assistsPerGame": 2.2,
       "stealsPerGame": 0.4,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 40.2,
       "threePointPercentage": 34.9,
       "freeThrowPercentage": 73.6
@@ -3717,12 +3717,12 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 4.9,
+      "minutesPerGame": 4.8,
       "pointsPerGame": 1.1,
       "reboundsPerGame": 0.3,
       "assistsPerGame": 0.3,
       "stealsPerGame": 0.3,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 28.6,
       "threePointPercentage": 16.7,
       "freeThrowPercentage": 75
@@ -3749,7 +3749,7 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 32.7,
       "pointsPerGame": 11.9,
-      "reboundsPerGame": 6.0,
+      "reboundsPerGame": 6,
       "assistsPerGame": 2.2,
       "stealsPerGame": 1.3,
       "blocksPerGame": 0.4,
@@ -3782,7 +3782,7 @@ const basketballTransfers = [
       "reboundsPerGame": 4.2,
       "assistsPerGame": 0.5,
       "stealsPerGame": 0.4,
-      "blocksPerGame": 1.0,
+      "blocksPerGame": 1,
       "fieldGoalPercentage": 41.2,
       "threePointPercentage": 30.2,
       "freeThrowPercentage": 79.6
@@ -3809,7 +3809,7 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 18.1,
       "pointsPerGame": 5.8,
-      "reboundsPerGame": 3.0,
+      "reboundsPerGame": 3,
       "assistsPerGame": 0.9,
       "stealsPerGame": 0.8,
       "blocksPerGame": 0.2,
@@ -3867,7 +3867,7 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 14.0,
+      "minutesPerGame": 14,
       "pointsPerGame": 4.9,
       "reboundsPerGame": 1.9,
       "assistsPerGame": 0.5,
@@ -3930,7 +3930,7 @@ const basketballTransfers = [
       "minutesPerGame": 25.6,
       "pointsPerGame": 10.6,
       "reboundsPerGame": 8.3,
-      "assistsPerGame": 1.0,
+      "assistsPerGame": 1,
       "stealsPerGame": 0.2,
       "blocksPerGame": 1.5,
       "fieldGoalPercentage": 57.6,
@@ -4018,10 +4018,10 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 6.7,
-      "pointsPerGame": 0.0,
-      "reboundsPerGame": 2.0,
-      "assistsPerGame": 0.0,
-      "stealsPerGame": 0.0,
+      "pointsPerGame": 0,
+      "reboundsPerGame": 2,
+      "assistsPerGame": 0,
+      "stealsPerGame": 0,
       "blocksPerGame": 0.7,
       "fieldGoalPercentage": 0,
       "threePointPercentage": 0,
@@ -4047,12 +4047,12 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 32.0,
+      "minutesPerGame": 32,
       "pointsPerGame": 14.2,
       "reboundsPerGame": 3.7,
       "assistsPerGame": 3.6,
       "stealsPerGame": 0.9,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 42.8,
       "threePointPercentage": 35.9,
       "freeThrowPercentage": 82.3
@@ -4231,7 +4231,7 @@ const basketballTransfers = [
       "pointsPerGame": 13.5,
       "reboundsPerGame": 3.8,
       "assistsPerGame": 1.6,
-      "stealsPerGame": 1.0,
+      "stealsPerGame": 1,
       "blocksPerGame": 0.1,
       "fieldGoalPercentage": 45.2,
       "threePointPercentage": 29.1,
@@ -4327,12 +4327,12 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 1.0,
-      "pointsPerGame": 0.0,
-      "reboundsPerGame": 0.0,
-      "assistsPerGame": 0.0,
-      "stealsPerGame": 0.0,
-      "blocksPerGame": 0.0,
+      "minutesPerGame": 1,
+      "pointsPerGame": 0,
+      "reboundsPerGame": 0,
+      "assistsPerGame": 0,
+      "stealsPerGame": 0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 0,
       "threePointPercentage": 0,
       "freeThrowPercentage": 0
@@ -4357,8 +4357,8 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 24.0,
-      "pointsPerGame": 13.0,
+      "minutesPerGame": 24,
+      "pointsPerGame": 13,
       "reboundsPerGame": 4.4,
       "assistsPerGame": 1.9,
       "stealsPerGame": 0.4,
@@ -4392,7 +4392,7 @@ const basketballTransfers = [
       "reboundsPerGame": 1.9,
       "assistsPerGame": 1.3,
       "stealsPerGame": 0.7,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 40.5,
       "threePointPercentage": 34.5,
       "freeThrowPercentage": 89.3
@@ -4452,7 +4452,7 @@ const basketballTransfers = [
       "reboundsPerGame": 0.7,
       "assistsPerGame": 0.7,
       "stealsPerGame": 0.1,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 39.1,
       "threePointPercentage": 35.3,
       "freeThrowPercentage": 33.3
@@ -4478,9 +4478,9 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 2.5,
-      "pointsPerGame": 1.0,
+      "pointsPerGame": 1,
       "reboundsPerGame": 0.7,
-      "assistsPerGame": 0.0,
+      "assistsPerGame": 0,
       "stealsPerGame": 0.2,
       "blocksPerGame": 0.2,
       "fieldGoalPercentage": 50,
@@ -4513,7 +4513,7 @@ const basketballTransfers = [
       "assistsPerGame": 1.8,
       "stealsPerGame": 1.8,
       "blocksPerGame": 0.3,
-      "fieldGoalPercentage": 48.0,
+      "fieldGoalPercentage": 48,
       "threePointPercentage": 37.3,
       "freeThrowPercentage": 83.4
     },
@@ -4627,15 +4627,15 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 15.0,
+      "minutesPerGame": 15,
       "pointsPerGame": 4.3,
-      "reboundsPerGame": 2.0,
+      "reboundsPerGame": 2,
       "assistsPerGame": 0.3,
-      "stealsPerGame": 0.0,
-      "blocksPerGame": 0.0,
+      "stealsPerGame": 0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 36.4,
-      "threePointPercentage": 75.0,
-      "freeThrowPercentage": 50.0
+      "threePointPercentage": 75,
+      "freeThrowPercentage": 50
     },
     "transferHistory": [
       {
@@ -4691,7 +4691,7 @@ const basketballTransfers = [
       "pointsPerGame": 10.9,
       "reboundsPerGame": 3.9,
       "assistsPerGame": 4.7,
-      "stealsPerGame": 1.0,
+      "stealsPerGame": 1,
       "blocksPerGame": 0.3,
       "fieldGoalPercentage": 38.1,
       "threePointPercentage": 24.2,
@@ -4773,7 +4773,7 @@ const basketballTransfers = [
       "reboundsPerGame": 0.4,
       "assistsPerGame": 0.4,
       "stealsPerGame": 0.3,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 22.7,
       "threePointPercentage": 25,
       "freeThrowPercentage": 0
@@ -4828,12 +4828,12 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 31.0,
+      "minutesPerGame": 31,
       "pointsPerGame": 12.2,
       "reboundsPerGame": 3.8,
-      "assistsPerGame": 3.0,
+      "assistsPerGame": 3,
       "stealsPerGame": 1.3,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 39.6,
       "threePointPercentage": 36.5,
       "freeThrowPercentage": 79.3
@@ -4928,12 +4928,12 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 12.0,
+      "minutesPerGame": 12,
       "pointsPerGame": 2.7,
       "reboundsPerGame": 0.7,
       "assistsPerGame": 1.7,
-      "stealsPerGame": 0.0,
-      "blocksPerGame": 0.0,
+      "stealsPerGame": 0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 22.2,
       "threePointPercentage": 33.3,
       "freeThrowPercentage": 50
@@ -5023,10 +5023,10 @@ const basketballTransfers = [
       "reboundsPerGame": 1.5,
       "assistsPerGame": 0.2,
       "stealsPerGame": 0.4,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 58.8,
-      "threePointPercentage": 60.0,
-      "freeThrowPercentage": 80.0
+      "threePointPercentage": 60,
+      "freeThrowPercentage": 80
     },
     "transferHistory": [
       {
@@ -5085,7 +5085,7 @@ const basketballTransfers = [
       "stealsPerGame": 0.3,
       "blocksPerGame": 0.3,
       "fieldGoalPercentage": 58.6,
-      "threePointPercentage": 0.0,
+      "threePointPercentage": 0,
       "freeThrowPercentage": 45.2
     },
     "transferHistory": [
@@ -5170,7 +5170,7 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 27.9,
       "pointsPerGame": 12.6,
-      "reboundsPerGame": 5.0,
+      "reboundsPerGame": 5,
       "assistsPerGame": 1.5,
       "stealsPerGame": 0.6,
       "blocksPerGame": 0.2,
@@ -5222,7 +5222,7 @@ const basketballTransfers = [
       "minutesPerGame": 29.3,
       "pointsPerGame": 13.8,
       "reboundsPerGame": 7.8,
-      "assistsPerGame": 1.0,
+      "assistsPerGame": 1,
       "stealsPerGame": 1.2,
       "blocksPerGame": 0.9,
       "fieldGoalPercentage": 51.6,
@@ -5249,7 +5249,7 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 26.0,
+      "minutesPerGame": 26,
       "pointsPerGame": 13.1,
       "reboundsPerGame": 10.3,
       "assistsPerGame": 1.5,
@@ -5282,7 +5282,7 @@ const basketballTransfers = [
       "minutesPerGame": 3.1,
       "pointsPerGame": 0.5,
       "reboundsPerGame": 0.5,
-      "assistsPerGame": 0.0,
+      "assistsPerGame": 0,
       "stealsPerGame": 0.1,
       "blocksPerGame": 0.1,
       "fieldGoalPercentage": 66.7,
@@ -5314,7 +5314,7 @@ const basketballTransfers = [
       "reboundsPerGame": 2.8,
       "assistsPerGame": 3.5,
       "stealsPerGame": 1.3,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 38.9,
       "threePointPercentage": 27.7,
       "freeThrowPercentage": 84.4
@@ -5339,10 +5339,10 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 23.0,
+      "minutesPerGame": 23,
       "pointsPerGame": 8.8,
       "reboundsPerGame": 2.2,
-      "assistsPerGame": 1.0,
+      "assistsPerGame": 1,
       "stealsPerGame": 0.6,
       "blocksPerGame": 0.2,
       "fieldGoalPercentage": 40.4,
@@ -5403,7 +5403,7 @@ const basketballTransfers = [
       "pointsPerGame": 13.3,
       "reboundsPerGame": 4.8,
       "assistsPerGame": 0.7,
-      "stealsPerGame": 1.0,
+      "stealsPerGame": 1,
       "blocksPerGame": 0.5,
       "fieldGoalPercentage": 45.5,
       "threePointPercentage": 37.3,
@@ -5464,7 +5464,7 @@ const basketballTransfers = [
       "reboundsPerGame": 1.8,
       "assistsPerGame": 0.3,
       "stealsPerGame": 0.5,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 41,
       "threePointPercentage": 42.7,
       "freeThrowPercentage": 85.2
@@ -5584,7 +5584,7 @@ const basketballTransfers = [
       "reboundsPerGame": 5.6,
       "assistsPerGame": 1.9,
       "stealsPerGame": 0.9,
-      "blocksPerGame": 1.0,
+      "blocksPerGame": 1,
       "fieldGoalPercentage": 46.8,
       "threePointPercentage": 24.1,
       "freeThrowPercentage": 61.2
@@ -5803,7 +5803,7 @@ const basketballTransfers = [
       "pointsPerGame": 18.7,
       "reboundsPerGame": 4.5,
       "assistsPerGame": 5.1,
-      "stealsPerGame": 3.0,
+      "stealsPerGame": 3,
       "blocksPerGame": 0.3,
       "fieldGoalPercentage": 50,
       "threePointPercentage": 31.8,
@@ -5834,7 +5834,7 @@ const basketballTransfers = [
       "reboundsPerGame": 1.8,
       "assistsPerGame": 0.5,
       "stealsPerGame": 0.3,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 51,
       "threePointPercentage": 52,
       "freeThrowPercentage": 80
@@ -5891,7 +5891,7 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 18.4,
       "pointsPerGame": 7.4,
-      "reboundsPerGame": 6.0,
+      "reboundsPerGame": 6,
       "assistsPerGame": 1.3,
       "stealsPerGame": 0.3,
       "blocksPerGame": 0.1,
@@ -6002,8 +6002,8 @@ const basketballTransfers = [
       "minutesPerGame": 2.4,
       "pointsPerGame": 0.7,
       "reboundsPerGame": 0.4,
-      "assistsPerGame": 0.0,
-      "stealsPerGame": 0.0,
+      "assistsPerGame": 0,
+      "stealsPerGame": 0,
       "blocksPerGame": 0.3,
       "fieldGoalPercentage": 100,
       "threePointPercentage": 0,
@@ -6120,11 +6120,11 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 3.9,
-      "pointsPerGame": 1.0,
+      "pointsPerGame": 1,
       "reboundsPerGame": 0.6,
       "assistsPerGame": 0.1,
       "stealsPerGame": 0.1,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 25,
       "threePointPercentage": 33.3,
       "freeThrowPercentage": 60
@@ -6154,7 +6154,7 @@ const basketballTransfers = [
       "reboundsPerGame": 1.9,
       "assistsPerGame": 2.4,
       "stealsPerGame": 0.9,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 50.3,
       "threePointPercentage": 40.2,
       "freeThrowPercentage": 70.9
@@ -6184,7 +6184,7 @@ const basketballTransfers = [
       "reboundsPerGame": 3.3,
       "assistsPerGame": 0.3,
       "stealsPerGame": 0.5,
-      "blocksPerGame": 1.0,
+      "blocksPerGame": 1,
       "fieldGoalPercentage": 57.3,
       "threePointPercentage": 11.1,
       "freeThrowPercentage": 67.5
@@ -6216,7 +6216,7 @@ const basketballTransfers = [
       "stealsPerGame": 0.4,
       "blocksPerGame": 0.2,
       "fieldGoalPercentage": 45.5,
-      "threePointPercentage": 25.0,
+      "threePointPercentage": 25,
       "freeThrowPercentage": 77.8
     },
     "transferHistory": [
@@ -6244,7 +6244,7 @@ const basketballTransfers = [
       "reboundsPerGame": 1.9,
       "assistsPerGame": 1.8,
       "stealsPerGame": 0.4,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 40,
       "threePointPercentage": 35.2,
       "freeThrowPercentage": 82
@@ -6364,7 +6364,7 @@ const basketballTransfers = [
       "reboundsPerGame": 2.2,
       "assistsPerGame": 1.8,
       "stealsPerGame": 0.9,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 42.3,
       "threePointPercentage": 32.7,
       "freeThrowPercentage": 81.5
@@ -6451,7 +6451,7 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 30.1,
       "pointsPerGame": 10.5,
-      "reboundsPerGame": 4.0,
+      "reboundsPerGame": 4,
       "assistsPerGame": 1.4,
       "stealsPerGame": 0.8,
       "blocksPerGame": 0.5,
@@ -6478,7 +6478,17 @@ const basketballTransfers = [
     "destination": "Bryant",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 13,
+      "pointsPerGame": 2.6,
+      "reboundsPerGame": 1,
+      "assistsPerGame": 1.4,
+      "stealsPerGame": 0.6,
+      "blocksPerGame": 0,
+      "fieldGoalPercentage": 35.7,
+      "threePointPercentage": 24,
+      "freeThrowPercentage": 0
+    },
     "transferHistory": [
       {
         "recordId": "2957",
@@ -6679,10 +6689,10 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 20.0,
+      "minutesPerGame": 20,
       "pointsPerGame": 4.9,
       "reboundsPerGame": 5.1,
-      "assistsPerGame": 1.0,
+      "assistsPerGame": 1,
       "stealsPerGame": 0.2,
       "blocksPerGame": 0.7,
       "fieldGoalPercentage": 62,
@@ -6747,7 +6757,7 @@ const basketballTransfers = [
       "blocksPerGame": 0.6,
       "fieldGoalPercentage": 38.7,
       "threePointPercentage": 32.3,
-      "freeThrowPercentage": 60.0
+      "freeThrowPercentage": 60
     },
     "transferHistory": [
       {
@@ -6789,7 +6799,7 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 10.0,
+      "minutesPerGame": 10,
       "pointsPerGame": 2.1,
       "reboundsPerGame": 1.9,
       "assistsPerGame": 0.2,
@@ -6881,12 +6891,12 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 30.6,
       "pointsPerGame": 12.7,
-      "reboundsPerGame": 3.0,
+      "reboundsPerGame": 3,
       "assistsPerGame": 4.9,
-      "stealsPerGame": 2.0,
+      "stealsPerGame": 2,
       "blocksPerGame": 0.1,
       "fieldGoalPercentage": 43.7,
-      "threePointPercentage": 22.0,
+      "threePointPercentage": 22,
       "freeThrowPercentage": 74.6
     },
     "transferHistory": [
@@ -6929,9 +6939,9 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 17.0,
+      "minutesPerGame": 17,
       "pointsPerGame": 7.2,
-      "reboundsPerGame": 2.0,
+      "reboundsPerGame": 2,
       "assistsPerGame": 0.5,
       "stealsPerGame": 0.2,
       "blocksPerGame": 0.2,
@@ -6962,7 +6972,7 @@ const basketballTransfers = [
       "minutesPerGame": 28.6,
       "pointsPerGame": 11.5,
       "reboundsPerGame": 2.3,
-      "assistsPerGame": 2.0,
+      "assistsPerGame": 2,
       "stealsPerGame": 1.2,
       "blocksPerGame": 0.1,
       "fieldGoalPercentage": 46.9,
@@ -6994,7 +7004,7 @@ const basketballTransfers = [
       "reboundsPerGame": 1.1,
       "assistsPerGame": 0.5,
       "stealsPerGame": 0.5,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 41,
       "threePointPercentage": 36.8,
       "freeThrowPercentage": 72.7
@@ -7024,7 +7034,7 @@ const basketballTransfers = [
       "reboundsPerGame": 0.6,
       "assistsPerGame": 0.3,
       "stealsPerGame": 0.3,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 40.5,
       "threePointPercentage": 40.6,
       "freeThrowPercentage": 55.6
@@ -7054,7 +7064,7 @@ const basketballTransfers = [
       "reboundsPerGame": 1.6,
       "assistsPerGame": 1.4,
       "stealsPerGame": 0.4,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 39.5,
       "threePointPercentage": 17.2,
       "freeThrowPercentage": 58.3
@@ -7190,12 +7200,12 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 29.0,
+      "minutesPerGame": 29,
       "pointsPerGame": 9.8,
       "reboundsPerGame": 2.7,
       "assistsPerGame": 3.9,
       "stealsPerGame": 1.7,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 42.3,
       "threePointPercentage": 26.8,
       "freeThrowPercentage": 59.8
@@ -7351,7 +7361,7 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 22.8,
-      "pointsPerGame": 10.0,
+      "pointsPerGame": 10,
       "reboundsPerGame": 2.6,
       "assistsPerGame": 1.8,
       "stealsPerGame": 0.9,
@@ -7435,7 +7445,7 @@ const basketballTransfers = [
       "reboundsPerGame": 3.4,
       "assistsPerGame": 4.6,
       "stealsPerGame": 1.9,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 45.9,
       "threePointPercentage": 29.8,
       "freeThrowPercentage": 71.3
@@ -7491,7 +7501,7 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 25.1,
-      "pointsPerGame": 5.0,
+      "pointsPerGame": 5,
       "reboundsPerGame": 7.3,
       "assistsPerGame": 1.3,
       "stealsPerGame": 0.9,
@@ -7645,7 +7655,7 @@ const basketballTransfers = [
       "reboundsPerGame": 1.6,
       "assistsPerGame": 1.3,
       "stealsPerGame": 0.4,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 39.3,
       "threePointPercentage": 16.7,
       "freeThrowPercentage": 84.6
@@ -7691,7 +7701,7 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 7.3,
-      "pointsPerGame": 1.0,
+      "pointsPerGame": 1,
       "reboundsPerGame": 1.5,
       "assistsPerGame": 0.2,
       "stealsPerGame": 0.1,
@@ -7720,10 +7730,10 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 30.0,
+      "minutesPerGame": 30,
       "pointsPerGame": 11.5,
       "reboundsPerGame": 2.6,
-      "assistsPerGame": 1.0,
+      "assistsPerGame": 1,
       "stealsPerGame": 1.1,
       "blocksPerGame": 0.1,
       "fieldGoalPercentage": 41.4,
@@ -7841,7 +7851,7 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 32.1,
-      "pointsPerGame": 15.0,
+      "pointsPerGame": 15,
       "reboundsPerGame": 3.7,
       "assistsPerGame": 2.1,
       "stealsPerGame": 1.5,
@@ -7901,11 +7911,11 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 9.3,
-      "pointsPerGame": 2.0,
+      "pointsPerGame": 2,
       "reboundsPerGame": 0.7,
       "assistsPerGame": 0.3,
       "stealsPerGame": 0.3,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 32.8,
       "threePointPercentage": 33.3,
       "freeThrowPercentage": 83.3
@@ -7934,7 +7944,7 @@ const basketballTransfers = [
       "pointsPerGame": 13.9,
       "reboundsPerGame": 5.3,
       "assistsPerGame": 2.5,
-      "stealsPerGame": 1.0,
+      "stealsPerGame": 1,
       "blocksPerGame": 1.2,
       "fieldGoalPercentage": 47.4,
       "threePointPercentage": 40.3,
@@ -7965,7 +7975,7 @@ const basketballTransfers = [
       "reboundsPerGame": 0.4,
       "assistsPerGame": 0.1,
       "stealsPerGame": 0.1,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 25,
       "threePointPercentage": 15.4,
       "freeThrowPercentage": 50
@@ -8056,9 +8066,9 @@ const basketballTransfers = [
       "assistsPerGame": 0.3,
       "stealsPerGame": 0.3,
       "blocksPerGame": 0.1,
-      "fieldGoalPercentage": 50.0,
-      "threePointPercentage": 60.0,
-      "freeThrowPercentage": 50.0
+      "fieldGoalPercentage": 50,
+      "threePointPercentage": 60,
+      "freeThrowPercentage": 50
     },
     "transferHistory": [
       {
@@ -8079,7 +8089,17 @@ const basketballTransfers = [
     "destination": "Villanova",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 25.8,
+      "pointsPerGame": 14.1,
+      "reboundsPerGame": 2.9,
+      "assistsPerGame": 4.9,
+      "stealsPerGame": 1.4,
+      "blocksPerGame": 0.3,
+      "fieldGoalPercentage": 45.3,
+      "threePointPercentage": 27.6,
+      "freeThrowPercentage": 75.3
+    },
     "transferHistory": [
       {
         "recordId": "8987",
@@ -8132,12 +8152,12 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 18.9,
       "pointsPerGame": 8.1,
-      "reboundsPerGame": 4.0,
+      "reboundsPerGame": 4,
       "assistsPerGame": 0.4,
       "stealsPerGame": 0.4,
       "blocksPerGame": 1.4,
       "fieldGoalPercentage": 65.2,
-      "threePointPercentage": 0.0,
+      "threePointPercentage": 0,
       "freeThrowPercentage": 53.7
     },
     "transferHistory": [
@@ -8222,10 +8242,10 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 5.1,
       "pointsPerGame": 1.8,
-      "reboundsPerGame": 1.0,
+      "reboundsPerGame": 1,
       "assistsPerGame": 0.4,
       "stealsPerGame": 0.2,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 42.1,
       "threePointPercentage": 60,
       "freeThrowPercentage": 71.4
@@ -8311,7 +8331,7 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 13.4,
-      "pointsPerGame": 5.0,
+      "pointsPerGame": 5,
       "reboundsPerGame": 1.1,
       "assistsPerGame": 0.8,
       "stealsPerGame": 0.5,
@@ -8345,7 +8365,7 @@ const basketballTransfers = [
       "reboundsPerGame": 1.2,
       "assistsPerGame": 1.1,
       "stealsPerGame": 0.4,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 37.8,
       "threePointPercentage": 25.9,
       "freeThrowPercentage": 73.7
@@ -8405,7 +8425,7 @@ const basketballTransfers = [
       "reboundsPerGame": 4.3,
       "assistsPerGame": 1.5,
       "stealsPerGame": 1.4,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 42.2,
       "threePointPercentage": 26.9,
       "freeThrowPercentage": 80.2
@@ -8460,7 +8480,7 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 12.0,
+      "minutesPerGame": 12,
       "pointsPerGame": 8.3,
       "reboundsPerGame": 2.3,
       "assistsPerGame": 0.3,
@@ -8580,7 +8600,7 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 15.0,
+      "minutesPerGame": 15,
       "pointsPerGame": 5.7,
       "reboundsPerGame": 2.5,
       "assistsPerGame": 0.3,
@@ -8660,7 +8680,7 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 10.0,
+      "minutesPerGame": 10,
       "pointsPerGame": 3.2,
       "reboundsPerGame": 1.9,
       "assistsPerGame": 0.3,
@@ -8740,12 +8760,12 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 7.0,
-      "pointsPerGame": 1.0,
+      "minutesPerGame": 7,
+      "pointsPerGame": 1,
       "reboundsPerGame": 2.5,
-      "assistsPerGame": 0.0,
-      "stealsPerGame": 0.0,
-      "blocksPerGame": 0.0,
+      "assistsPerGame": 0,
+      "stealsPerGame": 0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 20,
       "threePointPercentage": 0,
       "freeThrowPercentage": 0
@@ -8775,7 +8795,7 @@ const basketballTransfers = [
       "reboundsPerGame": 1.6,
       "assistsPerGame": 0.2,
       "stealsPerGame": 0.2,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 23.5,
       "threePointPercentage": 24.7,
       "freeThrowPercentage": 81.3
@@ -8802,7 +8822,7 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 15.7,
       "pointsPerGame": 8.9,
-      "reboundsPerGame": 3.0,
+      "reboundsPerGame": 3,
       "assistsPerGame": 0.6,
       "stealsPerGame": 0.8,
       "blocksPerGame": 0.1,
@@ -8831,11 +8851,11 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 23.6,
-      "pointsPerGame": 14.0,
+      "pointsPerGame": 14,
       "reboundsPerGame": 4.8,
       "assistsPerGame": 0.8,
       "stealsPerGame": 0.6,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 61.7,
       "threePointPercentage": 25,
       "freeThrowPercentage": 46.3
@@ -9031,7 +9051,7 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 29.7,
-      "pointsPerGame": 13.0,
+      "pointsPerGame": 13,
       "reboundsPerGame": 5.6,
       "assistsPerGame": 2.3,
       "stealsPerGame": 0.6,
@@ -9065,7 +9085,7 @@ const basketballTransfers = [
       "reboundsPerGame": 1.6,
       "assistsPerGame": 1.2,
       "stealsPerGame": 0.3,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 31.6,
       "threePointPercentage": 23.8,
       "freeThrowPercentage": 78.9
@@ -9090,7 +9110,7 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 21.0,
+      "minutesPerGame": 21,
       "pointsPerGame": 7.2,
       "reboundsPerGame": 4.2,
       "assistsPerGame": 1.1,
@@ -9155,7 +9175,7 @@ const basketballTransfers = [
       "reboundsPerGame": 2.7,
       "assistsPerGame": 0.6,
       "stealsPerGame": 0.5,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 40.9,
       "threePointPercentage": 38.8,
       "freeThrowPercentage": 68.4
@@ -9215,10 +9235,10 @@ const basketballTransfers = [
       "reboundsPerGame": 0.7,
       "assistsPerGame": 0.4,
       "stealsPerGame": 0.3,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 35.6,
       "threePointPercentage": 21.7,
-      "freeThrowPercentage": 75.0
+      "freeThrowPercentage": 75
     },
     "transferHistory": [
       {
@@ -9275,7 +9295,7 @@ const basketballTransfers = [
       "reboundsPerGame": 0.6,
       "assistsPerGame": 0.6,
       "stealsPerGame": 0.4,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 31.5,
       "threePointPercentage": 27.9,
       "freeThrowPercentage": 100
@@ -9305,7 +9325,7 @@ const basketballTransfers = [
       "reboundsPerGame": 3.1,
       "assistsPerGame": 3.4,
       "stealsPerGame": 2.5,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 39.6,
       "threePointPercentage": 27.5,
       "freeThrowPercentage": 68.8
@@ -9333,7 +9353,7 @@ const basketballTransfers = [
       "minutesPerGame": 17.3,
       "pointsPerGame": 10.3,
       "reboundsPerGame": 3.7,
-      "assistsPerGame": 3.0,
+      "assistsPerGame": 3,
       "stealsPerGame": 1.3,
       "blocksPerGame": 0.3,
       "fieldGoalPercentage": 52.6,
@@ -9365,7 +9385,7 @@ const basketballTransfers = [
       "reboundsPerGame": 0.4,
       "assistsPerGame": 0.2,
       "stealsPerGame": 0.2,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 80,
       "threePointPercentage": 50,
       "freeThrowPercentage": 0
@@ -9427,7 +9447,7 @@ const basketballTransfers = [
       "stealsPerGame": 0.4,
       "blocksPerGame": 1.7,
       "fieldGoalPercentage": 69.4,
-      "threePointPercentage": 0.0,
+      "threePointPercentage": 0,
       "freeThrowPercentage": 67.1
     },
     "transferHistory": [
@@ -9453,7 +9473,7 @@ const basketballTransfers = [
       "minutesPerGame": 19.4,
       "pointsPerGame": 5.5,
       "reboundsPerGame": 2.8,
-      "assistsPerGame": 3.0,
+      "assistsPerGame": 3,
       "stealsPerGame": 0.8,
       "blocksPerGame": 0.1,
       "fieldGoalPercentage": 37.1,
@@ -9560,7 +9580,7 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 9.0,
+      "minutesPerGame": 8.8,
       "pointsPerGame": 2.2,
       "reboundsPerGame": 3.5,
       "assistsPerGame": 0.3,
@@ -9592,7 +9612,7 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 12.6,
       "pointsPerGame": 6.1,
-      "reboundsPerGame": 2.0,
+      "reboundsPerGame": 2,
       "assistsPerGame": 0.4,
       "stealsPerGame": 0.6,
       "blocksPerGame": 0.2,
@@ -9625,7 +9645,7 @@ const basketballTransfers = [
       "reboundsPerGame": 0.6,
       "assistsPerGame": 0.1,
       "stealsPerGame": 0.1,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 50,
       "threePointPercentage": 50,
       "freeThrowPercentage": 50
@@ -9830,12 +9850,12 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 7.0,
-      "pointsPerGame": 0.0,
-      "reboundsPerGame": 1.0,
-      "assistsPerGame": 0.0,
-      "stealsPerGame": 0.0,
-      "blocksPerGame": 1.0,
+      "minutesPerGame": 7,
+      "pointsPerGame": 0,
+      "reboundsPerGame": 1,
+      "assistsPerGame": 0,
+      "stealsPerGame": 0,
+      "blocksPerGame": 1,
       "fieldGoalPercentage": 0,
       "threePointPercentage": 0,
       "freeThrowPercentage": 0
@@ -9885,7 +9905,7 @@ const basketballTransfers = [
       "reboundsPerGame": 3.9,
       "assistsPerGame": 4.5,
       "stealsPerGame": 0.7,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 48.9,
       "threePointPercentage": 31.5,
       "freeThrowPercentage": 82.5
@@ -9913,8 +9933,8 @@ const basketballTransfers = [
       "minutesPerGame": 2.5,
       "pointsPerGame": 0.5,
       "reboundsPerGame": 0.8,
-      "assistsPerGame": 0.0,
-      "stealsPerGame": 0.0,
+      "assistsPerGame": 0,
+      "stealsPerGame": 0,
       "blocksPerGame": 0.5,
       "fieldGoalPercentage": 100,
       "threePointPercentage": 0,
@@ -9942,7 +9962,7 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 22.6,
       "pointsPerGame": 6.2,
-      "reboundsPerGame": 2.0,
+      "reboundsPerGame": 2,
       "assistsPerGame": 1.2,
       "stealsPerGame": 0.5,
       "blocksPerGame": 0.1,
@@ -9970,13 +9990,13 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 29.0,
+      "minutesPerGame": 29,
       "pointsPerGame": 9.3,
       "reboundsPerGame": 7.4,
       "assistsPerGame": 1.4,
       "stealsPerGame": 1.4,
-      "blocksPerGame": 1.5,
-      "fieldGoalPercentage": 52.4,
+      "blocksPerGame": 1.4,
+      "fieldGoalPercentage": 52.7,
       "threePointPercentage": 0,
       "freeThrowPercentage": 52.1
     },
@@ -10006,7 +10026,7 @@ const basketballTransfers = [
       "assistsPerGame": 1.1,
       "stealsPerGame": 0.8,
       "blocksPerGame": 0.9,
-      "fieldGoalPercentage": 50.0,
+      "fieldGoalPercentage": 50,
       "threePointPercentage": 44.4,
       "freeThrowPercentage": 61.1
     },
@@ -10061,7 +10081,7 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 22.8,
-      "pointsPerGame": 10.0,
+      "pointsPerGame": 10,
       "reboundsPerGame": 3.8,
       "assistsPerGame": 0.9,
       "stealsPerGame": 0.6,
@@ -10135,7 +10155,7 @@ const basketballTransfers = [
       "reboundsPerGame": 1.6,
       "assistsPerGame": 2.6,
       "stealsPerGame": 1.1,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 36.5,
       "threePointPercentage": 32.9,
       "freeThrowPercentage": 88.5
@@ -10331,9 +10351,9 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 10.5,
-      "pointsPerGame": 3.0,
+      "pointsPerGame": 3,
       "reboundsPerGame": 1.2,
-      "assistsPerGame": 1.0,
+      "assistsPerGame": 1,
       "stealsPerGame": 0.2,
       "blocksPerGame": 0.2,
       "fieldGoalPercentage": 43.9,
@@ -10451,7 +10471,7 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 18.5,
-      "pointsPerGame": 9.0,
+      "pointsPerGame": 9,
       "reboundsPerGame": 1.1,
       "assistsPerGame": 1.6,
       "stealsPerGame": 0.5,
@@ -10560,15 +10580,15 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 24.0,
-      "pointsPerGame": 8.0,
-      "reboundsPerGame": 5.0,
-      "assistsPerGame": 1.0,
-      "stealsPerGame": 0.0,
-      "blocksPerGame": 0.0,
-      "fieldGoalPercentage": 30.0,
+      "minutesPerGame": 24,
+      "pointsPerGame": 8,
+      "reboundsPerGame": 5,
+      "assistsPerGame": 1,
+      "stealsPerGame": 0,
+      "blocksPerGame": 0,
+      "fieldGoalPercentage": 30,
       "threePointPercentage": 28.6,
-      "freeThrowPercentage": 0.0
+      "freeThrowPercentage": 0
     },
     "transferHistory": [
       {
@@ -10595,7 +10615,7 @@ const basketballTransfers = [
       "reboundsPerGame": 0.2,
       "assistsPerGame": 0.2,
       "stealsPerGame": 0.1,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 57.1,
       "threePointPercentage": 0,
       "freeThrowPercentage": 40
@@ -10687,8 +10707,8 @@ const basketballTransfers = [
       "stealsPerGame": 0.1,
       "blocksPerGame": 0.2,
       "fieldGoalPercentage": 64.3,
-      "threePointPercentage": 0.0,
-      "freeThrowPercentage": 50.0
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 50
     },
     "transferHistory": [
       {
@@ -10746,7 +10766,7 @@ const basketballTransfers = [
       "assistsPerGame": 1.4,
       "stealsPerGame": 0.8,
       "blocksPerGame": 0.4,
-      "fieldGoalPercentage": 54.0,
+      "fieldGoalPercentage": 54,
       "threePointPercentage": 33.3,
       "freeThrowPercentage": 78.8
     },
@@ -10776,8 +10796,8 @@ const basketballTransfers = [
       "assistsPerGame": 0.1,
       "stealsPerGame": 0.5,
       "blocksPerGame": 0.7,
-      "fieldGoalPercentage": 61.0,
-      "threePointPercentage": 0.0,
+      "fieldGoalPercentage": 61,
+      "threePointPercentage": 0,
       "freeThrowPercentage": 53.6
     },
     "transferHistory": [
@@ -10803,9 +10823,9 @@ const basketballTransfers = [
       "minutesPerGame": 26.6,
       "pointsPerGame": 10.5,
       "reboundsPerGame": 2.8,
-      "assistsPerGame": 2.0,
+      "assistsPerGame": 2,
       "stealsPerGame": 0.5,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 39.7,
       "threePointPercentage": 38,
       "freeThrowPercentage": 77
@@ -10831,7 +10851,7 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 36.7,
-      "pointsPerGame": 18.0,
+      "pointsPerGame": 18,
       "reboundsPerGame": 6.9,
       "assistsPerGame": 2.2,
       "stealsPerGame": 1.3,
@@ -10912,12 +10932,12 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 13.9,
       "pointsPerGame": 3.4,
-      "reboundsPerGame": 4.0,
+      "reboundsPerGame": 4,
       "assistsPerGame": 0.2,
       "stealsPerGame": 0.5,
       "blocksPerGame": 1.3,
       "fieldGoalPercentage": 51.5,
-      "threePointPercentage": 0.0,
+      "threePointPercentage": 0,
       "freeThrowPercentage": 63.9
     },
     "transferHistory": [
@@ -10943,9 +10963,9 @@ const basketballTransfers = [
       "minutesPerGame": 9.4,
       "pointsPerGame": 3.8,
       "reboundsPerGame": 0.5,
-      "assistsPerGame": 1.0,
+      "assistsPerGame": 1,
       "stealsPerGame": 0.4,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 45.2,
       "threePointPercentage": 46.6,
       "freeThrowPercentage": 100
@@ -11243,9 +11263,9 @@ const basketballTransfers = [
       "minutesPerGame": 2.4,
       "pointsPerGame": 0.9,
       "reboundsPerGame": 0.1,
-      "assistsPerGame": 0.0,
+      "assistsPerGame": 0,
       "stealsPerGame": 0.1,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 33.3,
       "threePointPercentage": 0,
       "freeThrowPercentage": 100
@@ -11272,8 +11292,8 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 21.2,
       "pointsPerGame": 10.5,
-      "reboundsPerGame": 2.0,
-      "assistsPerGame": 1.1,
+      "reboundsPerGame": 2,
+      "assistsPerGame": 1,
       "stealsPerGame": 0.7,
       "blocksPerGame": 0.1,
       "fieldGoalPercentage": 43.7,
@@ -11350,12 +11370,12 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 17.0,
-      "pointsPerGame": 7.0,
-      "reboundsPerGame": 2.0,
+      "minutesPerGame": 17,
+      "pointsPerGame": 7,
+      "reboundsPerGame": 2,
       "assistsPerGame": 0.9,
       "stealsPerGame": 0.3,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 45.5,
       "threePointPercentage": 45.1,
       "freeThrowPercentage": 81.4
@@ -11417,7 +11437,7 @@ const basketballTransfers = [
       "stealsPerGame": 0.3,
       "blocksPerGame": 0.5,
       "fieldGoalPercentage": 49.5,
-      "threePointPercentage": 0.0,
+      "threePointPercentage": 0,
       "freeThrowPercentage": 75.8
     },
     "transferHistory": [
@@ -11502,7 +11522,7 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 26.4,
       "pointsPerGame": 15.3,
-      "reboundsPerGame": 4.0,
+      "reboundsPerGame": 4,
       "assistsPerGame": 3.6,
       "stealsPerGame": 1.2,
       "blocksPerGame": 0.3,
@@ -11535,7 +11555,7 @@ const basketballTransfers = [
       "reboundsPerGame": 2.3,
       "assistsPerGame": 0.4,
       "stealsPerGame": 0.1,
-      "blocksPerGame": 1.0,
+      "blocksPerGame": 1,
       "fieldGoalPercentage": 78.8,
       "threePointPercentage": 0,
       "freeThrowPercentage": 35.3
@@ -11560,10 +11580,10 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 2.3,
+      "minutesPerGame": 2.1,
       "pointsPerGame": 0.4,
       "reboundsPerGame": 0.1,
-      "assistsPerGame": 0.0,
+      "assistsPerGame": 0,
       "stealsPerGame": 0.1,
       "blocksPerGame": 0.1,
       "fieldGoalPercentage": 0,
@@ -11620,12 +11640,12 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 24.0,
+      "minutesPerGame": 24,
       "pointsPerGame": 12.8,
       "reboundsPerGame": 9.1,
       "assistsPerGame": 0.7,
       "stealsPerGame": 0.5,
-      "blocksPerGame": 1.0,
+      "blocksPerGame": 1,
       "fieldGoalPercentage": 53.3,
       "threePointPercentage": 31.3,
       "freeThrowPercentage": 70.6
@@ -11652,7 +11672,7 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 17.3,
       "pointsPerGame": 4.4,
-      "reboundsPerGame": 3.0,
+      "reboundsPerGame": 3,
       "assistsPerGame": 1.1,
       "stealsPerGame": 0.5,
       "blocksPerGame": 0.3,
@@ -11716,7 +11736,7 @@ const basketballTransfers = [
       "assistsPerGame": 0.1,
       "stealsPerGame": 0.4,
       "blocksPerGame": 0.1,
-      "fieldGoalPercentage": 29.0,
+      "fieldGoalPercentage": 29,
       "threePointPercentage": 18.2,
       "freeThrowPercentage": 55.6
     },
@@ -11745,7 +11765,7 @@ const basketballTransfers = [
       "reboundsPerGame": 3.5,
       "assistsPerGame": 4.4,
       "stealsPerGame": 0.5,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 40.1,
       "threePointPercentage": 38.7,
       "freeThrowPercentage": 83.3
@@ -11803,9 +11823,9 @@ const basketballTransfers = [
       "minutesPerGame": 26.7,
       "pointsPerGame": 16.5,
       "reboundsPerGame": 2.8,
-      "assistsPerGame": 3.0,
+      "assistsPerGame": 3,
       "stealsPerGame": 0.8,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 43.2,
       "threePointPercentage": 34.3,
       "freeThrowPercentage": 79
@@ -11830,7 +11850,7 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 23.0,
+      "minutesPerGame": 23,
       "pointsPerGame": 11.6,
       "reboundsPerGame": 5.6,
       "assistsPerGame": 1.9,
@@ -11865,7 +11885,7 @@ const basketballTransfers = [
       "reboundsPerGame": 0.6,
       "assistsPerGame": 0.6,
       "stealsPerGame": 0.1,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 44.7,
       "threePointPercentage": 43.5,
       "freeThrowPercentage": 25
@@ -11925,7 +11945,7 @@ const basketballTransfers = [
       "reboundsPerGame": 1.7,
       "assistsPerGame": 1.8,
       "stealsPerGame": 0.6,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 35.4,
       "threePointPercentage": 34,
       "freeThrowPercentage": 64.6
@@ -11954,7 +11974,7 @@ const basketballTransfers = [
       "pointsPerGame": 10.5,
       "reboundsPerGame": 4.7,
       "assistsPerGame": 0.8,
-      "stealsPerGame": 1.0,
+      "stealsPerGame": 1,
       "blocksPerGame": 0.3,
       "fieldGoalPercentage": 38.5,
       "threePointPercentage": 35.4,
@@ -11988,7 +12008,7 @@ const basketballTransfers = [
       "blocksPerGame": 0.5,
       "fieldGoalPercentage": 44.4,
       "threePointPercentage": 30.2,
-      "freeThrowPercentage": 83.0
+      "freeThrowPercentage": 83
     },
     "transferHistory": [
       {
@@ -12011,10 +12031,10 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 1.2,
-      "pointsPerGame": 0.0,
+      "pointsPerGame": 0,
       "reboundsPerGame": 0.8,
-      "assistsPerGame": 0.0,
-      "stealsPerGame": 0.0,
+      "assistsPerGame": 0,
+      "stealsPerGame": 0,
       "blocksPerGame": 0.2,
       "fieldGoalPercentage": 0,
       "threePointPercentage": 0,
@@ -12045,7 +12065,7 @@ const basketballTransfers = [
       "reboundsPerGame": 0.2,
       "assistsPerGame": 0.5,
       "stealsPerGame": 0.2,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 50,
       "threePointPercentage": 50,
       "freeThrowPercentage": 100
@@ -12070,7 +12090,7 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 27.0,
+      "minutesPerGame": 27,
       "pointsPerGame": 13.1,
       "reboundsPerGame": 3.4,
       "assistsPerGame": 2.1,
@@ -12130,14 +12150,14 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 21.6,
+      "minutesPerGame": 21.5,
       "pointsPerGame": 4.1,
       "reboundsPerGame": 3.5,
-      "assistsPerGame": 2.0,
+      "assistsPerGame": 2,
       "stealsPerGame": 0.7,
       "blocksPerGame": 0.2,
       "fieldGoalPercentage": 29.8,
-      "threePointPercentage": 23.8,
+      "threePointPercentage": 22.7,
       "freeThrowPercentage": 63.6
     },
     "transferHistory": [
@@ -12163,7 +12183,7 @@ const basketballTransfers = [
       "minutesPerGame": 17.2,
       "pointsPerGame": 4.1,
       "reboundsPerGame": 2.6,
-      "assistsPerGame": 1.0,
+      "assistsPerGame": 1,
       "stealsPerGame": 0.3,
       "blocksPerGame": 0.6,
       "fieldGoalPercentage": 47,
@@ -12190,14 +12210,14 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 26.9,
+      "minutesPerGame": 26.8,
       "pointsPerGame": 8.6,
       "reboundsPerGame": 2.8,
-      "assistsPerGame": 1.9,
+      "assistsPerGame": 2,
       "stealsPerGame": 0.8,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 38.6,
-      "threePointPercentage": 27.7,
+      "threePointPercentage": 28,
       "freeThrowPercentage": 87.9
     },
     "transferHistory": [
@@ -12490,11 +12510,11 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 34.0,
+      "minutesPerGame": 34,
       "pointsPerGame": 16.4,
       "reboundsPerGame": 3.6,
       "assistsPerGame": 2.4,
-      "stealsPerGame": 1.0,
+      "stealsPerGame": 1,
       "blocksPerGame": 0.1,
       "fieldGoalPercentage": 39.1,
       "threePointPercentage": 35.2,
@@ -12523,7 +12543,7 @@ const basketballTransfers = [
       "minutesPerGame": 6.5,
       "pointsPerGame": 1.5,
       "reboundsPerGame": 1.5,
-      "assistsPerGame": 0.0,
+      "assistsPerGame": 0,
       "stealsPerGame": 0.3,
       "blocksPerGame": 0.4,
       "fieldGoalPercentage": 36.4,
@@ -12551,8 +12571,8 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 22.2,
-      "pointsPerGame": 5.0,
-      "reboundsPerGame": 5.0,
+      "pointsPerGame": 5,
+      "reboundsPerGame": 5,
       "assistsPerGame": 0.8,
       "stealsPerGame": 0.6,
       "blocksPerGame": 0.6,
@@ -12613,9 +12633,9 @@ const basketballTransfers = [
       "minutesPerGame": 4.5,
       "pointsPerGame": 0.8,
       "reboundsPerGame": 0.7,
-      "assistsPerGame": 0.0,
-      "stealsPerGame": 0.0,
-      "blocksPerGame": 0.0,
+      "assistsPerGame": 0,
+      "stealsPerGame": 0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 60,
       "threePointPercentage": 0,
       "freeThrowPercentage": 66.7
@@ -12640,7 +12660,7 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 25.0,
+      "minutesPerGame": 25,
       "pointsPerGame": 6.9,
       "reboundsPerGame": 8.3,
       "assistsPerGame": 0.8,
@@ -12670,13 +12690,13 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 21.5,
+      "minutesPerGame": 21.4,
       "pointsPerGame": 8.3,
       "reboundsPerGame": 3.8,
-      "assistsPerGame": 1.0,
+      "assistsPerGame": 1,
       "stealsPerGame": 0.4,
       "blocksPerGame": 0.9,
-      "fieldGoalPercentage": 53.2,
+      "fieldGoalPercentage": 52.9,
       "threePointPercentage": 33.3,
       "freeThrowPercentage": 64.5
     },
@@ -12731,7 +12751,7 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 18.3,
-      "pointsPerGame": 10.0,
+      "pointsPerGame": 10,
       "reboundsPerGame": 5.4,
       "assistsPerGame": 0.8,
       "stealsPerGame": 0.3,
@@ -12794,10 +12814,10 @@ const basketballTransfers = [
       "pointsPerGame": 4.1,
       "reboundsPerGame": 3.2,
       "assistsPerGame": 0.8,
-      "stealsPerGame": 1.0,
+      "stealsPerGame": 1,
       "blocksPerGame": 0.2,
       "fieldGoalPercentage": 41.9,
-      "threePointPercentage": 22.0,
+      "threePointPercentage": 22,
       "freeThrowPercentage": 57.5
     },
     "transferHistory": [
@@ -12853,7 +12873,7 @@ const basketballTransfers = [
       "minutesPerGame": 8.4,
       "pointsPerGame": 2.6,
       "reboundsPerGame": 1.9,
-      "assistsPerGame": 0.0,
+      "assistsPerGame": 0,
       "stealsPerGame": 0.2,
       "blocksPerGame": 1.2,
       "fieldGoalPercentage": 66.7,
@@ -12881,11 +12901,11 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 17.6,
-      "pointsPerGame": 4.0,
+      "pointsPerGame": 4,
       "reboundsPerGame": 1.2,
       "assistsPerGame": 2.5,
       "stealsPerGame": 0.5,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 32.8,
       "threePointPercentage": 30.5,
       "freeThrowPercentage": 69.2
@@ -12911,7 +12931,7 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 28.6,
-      "pointsPerGame": 12.0,
+      "pointsPerGame": 12,
       "reboundsPerGame": 8.7,
       "assistsPerGame": 0.9,
       "stealsPerGame": 0.4,
@@ -12940,11 +12960,11 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 31.0,
+      "minutesPerGame": 31,
       "pointsPerGame": 13.3,
       "reboundsPerGame": 7.4,
-      "assistsPerGame": 2.0,
-      "stealsPerGame": 1.0,
+      "assistsPerGame": 2,
+      "stealsPerGame": 1,
       "blocksPerGame": 1.3,
       "fieldGoalPercentage": 45.4,
       "threePointPercentage": 30.4,
@@ -12972,7 +12992,7 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 33.3,
       "pointsPerGame": 9.2,
-      "reboundsPerGame": 7.0,
+      "reboundsPerGame": 7,
       "assistsPerGame": 3.1,
       "stealsPerGame": 1.2,
       "blocksPerGame": 0.1,
@@ -13000,10 +13020,10 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 21.0,
+      "minutesPerGame": 21,
       "pointsPerGame": 9.8,
       "reboundsPerGame": 5.7,
-      "assistsPerGame": 1.0,
+      "assistsPerGame": 1,
       "stealsPerGame": 0.7,
       "blocksPerGame": 1.1,
       "fieldGoalPercentage": 59,
@@ -13074,7 +13094,7 @@ const basketballTransfers = [
       "pointsPerGame": 2.1,
       "reboundsPerGame": 1.9,
       "assistsPerGame": 0.2,
-      "stealsPerGame": 0.0,
+      "stealsPerGame": 0,
       "blocksPerGame": 0.2,
       "fieldGoalPercentage": 31.3,
       "threePointPercentage": 0,
@@ -13107,8 +13127,8 @@ const basketballTransfers = [
       "stealsPerGame": 0.1,
       "blocksPerGame": 0.3,
       "fieldGoalPercentage": 33.3,
-      "threePointPercentage": 0.0,
-      "freeThrowPercentage": 50.0
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 50
     },
     "transferHistory": [
       {
@@ -13130,15 +13150,15 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 1.0,
-      "pointsPerGame": 0.0,
-      "reboundsPerGame": 1.0,
-      "assistsPerGame": 0.0,
-      "stealsPerGame": 0.0,
-      "blocksPerGame": 0.0,
-      "fieldGoalPercentage": 0.0,
-      "threePointPercentage": 0.0,
-      "freeThrowPercentage": 0.0
+      "minutesPerGame": 1,
+      "pointsPerGame": 0,
+      "reboundsPerGame": 1,
+      "assistsPerGame": 0,
+      "stealsPerGame": 0,
+      "blocksPerGame": 0,
+      "fieldGoalPercentage": 0,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 0
     },
     "transferHistory": [
       {
@@ -13161,9 +13181,9 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 13.3,
-      "pointsPerGame": 4.0,
+      "pointsPerGame": 4,
       "reboundsPerGame": 2.3,
-      "assistsPerGame": 1.0,
+      "assistsPerGame": 1,
       "stealsPerGame": 0.4,
       "blocksPerGame": 0.2,
       "fieldGoalPercentage": 48.3,
@@ -13192,10 +13212,10 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 1.9,
       "pointsPerGame": 0.2,
-      "reboundsPerGame": 0.0,
-      "assistsPerGame": 0.0,
+      "reboundsPerGame": 0,
+      "assistsPerGame": 0,
       "stealsPerGame": 0.1,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 33.3,
       "threePointPercentage": 0,
       "freeThrowPercentage": 0
@@ -13252,10 +13272,10 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 21.1,
       "pointsPerGame": 9.3,
-      "reboundsPerGame": 5.0,
-      "assistsPerGame": 1.0,
+      "reboundsPerGame": 5,
+      "assistsPerGame": 1,
       "stealsPerGame": 0.4,
-      "blocksPerGame": 1.0,
+      "blocksPerGame": 1,
       "fieldGoalPercentage": 51.5,
       "threePointPercentage": 29.3,
       "freeThrowPercentage": 80
@@ -13285,7 +13305,7 @@ const basketballTransfers = [
       "reboundsPerGame": 4.8,
       "assistsPerGame": 1.5,
       "stealsPerGame": 0.6,
-      "blocksPerGame": 1.0,
+      "blocksPerGame": 1,
       "fieldGoalPercentage": 52.2,
       "threePointPercentage": 27.8,
       "freeThrowPercentage": 62.6
@@ -13317,8 +13337,8 @@ const basketballTransfers = [
       "stealsPerGame": 0.1,
       "blocksPerGame": 0.2,
       "fieldGoalPercentage": 79.6,
-      "threePointPercentage": 0.0,
-      "freeThrowPercentage": 50.0
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 50
     },
     "transferHistory": [
       {
@@ -13370,12 +13390,12 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 3.0,
+      "minutesPerGame": 3,
       "pointsPerGame": 0.5,
       "reboundsPerGame": 0.2,
-      "assistsPerGame": 0.0,
-      "stealsPerGame": 0.0,
-      "blocksPerGame": 0.0,
+      "assistsPerGame": 0,
+      "stealsPerGame": 0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 0,
       "threePointPercentage": 0,
       "freeThrowPercentage": 100
@@ -13405,7 +13425,7 @@ const basketballTransfers = [
       "reboundsPerGame": 0.6,
       "assistsPerGame": 0.4,
       "stealsPerGame": 0.2,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 21.4,
       "threePointPercentage": 25,
       "freeThrowPercentage": 100
@@ -13463,7 +13483,7 @@ const basketballTransfers = [
       "minutesPerGame": 17.6,
       "pointsPerGame": 5.3,
       "reboundsPerGame": 1.6,
-      "assistsPerGame": 1.0,
+      "assistsPerGame": 1,
       "stealsPerGame": 0.5,
       "blocksPerGame": 0.1,
       "fieldGoalPercentage": 42.6,
@@ -13552,7 +13572,7 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 26.1,
       "pointsPerGame": 17.1,
-      "reboundsPerGame": 5.0,
+      "reboundsPerGame": 5,
       "assistsPerGame": 2.1,
       "stealsPerGame": 0.9,
       "blocksPerGame": 0.4,
@@ -13750,7 +13770,7 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 19.0,
+      "minutesPerGame": 19,
       "pointsPerGame": 5.4,
       "reboundsPerGame": 3.3,
       "assistsPerGame": 1.6,
@@ -13831,36 +13851,6 @@ const basketballTransfers = [
     "needsReview": false
   },
   {
-    "playerId": "46083933",
-    "name": "Elijah Fisher",
-    "sport": "basketball",
-    "position": "SF",
-    "previousSchool": "Seton Hall",
-    "destination": "",
-    "season": 2026,
-    "profileUrl": "",
-    "stats": {
-      "minutesPerGame": 20.7,
-      "pointsPerGame": 6.6,
-      "reboundsPerGame": 2.9,
-      "assistsPerGame": 0.8,
-      "stealsPerGame": 0.9,
-      "blocksPerGame": 0.5,
-      "fieldGoalPercentage": 45.5,
-      "threePointPercentage": 23.7,
-      "freeThrowPercentage": 69.6
-    },
-    "transferHistory": [
-      {
-        "recordId": "78562",
-        "previousSchool": "Seton Hall",
-        "destination": "",
-        "season": "2026"
-      }
-    ],
-    "needsReview": false
-  },
-  {
     "playerId": "46153447",
     "name": "Jordan Fisher",
     "sport": "basketball",
@@ -13875,7 +13865,7 @@ const basketballTransfers = [
       "reboundsPerGame": 0.4,
       "assistsPerGame": 0.2,
       "stealsPerGame": 0.4,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 50,
       "threePointPercentage": 20,
       "freeThrowPercentage": 66.7
@@ -13961,7 +13951,7 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 34.5,
-      "pointsPerGame": 15.0,
+      "pointsPerGame": 15,
       "reboundsPerGame": 4.5,
       "assistsPerGame": 2.6,
       "stealsPerGame": 1.7,
@@ -13990,12 +13980,12 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 2.0,
-      "pointsPerGame": 0.0,
-      "reboundsPerGame": 1.0,
-      "assistsPerGame": 0.0,
-      "stealsPerGame": 0.0,
-      "blocksPerGame": 0.0,
+      "minutesPerGame": 2,
+      "pointsPerGame": 0,
+      "reboundsPerGame": 1,
+      "assistsPerGame": 0,
+      "stealsPerGame": 0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 0,
       "threePointPercentage": 0,
       "freeThrowPercentage": 0
@@ -14058,7 +14048,8 @@ const basketballTransfers = [
         "season": "2026"
       }
     ],
-    "needsReview": false
+    "needsReview": false,
+    "seasonNote": "Redshirted at Old Dominion during the 2025–26 season."
   },
   {
     "playerId": "46148873",
@@ -14071,11 +14062,11 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 28.3,
-      "pointsPerGame": 7.0,
+      "pointsPerGame": 7,
       "reboundsPerGame": 3.8,
       "assistsPerGame": 3.1,
       "stealsPerGame": 1.8,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 46.9,
       "threePointPercentage": 37.7,
       "freeThrowPercentage": 70
@@ -14136,7 +14127,7 @@ const basketballTransfers = [
       "assistsPerGame": 2.2,
       "stealsPerGame": 0.9,
       "blocksPerGame": 0.2,
-      "fieldGoalPercentage": 50.0,
+      "fieldGoalPercentage": 50,
       "threePointPercentage": 33.3,
       "freeThrowPercentage": 76.7
     },
@@ -14250,12 +14241,12 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 4.0,
+      "minutesPerGame": 4,
       "pointsPerGame": 1.2,
       "reboundsPerGame": 0.4,
-      "assistsPerGame": 0.0,
+      "assistsPerGame": 0,
       "stealsPerGame": 0.2,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 28.6,
       "threePointPercentage": 28.6,
       "freeThrowPercentage": 0
@@ -14392,10 +14383,10 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 20.7,
       "pointsPerGame": 5.9,
-      "reboundsPerGame": 2.0,
+      "reboundsPerGame": 2,
       "assistsPerGame": 1.9,
       "stealsPerGame": 0.9,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 33.9,
       "threePointPercentage": 29.7,
       "freeThrowPercentage": 84
@@ -14421,7 +14412,7 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 28.2,
-      "pointsPerGame": 12.0,
+      "pointsPerGame": 12,
       "reboundsPerGame": 7.2,
       "assistsPerGame": 0.9,
       "stealsPerGame": 0.9,
@@ -14482,12 +14473,12 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 26.9,
       "pointsPerGame": 9.2,
-      "reboundsPerGame": 5.3,
+      "reboundsPerGame": 5.2,
       "assistsPerGame": 1.2,
       "stealsPerGame": 1.3,
       "blocksPerGame": 0.6,
-      "fieldGoalPercentage": 44.2,
-      "threePointPercentage": 34,
+      "fieldGoalPercentage": 44.4,
+      "threePointPercentage": 34.3,
       "freeThrowPercentage": 69.9
     },
     "transferHistory": [
@@ -14512,7 +14503,7 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 17.1,
       "pointsPerGame": 6.2,
-      "reboundsPerGame": 2.0,
+      "reboundsPerGame": 2,
       "assistsPerGame": 1.2,
       "stealsPerGame": 0.5,
       "blocksPerGame": 0.1,
@@ -14541,8 +14532,8 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 11.8,
-      "pointsPerGame": 5.0,
-      "reboundsPerGame": 4.0,
+      "pointsPerGame": 5,
+      "reboundsPerGame": 4,
       "assistsPerGame": 0.9,
       "stealsPerGame": 0.5,
       "blocksPerGame": 0.8,
@@ -14625,7 +14616,7 @@ const basketballTransfers = [
       "reboundsPerGame": 2.5,
       "assistsPerGame": 1.4,
       "stealsPerGame": 1.1,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 42,
       "threePointPercentage": 40.5,
       "freeThrowPercentage": 75
@@ -14653,7 +14644,7 @@ const basketballTransfers = [
       "minutesPerGame": 29.9,
       "pointsPerGame": 16.4,
       "reboundsPerGame": 3.2,
-      "assistsPerGame": 4.0,
+      "assistsPerGame": 4,
       "stealsPerGame": 0.8,
       "blocksPerGame": 0.1,
       "fieldGoalPercentage": 55.7,
@@ -14684,8 +14675,8 @@ const basketballTransfers = [
       "pointsPerGame": 2.7,
       "reboundsPerGame": 0.8,
       "assistsPerGame": 0.3,
-      "stealsPerGame": 0.0,
-      "blocksPerGame": 0.0,
+      "stealsPerGame": 0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 40.4,
       "threePointPercentage": 38.5,
       "freeThrowPercentage": 62.5
@@ -14710,8 +14701,8 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 22.0,
-      "pointsPerGame": 9.0,
+      "minutesPerGame": 22,
+      "pointsPerGame": 9,
       "reboundsPerGame": 6.1,
       "assistsPerGame": 1.2,
       "stealsPerGame": 0.5,
@@ -14740,7 +14731,7 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 24.0,
+      "minutesPerGame": 24,
       "pointsPerGame": 12.7,
       "reboundsPerGame": 7.8,
       "assistsPerGame": 1.4,
@@ -14804,8 +14795,8 @@ const basketballTransfers = [
       "pointsPerGame": 2.2,
       "reboundsPerGame": 2.4,
       "assistsPerGame": 1.2,
-      "stealsPerGame": 1.0,
-      "blocksPerGame": 0.0,
+      "stealsPerGame": 1,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 75,
       "threePointPercentage": 0,
       "freeThrowPercentage": 85.7
@@ -14863,9 +14854,9 @@ const basketballTransfers = [
       "minutesPerGame": 2.5,
       "pointsPerGame": 0.4,
       "reboundsPerGame": 0.1,
-      "assistsPerGame": 0.0,
+      "assistsPerGame": 0,
       "stealsPerGame": 0.1,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 42.9,
       "threePointPercentage": 0,
       "freeThrowPercentage": 0
@@ -14922,10 +14913,10 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 2.6,
       "pointsPerGame": 2.6,
-      "reboundsPerGame": 0.0,
-      "assistsPerGame": 0.0,
+      "reboundsPerGame": 0,
+      "assistsPerGame": 0,
       "stealsPerGame": 0.2,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 66.7,
       "threePointPercentage": 25,
       "freeThrowPercentage": 0
@@ -14983,7 +14974,7 @@ const basketballTransfers = [
       "minutesPerGame": 30.1,
       "pointsPerGame": 10.8,
       "reboundsPerGame": 5.2,
-      "assistsPerGame": 1.0,
+      "assistsPerGame": 1,
       "stealsPerGame": 1.1,
       "blocksPerGame": 0.6,
       "fieldGoalPercentage": 45.5,
@@ -15065,7 +15056,7 @@ const basketballTransfers = [
       "reboundsPerGame": 3.3,
       "assistsPerGame": 4.6,
       "stealsPerGame": 1.1,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 49,
       "threePointPercentage": 37.2,
       "freeThrowPercentage": 84.8
@@ -15095,7 +15086,7 @@ const basketballTransfers = [
       "reboundsPerGame": 7.1,
       "assistsPerGame": 2.3,
       "stealsPerGame": 1.1,
-      "blocksPerGame": 1.0,
+      "blocksPerGame": 1,
       "fieldGoalPercentage": 53.7,
       "threePointPercentage": 25,
       "freeThrowPercentage": 80.4
@@ -15170,7 +15161,7 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 29.0,
+      "minutesPerGame": 29,
       "pointsPerGame": 10.7,
       "reboundsPerGame": 5.2,
       "assistsPerGame": 3.2,
@@ -15202,7 +15193,7 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 32.2,
       "pointsPerGame": 10.9,
-      "reboundsPerGame": 3.0,
+      "reboundsPerGame": 3,
       "assistsPerGame": 5.3,
       "stealsPerGame": 1.5,
       "blocksPerGame": 0.3,
@@ -15235,7 +15226,7 @@ const basketballTransfers = [
       "reboundsPerGame": 1.3,
       "assistsPerGame": 0.9,
       "stealsPerGame": 0.5,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 40.4,
       "threePointPercentage": 37.5,
       "freeThrowPercentage": 0
@@ -15354,7 +15345,7 @@ const basketballTransfers = [
       "pointsPerGame": 17.7,
       "reboundsPerGame": 11.2,
       "assistsPerGame": 1.7,
-      "stealsPerGame": 1.0,
+      "stealsPerGame": 1,
       "blocksPerGame": 1.2,
       "fieldGoalPercentage": 50.8,
       "threePointPercentage": 27,
@@ -15472,7 +15463,7 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 28.8,
       "pointsPerGame": 16.4,
-      "reboundsPerGame": 3.0,
+      "reboundsPerGame": 3,
       "assistsPerGame": 2.3,
       "stealsPerGame": 0.8,
       "blocksPerGame": 0.1,
@@ -15500,12 +15491,12 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 7.0,
+      "minutesPerGame": 7,
       "pointsPerGame": 2.7,
       "reboundsPerGame": 0.8,
       "assistsPerGame": 0.3,
       "stealsPerGame": 0.3,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 46.2,
       "threePointPercentage": 33.3,
       "freeThrowPercentage": 100
@@ -15535,7 +15526,7 @@ const basketballTransfers = [
       "reboundsPerGame": 1.9,
       "assistsPerGame": 0.5,
       "stealsPerGame": 0.2,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 39.7,
       "threePointPercentage": 37.5,
       "freeThrowPercentage": 50
@@ -15591,7 +15582,7 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 25.2,
-      "pointsPerGame": 12.0,
+      "pointsPerGame": 12,
       "reboundsPerGame": 5.3,
       "assistsPerGame": 1.6,
       "stealsPerGame": 0.6,
@@ -15621,7 +15612,7 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 19.5,
-      "pointsPerGame": 5.0,
+      "pointsPerGame": 5,
       "reboundsPerGame": 3.5,
       "assistsPerGame": 0.5,
       "stealsPerGame": 0.5,
@@ -15651,7 +15642,7 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 25.1,
-      "pointsPerGame": 8.0,
+      "pointsPerGame": 8,
       "reboundsPerGame": 6.9,
       "assistsPerGame": 1.4,
       "stealsPerGame": 0.6,
@@ -15770,11 +15761,11 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 25.0,
+      "minutesPerGame": 25,
       "pointsPerGame": 7.7,
       "reboundsPerGame": 5.9,
       "assistsPerGame": 2.1,
-      "stealsPerGame": 1.0,
+      "stealsPerGame": 1,
       "blocksPerGame": 0.6,
       "fieldGoalPercentage": 41.7,
       "threePointPercentage": 35.2,
@@ -15895,7 +15886,7 @@ const basketballTransfers = [
       "reboundsPerGame": 1.1,
       "assistsPerGame": 0.2,
       "stealsPerGame": 0.2,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 35,
       "threePointPercentage": 31.6,
       "freeThrowPercentage": 85.7
@@ -15920,10 +15911,10 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 28.0,
+      "minutesPerGame": 28,
       "pointsPerGame": 11.2,
-      "reboundsPerGame": 3.0,
-      "assistsPerGame": 1.0,
+      "reboundsPerGame": 3,
+      "assistsPerGame": 1,
       "stealsPerGame": 1.1,
       "blocksPerGame": 0.3,
       "fieldGoalPercentage": 40.9,
@@ -15987,7 +15978,7 @@ const basketballTransfers = [
       "stealsPerGame": 0.5,
       "blocksPerGame": 0.2,
       "fieldGoalPercentage": 40.4,
-      "threePointPercentage": 35.0,
+      "threePointPercentage": 35,
       "freeThrowPercentage": 78.9
     },
     "transferHistory": [
@@ -16064,7 +16055,7 @@ const basketballTransfers = [
       "minutesPerGame": 14.8,
       "pointsPerGame": 4.3,
       "reboundsPerGame": 1.8,
-      "assistsPerGame": 1.0,
+      "assistsPerGame": 1,
       "stealsPerGame": 0.7,
       "blocksPerGame": 0.1,
       "fieldGoalPercentage": 37,
@@ -16152,11 +16143,11 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 1.3,
-      "pointsPerGame": 0.0,
+      "pointsPerGame": 0,
       "reboundsPerGame": 0.4,
       "assistsPerGame": 0.1,
-      "stealsPerGame": 0.0,
-      "blocksPerGame": 0.0,
+      "stealsPerGame": 0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 0,
       "threePointPercentage": 0,
       "freeThrowPercentage": 0
@@ -16182,8 +16173,8 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 13.8,
-      "pointsPerGame": 4.0,
-      "reboundsPerGame": 3.0,
+      "pointsPerGame": 4,
+      "reboundsPerGame": 3,
       "assistsPerGame": 0.8,
       "stealsPerGame": 0.4,
       "blocksPerGame": 0.1,
@@ -16264,7 +16255,7 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 13.6,
       "pointsPerGame": 4.2,
-      "reboundsPerGame": 2.0,
+      "reboundsPerGame": 2,
       "assistsPerGame": 0.7,
       "stealsPerGame": 0.5,
       "blocksPerGame": 0.1,
@@ -16297,7 +16288,7 @@ const basketballTransfers = [
       "reboundsPerGame": 1.2,
       "assistsPerGame": 0.2,
       "stealsPerGame": 0.3,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 23.8,
       "threePointPercentage": 23.5,
       "freeThrowPercentage": 58.3
@@ -16323,11 +16314,11 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 5.5,
-      "pointsPerGame": 1.0,
+      "pointsPerGame": 1,
       "reboundsPerGame": 0.8,
       "assistsPerGame": 0.3,
       "stealsPerGame": 0.2,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 12.5,
       "threePointPercentage": 14.3,
       "freeThrowPercentage": 42.9
@@ -16492,7 +16483,7 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 19.0,
+      "minutesPerGame": 19,
       "pointsPerGame": 8.9,
       "reboundsPerGame": 4.3,
       "assistsPerGame": 0.3,
@@ -16522,7 +16513,7 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 36.0,
+      "minutesPerGame": 36,
       "pointsPerGame": 14.2,
       "reboundsPerGame": 8.3,
       "assistsPerGame": 3.1,
@@ -16617,7 +16608,7 @@ const basketballTransfers = [
       "reboundsPerGame": 5.3,
       "assistsPerGame": 3.8,
       "stealsPerGame": 1.2,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 49,
       "threePointPercentage": 35.4,
       "freeThrowPercentage": 70.1
@@ -16702,12 +16693,12 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 31.0,
+      "minutesPerGame": 31,
       "pointsPerGame": 16.4,
       "reboundsPerGame": 3.2,
       "assistsPerGame": 1.6,
       "stealsPerGame": 0.8,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 47.9,
       "threePointPercentage": 43.8,
       "freeThrowPercentage": 79.2
@@ -16797,7 +16788,7 @@ const basketballTransfers = [
       "reboundsPerGame": 0.9,
       "assistsPerGame": 1.3,
       "stealsPerGame": 0.3,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 37.5,
       "threePointPercentage": 15.4,
       "freeThrowPercentage": 83.3
@@ -16888,7 +16879,7 @@ const basketballTransfers = [
       "assistsPerGame": 0.4,
       "stealsPerGame": 0.5,
       "blocksPerGame": 0.5,
-      "fieldGoalPercentage": 47.0,
+      "fieldGoalPercentage": 47,
       "threePointPercentage": 31.6,
       "freeThrowPercentage": 77.3
     },
@@ -16942,12 +16933,12 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 1.0,
-      "pointsPerGame": 0.0,
-      "reboundsPerGame": 0.0,
-      "assistsPerGame": 0.0,
-      "stealsPerGame": 0.0,
-      "blocksPerGame": 0.0,
+      "minutesPerGame": 1,
+      "pointsPerGame": 0,
+      "reboundsPerGame": 0,
+      "assistsPerGame": 0,
+      "stealsPerGame": 0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 0,
       "threePointPercentage": 0,
       "freeThrowPercentage": 0
@@ -17062,12 +17053,12 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 1.0,
-      "pointsPerGame": 0.0,
-      "reboundsPerGame": 0.0,
-      "assistsPerGame": 0.0,
-      "stealsPerGame": 0.0,
-      "blocksPerGame": 0.0,
+      "minutesPerGame": 1,
+      "pointsPerGame": 0,
+      "reboundsPerGame": 0,
+      "assistsPerGame": 0,
+      "stealsPerGame": 0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 0,
       "threePointPercentage": 0,
       "freeThrowPercentage": 0
@@ -17120,7 +17111,7 @@ const basketballTransfers = [
       "blocksPerGame": 0.2,
       "fieldGoalPercentage": 46.3,
       "threePointPercentage": 38.1,
-      "freeThrowPercentage": 68.0
+      "freeThrowPercentage": 68
     },
     "transferHistory": [
       {
@@ -17144,7 +17135,7 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 26.7,
       "pointsPerGame": 16.2,
-      "reboundsPerGame": 4.0,
+      "reboundsPerGame": 4,
       "assistsPerGame": 2.6,
       "stealsPerGame": 0.5,
       "blocksPerGame": 0.3,
@@ -17237,7 +17228,7 @@ const basketballTransfers = [
       "reboundsPerGame": 1.5,
       "assistsPerGame": 0.2,
       "stealsPerGame": 0.2,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 40.3,
       "threePointPercentage": 40.3,
       "freeThrowPercentage": 83.3
@@ -17377,7 +17368,7 @@ const basketballTransfers = [
       "reboundsPerGame": 0.7,
       "assistsPerGame": 0.3,
       "stealsPerGame": 0.2,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 50,
       "threePointPercentage": 27.3,
       "freeThrowPercentage": 100
@@ -17493,11 +17484,11 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 9.7,
-      "pointsPerGame": 4.0,
+      "pointsPerGame": 4,
       "reboundsPerGame": 2.4,
       "assistsPerGame": 0.2,
       "stealsPerGame": 0.7,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 35.1,
       "threePointPercentage": 30,
       "freeThrowPercentage": 80
@@ -17727,7 +17718,7 @@ const basketballTransfers = [
       "reboundsPerGame": 2.5,
       "assistsPerGame": 0.5,
       "stealsPerGame": 0.7,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 60,
       "threePointPercentage": 0,
       "freeThrowPercentage": 70
@@ -17754,8 +17745,8 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 10.6,
       "pointsPerGame": 2.2,
-      "reboundsPerGame": 3.0,
-      "assistsPerGame": 0.0,
+      "reboundsPerGame": 3,
+      "assistsPerGame": 0,
       "stealsPerGame": 0.1,
       "blocksPerGame": 0.1,
       "fieldGoalPercentage": 37.2,
@@ -17783,9 +17774,9 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 22.4,
-      "pointsPerGame": 7.0,
-      "reboundsPerGame": 5.0,
-      "assistsPerGame": 1.0,
+      "pointsPerGame": 7,
+      "reboundsPerGame": 5,
+      "assistsPerGame": 1,
       "stealsPerGame": 0.7,
       "blocksPerGame": 0.1,
       "fieldGoalPercentage": 45.7,
@@ -17814,7 +17805,7 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 13.8,
       "pointsPerGame": 3.6,
-      "reboundsPerGame": 2.0,
+      "reboundsPerGame": 2,
       "assistsPerGame": 0.5,
       "stealsPerGame": 0.6,
       "blocksPerGame": 0.2,
@@ -17906,8 +17897,8 @@ const basketballTransfers = [
       "pointsPerGame": 8.2,
       "reboundsPerGame": 1.8,
       "assistsPerGame": 2.1,
-      "stealsPerGame": 1.0,
-      "blocksPerGame": 0.0,
+      "stealsPerGame": 1,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 43.8,
       "threePointPercentage": 23.8,
       "freeThrowPercentage": 59
@@ -17935,12 +17926,12 @@ const basketballTransfers = [
       "minutesPerGame": 10.3,
       "pointsPerGame": 2.7,
       "reboundsPerGame": 1.5,
-      "assistsPerGame": 1.0,
+      "assistsPerGame": 1,
       "stealsPerGame": 0.7,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 31.4,
       "threePointPercentage": 33.3,
-      "freeThrowPercentage": 68.0
+      "freeThrowPercentage": 68
     },
     "transferHistory": [
       {
@@ -17997,7 +17988,7 @@ const basketballTransfers = [
       "reboundsPerGame": 3.4,
       "assistsPerGame": 1.5,
       "stealsPerGame": 0.7,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 48.9,
       "threePointPercentage": 46.1,
       "freeThrowPercentage": 87.7
@@ -18219,7 +18210,7 @@ const basketballTransfers = [
       "stealsPerGame": 0.3,
       "blocksPerGame": 0.3,
       "fieldGoalPercentage": 53.5,
-      "threePointPercentage": 0.0,
+      "threePointPercentage": 0,
       "freeThrowPercentage": 55.8
     },
     "transferHistory": [
@@ -18333,14 +18324,14 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 22.1,
-      "pointsPerGame": 9.0,
+      "pointsPerGame": 9,
       "reboundsPerGame": 3.8,
       "assistsPerGame": 0.9,
       "stealsPerGame": 0.9,
       "blocksPerGame": 0.1,
       "fieldGoalPercentage": 46.6,
       "threePointPercentage": 36.8,
-      "freeThrowPercentage": 70.0
+      "freeThrowPercentage": 70
     },
     "transferHistory": [
       {
@@ -18397,7 +18388,7 @@ const basketballTransfers = [
       "reboundsPerGame": 1.7,
       "assistsPerGame": 1.7,
       "stealsPerGame": 0.8,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 52.8,
       "threePointPercentage": 20,
       "freeThrowPercentage": 67.4
@@ -18453,11 +18444,11 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 30.5,
-      "pointsPerGame": 10.0,
+      "pointsPerGame": 10,
       "reboundsPerGame": 3.9,
       "assistsPerGame": 1.7,
-      "stealsPerGame": 1.0,
-      "blocksPerGame": 0.0,
+      "stealsPerGame": 1,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 51.4,
       "threePointPercentage": 35.5,
       "freeThrowPercentage": 70.9
@@ -18483,7 +18474,7 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 16.9,
-      "pointsPerGame": 7.0,
+      "pointsPerGame": 7,
       "reboundsPerGame": 4.4,
       "assistsPerGame": 0.4,
       "stealsPerGame": 0.2,
@@ -18513,7 +18504,7 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 25.2,
-      "pointsPerGame": 15.0,
+      "pointsPerGame": 15,
       "reboundsPerGame": 2.7,
       "assistsPerGame": 2.8,
       "stealsPerGame": 0.6,
@@ -18562,9 +18553,9 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 25.0,
+      "minutesPerGame": 25,
       "pointsPerGame": 10.7,
-      "reboundsPerGame": 7.0,
+      "reboundsPerGame": 7,
       "assistsPerGame": 1.3,
       "stealsPerGame": 0.7,
       "blocksPerGame": 0.7,
@@ -18593,8 +18584,8 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 30.1,
-      "pointsPerGame": 16.0,
-      "reboundsPerGame": 7.0,
+      "pointsPerGame": 16,
+      "reboundsPerGame": 7,
       "assistsPerGame": 3.6,
       "stealsPerGame": 2.2,
       "blocksPerGame": 1.3,
@@ -18645,9 +18636,9 @@ const basketballTransfers = [
       "minutesPerGame": 17.3,
       "pointsPerGame": 5.7,
       "reboundsPerGame": 1.6,
-      "assistsPerGame": 1.0,
+      "assistsPerGame": 1,
       "stealsPerGame": 0.3,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 40.4,
       "threePointPercentage": 39.7,
       "freeThrowPercentage": 41.7
@@ -18736,7 +18727,7 @@ const basketballTransfers = [
       "pointsPerGame": 19.5,
       "reboundsPerGame": 5.7,
       "assistsPerGame": 2.7,
-      "stealsPerGame": 2.0,
+      "stealsPerGame": 2,
       "blocksPerGame": 0.3,
       "fieldGoalPercentage": 48.3,
       "threePointPercentage": 35.2,
@@ -19006,7 +18997,7 @@ const basketballTransfers = [
       "pointsPerGame": 1.3,
       "reboundsPerGame": 1.5,
       "assistsPerGame": 0.2,
-      "stealsPerGame": 0.0,
+      "stealsPerGame": 0,
       "blocksPerGame": 0.2,
       "fieldGoalPercentage": 25,
       "threePointPercentage": 0,
@@ -19034,7 +19025,7 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 27.1,
       "pointsPerGame": 10.7,
-      "reboundsPerGame": 4.0,
+      "reboundsPerGame": 4,
       "assistsPerGame": 1.7,
       "stealsPerGame": 1.4,
       "blocksPerGame": 0.3,
@@ -19096,8 +19087,8 @@ const basketballTransfers = [
       "pointsPerGame": 16.5,
       "reboundsPerGame": 2.3,
       "assistsPerGame": 2.1,
-      "stealsPerGame": 1.0,
-      "blocksPerGame": 0.0,
+      "stealsPerGame": 1,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 35.9,
       "threePointPercentage": 35.4,
       "freeThrowPercentage": 86.9
@@ -19214,7 +19205,7 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 10.8,
       "pointsPerGame": 2.2,
-      "reboundsPerGame": 4.0,
+      "reboundsPerGame": 4,
       "assistsPerGame": 1.2,
       "stealsPerGame": 0.5,
       "blocksPerGame": 0.2,
@@ -19332,12 +19323,12 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 3.7,
-      "pointsPerGame": 2.3,
-      "reboundsPerGame": 0.5,
-      "assistsPerGame": 0.0,
-      "stealsPerGame": 0.0,
-      "blocksPerGame": 0.0,
+      "minutesPerGame": 4.2,
+      "pointsPerGame": 2.8,
+      "reboundsPerGame": 0.6,
+      "assistsPerGame": 0,
+      "stealsPerGame": 0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 35.7,
       "threePointPercentage": 22.2,
       "freeThrowPercentage": 100
@@ -19362,7 +19353,7 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 9.0,
+      "minutesPerGame": 9,
       "pointsPerGame": 1.6,
       "reboundsPerGame": 3.4,
       "assistsPerGame": 0.8,
@@ -19484,7 +19475,7 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 7.8,
       "pointsPerGame": 0.7,
-      "reboundsPerGame": 2.0,
+      "reboundsPerGame": 2,
       "assistsPerGame": 0.3,
       "stealsPerGame": 0.4,
       "blocksPerGame": 0.2,
@@ -19572,11 +19563,11 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 24.4,
-      "pointsPerGame": 6.0,
+      "minutesPerGame": 24.3,
+      "pointsPerGame": 6,
       "reboundsPerGame": 3.8,
       "assistsPerGame": 1.7,
-      "stealsPerGame": 1.0,
+      "stealsPerGame": 1,
       "blocksPerGame": 0.3,
       "fieldGoalPercentage": 46.9,
       "threePointPercentage": 28.4,
@@ -19706,7 +19697,7 @@ const basketballTransfers = [
       "minutesPerGame": 19.8,
       "pointsPerGame": 7.7,
       "reboundsPerGame": 3.8,
-      "assistsPerGame": 1.0,
+      "assistsPerGame": 1,
       "stealsPerGame": 0.7,
       "blocksPerGame": 0.4,
       "fieldGoalPercentage": 49.5,
@@ -19755,7 +19746,7 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 17.1,
-      "pointsPerGame": 4.0,
+      "pointsPerGame": 4,
       "reboundsPerGame": 3.9,
       "assistsPerGame": 0.5,
       "stealsPerGame": 0.4,
@@ -19814,7 +19805,7 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 17.7,
+      "minutesPerGame": 17.8,
       "pointsPerGame": 4.8,
       "reboundsPerGame": 1.8,
       "assistsPerGame": 1.4,
@@ -19926,7 +19917,7 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 16.8,
       "pointsPerGame": 8.6,
-      "reboundsPerGame": 2.0,
+      "reboundsPerGame": 2,
       "assistsPerGame": 0.9,
       "stealsPerGame": 1.2,
       "blocksPerGame": 0.4,
@@ -20034,7 +20025,7 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 15.0,
+      "minutesPerGame": 15,
       "pointsPerGame": 4.5,
       "reboundsPerGame": 3.8,
       "assistsPerGame": 0.5,
@@ -20084,7 +20075,7 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 30.0,
+      "minutesPerGame": 30,
       "pointsPerGame": 10.9,
       "reboundsPerGame": 2.2,
       "assistsPerGame": 2.1,
@@ -20136,10 +20127,10 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 10.7,
       "pointsPerGame": 1.5,
-      "reboundsPerGame": 2.0,
+      "reboundsPerGame": 2,
       "assistsPerGame": 0.8,
-      "stealsPerGame": 0.0,
-      "blocksPerGame": 0.0,
+      "stealsPerGame": 0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 29.4,
       "threePointPercentage": 33.3,
       "freeThrowPercentage": 57.1
@@ -20169,7 +20160,7 @@ const basketballTransfers = [
       "reboundsPerGame": 2.9,
       "assistsPerGame": 3.4,
       "stealsPerGame": 1.9,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 38.4,
       "threePointPercentage": 32.8,
       "freeThrowPercentage": 84.7
@@ -20179,36 +20170,6 @@ const basketballTransfers = [
         "recordId": "672371",
         "previousSchool": "Delaware State",
         "destination": "North Carolina A&T",
-        "season": "2026"
-      }
-    ],
-    "needsReview": false
-  },
-  {
-    "playerId": "46166162",
-    "name": "Elmore James IV",
-    "sport": "basketball",
-    "position": "SG",
-    "previousSchool": "Ball State",
-    "destination": "",
-    "season": 2026,
-    "profileUrl": "",
-    "stats": {
-      "minutesPerGame": 23.9,
-      "pointsPerGame": 7.8,
-      "reboundsPerGame": 1.6,
-      "assistsPerGame": 0.9,
-      "stealsPerGame": 0.6,
-      "blocksPerGame": 0.1,
-      "fieldGoalPercentage": 39.5,
-      "threePointPercentage": 27.4,
-      "freeThrowPercentage": 78.3
-    },
-    "transferHistory": [
-      {
-        "recordId": "2729",
-        "previousSchool": "Ball State",
-        "destination": "",
         "season": "2026"
       }
     ],
@@ -20254,12 +20215,12 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 11.0,
-      "pointsPerGame": 7.0,
-      "reboundsPerGame": 2.0,
-      "assistsPerGame": 0.0,
-      "stealsPerGame": 0.0,
-      "blocksPerGame": 2.0,
+      "minutesPerGame": 11,
+      "pointsPerGame": 7,
+      "reboundsPerGame": 2,
+      "assistsPerGame": 0,
+      "stealsPerGame": 0,
+      "blocksPerGame": 2,
       "fieldGoalPercentage": 100,
       "threePointPercentage": 100,
       "freeThrowPercentage": 0
@@ -20413,7 +20374,7 @@ const basketballTransfers = [
       "minutesPerGame": 18.9,
       "pointsPerGame": 5.7,
       "reboundsPerGame": 3.2,
-      "assistsPerGame": 1.0,
+      "assistsPerGame": 1,
       "stealsPerGame": 1.1,
       "blocksPerGame": 0.4,
       "fieldGoalPercentage": 37.1,
@@ -20440,12 +20401,12 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 3.0,
-      "pointsPerGame": 0.0,
-      "reboundsPerGame": 0.0,
-      "assistsPerGame": 0.0,
-      "stealsPerGame": 0.0,
-      "blocksPerGame": 0.0,
+      "minutesPerGame": 3,
+      "pointsPerGame": 0,
+      "reboundsPerGame": 0,
+      "assistsPerGame": 0,
+      "stealsPerGame": 0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 0,
       "threePointPercentage": 0,
       "freeThrowPercentage": 0
@@ -20540,15 +20501,15 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 21.0,
+      "minutesPerGame": 21,
       "pointsPerGame": 6.3,
       "reboundsPerGame": 2.1,
-      "assistsPerGame": 1.0,
+      "assistsPerGame": 1,
       "stealsPerGame": 0.6,
       "blocksPerGame": 0.2,
       "fieldGoalPercentage": 38.5,
       "threePointPercentage": 35.5,
-      "freeThrowPercentage": 83.0
+      "freeThrowPercentage": 83
     },
     "transferHistory": [
       {
@@ -20661,7 +20622,7 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 15.3,
-      "pointsPerGame": 3.0,
+      "pointsPerGame": 3,
       "reboundsPerGame": 2.3,
       "assistsPerGame": 2.4,
       "stealsPerGame": 0.9,
@@ -20753,9 +20714,9 @@ const basketballTransfers = [
       "minutesPerGame": 30.6,
       "pointsPerGame": 16.9,
       "reboundsPerGame": 2.8,
-      "assistsPerGame": 3.0,
-      "stealsPerGame": 1.0,
-      "blocksPerGame": 0.0,
+      "assistsPerGame": 3,
+      "stealsPerGame": 1,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 48.6,
       "threePointPercentage": 37.8,
       "freeThrowPercentage": 82.1
@@ -20785,7 +20746,7 @@ const basketballTransfers = [
       "reboundsPerGame": 3.9,
       "assistsPerGame": 3.6,
       "stealsPerGame": 2.5,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 42.3,
       "threePointPercentage": 38.3,
       "freeThrowPercentage": 78.4
@@ -20810,7 +20771,7 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 12.0,
+      "minutesPerGame": 12,
       "pointsPerGame": 4.9,
       "reboundsPerGame": 1.1,
       "assistsPerGame": 1.6,
@@ -20842,10 +20803,10 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 27.4,
       "pointsPerGame": 13.4,
-      "reboundsPerGame": 3.0,
+      "reboundsPerGame": 3,
       "assistsPerGame": 3.5,
       "stealsPerGame": 1.4,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 43.2,
       "threePointPercentage": 37,
       "freeThrowPercentage": 72.6
@@ -20965,7 +20926,7 @@ const basketballTransfers = [
       "reboundsPerGame": 5.5,
       "assistsPerGame": 1.4,
       "stealsPerGame": 1.2,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 49.2,
       "threePointPercentage": 23.8,
       "freeThrowPercentage": 77.7
@@ -21073,7 +21034,7 @@ const basketballTransfers = [
       "minutesPerGame": 31.9,
       "pointsPerGame": 19.7,
       "reboundsPerGame": 2.9,
-      "assistsPerGame": 5.0,
+      "assistsPerGame": 5,
       "stealsPerGame": 1.2,
       "blocksPerGame": 0.3,
       "fieldGoalPercentage": 50.6,
@@ -21130,7 +21091,7 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 28.0,
+      "minutesPerGame": 28,
       "pointsPerGame": 14.6,
       "reboundsPerGame": 2.7,
       "assistsPerGame": 4.3,
@@ -21162,7 +21123,7 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 21.4,
       "pointsPerGame": 10.5,
-      "reboundsPerGame": 4.0,
+      "reboundsPerGame": 4,
       "assistsPerGame": 1.1,
       "stealsPerGame": 0.6,
       "blocksPerGame": 0.6,
@@ -21198,7 +21159,7 @@ const basketballTransfers = [
       "blocksPerGame": 0.1,
       "fieldGoalPercentage": 41.7,
       "threePointPercentage": 37.5,
-      "freeThrowPercentage": 50.0
+      "freeThrowPercentage": 50
     },
     "transferHistory": [
       {
@@ -21221,8 +21182,8 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 26.4,
-      "pointsPerGame": 10.0,
-      "reboundsPerGame": 3.0,
+      "pointsPerGame": 10,
+      "reboundsPerGame": 3,
       "assistsPerGame": 3.1,
       "stealsPerGame": 1.1,
       "blocksPerGame": 0.1,
@@ -21456,7 +21417,7 @@ const basketballTransfers = [
       "reboundsPerGame": 3.5,
       "assistsPerGame": 2.6,
       "stealsPerGame": 1.4,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 44.1,
       "threePointPercentage": 33.3,
       "freeThrowPercentage": 66.7
@@ -21545,7 +21506,7 @@ const basketballTransfers = [
       "pointsPerGame": 14.7,
       "reboundsPerGame": 4.6,
       "assistsPerGame": 2.8,
-      "stealsPerGame": 1.0,
+      "stealsPerGame": 1,
       "blocksPerGame": 0.5,
       "fieldGoalPercentage": 39.9,
       "threePointPercentage": 36.6,
@@ -21576,7 +21537,7 @@ const basketballTransfers = [
       "reboundsPerGame": 0.4,
       "assistsPerGame": 0.8,
       "stealsPerGame": 0.1,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 40,
       "threePointPercentage": 35.3,
       "freeThrowPercentage": 50
@@ -21605,8 +21566,8 @@ const basketballTransfers = [
       "pointsPerGame": 6.2,
       "reboundsPerGame": 1.4,
       "assistsPerGame": 3.9,
-      "stealsPerGame": 1.0,
-      "blocksPerGame": 0.0,
+      "stealsPerGame": 1,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 31.3,
       "threePointPercentage": 32.1,
       "freeThrowPercentage": 68.8
@@ -21801,12 +21762,12 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 20.0,
+      "minutesPerGame": 20,
       "pointsPerGame": 4.6,
-      "reboundsPerGame": 2.0,
+      "reboundsPerGame": 2,
       "assistsPerGame": 0.8,
       "stealsPerGame": 0.6,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 28.1,
       "threePointPercentage": 27.4,
       "freeThrowPercentage": 77.1
@@ -21851,7 +21812,7 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 20.0,
+      "minutesPerGame": 20,
       "pointsPerGame": 4.1,
       "reboundsPerGame": 5.3,
       "assistsPerGame": 0.5,
@@ -21922,36 +21883,6 @@ const basketballTransfers = [
     "needsReview": false
   },
   {
-    "playerId": "46166233",
-    "name": "Eren Karakaya",
-    "sport": "basketball",
-    "position": "C",
-    "previousSchool": "San José State",
-    "destination": "",
-    "season": 2026,
-    "profileUrl": "",
-    "stats": {
-      "minutesPerGame": 5.8,
-      "pointsPerGame": 1.8,
-      "reboundsPerGame": 1.2,
-      "assistsPerGame": 0.0,
-      "stealsPerGame": 0.0,
-      "blocksPerGame": 0.0,
-      "fieldGoalPercentage": 60,
-      "threePointPercentage": 0,
-      "freeThrowPercentage": 50
-    },
-    "transferHistory": [
-      {
-        "recordId": "8624",
-        "previousSchool": "San José State",
-        "destination": "",
-        "season": "2026"
-      }
-    ],
-    "needsReview": false
-  },
-  {
     "playerId": "46102968",
     "name": "Jack Karasinski",
     "sport": "basketball",
@@ -21995,7 +21926,7 @@ const basketballTransfers = [
       "pointsPerGame": 1.9,
       "reboundsPerGame": 1.8,
       "assistsPerGame": 0.3,
-      "stealsPerGame": 0.0,
+      "stealsPerGame": 0,
       "blocksPerGame": 0.3,
       "fieldGoalPercentage": 61.5,
       "threePointPercentage": 0,
@@ -22053,7 +21984,7 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 4.1,
       "pointsPerGame": 0.6,
-      "reboundsPerGame": 1.0,
+      "reboundsPerGame": 1,
       "assistsPerGame": 0.1,
       "stealsPerGame": 0.1,
       "blocksPerGame": 0.2,
@@ -22083,13 +22014,13 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 5.7,
       "pointsPerGame": 1.2,
-      "reboundsPerGame": 1.0,
+      "reboundsPerGame": 1,
       "assistsPerGame": 0.3,
       "stealsPerGame": 0.1,
       "blocksPerGame": 0.4,
-      "fieldGoalPercentage": 40.0,
+      "fieldGoalPercentage": 40,
       "threePointPercentage": 12.5,
-      "freeThrowPercentage": 0.0
+      "freeThrowPercentage": 0
     },
     "transferHistory": [
       {
@@ -22116,7 +22047,7 @@ const basketballTransfers = [
       "reboundsPerGame": 0.4,
       "assistsPerGame": 0.4,
       "stealsPerGame": 0.1,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 14.3,
       "threePointPercentage": 25,
       "freeThrowPercentage": 0
@@ -22185,7 +22116,7 @@ const basketballTransfers = [
       "pointsPerGame": 6.2,
       "reboundsPerGame": 7.2,
       "assistsPerGame": 0.3,
-      "stealsPerGame": 1.0,
+      "stealsPerGame": 1,
       "blocksPerGame": 1.8,
       "fieldGoalPercentage": 67.7,
       "threePointPercentage": 0,
@@ -22216,7 +22147,7 @@ const basketballTransfers = [
       "reboundsPerGame": 1.8,
       "assistsPerGame": 0.5,
       "stealsPerGame": 0.2,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 51.6,
       "threePointPercentage": 0,
       "freeThrowPercentage": 78.6
@@ -22242,7 +22173,7 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 8.6,
-      "pointsPerGame": 2.0,
+      "pointsPerGame": 2,
       "reboundsPerGame": 1.7,
       "assistsPerGame": 0.2,
       "stealsPerGame": 0.1,
@@ -22301,10 +22232,10 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 31.0,
+      "minutesPerGame": 31,
       "pointsPerGame": 10.2,
       "reboundsPerGame": 4.4,
-      "assistsPerGame": 3.0,
+      "assistsPerGame": 3,
       "stealsPerGame": 1.5,
       "blocksPerGame": 0.7,
       "fieldGoalPercentage": 37.9,
@@ -22415,8 +22346,8 @@ const basketballTransfers = [
       "pointsPerGame": 13.1,
       "reboundsPerGame": 3.2,
       "assistsPerGame": 2.3,
-      "stealsPerGame": 1.0,
-      "blocksPerGame": 0.0,
+      "stealsPerGame": 1,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 44.6,
       "threePointPercentage": 40.2,
       "freeThrowPercentage": 71.7
@@ -22682,7 +22613,7 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 32.2,
-      "pointsPerGame": 14.0,
+      "pointsPerGame": 14,
       "reboundsPerGame": 3.3,
       "assistsPerGame": 1.5,
       "stealsPerGame": 0.8,
@@ -22716,7 +22647,7 @@ const basketballTransfers = [
       "reboundsPerGame": 3.3,
       "assistsPerGame": 1.6,
       "stealsPerGame": 0.6,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 47.7,
       "threePointPercentage": 39.3,
       "freeThrowPercentage": 74.7
@@ -22801,9 +22732,9 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 27.0,
+      "minutesPerGame": 27,
       "pointsPerGame": 7.2,
-      "reboundsPerGame": 2.0,
+      "reboundsPerGame": 2,
       "assistsPerGame": 1.6,
       "stealsPerGame": 0.7,
       "blocksPerGame": 0.1,
@@ -22866,10 +22797,10 @@ const basketballTransfers = [
       "reboundsPerGame": 2.7,
       "assistsPerGame": 0.8,
       "stealsPerGame": 0.5,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 53.4,
       "threePointPercentage": 41.2,
-      "freeThrowPercentage": 69.0
+      "freeThrowPercentage": 69
     },
     "transferHistory": [
       {
@@ -22891,7 +22822,7 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 15.0,
+      "minutesPerGame": 15,
       "pointsPerGame": 4.6,
       "reboundsPerGame": 2.5,
       "assistsPerGame": 1.1,
@@ -22929,7 +22860,7 @@ const basketballTransfers = [
       "blocksPerGame": 0.1,
       "fieldGoalPercentage": 24.6,
       "threePointPercentage": 13.9,
-      "freeThrowPercentage": 95.0
+      "freeThrowPercentage": 95
     },
     "transferHistory": [
       {
@@ -22986,7 +22917,7 @@ const basketballTransfers = [
       "reboundsPerGame": 2.8,
       "assistsPerGame": 1.3,
       "stealsPerGame": 0.5,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 40.4,
       "threePointPercentage": 36.8,
       "freeThrowPercentage": 88.7
@@ -23181,12 +23112,12 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 12.0,
+      "minutesPerGame": 12,
       "pointsPerGame": 4.4,
       "reboundsPerGame": 0.9,
       "assistsPerGame": 0.4,
       "stealsPerGame": 0.3,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 36.8,
       "threePointPercentage": 36.7,
       "freeThrowPercentage": 87.5
@@ -23265,9 +23196,9 @@ const basketballTransfers = [
       "minutesPerGame": 20.2,
       "pointsPerGame": 5.6,
       "reboundsPerGame": 2.5,
-      "assistsPerGame": 3.0,
+      "assistsPerGame": 3,
       "stealsPerGame": 0.4,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 35.7,
       "threePointPercentage": 27.8,
       "freeThrowPercentage": 71.4
@@ -23294,12 +23225,12 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 12.5,
       "pointsPerGame": 7.5,
-      "reboundsPerGame": 6.0,
+      "reboundsPerGame": 6,
       "assistsPerGame": 1.5,
-      "stealsPerGame": 0.0,
-      "blocksPerGame": 0.0,
+      "stealsPerGame": 0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 55.6,
-      "threePointPercentage": 0.0,
+      "threePointPercentage": 0,
       "freeThrowPercentage": 71.4
     },
     "transferHistory": [
@@ -23323,11 +23254,11 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 1.5,
-      "pointsPerGame": 0.0,
+      "pointsPerGame": 0,
       "reboundsPerGame": 0.5,
-      "assistsPerGame": 1.0,
-      "stealsPerGame": 0.0,
-      "blocksPerGame": 0.0,
+      "assistsPerGame": 1,
+      "stealsPerGame": 0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 0,
       "threePointPercentage": 0,
       "freeThrowPercentage": 0
@@ -23393,7 +23324,7 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 13.5,
-      "pointsPerGame": 1.0,
+      "pointsPerGame": 1,
       "reboundsPerGame": 1.9,
       "assistsPerGame": 1.3,
       "stealsPerGame": 0.8,
@@ -23426,7 +23357,7 @@ const basketballTransfers = [
       "pointsPerGame": 10.6,
       "reboundsPerGame": 2.3,
       "assistsPerGame": 2.2,
-      "stealsPerGame": 1.0,
+      "stealsPerGame": 1,
       "blocksPerGame": 0.3,
       "fieldGoalPercentage": 41.3,
       "threePointPercentage": 41.7,
@@ -23456,7 +23387,7 @@ const basketballTransfers = [
       "pointsPerGame": 13.3,
       "reboundsPerGame": 3.7,
       "assistsPerGame": 2.2,
-      "stealsPerGame": 1.0,
+      "stealsPerGame": 1,
       "blocksPerGame": 0.4,
       "fieldGoalPercentage": 40.3,
       "threePointPercentage": 32.1,
@@ -23485,9 +23416,9 @@ const basketballTransfers = [
       "minutesPerGame": 19.3,
       "pointsPerGame": 6.1,
       "reboundsPerGame": 1.7,
-      "assistsPerGame": 3.0,
+      "assistsPerGame": 3,
       "stealsPerGame": 0.6,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 39.5,
       "threePointPercentage": 30.3,
       "freeThrowPercentage": 86.8
@@ -23515,9 +23446,9 @@ const basketballTransfers = [
       "minutesPerGame": 2.8,
       "pointsPerGame": 0.3,
       "reboundsPerGame": 0.2,
-      "assistsPerGame": 0.0,
-      "stealsPerGame": 0.0,
-      "blocksPerGame": 0.0,
+      "assistsPerGame": 0,
+      "stealsPerGame": 0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 0,
       "threePointPercentage": 0,
       "freeThrowPercentage": 100
@@ -23602,11 +23533,11 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 4.0,
+      "minutesPerGame": 4,
       "pointsPerGame": 0.5,
       "reboundsPerGame": 0.7,
-      "assistsPerGame": 0.0,
-      "stealsPerGame": 0.0,
+      "assistsPerGame": 0,
+      "stealsPerGame": 0,
       "blocksPerGame": 0.1,
       "fieldGoalPercentage": 66.7,
       "threePointPercentage": 0,
@@ -23662,9 +23593,9 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 26.0,
+      "minutesPerGame": 26,
       "pointsPerGame": 9.9,
-      "reboundsPerGame": 7.0,
+      "reboundsPerGame": 7,
       "assistsPerGame": 0.5,
       "stealsPerGame": 0.4,
       "blocksPerGame": 0.3,
@@ -23697,9 +23628,9 @@ const basketballTransfers = [
       "reboundsPerGame": 0.3,
       "assistsPerGame": 0.2,
       "stealsPerGame": 0.1,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 44.4,
-      "threePointPercentage": 0.0,
+      "threePointPercentage": 0,
       "freeThrowPercentage": 93.3
     },
     "transferHistory": [
@@ -23783,9 +23714,9 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 28.2,
-      "pointsPerGame": 16.0,
+      "pointsPerGame": 16,
       "reboundsPerGame": 3.2,
-      "assistsPerGame": 2.0,
+      "assistsPerGame": 2,
       "stealsPerGame": 0.6,
       "blocksPerGame": 0.1,
       "fieldGoalPercentage": 44.1,
@@ -23816,8 +23747,8 @@ const basketballTransfers = [
       "pointsPerGame": 0.8,
       "reboundsPerGame": 0.4,
       "assistsPerGame": 0.2,
-      "stealsPerGame": 0.0,
-      "blocksPerGame": 0.0,
+      "stealsPerGame": 0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 50,
       "threePointPercentage": 33.3,
       "freeThrowPercentage": 100
@@ -23873,7 +23804,7 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 23.6,
-      "pointsPerGame": 8.0,
+      "pointsPerGame": 8,
       "reboundsPerGame": 3.4,
       "assistsPerGame": 0.7,
       "stealsPerGame": 0.5,
@@ -23905,7 +23836,7 @@ const basketballTransfers = [
       "minutesPerGame": 34.5,
       "pointsPerGame": 11.9,
       "reboundsPerGame": 5.4,
-      "assistsPerGame": 6.0,
+      "assistsPerGame": 6,
       "stealsPerGame": 2.1,
       "blocksPerGame": 0.6,
       "fieldGoalPercentage": 50.5,
@@ -23994,12 +23925,12 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 30.5,
       "pointsPerGame": 12.2,
-      "reboundsPerGame": 3.0,
+      "reboundsPerGame": 3,
       "assistsPerGame": 5.3,
       "stealsPerGame": 1.9,
       "blocksPerGame": 0.1,
       "fieldGoalPercentage": 45.6,
-      "threePointPercentage": 27.0,
+      "threePointPercentage": 27,
       "freeThrowPercentage": 58.3
     },
     "transferHistory": [
@@ -24052,7 +23983,7 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 30.0,
+      "minutesPerGame": 30,
       "pointsPerGame": 14.9,
       "reboundsPerGame": 5.1,
       "assistsPerGame": 2.5,
@@ -24174,9 +24105,9 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 5.2,
       "pointsPerGame": 1.6,
-      "reboundsPerGame": 1.0,
-      "assistsPerGame": 0.0,
-      "stealsPerGame": 0.0,
+      "reboundsPerGame": 1,
+      "assistsPerGame": 0,
+      "stealsPerGame": 0,
       "blocksPerGame": 0.4,
       "fieldGoalPercentage": 42.9,
       "threePointPercentage": 0,
@@ -24237,7 +24168,7 @@ const basketballTransfers = [
       "reboundsPerGame": 2.1,
       "assistsPerGame": 2.1,
       "stealsPerGame": 0.7,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 38.3,
       "threePointPercentage": 35.6,
       "freeThrowPercentage": 77.1
@@ -24297,7 +24228,7 @@ const basketballTransfers = [
       "reboundsPerGame": 3.3,
       "assistsPerGame": 4.9,
       "stealsPerGame": 1.2,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 44.7,
       "threePointPercentage": 34.9,
       "freeThrowPercentage": 79.2
@@ -24348,7 +24279,7 @@ const basketballTransfers = [
       "reboundsPerGame": 0.9,
       "assistsPerGame": 0.4,
       "stealsPerGame": 0.2,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 34.2,
       "threePointPercentage": 32.1,
       "freeThrowPercentage": 77.8
@@ -24373,7 +24304,7 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 20.0,
+      "minutesPerGame": 20,
       "pointsPerGame": 5.8,
       "reboundsPerGame": 3.8,
       "assistsPerGame": 0.6,
@@ -24436,7 +24367,7 @@ const basketballTransfers = [
       "minutesPerGame": 11.1,
       "pointsPerGame": 4.8,
       "reboundsPerGame": 3.1,
-      "assistsPerGame": 0.0,
+      "assistsPerGame": 0,
       "stealsPerGame": 0.5,
       "blocksPerGame": 0.5,
       "fieldGoalPercentage": 67.4,
@@ -24557,7 +24488,7 @@ const basketballTransfers = [
       "pointsPerGame": 13.4,
       "reboundsPerGame": 2.2,
       "assistsPerGame": 1.3,
-      "stealsPerGame": 1.0,
+      "stealsPerGame": 1,
       "blocksPerGame": 0.5,
       "fieldGoalPercentage": 46.8,
       "threePointPercentage": 39.4,
@@ -24586,7 +24517,7 @@ const basketballTransfers = [
       "minutesPerGame": 10.4,
       "pointsPerGame": 2.2,
       "reboundsPerGame": 1.8,
-      "assistsPerGame": 1.0,
+      "assistsPerGame": 1,
       "stealsPerGame": 0.7,
       "blocksPerGame": 0.1,
       "fieldGoalPercentage": 60,
@@ -24639,7 +24570,7 @@ const basketballTransfers = [
     "sport": "basketball",
     "position": "PG",
     "previousSchool": "Lamar",
-    "destination": "",
+    "destination": "McLennan College",
     "season": 2026,
     "profileUrl": "",
     "stats": {
@@ -24647,8 +24578,8 @@ const basketballTransfers = [
       "pointsPerGame": 4.3,
       "reboundsPerGame": 1.5,
       "assistsPerGame": 2.5,
-      "stealsPerGame": 1.0,
-      "blocksPerGame": 0.0,
+      "stealsPerGame": 1,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 37.1,
       "threePointPercentage": 34.9,
       "freeThrowPercentage": 63.6
@@ -24657,7 +24588,7 @@ const basketballTransfers = [
       {
         "recordId": "3374",
         "previousSchool": "Lamar",
-        "destination": "",
+        "destination": "McLennan College",
         "season": "2026"
       }
     ],
@@ -24674,7 +24605,7 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 18.6,
-      "pointsPerGame": 8.0,
+      "pointsPerGame": 8,
       "reboundsPerGame": 2.1,
       "assistsPerGame": 2.4,
       "stealsPerGame": 0.7,
@@ -24708,7 +24639,7 @@ const basketballTransfers = [
       "reboundsPerGame": 1.4,
       "assistsPerGame": 1.2,
       "stealsPerGame": 0.6,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 36.8,
       "threePointPercentage": 29.9,
       "freeThrowPercentage": 80
@@ -24857,7 +24788,7 @@ const basketballTransfers = [
       "pointsPerGame": 14.9,
       "reboundsPerGame": 7.9,
       "assistsPerGame": 2.2,
-      "stealsPerGame": 1.0,
+      "stealsPerGame": 1,
       "blocksPerGame": 0.7,
       "fieldGoalPercentage": 55.8,
       "threePointPercentage": 37.3,
@@ -24945,7 +24876,7 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 32.2,
       "pointsPerGame": 13.6,
-      "reboundsPerGame": 3.0,
+      "reboundsPerGame": 3,
       "assistsPerGame": 4.1,
       "stealsPerGame": 0.9,
       "blocksPerGame": 0.1,
@@ -24974,7 +24905,7 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 16.4,
-      "pointsPerGame": 7.0,
+      "pointsPerGame": 7,
       "reboundsPerGame": 1.3,
       "assistsPerGame": 0.6,
       "stealsPerGame": 0.9,
@@ -25004,7 +24935,7 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 18.5,
-      "pointsPerGame": 5.0,
+      "pointsPerGame": 5,
       "reboundsPerGame": 4.8,
       "assistsPerGame": 0.8,
       "stealsPerGame": 0.4,
@@ -25035,11 +24966,11 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 7.2,
       "pointsPerGame": 2.6,
-      "reboundsPerGame": 2.0,
+      "reboundsPerGame": 2,
       "assistsPerGame": 0.1,
       "stealsPerGame": 0.1,
       "blocksPerGame": 0.2,
-      "fieldGoalPercentage": 30.0,
+      "fieldGoalPercentage": 30,
       "threePointPercentage": 29.6,
       "freeThrowPercentage": 68.8
     },
@@ -25106,12 +25037,12 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 10.3,
       "pointsPerGame": 3.1,
-      "reboundsPerGame": 3.0,
+      "reboundsPerGame": 3,
       "assistsPerGame": 0.2,
       "stealsPerGame": 0.3,
       "blocksPerGame": 0.2,
       "fieldGoalPercentage": 57.6,
-      "threePointPercentage": 0.0,
+      "threePointPercentage": 0,
       "freeThrowPercentage": 51.2
     },
     "transferHistory": [
@@ -25135,13 +25066,13 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 11.3,
-      "pointsPerGame": 3.0,
+      "pointsPerGame": 3,
       "reboundsPerGame": 1.7,
       "assistsPerGame": 0.2,
       "stealsPerGame": 0.3,
       "blocksPerGame": 0.3,
       "fieldGoalPercentage": 44.4,
-      "threePointPercentage": 20.0,
+      "threePointPercentage": 20,
       "freeThrowPercentage": 64.3
     },
     "transferHistory": [
@@ -25229,7 +25160,7 @@ const basketballTransfers = [
       "reboundsPerGame": 0.4,
       "assistsPerGame": 0.2,
       "stealsPerGame": 0.1,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 0,
       "threePointPercentage": 0,
       "freeThrowPercentage": 100
@@ -25255,11 +25186,11 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 5.5,
-      "pointsPerGame": 1.0,
+      "pointsPerGame": 1,
       "reboundsPerGame": 0.9,
       "assistsPerGame": 0.5,
       "stealsPerGame": 0.2,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 27.3,
       "threePointPercentage": 12.5,
       "freeThrowPercentage": 100
@@ -25347,7 +25278,7 @@ const basketballTransfers = [
       "minutesPerGame": 5.5,
       "pointsPerGame": 1.2,
       "reboundsPerGame": 1.2,
-      "assistsPerGame": 0.0,
+      "assistsPerGame": 0,
       "stealsPerGame": 0.1,
       "blocksPerGame": 0.4,
       "fieldGoalPercentage": 50,
@@ -25375,10 +25306,10 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 29.7,
-      "pointsPerGame": 17.0,
+      "pointsPerGame": 17,
       "reboundsPerGame": 5.4,
       "assistsPerGame": 1.5,
-      "stealsPerGame": 1.0,
+      "stealsPerGame": 1,
       "blocksPerGame": 0.6,
       "fieldGoalPercentage": 47.7,
       "threePointPercentage": 32.9,
@@ -25555,7 +25486,7 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 11.8,
-      "pointsPerGame": 6.0,
+      "pointsPerGame": 6,
       "reboundsPerGame": 2.7,
       "assistsPerGame": 0.4,
       "stealsPerGame": 0.2,
@@ -25693,7 +25624,17 @@ const basketballTransfers = [
     "destination": "Marshall",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 2.9,
+      "pointsPerGame": 0.5,
+      "reboundsPerGame": 0.4,
+      "assistsPerGame": 0.1,
+      "stealsPerGame": 0.1,
+      "blocksPerGame": 0,
+      "fieldGoalPercentage": 50,
+      "threePointPercentage": 33.3,
+      "freeThrowPercentage": 0
+    },
     "transferHistory": [
       {
         "recordId": "2487",
@@ -25714,9 +25655,9 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 24.0,
+      "minutesPerGame": 24,
       "pointsPerGame": 7.8,
-      "reboundsPerGame": 6.0,
+      "reboundsPerGame": 6,
       "assistsPerGame": 0.4,
       "stealsPerGame": 0.6,
       "blocksPerGame": 0.5,
@@ -25766,7 +25707,7 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 18.3,
       "pointsPerGame": 7.2,
-      "reboundsPerGame": 2.0,
+      "reboundsPerGame": 2,
       "assistsPerGame": 1.9,
       "stealsPerGame": 0.7,
       "blocksPerGame": 0.1,
@@ -25799,10 +25740,10 @@ const basketballTransfers = [
       "reboundsPerGame": 1.9,
       "assistsPerGame": 1.4,
       "stealsPerGame": 0.5,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 48.8,
       "threePointPercentage": 33.3,
-      "freeThrowPercentage": 60.0
+      "freeThrowPercentage": 60
     },
     "transferHistory": [
       {
@@ -25827,7 +25768,7 @@ const basketballTransfers = [
       "minutesPerGame": 16.5,
       "pointsPerGame": 3.5,
       "reboundsPerGame": 2.8,
-      "assistsPerGame": 2.0,
+      "assistsPerGame": 2,
       "stealsPerGame": 0.5,
       "blocksPerGame": 0.2,
       "fieldGoalPercentage": 41.2,
@@ -25935,8 +25876,8 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 27.3,
-      "pointsPerGame": 16.0,
-      "reboundsPerGame": 2.0,
+      "pointsPerGame": 16,
+      "reboundsPerGame": 2,
       "assistsPerGame": 3.9,
       "stealsPerGame": 1.5,
       "blocksPerGame": 0.1,
@@ -25996,10 +25937,10 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 26.2,
       "pointsPerGame": 9.5,
-      "reboundsPerGame": 2.0,
+      "reboundsPerGame": 2,
       "assistsPerGame": 2.3,
       "stealsPerGame": 0.7,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 45.4,
       "threePointPercentage": 52.2,
       "freeThrowPercentage": 75
@@ -26172,10 +26113,10 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 1.5,
       "pointsPerGame": 0.5,
-      "reboundsPerGame": 0.0,
-      "assistsPerGame": 0.0,
-      "stealsPerGame": 0.0,
-      "blocksPerGame": 0.0,
+      "reboundsPerGame": 0,
+      "assistsPerGame": 0,
+      "stealsPerGame": 0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 100,
       "threePointPercentage": 0,
       "freeThrowPercentage": 0
@@ -26234,7 +26175,7 @@ const basketballTransfers = [
       "pointsPerGame": 11.1,
       "reboundsPerGame": 5.7,
       "assistsPerGame": 1.7,
-      "stealsPerGame": 1.0,
+      "stealsPerGame": 1,
       "blocksPerGame": 0.3,
       "fieldGoalPercentage": 54.5,
       "threePointPercentage": 35.5,
@@ -26265,7 +26206,7 @@ const basketballTransfers = [
       "reboundsPerGame": 2.2,
       "assistsPerGame": 2.6,
       "stealsPerGame": 0.8,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 33.3,
       "threePointPercentage": 25.3,
       "freeThrowPercentage": 65.4
@@ -26290,13 +26231,13 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 8.0,
+      "minutesPerGame": 8,
       "pointsPerGame": 1.2,
       "reboundsPerGame": 1.5,
       "assistsPerGame": 0.3,
       "stealsPerGame": 0.8,
-      "fieldGoalPercentage": 48.0,
-      "threePointPercentage": 0.0,
+      "fieldGoalPercentage": 48,
+      "threePointPercentage": 0,
       "freeThrowPercentage": 26.3
     },
     "transferHistory": [
@@ -26322,8 +26263,8 @@ const basketballTransfers = [
       "minutesPerGame": 5.1,
       "pointsPerGame": 1.2,
       "reboundsPerGame": 1.4,
-      "assistsPerGame": 0.0,
-      "stealsPerGame": 0.0,
+      "assistsPerGame": 0,
+      "stealsPerGame": 0,
       "blocksPerGame": 0.2,
       "fieldGoalPercentage": 68.8,
       "threePointPercentage": 0,
@@ -26409,10 +26350,10 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 2.0,
+      "minutesPerGame": 2,
       "pointsPerGame": 0.5,
       "reboundsPerGame": 0.5,
-      "assistsPerGame": 0.0,
+      "assistsPerGame": 0,
       "stealsPerGame": 0.2,
       "blocksPerGame": 0.2,
       "fieldGoalPercentage": 25,
@@ -26440,8 +26381,8 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 24.2,
-      "pointsPerGame": 13.0,
-      "reboundsPerGame": 4.0,
+      "pointsPerGame": 13,
+      "reboundsPerGame": 4,
       "assistsPerGame": 2.5,
       "stealsPerGame": 0.8,
       "blocksPerGame": 0.2,
@@ -26589,12 +26530,12 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 3.0,
-      "pointsPerGame": 0.0,
+      "minutesPerGame": 3,
+      "pointsPerGame": 0,
       "reboundsPerGame": 0.8,
-      "assistsPerGame": 0.0,
+      "assistsPerGame": 0,
       "stealsPerGame": 0.2,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 0,
       "threePointPercentage": 0,
       "freeThrowPercentage": 0
@@ -26621,13 +26562,13 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 4.3,
       "pointsPerGame": 1.3,
-      "reboundsPerGame": 1.0,
-      "assistsPerGame": 0.0,
+      "reboundsPerGame": 1,
+      "assistsPerGame": 0,
       "stealsPerGame": 0.3,
-      "blocksPerGame": 0.0,
-      "fieldGoalPercentage": 20.0,
-      "threePointPercentage": 25.0,
-      "freeThrowPercentage": 50.0
+      "blocksPerGame": 0,
+      "fieldGoalPercentage": 20,
+      "threePointPercentage": 25,
+      "freeThrowPercentage": 50
     },
     "transferHistory": [
       {
@@ -26655,8 +26596,8 @@ const basketballTransfers = [
       "assistsPerGame": 1.8,
       "stealsPerGame": 0.5,
       "blocksPerGame": 0.8,
-      "fieldGoalPercentage": 50.0,
-      "threePointPercentage": 0.0,
+      "fieldGoalPercentage": 50,
+      "threePointPercentage": 0,
       "freeThrowPercentage": 62.8
     },
     "transferHistory": [
@@ -26860,7 +26801,7 @@ const basketballTransfers = [
       "reboundsPerGame": 1.6,
       "assistsPerGame": 0.5,
       "stealsPerGame": 0.4,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 44.2,
       "threePointPercentage": 30,
       "freeThrowPercentage": 77.5
@@ -26908,10 +26849,10 @@ const basketballTransfers = [
       "minutesPerGame": 29.9,
       "pointsPerGame": 12.1,
       "reboundsPerGame": 3.6,
-      "assistsPerGame": 1.0,
+      "assistsPerGame": 1,
       "stealsPerGame": 0.6,
-      "blocksPerGame": 0.0,
-      "fieldGoalPercentage": 51.0,
+      "blocksPerGame": 0,
+      "fieldGoalPercentage": 51,
       "threePointPercentage": 38.6,
       "freeThrowPercentage": 65.5
     },
@@ -27020,7 +26961,7 @@ const basketballTransfers = [
       "reboundsPerGame": 1.3,
       "assistsPerGame": 0.4,
       "stealsPerGame": 0.5,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 25,
       "threePointPercentage": 0,
       "freeThrowPercentage": 92.9
@@ -27046,7 +26987,7 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 17.3,
-      "pointsPerGame": 6.0,
+      "pointsPerGame": 6,
       "reboundsPerGame": 1.6,
       "assistsPerGame": 0.5,
       "stealsPerGame": 0.2,
@@ -27138,11 +27079,11 @@ const basketballTransfers = [
       "minutesPerGame": 17.5,
       "pointsPerGame": 7.1,
       "reboundsPerGame": 3.9,
-      "assistsPerGame": 1.0,
+      "assistsPerGame": 1,
       "stealsPerGame": 0.5,
       "blocksPerGame": 0.2,
       "fieldGoalPercentage": 40.1,
-      "threePointPercentage": 29.0,
+      "threePointPercentage": 29,
       "freeThrowPercentage": 72.2
     },
     "transferHistory": [
@@ -27197,7 +27138,7 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 25.7,
       "pointsPerGame": 6.9,
-      "reboundsPerGame": 4.0,
+      "reboundsPerGame": 4,
       "assistsPerGame": 1.2,
       "stealsPerGame": 0.5,
       "blocksPerGame": 0.8,
@@ -27252,7 +27193,7 @@ const basketballTransfers = [
       "stealsPerGame": 0.7,
       "blocksPerGame": 1.7,
       "fieldGoalPercentage": 64.5,
-      "threePointPercentage": 0.0,
+      "threePointPercentage": 0,
       "freeThrowPercentage": 53.9
     },
     "transferHistory": [
@@ -27309,7 +27250,7 @@ const basketballTransfers = [
       "pointsPerGame": 1.6,
       "reboundsPerGame": 1.9,
       "assistsPerGame": 0.4,
-      "stealsPerGame": 0.0,
+      "stealsPerGame": 0,
       "blocksPerGame": 0.1,
       "fieldGoalPercentage": 34.1,
       "threePointPercentage": 24,
@@ -27340,7 +27281,7 @@ const basketballTransfers = [
       "reboundsPerGame": 0.4,
       "assistsPerGame": 0.5,
       "stealsPerGame": 0.4,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 35.7,
       "threePointPercentage": 35.7,
       "freeThrowPercentage": 75
@@ -27420,7 +27361,7 @@ const basketballTransfers = [
       "reboundsPerGame": 0.7,
       "assistsPerGame": 0.6,
       "stealsPerGame": 0.1,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 39.3,
       "threePointPercentage": 40.5,
       "freeThrowPercentage": 88.9
@@ -27505,12 +27446,12 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 7.0,
+      "minutesPerGame": 7,
       "pointsPerGame": 1.8,
       "reboundsPerGame": 1.4,
       "assistsPerGame": 0.4,
       "stealsPerGame": 0.2,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 56.3,
       "threePointPercentage": 20,
       "freeThrowPercentage": 62.5
@@ -27535,12 +27476,12 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 34.0,
+      "minutesPerGame": 34,
       "pointsPerGame": 14.3,
       "reboundsPerGame": 3.7,
       "assistsPerGame": 2.9,
       "stealsPerGame": 1.1,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 44.2,
       "threePointPercentage": 39.1,
       "freeThrowPercentage": 88.7
@@ -27565,7 +27506,7 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 31.0,
+      "minutesPerGame": 31,
       "pointsPerGame": 19.8,
       "reboundsPerGame": 4.6,
       "assistsPerGame": 4.3,
@@ -27750,8 +27691,8 @@ const basketballTransfers = [
       "reboundsPerGame": 4.8,
       "assistsPerGame": 3.4,
       "stealsPerGame": 1.5,
-      "blocksPerGame": 0.0,
-      "fieldGoalPercentage": 47.0,
+      "blocksPerGame": 0,
+      "fieldGoalPercentage": 47,
       "threePointPercentage": 38.1,
       "freeThrowPercentage": 78.8
     },
@@ -27948,7 +27889,7 @@ const basketballTransfers = [
       "minutesPerGame": 30.4,
       "pointsPerGame": 16.9,
       "reboundsPerGame": 3.1,
-      "assistsPerGame": 1.0,
+      "assistsPerGame": 1,
       "stealsPerGame": 0.8,
       "blocksPerGame": 0.2,
       "fieldGoalPercentage": 50.6,
@@ -27976,11 +27917,11 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 20.8,
-      "pointsPerGame": 6.0,
+      "pointsPerGame": 6,
       "reboundsPerGame": 1.2,
       "assistsPerGame": 1.6,
       "stealsPerGame": 0.8,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 40.1,
       "threePointPercentage": 27,
       "freeThrowPercentage": 72.2
@@ -28055,15 +27996,15 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 2.0,
-      "pointsPerGame": 0.0,
-      "reboundsPerGame": 0.0,
-      "assistsPerGame": 0.0,
-      "stealsPerGame": 0.0,
-      "blocksPerGame": 0.0,
-      "fieldGoalPercentage": 0.0,
-      "threePointPercentage": 0.0,
-      "freeThrowPercentage": 0.0
+      "minutesPerGame": 2,
+      "pointsPerGame": 0,
+      "reboundsPerGame": 0,
+      "assistsPerGame": 0,
+      "stealsPerGame": 0,
+      "blocksPerGame": 0,
+      "fieldGoalPercentage": 0,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 0
     },
     "transferHistory": [
       {
@@ -28090,9 +28031,9 @@ const basketballTransfers = [
       "reboundsPerGame": 0.6,
       "assistsPerGame": 0.1,
       "stealsPerGame": 0.1,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 42.9,
-      "threePointPercentage": 0.0,
+      "threePointPercentage": 0,
       "freeThrowPercentage": 14.3
     },
     "transferHistory": [
@@ -28117,7 +28058,7 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 30.6,
       "pointsPerGame": 13.4,
-      "reboundsPerGame": 4.0,
+      "reboundsPerGame": 4,
       "assistsPerGame": 2.1,
       "stealsPerGame": 2.1,
       "blocksPerGame": 0.6,
@@ -28175,12 +28116,12 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 5.0,
-      "pointsPerGame": 0.0,
-      "reboundsPerGame": 0.0,
-      "assistsPerGame": 0.0,
-      "stealsPerGame": 0.0,
-      "blocksPerGame": 0.0,
+      "minutesPerGame": 5,
+      "pointsPerGame": 0,
+      "reboundsPerGame": 0,
+      "assistsPerGame": 0,
+      "stealsPerGame": 0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 0,
       "threePointPercentage": 0,
       "freeThrowPercentage": 0
@@ -28205,7 +28146,7 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 30.0,
+      "minutesPerGame": 30,
       "pointsPerGame": 10.9,
       "reboundsPerGame": 2.2,
       "assistsPerGame": 3.8,
@@ -28307,10 +28248,10 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 26.2,
       "pointsPerGame": 5.6,
-      "reboundsPerGame": 2.0,
+      "reboundsPerGame": 2,
       "assistsPerGame": 3.3,
       "stealsPerGame": 0.8,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 46.5,
       "threePointPercentage": 26.7,
       "freeThrowPercentage": 67.2
@@ -28430,7 +28371,7 @@ const basketballTransfers = [
       "reboundsPerGame": 0.6,
       "assistsPerGame": 0.3,
       "stealsPerGame": 0.1,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 34.3,
       "threePointPercentage": 38.5,
       "freeThrowPercentage": 0
@@ -28538,8 +28479,8 @@ const basketballTransfers = [
       "minutesPerGame": 31.3,
       "pointsPerGame": 20.4,
       "reboundsPerGame": 6.2,
-      "assistsPerGame": 2.0,
-      "stealsPerGame": 1.0,
+      "assistsPerGame": 2,
+      "stealsPerGame": 1,
       "blocksPerGame": 0.4,
       "fieldGoalPercentage": 44.3,
       "threePointPercentage": 37.2,
@@ -28566,7 +28507,7 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 9.6,
-      "pointsPerGame": 2.0,
+      "pointsPerGame": 2,
       "reboundsPerGame": 0.9,
       "assistsPerGame": 0.3,
       "stealsPerGame": 0.2,
@@ -28739,7 +28680,7 @@ const basketballTransfers = [
       "minutesPerGame": 21.1,
       "pointsPerGame": 7.9,
       "reboundsPerGame": 5.1,
-      "assistsPerGame": 1.0,
+      "assistsPerGame": 1,
       "stealsPerGame": 0.7,
       "blocksPerGame": 0.7,
       "fieldGoalPercentage": 52.7,
@@ -28768,7 +28709,7 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 30.5,
       "pointsPerGame": 9.5,
-      "reboundsPerGame": 4.0,
+      "reboundsPerGame": 4,
       "assistsPerGame": 4.9,
       "stealsPerGame": 0.9,
       "blocksPerGame": 0.2,
@@ -28799,7 +28740,7 @@ const basketballTransfers = [
       "minutesPerGame": 24.8,
       "pointsPerGame": 12.5,
       "reboundsPerGame": 3.5,
-      "assistsPerGame": 2.0,
+      "assistsPerGame": 2,
       "stealsPerGame": 0.7,
       "blocksPerGame": 0.5,
       "fieldGoalPercentage": 47.2,
@@ -28919,8 +28860,8 @@ const basketballTransfers = [
       "minutesPerGame": 28.4,
       "pointsPerGame": 11.1,
       "reboundsPerGame": 4.9,
-      "assistsPerGame": 1.0,
-      "stealsPerGame": 1.0,
+      "assistsPerGame": 1,
+      "stealsPerGame": 1,
       "blocksPerGame": 0.8,
       "fieldGoalPercentage": 42.9,
       "threePointPercentage": 37.2,
@@ -28951,7 +28892,7 @@ const basketballTransfers = [
       "reboundsPerGame": 0.9,
       "assistsPerGame": 0.6,
       "stealsPerGame": 0.1,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 35,
       "threePointPercentage": 0,
       "freeThrowPercentage": 60
@@ -28981,7 +28922,7 @@ const basketballTransfers = [
       "reboundsPerGame": 2.9,
       "assistsPerGame": 2.3,
       "stealsPerGame": 0.7,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 38.7,
       "threePointPercentage": 25,
       "freeThrowPercentage": 60
@@ -29006,7 +28947,7 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 21.0,
+      "minutesPerGame": 21,
       "pointsPerGame": 7.7,
       "reboundsPerGame": 3.6,
       "assistsPerGame": 0.6,
@@ -29039,7 +28980,7 @@ const basketballTransfers = [
       "minutesPerGame": 26.5,
       "pointsPerGame": 13.8,
       "reboundsPerGame": 3.2,
-      "assistsPerGame": 1.0,
+      "assistsPerGame": 1,
       "stealsPerGame": 0.6,
       "blocksPerGame": 0.2,
       "fieldGoalPercentage": 49,
@@ -29069,8 +29010,8 @@ const basketballTransfers = [
       "minutesPerGame": 25.8,
       "pointsPerGame": 5.1,
       "reboundsPerGame": 2.8,
-      "assistsPerGame": 4.0,
-      "stealsPerGame": 1.0,
+      "assistsPerGame": 4,
+      "stealsPerGame": 1,
       "blocksPerGame": 0.1,
       "fieldGoalPercentage": 30.6,
       "threePointPercentage": 28.6,
@@ -29120,7 +29061,7 @@ const basketballTransfers = [
       "pointsPerGame": 10.8,
       "reboundsPerGame": 8.2,
       "assistsPerGame": 2.4,
-      "stealsPerGame": 2.0,
+      "stealsPerGame": 2,
       "blocksPerGame": 0.5,
       "fieldGoalPercentage": 42.9,
       "threePointPercentage": 38.3,
@@ -29148,7 +29089,7 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 28.9,
       "pointsPerGame": 11.2,
-      "reboundsPerGame": 6.0,
+      "reboundsPerGame": 6,
       "assistsPerGame": 1.8,
       "stealsPerGame": 1.3,
       "blocksPerGame": 0.5,
@@ -29177,11 +29118,11 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 9.3,
-      "pointsPerGame": 2.0,
+      "pointsPerGame": 2,
       "reboundsPerGame": 2.3,
       "assistsPerGame": 0.2,
       "stealsPerGame": 0.2,
-      "blocksPerGame": 1.0,
+      "blocksPerGame": 1,
       "fieldGoalPercentage": 46.8,
       "threePointPercentage": 42.9,
       "freeThrowPercentage": 55.6
@@ -29211,7 +29152,7 @@ const basketballTransfers = [
       "reboundsPerGame": 8.1,
       "assistsPerGame": 2.4,
       "stealsPerGame": 0.8,
-      "blocksPerGame": 1.0,
+      "blocksPerGame": 1,
       "fieldGoalPercentage": 55.6,
       "threePointPercentage": 35.7,
       "freeThrowPercentage": 71.6
@@ -29263,7 +29204,7 @@ const basketballTransfers = [
       "stealsPerGame": 0.3,
       "blocksPerGame": 0.1,
       "fieldGoalPercentage": 43.5,
-      "threePointPercentage": 50.0,
+      "threePointPercentage": 50,
       "freeThrowPercentage": 66.7
     },
     "transferHistory": [
@@ -29286,12 +29227,12 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 2.2,
+      "minutesPerGame": 2.3,
       "pointsPerGame": 0.8,
-      "reboundsPerGame": 0.2,
-      "assistsPerGame": 0.0,
-      "stealsPerGame": 0.0,
-      "blocksPerGame": 0.0,
+      "reboundsPerGame": 0.3,
+      "assistsPerGame": 0,
+      "stealsPerGame": 0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 37.5,
       "threePointPercentage": 0,
       "freeThrowPercentage": 0
@@ -29426,7 +29367,7 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 17.0,
+      "minutesPerGame": 17,
       "pointsPerGame": 7.2,
       "reboundsPerGame": 3.6,
       "assistsPerGame": 0.9,
@@ -29486,10 +29427,10 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 4.0,
+      "minutesPerGame": 4,
       "pointsPerGame": 0.4,
-      "reboundsPerGame": 1.0,
-      "assistsPerGame": 0.0,
+      "reboundsPerGame": 1,
+      "assistsPerGame": 0,
       "stealsPerGame": 0.2,
       "blocksPerGame": 0.2,
       "fieldGoalPercentage": 50,
@@ -29627,12 +29568,12 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 1.0,
-      "pointsPerGame": 0.0,
-      "reboundsPerGame": 1.0,
-      "assistsPerGame": 0.0,
-      "stealsPerGame": 0.0,
-      "blocksPerGame": 0.0,
+      "minutesPerGame": 1,
+      "pointsPerGame": 0,
+      "reboundsPerGame": 1,
+      "assistsPerGame": 0,
+      "stealsPerGame": 0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 0,
       "threePointPercentage": 0,
       "freeThrowPercentage": 0
@@ -29660,7 +29601,7 @@ const basketballTransfers = [
       "minutesPerGame": 27.5,
       "pointsPerGame": 18.2,
       "reboundsPerGame": 3.3,
-      "assistsPerGame": 2.0,
+      "assistsPerGame": 2,
       "stealsPerGame": 0.4,
       "blocksPerGame": 0.3,
       "fieldGoalPercentage": 50,
@@ -29692,7 +29633,7 @@ const basketballTransfers = [
       "reboundsPerGame": 3.4,
       "assistsPerGame": 3.6,
       "stealsPerGame": 1.5,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 45,
       "threePointPercentage": 37.7,
       "freeThrowPercentage": 92.2
@@ -29752,7 +29693,7 @@ const basketballTransfers = [
       "reboundsPerGame": 1.4,
       "assistsPerGame": 0.7,
       "stealsPerGame": 0.5,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 43.1,
       "threePointPercentage": 11.1,
       "freeThrowPercentage": 64.5
@@ -29802,7 +29743,7 @@ const basketballTransfers = [
       "reboundsPerGame": 2.1,
       "assistsPerGame": 2.8,
       "stealsPerGame": 1.1,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 30.4,
       "threePointPercentage": 25.3,
       "freeThrowPercentage": 88.5
@@ -29851,7 +29792,7 @@ const basketballTransfers = [
       "pointsPerGame": 12.7,
       "reboundsPerGame": 5.7,
       "assistsPerGame": 1.3,
-      "stealsPerGame": 1.0,
+      "stealsPerGame": 1,
       "blocksPerGame": 0.7,
       "fieldGoalPercentage": 44.8,
       "threePointPercentage": 0,
@@ -29912,7 +29853,7 @@ const basketballTransfers = [
       "reboundsPerGame": 2.3,
       "assistsPerGame": 0.7,
       "stealsPerGame": 0.5,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 30.3,
       "threePointPercentage": 24,
       "freeThrowPercentage": 50
@@ -29997,10 +29938,10 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 5.0,
+      "minutesPerGame": 5,
       "pointsPerGame": 0.8,
       "reboundsPerGame": 1.4,
-      "assistsPerGame": 0.0,
+      "assistsPerGame": 0,
       "stealsPerGame": 0.2,
       "blocksPerGame": 0.2,
       "fieldGoalPercentage": 33.3,
@@ -30060,7 +30001,7 @@ const basketballTransfers = [
       "minutesPerGame": 10.9,
       "pointsPerGame": 3.7,
       "reboundsPerGame": 1.7,
-      "assistsPerGame": 2.0,
+      "assistsPerGame": 2,
       "stealsPerGame": 0.6,
       "blocksPerGame": 0.2,
       "fieldGoalPercentage": 39.1,
@@ -30147,7 +30088,7 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 21.0,
+      "minutesPerGame": 21,
       "pointsPerGame": 8.5,
       "reboundsPerGame": 4.8,
       "assistsPerGame": 0.3,
@@ -30242,7 +30183,7 @@ const basketballTransfers = [
       "reboundsPerGame": 0.2,
       "assistsPerGame": 0.2,
       "stealsPerGame": 0.2,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 36.4,
       "threePointPercentage": 25,
       "freeThrowPercentage": 0
@@ -30327,9 +30268,9 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 19.0,
+      "minutesPerGame": 19,
       "pointsPerGame": 4.7,
-      "reboundsPerGame": 6.0,
+      "reboundsPerGame": 6,
       "assistsPerGame": 0.4,
       "stealsPerGame": 0.3,
       "blocksPerGame": 1.2,
@@ -30357,7 +30298,7 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 24.0,
+      "minutesPerGame": 24,
       "pointsPerGame": 8.3,
       "reboundsPerGame": 1.9,
       "assistsPerGame": 0.9,
@@ -30388,7 +30329,7 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 23.2,
-      "pointsPerGame": 11.0,
+      "pointsPerGame": 11,
       "reboundsPerGame": 5.7,
       "assistsPerGame": 0.9,
       "stealsPerGame": 0.5,
@@ -30441,8 +30382,8 @@ const basketballTransfers = [
       "pointsPerGame": 10.8,
       "reboundsPerGame": 7.3,
       "assistsPerGame": 0.9,
-      "stealsPerGame": 1.0,
-      "blocksPerGame": 2.0,
+      "stealsPerGame": 1,
+      "blocksPerGame": 2,
       "fieldGoalPercentage": 69.1,
       "threePointPercentage": 100,
       "freeThrowPercentage": 56.5
@@ -30497,12 +30438,12 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 16.9,
-      "pointsPerGame": 6.2,
+      "minutesPerGame": 16.8,
+      "pointsPerGame": 6.3,
       "reboundsPerGame": 5.2,
       "assistsPerGame": 0.4,
       "stealsPerGame": 0.4,
-      "blocksPerGame": 0.9,
+      "blocksPerGame": 1,
       "fieldGoalPercentage": 57,
       "threePointPercentage": 0,
       "freeThrowPercentage": 67.2
@@ -30558,7 +30499,7 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 23.7,
-      "pointsPerGame": 10.0,
+      "pointsPerGame": 10,
       "reboundsPerGame": 6.5,
       "assistsPerGame": 0.9,
       "stealsPerGame": 1.1,
@@ -30587,10 +30528,10 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 16.4,
-      "pointsPerGame": 5.0,
+      "minutesPerGame": 16.3,
+      "pointsPerGame": 5,
       "reboundsPerGame": 2.2,
-      "assistsPerGame": 2.0,
+      "assistsPerGame": 2,
       "stealsPerGame": 0.8,
       "blocksPerGame": 0.3,
       "fieldGoalPercentage": 41,
@@ -30622,7 +30563,7 @@ const basketballTransfers = [
       "reboundsPerGame": 1.9,
       "assistsPerGame": 0.2,
       "stealsPerGame": 0.2,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 38.5,
       "threePointPercentage": 29.4,
       "freeThrowPercentage": 75.9
@@ -30650,8 +30591,8 @@ const basketballTransfers = [
       "minutesPerGame": 4.6,
       "pointsPerGame": 1.4,
       "reboundsPerGame": 0.5,
-      "assistsPerGame": 0.0,
-      "stealsPerGame": 0.0,
+      "assistsPerGame": 0,
+      "stealsPerGame": 0,
       "blocksPerGame": 0.2,
       "fieldGoalPercentage": 41.7,
       "threePointPercentage": 0,
@@ -30681,7 +30622,7 @@ const basketballTransfers = [
       "pointsPerGame": 16.7,
       "reboundsPerGame": 4.1,
       "assistsPerGame": 0.9,
-      "stealsPerGame": 1.0,
+      "stealsPerGame": 1,
       "blocksPerGame": 0.1,
       "fieldGoalPercentage": 39.9,
       "threePointPercentage": 39.5,
@@ -30793,7 +30734,7 @@ const basketballTransfers = [
       "reboundsPerGame": 6.9,
       "assistsPerGame": 0.5,
       "stealsPerGame": 0.4,
-      "blocksPerGame": 1.0,
+      "blocksPerGame": 1,
       "fieldGoalPercentage": 56.6,
       "threePointPercentage": 0,
       "freeThrowPercentage": 49
@@ -30838,7 +30779,7 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 24.0,
+      "minutesPerGame": 24,
       "pointsPerGame": 7.6,
       "reboundsPerGame": 4.2,
       "assistsPerGame": 1.6,
@@ -30873,7 +30814,7 @@ const basketballTransfers = [
       "reboundsPerGame": 2.5,
       "assistsPerGame": 0.2,
       "stealsPerGame": 0.3,
-      "blocksPerGame": 1.0,
+      "blocksPerGame": 1,
       "fieldGoalPercentage": 76.9,
       "threePointPercentage": 0,
       "freeThrowPercentage": 50
@@ -30900,7 +30841,7 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 35.7,
       "pointsPerGame": 20.9,
-      "reboundsPerGame": 3.0,
+      "reboundsPerGame": 3,
       "assistsPerGame": 4.2,
       "stealsPerGame": 0.8,
       "blocksPerGame": 0.1,
@@ -30930,7 +30871,7 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 25.6,
       "pointsPerGame": 12.7,
-      "reboundsPerGame": 5.0,
+      "reboundsPerGame": 5,
       "assistsPerGame": 1.8,
       "stealsPerGame": 0.9,
       "blocksPerGame": 0.7,
@@ -30963,7 +30904,7 @@ const basketballTransfers = [
       "reboundsPerGame": 0.1,
       "assistsPerGame": 0.1,
       "stealsPerGame": 0.1,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 50,
       "threePointPercentage": 0,
       "freeThrowPercentage": 20
@@ -31008,12 +30949,12 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 3.0,
+      "minutesPerGame": 3,
       "pointsPerGame": 0.7,
-      "reboundsPerGame": 1.0,
-      "assistsPerGame": 0.0,
-      "stealsPerGame": 0.0,
-      "blocksPerGame": 0.0,
+      "reboundsPerGame": 1,
+      "assistsPerGame": 0,
+      "stealsPerGame": 0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 33.3,
       "threePointPercentage": 0,
       "freeThrowPercentage": 0
@@ -31073,7 +31014,7 @@ const basketballTransfers = [
       "reboundsPerGame": 3.4,
       "assistsPerGame": 3.5,
       "stealsPerGame": 0.9,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 46,
       "threePointPercentage": 30,
       "freeThrowPercentage": 84.5
@@ -31098,12 +31039,12 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 14.8,
+      "minutesPerGame": 14.7,
       "pointsPerGame": 4.7,
       "reboundsPerGame": 3.8,
       "assistsPerGame": 0.3,
       "stealsPerGame": 0.2,
-      "blocksPerGame": 1.7,
+      "blocksPerGame": 1.8,
       "fieldGoalPercentage": 52.2,
       "threePointPercentage": 100,
       "freeThrowPercentage": 60.7
@@ -31178,15 +31119,15 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 2.0,
-      "pointsPerGame": 0.0,
-      "reboundsPerGame": 2.0,
-      "assistsPerGame": 0.0,
-      "stealsPerGame": 0.0,
-      "blocksPerGame": 0.0,
-      "fieldGoalPercentage": 0.0,
-      "threePointPercentage": 0.0,
-      "freeThrowPercentage": 0.0
+      "minutesPerGame": 2,
+      "pointsPerGame": 0,
+      "reboundsPerGame": 2,
+      "assistsPerGame": 0,
+      "stealsPerGame": 0,
+      "blocksPerGame": 0,
+      "fieldGoalPercentage": 0,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 0
     },
     "transferHistory": [
       {
@@ -31215,7 +31156,7 @@ const basketballTransfers = [
       "stealsPerGame": 0.9,
       "blocksPerGame": 1.2,
       "fieldGoalPercentage": 54.6,
-      "threePointPercentage": 25.0,
+      "threePointPercentage": 25,
       "freeThrowPercentage": 65.6
     },
     "transferHistory": [
@@ -31292,7 +31233,7 @@ const basketballTransfers = [
       "pointsPerGame": 0.9,
       "reboundsPerGame": 0.9,
       "assistsPerGame": 0.7,
-      "stealsPerGame": 0.0,
+      "stealsPerGame": 0,
       "blocksPerGame": 0.1,
       "fieldGoalPercentage": 25,
       "threePointPercentage": 0,
@@ -31320,7 +31261,7 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 21.8,
       "pointsPerGame": 9.6,
-      "reboundsPerGame": 6.0,
+      "reboundsPerGame": 6,
       "assistsPerGame": 1.2,
       "stealsPerGame": 0.6,
       "blocksPerGame": 0.2,
@@ -31351,9 +31292,9 @@ const basketballTransfers = [
       "minutesPerGame": 20.8,
       "pointsPerGame": 10.7,
       "reboundsPerGame": 1.9,
-      "assistsPerGame": 2.0,
+      "assistsPerGame": 2,
       "stealsPerGame": 0.7,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 44.5,
       "threePointPercentage": 40.8,
       "freeThrowPercentage": 90
@@ -31382,8 +31323,8 @@ const basketballTransfers = [
       "pointsPerGame": 1.7,
       "reboundsPerGame": 0.7,
       "assistsPerGame": 0.2,
-      "stealsPerGame": 0.0,
-      "blocksPerGame": 0.0,
+      "stealsPerGame": 0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 54.2,
       "threePointPercentage": 28.6,
       "freeThrowPercentage": 58.8
@@ -31530,7 +31471,7 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 8.2,
-      "pointsPerGame": 2.0,
+      "pointsPerGame": 2,
       "reboundsPerGame": 0.8,
       "assistsPerGame": 0.7,
       "stealsPerGame": 0.3,
@@ -31584,7 +31525,7 @@ const basketballTransfers = [
       "reboundsPerGame": 0.5,
       "assistsPerGame": 0.1,
       "stealsPerGame": 0.2,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 31.3,
       "threePointPercentage": 29.6,
       "freeThrowPercentage": 66.7
@@ -31632,7 +31573,7 @@ const basketballTransfers = [
       "minutesPerGame": 8.1,
       "pointsPerGame": 1.4,
       "reboundsPerGame": 1.6,
-      "assistsPerGame": 0.0,
+      "assistsPerGame": 0,
       "stealsPerGame": 0.2,
       "blocksPerGame": 0.2,
       "fieldGoalPercentage": 26.1,
@@ -31773,7 +31714,7 @@ const basketballTransfers = [
       "pointsPerGame": 9.9,
       "reboundsPerGame": 3.6,
       "assistsPerGame": 2.9,
-      "stealsPerGame": 1.0,
+      "stealsPerGame": 1,
       "blocksPerGame": 0.2,
       "fieldGoalPercentage": 51.9,
       "threePointPercentage": 47.1,
@@ -31984,7 +31925,7 @@ const basketballTransfers = [
       "reboundsPerGame": 1.6,
       "assistsPerGame": 1.3,
       "stealsPerGame": 0.4,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 52.4,
       "threePointPercentage": 38.3,
       "freeThrowPercentage": 74.5
@@ -32014,7 +31955,7 @@ const basketballTransfers = [
       "reboundsPerGame": 1.6,
       "assistsPerGame": 3.1,
       "stealsPerGame": 0.8,
-      "blocksPerGame": 0.2,
+      "blocksPerGame": 0.3,
       "fieldGoalPercentage": 43.9,
       "threePointPercentage": 29.6,
       "freeThrowPercentage": 80
@@ -32041,8 +31982,8 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 16.7,
       "pointsPerGame": 5.3,
-      "reboundsPerGame": 4.0,
-      "assistsPerGame": 1.0,
+      "reboundsPerGame": 4,
+      "assistsPerGame": 1,
       "stealsPerGame": 0.6,
       "blocksPerGame": 0.9,
       "fieldGoalPercentage": 56,
@@ -32094,7 +32035,7 @@ const basketballTransfers = [
       "reboundsPerGame": 0.7,
       "assistsPerGame": 1.1,
       "stealsPerGame": 0.2,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 33.3,
       "threePointPercentage": 20,
       "freeThrowPercentage": 83.3
@@ -32154,7 +32095,7 @@ const basketballTransfers = [
       "reboundsPerGame": 3.9,
       "assistsPerGame": 2.2,
       "stealsPerGame": 0.6,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 40.6,
       "threePointPercentage": 37.5,
       "freeThrowPercentage": 77.1
@@ -32244,7 +32185,7 @@ const basketballTransfers = [
       "reboundsPerGame": 0.9,
       "assistsPerGame": 0.5,
       "stealsPerGame": 0.1,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 31.5,
       "threePointPercentage": 29.5,
       "freeThrowPercentage": 83.3
@@ -32292,8 +32233,8 @@ const basketballTransfers = [
       "minutesPerGame": 17.6,
       "pointsPerGame": 4.7,
       "reboundsPerGame": 1.7,
-      "assistsPerGame": 1.0,
-      "stealsPerGame": 1.0,
+      "assistsPerGame": 1,
+      "stealsPerGame": 1,
       "blocksPerGame": 0.2,
       "fieldGoalPercentage": 47.6,
       "threePointPercentage": 43.1,
@@ -32319,7 +32260,7 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 34.0,
+      "minutesPerGame": 34,
       "pointsPerGame": 13.4,
       "reboundsPerGame": 5.9,
       "assistsPerGame": 5.2,
@@ -32349,7 +32290,7 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 27.0,
+      "minutesPerGame": 27,
       "pointsPerGame": 5.8,
       "reboundsPerGame": 1.5,
       "assistsPerGame": 2.3,
@@ -32386,8 +32327,8 @@ const basketballTransfers = [
       "stealsPerGame": 0.2,
       "blocksPerGame": 0.4,
       "fieldGoalPercentage": 66.7,
-      "threePointPercentage": 0.0,
-      "freeThrowPercentage": 60.0
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 60
     },
     "transferHistory": [
       {
@@ -32611,11 +32552,11 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 0.2,
-      "pointsPerGame": 0.0,
-      "reboundsPerGame": 0.0,
-      "assistsPerGame": 0.0,
-      "stealsPerGame": 0.0,
-      "blocksPerGame": 0.0,
+      "pointsPerGame": 0,
+      "reboundsPerGame": 0,
+      "assistsPerGame": 0,
+      "stealsPerGame": 0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 0,
       "threePointPercentage": 0,
       "freeThrowPercentage": 0
@@ -32735,7 +32676,7 @@ const basketballTransfers = [
       "reboundsPerGame": 0.5,
       "assistsPerGame": 0.2,
       "stealsPerGame": 0.2,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 32.8,
       "threePointPercentage": 30.4,
       "freeThrowPercentage": 78.9
@@ -32850,12 +32791,12 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 33.0,
-      "pointsPerGame": 17.0,
+      "minutesPerGame": 33,
+      "pointsPerGame": 17,
       "reboundsPerGame": 1.7,
       "assistsPerGame": 3.3,
       "stealsPerGame": 2.3,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 47.5,
       "threePointPercentage": 27.3,
       "freeThrowPercentage": 90.9
@@ -32942,10 +32883,10 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 16.4,
       "pointsPerGame": 3.8,
-      "reboundsPerGame": 2.0,
+      "reboundsPerGame": 2,
       "assistsPerGame": 0.9,
       "stealsPerGame": 0.4,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 33.3,
       "threePointPercentage": 26.1,
       "freeThrowPercentage": 83.9
@@ -33095,7 +33036,7 @@ const basketballTransfers = [
       "reboundsPerGame": 4.9,
       "assistsPerGame": 6.4,
       "stealsPerGame": 1.2,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 46.5,
       "threePointPercentage": 17.4,
       "freeThrowPercentage": 78.4
@@ -33122,8 +33063,8 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 33.6,
       "pointsPerGame": 19.7,
-      "reboundsPerGame": 4.0,
-      "assistsPerGame": 3.0,
+      "reboundsPerGame": 4,
+      "assistsPerGame": 3,
       "stealsPerGame": 1.1,
       "blocksPerGame": 0.1,
       "fieldGoalPercentage": 45.7,
@@ -33260,10 +33201,10 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 28.0,
+      "minutesPerGame": 28,
       "pointsPerGame": 12.3,
       "reboundsPerGame": 5.5,
-      "assistsPerGame": 2.0,
+      "assistsPerGame": 2,
       "stealsPerGame": 0.9,
       "blocksPerGame": 0.5,
       "fieldGoalPercentage": 40.4,
@@ -33320,7 +33261,7 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 31.0,
+      "minutesPerGame": 31,
       "pointsPerGame": 13.5,
       "reboundsPerGame": 4.7,
       "assistsPerGame": 1.3,
@@ -33381,7 +33322,7 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 8.6,
-      "pointsPerGame": 1.0,
+      "pointsPerGame": 1,
       "reboundsPerGame": 1.7,
       "assistsPerGame": 0.3,
       "stealsPerGame": 0.2,
@@ -33440,7 +33381,7 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 20.0,
+      "minutesPerGame": 20,
       "pointsPerGame": 6.7,
       "reboundsPerGame": 4.8,
       "assistsPerGame": 0.8,
@@ -33501,13 +33442,13 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 27.8,
-      "pointsPerGame": 12.0,
+      "pointsPerGame": 12,
       "reboundsPerGame": 2.2,
       "assistsPerGame": 2.5,
       "stealsPerGame": 0.8,
       "blocksPerGame": 0.1,
       "fieldGoalPercentage": 45.1,
-      "threePointPercentage": 40.0,
+      "threePointPercentage": 40,
       "freeThrowPercentage": 80.9
     },
     "transferHistory": [
@@ -33597,7 +33538,7 @@ const basketballTransfers = [
       "stealsPerGame": 0.5,
       "blocksPerGame": 0.7,
       "fieldGoalPercentage": 59.6,
-      "threePointPercentage": 0.0,
+      "threePointPercentage": 0,
       "freeThrowPercentage": 55.6
     },
     "transferHistory": [
@@ -33653,8 +33594,8 @@ const basketballTransfers = [
       "minutesPerGame": 28.2,
       "pointsPerGame": 11.5,
       "reboundsPerGame": 4.1,
-      "assistsPerGame": 1.0,
-      "stealsPerGame": 1.0,
+      "assistsPerGame": 1,
+      "stealsPerGame": 1,
       "blocksPerGame": 0.1,
       "fieldGoalPercentage": 48.8,
       "threePointPercentage": 36.8,
@@ -33685,7 +33626,7 @@ const basketballTransfers = [
       "reboundsPerGame": 1.3,
       "assistsPerGame": 0.1,
       "stealsPerGame": 0.1,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 37,
       "threePointPercentage": 21.4,
       "freeThrowPercentage": 50
@@ -33715,7 +33656,7 @@ const basketballTransfers = [
       "reboundsPerGame": 0.7,
       "assistsPerGame": 0.1,
       "stealsPerGame": 0.2,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 52.5,
       "threePointPercentage": 53.2,
       "freeThrowPercentage": 66.7
@@ -33774,7 +33715,7 @@ const basketballTransfers = [
       "pointsPerGame": 5.9,
       "reboundsPerGame": 3.3,
       "assistsPerGame": 0.5,
-      "stealsPerGame": 0.2,
+      "stealsPerGame": 0.3,
       "blocksPerGame": 0.7,
       "fieldGoalPercentage": 65.8,
       "threePointPercentage": 30.8,
@@ -33803,8 +33744,8 @@ const basketballTransfers = [
       "minutesPerGame": 25.8,
       "pointsPerGame": 10.1,
       "reboundsPerGame": 1.4,
-      "assistsPerGame": 5.0,
-      "stealsPerGame": 1.0,
+      "assistsPerGame": 5,
+      "stealsPerGame": 1,
       "blocksPerGame": 0.1,
       "fieldGoalPercentage": 39,
       "threePointPercentage": 31.7,
@@ -33830,12 +33771,12 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 23.0,
-      "pointsPerGame": 3.0,
-      "reboundsPerGame": 1.0,
-      "assistsPerGame": 1.0,
-      "stealsPerGame": 1.0,
-      "blocksPerGame": 0.0,
+      "minutesPerGame": 23,
+      "pointsPerGame": 3,
+      "reboundsPerGame": 1,
+      "assistsPerGame": 1,
+      "stealsPerGame": 1,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 12.5,
       "threePointPercentage": 0,
       "freeThrowPercentage": 50
@@ -33945,7 +33886,7 @@ const basketballTransfers = [
       "reboundsPerGame": 2.1,
       "assistsPerGame": 1.3,
       "stealsPerGame": 0.9,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 36.6,
       "threePointPercentage": 34.4,
       "freeThrowPercentage": 92.6
@@ -33990,11 +33931,11 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 26.0,
+      "minutesPerGame": 25.9,
       "pointsPerGame": 9.7,
       "reboundsPerGame": 3.4,
       "assistsPerGame": 1.1,
-      "stealsPerGame": 1.0,
+      "stealsPerGame": 1,
       "blocksPerGame": 0.2,
       "fieldGoalPercentage": 43.3,
       "threePointPercentage": 32.1,
@@ -34050,13 +33991,13 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 26.8,
-      "pointsPerGame": 7.0,
+      "minutesPerGame": 26.7,
+      "pointsPerGame": 7.1,
       "reboundsPerGame": 5.6,
       "assistsPerGame": 1.6,
       "stealsPerGame": 0.8,
-      "blocksPerGame": 0.5,
-      "fieldGoalPercentage": 48.4,
+      "blocksPerGame": 0.4,
+      "fieldGoalPercentage": 49,
       "threePointPercentage": 27.8,
       "freeThrowPercentage": 78.7
     },
@@ -34081,11 +34022,11 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 16.3,
-      "pointsPerGame": 4.0,
+      "pointsPerGame": 4,
       "reboundsPerGame": 1.2,
       "assistsPerGame": 1.5,
       "stealsPerGame": 0.3,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 39.6,
       "threePointPercentage": 34.8,
       "freeThrowPercentage": 74.5
@@ -34111,7 +34052,7 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 27.7,
-      "pointsPerGame": 15.0,
+      "pointsPerGame": 15,
       "reboundsPerGame": 3.9,
       "assistsPerGame": 4.4,
       "stealsPerGame": 0.9,
@@ -34164,8 +34105,8 @@ const basketballTransfers = [
       "pointsPerGame": 0.6,
       "reboundsPerGame": 0.5,
       "assistsPerGame": 0.1,
-      "stealsPerGame": 0.0,
-      "blocksPerGame": 0.0,
+      "stealsPerGame": 0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 50,
       "threePointPercentage": 0,
       "freeThrowPercentage": 50
@@ -34190,7 +34131,7 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 17.0,
+      "minutesPerGame": 17,
       "pointsPerGame": 4.1,
       "reboundsPerGame": 2.5,
       "assistsPerGame": 1.5,
@@ -34223,12 +34164,12 @@ const basketballTransfers = [
       "minutesPerGame": 2.5,
       "pointsPerGame": 0.5,
       "reboundsPerGame": 0.1,
-      "assistsPerGame": 0.0,
-      "stealsPerGame": 0.0,
-      "blocksPerGame": 0.0,
-      "fieldGoalPercentage": 40.0,
+      "assistsPerGame": 0,
+      "stealsPerGame": 0,
+      "blocksPerGame": 0,
+      "fieldGoalPercentage": 40,
       "threePointPercentage": 66.7,
-      "freeThrowPercentage": 0.0
+      "freeThrowPercentage": 0
     },
     "transferHistory": [
       {
@@ -34253,7 +34194,7 @@ const basketballTransfers = [
       "minutesPerGame": 35.2,
       "pointsPerGame": 15.8,
       "reboundsPerGame": 8.1,
-      "assistsPerGame": 3.0,
+      "assistsPerGame": 3,
       "stealsPerGame": 2.1,
       "blocksPerGame": 1.1,
       "fieldGoalPercentage": 40.2,
@@ -34284,10 +34225,10 @@ const basketballTransfers = [
       "pointsPerGame": 16.9,
       "reboundsPerGame": 3.9,
       "assistsPerGame": 2.3,
-      "stealsPerGame": 1.0,
+      "stealsPerGame": 1,
       "blocksPerGame": 0.1,
       "fieldGoalPercentage": 40.1,
-      "threePointPercentage": 41.2,
+      "threePointPercentage": 40.4,
       "freeThrowPercentage": 79.9
     },
     "transferHistory": [
@@ -34340,14 +34281,14 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 10.0,
+      "minutesPerGame": 10,
       "pointsPerGame": 2.3,
       "reboundsPerGame": 2.4,
       "assistsPerGame": 0.3,
       "stealsPerGame": 0.3,
       "blocksPerGame": 0.5,
       "fieldGoalPercentage": 54.3,
-      "threePointPercentage": 0.0,
+      "threePointPercentage": 0,
       "freeThrowPercentage": 43.4
     },
     "transferHistory": [
@@ -34376,7 +34317,7 @@ const basketballTransfers = [
       "assistsPerGame": 2.5,
       "stealsPerGame": 1.5,
       "blocksPerGame": 0.3,
-      "fieldGoalPercentage": 47.0,
+      "fieldGoalPercentage": 47,
       "threePointPercentage": 43.3,
       "freeThrowPercentage": 71.1
     },
@@ -34405,7 +34346,7 @@ const basketballTransfers = [
       "reboundsPerGame": 2.7,
       "assistsPerGame": 6.7,
       "stealsPerGame": 1.3,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 41.3,
       "threePointPercentage": 36.8,
       "freeThrowPercentage": 79.8
@@ -34433,8 +34374,8 @@ const basketballTransfers = [
       "minutesPerGame": 17.2,
       "pointsPerGame": 6.6,
       "reboundsPerGame": 2.9,
-      "assistsPerGame": 2.0,
-      "stealsPerGame": 1.0,
+      "assistsPerGame": 2,
+      "stealsPerGame": 1,
       "blocksPerGame": 0.4,
       "fieldGoalPercentage": 51.7,
       "threePointPercentage": 40,
@@ -34485,7 +34426,7 @@ const basketballTransfers = [
       "reboundsPerGame": 1.7,
       "assistsPerGame": 2.3,
       "stealsPerGame": 0.5,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 40.6,
       "threePointPercentage": 30.3,
       "freeThrowPercentage": 82.7
@@ -34512,7 +34453,7 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 27.4,
       "pointsPerGame": 14.8,
-      "reboundsPerGame": 3.0,
+      "reboundsPerGame": 3,
       "assistsPerGame": 2.2,
       "stealsPerGame": 1.3,
       "blocksPerGame": 0.1,
@@ -34545,7 +34486,7 @@ const basketballTransfers = [
       "reboundsPerGame": 1.9,
       "assistsPerGame": 2.7,
       "stealsPerGame": 0.8,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 37.9,
       "threePointPercentage": 26.5,
       "freeThrowPercentage": 73.9
@@ -34573,12 +34514,12 @@ const basketballTransfers = [
       "minutesPerGame": 27.1,
       "pointsPerGame": 8.9,
       "reboundsPerGame": 3.1,
-      "assistsPerGame": 3.0,
+      "assistsPerGame": 3,
       "stealsPerGame": 1.6,
       "blocksPerGame": 0.3,
-      "fieldGoalPercentage": 41.0,
+      "fieldGoalPercentage": 41,
       "threePointPercentage": 31.4,
-      "freeThrowPercentage": 67.0
+      "freeThrowPercentage": 67
     },
     "transferHistory": [
       {
@@ -34631,7 +34572,7 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 1.9,
-      "pointsPerGame": 1.0,
+      "pointsPerGame": 1,
       "reboundsPerGame": 0.5,
       "assistsPerGame": 0.1,
       "stealsPerGame": 0.1,
@@ -34691,7 +34632,7 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 29.2,
-      "pointsPerGame": 11.0,
+      "pointsPerGame": 11,
       "reboundsPerGame": 2.2,
       "assistsPerGame": 6.9,
       "stealsPerGame": 0.4,
@@ -34767,8 +34708,8 @@ const basketballTransfers = [
       "stealsPerGame": 0.4,
       "blocksPerGame": 0.6,
       "fieldGoalPercentage": 72.5,
-      "threePointPercentage": 0.0,
-      "freeThrowPercentage": 50.0
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 50
     },
     "transferHistory": [
       {
@@ -34855,7 +34796,7 @@ const basketballTransfers = [
       "reboundsPerGame": 1.7,
       "assistsPerGame": 2.6,
       "stealsPerGame": 0.7,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 38.2,
       "threePointPercentage": 22,
       "freeThrowPercentage": 76
@@ -34883,7 +34824,7 @@ const basketballTransfers = [
       "minutesPerGame": 15.9,
       "pointsPerGame": 5.3,
       "reboundsPerGame": 4.3,
-      "assistsPerGame": 1.0,
+      "assistsPerGame": 1,
       "stealsPerGame": 0.6,
       "blocksPerGame": 0.5,
       "fieldGoalPercentage": 44.9,
@@ -34911,7 +34852,7 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 27.5,
-      "pointsPerGame": 12.0,
+      "pointsPerGame": 12,
       "reboundsPerGame": 1.6,
       "assistsPerGame": 1.1,
       "stealsPerGame": 0.9,
@@ -34945,7 +34886,7 @@ const basketballTransfers = [
       "reboundsPerGame": 2.5,
       "assistsPerGame": 2.3,
       "stealsPerGame": 0.7,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 42,
       "threePointPercentage": 31,
       "freeThrowPercentage": 77.9
@@ -34971,7 +34912,7 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 30.6,
-      "pointsPerGame": 11.0,
+      "pointsPerGame": 11,
       "reboundsPerGame": 5.8,
       "assistsPerGame": 1.1,
       "stealsPerGame": 0.5,
@@ -35007,7 +34948,7 @@ const basketballTransfers = [
       "stealsPerGame": 0.5,
       "blocksPerGame": 0.2,
       "fieldGoalPercentage": 43.1,
-      "threePointPercentage": 39.0,
+      "threePointPercentage": 39,
       "freeThrowPercentage": 85.7
     },
     "transferHistory": [
@@ -35114,7 +35055,7 @@ const basketballTransfers = [
       "pointsPerGame": 12.9,
       "reboundsPerGame": 4.6,
       "assistsPerGame": 1.8,
-      "stealsPerGame": 1.0,
+      "stealsPerGame": 1,
       "blocksPerGame": 0.7,
       "fieldGoalPercentage": 40.8,
       "threePointPercentage": 36.2,
@@ -35162,7 +35103,7 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 22.3,
       "pointsPerGame": 7.2,
-      "reboundsPerGame": 4.0,
+      "reboundsPerGame": 4,
       "assistsPerGame": 1.3,
       "stealsPerGame": 0.6,
       "blocksPerGame": 0.2,
@@ -35190,7 +35131,7 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 27.3,
+      "minutesPerGame": 27.2,
       "pointsPerGame": 7.5,
       "reboundsPerGame": 1.7,
       "assistsPerGame": 1.9,
@@ -35326,7 +35267,7 @@ const basketballTransfers = [
       "reboundsPerGame": 1.9,
       "assistsPerGame": 1.4,
       "stealsPerGame": 0.3,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 32.3,
       "threePointPercentage": 28.9,
       "freeThrowPercentage": 91.7
@@ -35416,7 +35357,7 @@ const basketballTransfers = [
       "reboundsPerGame": 3.4,
       "assistsPerGame": 4.2,
       "stealsPerGame": 0.9,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 40,
       "threePointPercentage": 36.5,
       "freeThrowPercentage": 74.5
@@ -35622,8 +35563,8 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 16.7,
-      "pointsPerGame": 8.0,
-      "reboundsPerGame": 4.0,
+      "pointsPerGame": 8,
+      "reboundsPerGame": 4,
       "assistsPerGame": 1.1,
       "stealsPerGame": 0.5,
       "blocksPerGame": 0.7,
@@ -35651,7 +35592,7 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 30.0,
+      "minutesPerGame": 30,
       "pointsPerGame": 10.7,
       "reboundsPerGame": 9.1,
       "assistsPerGame": 1.5,
@@ -35686,7 +35627,7 @@ const basketballTransfers = [
       "reboundsPerGame": 1.6,
       "assistsPerGame": 0.9,
       "stealsPerGame": 0.5,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 38.4,
       "threePointPercentage": 38.5,
       "freeThrowPercentage": 86.2
@@ -36172,7 +36113,7 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 36.9,
+      "minutesPerGame": 36.8,
       "pointsPerGame": 15.9,
       "reboundsPerGame": 3.1,
       "assistsPerGame": 0.9,
@@ -36253,36 +36194,6 @@ const basketballTransfers = [
     "needsReview": false
   },
   {
-    "playerId": "46166108",
-    "name": "Egan Shields",
-    "sport": "basketball",
-    "position": "C",
-    "previousSchool": "Northern Colorado",
-    "destination": "",
-    "season": 2026,
-    "profileUrl": "",
-    "stats": {
-      "minutesPerGame": 17.5,
-      "pointsPerGame": 6.3,
-      "reboundsPerGame": 4.7,
-      "assistsPerGame": 0.9,
-      "stealsPerGame": 0.1,
-      "blocksPerGame": 0.5,
-      "fieldGoalPercentage": 65.8,
-      "threePointPercentage": 0,
-      "freeThrowPercentage": 70
-    },
-    "transferHistory": [
-      {
-        "recordId": "2902",
-        "previousSchool": "Northern Colorado",
-        "destination": "",
-        "season": "2026"
-      }
-    ],
-    "needsReview": false
-  },
-  {
     "playerId": "46166363",
     "name": "Andrej Shoshkikj",
     "sport": "basketball",
@@ -36324,10 +36235,10 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 6.1,
       "pointsPerGame": 0.9,
-      "reboundsPerGame": 1.0,
+      "reboundsPerGame": 1,
       "assistsPerGame": 0.1,
-      "stealsPerGame": 0.0,
-      "blocksPerGame": 0.0,
+      "stealsPerGame": 0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 80,
       "threePointPercentage": 0,
       "freeThrowPercentage": 0
@@ -36373,14 +36284,14 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 3.8,
-      "pointsPerGame": 1.0,
+      "pointsPerGame": 1,
       "reboundsPerGame": 0.6,
       "assistsPerGame": 0.2,
-      "stealsPerGame": 0.0,
-      "blocksPerGame": 0.0,
+      "stealsPerGame": 0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 28.6,
-      "threePointPercentage": 25.0,
-      "freeThrowPercentage": 0.0
+      "threePointPercentage": 25,
+      "freeThrowPercentage": 0
     },
     "transferHistory": [
       {
@@ -36504,8 +36415,8 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 31.4,
       "pointsPerGame": 7.2,
-      "reboundsPerGame": 5.0,
-      "assistsPerGame": 2.0,
+      "reboundsPerGame": 5,
+      "assistsPerGame": 2,
       "stealsPerGame": 0.7,
       "blocksPerGame": 0.4,
       "fieldGoalPercentage": 48.7,
@@ -36552,7 +36463,7 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 25.0,
+      "minutesPerGame": 25,
       "pointsPerGame": 7.6,
       "reboundsPerGame": 4.8,
       "assistsPerGame": 1.5,
@@ -36646,7 +36557,7 @@ const basketballTransfers = [
       "pointsPerGame": 10.1,
       "reboundsPerGame": 5.5,
       "assistsPerGame": 0.9,
-      "stealsPerGame": 1.0,
+      "stealsPerGame": 1,
       "blocksPerGame": 0.6,
       "fieldGoalPercentage": 46.3,
       "threePointPercentage": 29.6,
@@ -36735,7 +36646,7 @@ const basketballTransfers = [
       "minutesPerGame": 13.8,
       "pointsPerGame": 3.1,
       "reboundsPerGame": 3.7,
-      "assistsPerGame": 1.0,
+      "assistsPerGame": 1,
       "stealsPerGame": 0.3,
       "blocksPerGame": 0.3,
       "fieldGoalPercentage": 52.7,
@@ -36797,7 +36708,7 @@ const basketballTransfers = [
       "reboundsPerGame": 1.4,
       "assistsPerGame": 0.8,
       "stealsPerGame": 0.1,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 48.9,
       "threePointPercentage": 44.4,
       "freeThrowPercentage": 73.7
@@ -36825,12 +36736,12 @@ const basketballTransfers = [
       "minutesPerGame": 4.5,
       "pointsPerGame": 0.5,
       "reboundsPerGame": 0.7,
-      "assistsPerGame": 0.0,
+      "assistsPerGame": 0,
       "stealsPerGame": 0.2,
       "blocksPerGame": 0.2,
-      "fieldGoalPercentage": 25.0,
-      "threePointPercentage": 0.0,
-      "freeThrowPercentage": 50.0
+      "fieldGoalPercentage": 25,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 50
     },
     "transferHistory": [
       {
@@ -36877,8 +36788,8 @@ const basketballTransfers = [
       "pointsPerGame": 5.1,
       "reboundsPerGame": 2.2,
       "assistsPerGame": 3.6,
-      "stealsPerGame": 1.0,
-      "blocksPerGame": 0.0,
+      "stealsPerGame": 1,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 46.7,
       "threePointPercentage": 33.3,
       "freeThrowPercentage": 80.5
@@ -37053,12 +36964,12 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 8.0,
+      "minutesPerGame": 8,
       "pointsPerGame": 1.4,
       "reboundsPerGame": 1.2,
       "assistsPerGame": 0.3,
       "stealsPerGame": 0.1,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 18.4,
       "threePointPercentage": 10.5,
       "freeThrowPercentage": 77.8
@@ -37177,7 +37088,7 @@ const basketballTransfers = [
       "pointsPerGame": 1.9,
       "reboundsPerGame": 1.2,
       "assistsPerGame": 0.1,
-      "stealsPerGame": 0.0,
+      "stealsPerGame": 0,
       "blocksPerGame": 0.1,
       "fieldGoalPercentage": 77.8,
       "threePointPercentage": 0,
@@ -37203,12 +37114,12 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 26.0,
-      "pointsPerGame": 8.0,
-      "reboundsPerGame": 3.0,
+      "minutesPerGame": 26,
+      "pointsPerGame": 8,
+      "reboundsPerGame": 3,
       "assistsPerGame": 2.4,
       "stealsPerGame": 1.5,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 33.6,
       "threePointPercentage": 33.7,
       "freeThrowPercentage": 79.1
@@ -37236,7 +37147,7 @@ const basketballTransfers = [
       "minutesPerGame": 28.5,
       "pointsPerGame": 10.7,
       "reboundsPerGame": 4.2,
-      "assistsPerGame": 1.0,
+      "assistsPerGame": 1,
       "stealsPerGame": 0.3,
       "blocksPerGame": 0.4,
       "fieldGoalPercentage": 44.1,
@@ -37283,7 +37194,7 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 20.0,
+      "minutesPerGame": 20,
       "pointsPerGame": 5.9,
       "reboundsPerGame": 4.6,
       "assistsPerGame": 1.5,
@@ -37348,7 +37259,7 @@ const basketballTransfers = [
       "reboundsPerGame": 1.1,
       "assistsPerGame": 0.4,
       "stealsPerGame": 0.4,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 31.3,
       "threePointPercentage": 0,
       "freeThrowPercentage": 88.9
@@ -37377,7 +37288,7 @@ const basketballTransfers = [
       "pointsPerGame": 15.3,
       "reboundsPerGame": 4.4,
       "assistsPerGame": 3.8,
-      "stealsPerGame": 1.0,
+      "stealsPerGame": 1,
       "blocksPerGame": 0.3,
       "fieldGoalPercentage": 44.5,
       "threePointPercentage": 36.5,
@@ -37437,7 +37348,7 @@ const basketballTransfers = [
       "pointsPerGame": 11.8,
       "reboundsPerGame": 3.4,
       "assistsPerGame": 1.4,
-      "stealsPerGame": 1.0,
+      "stealsPerGame": 1,
       "blocksPerGame": 0.5,
       "fieldGoalPercentage": 41.1,
       "threePointPercentage": 31.9,
@@ -37468,7 +37379,7 @@ const basketballTransfers = [
       "reboundsPerGame": 5.8,
       "assistsPerGame": 0.7,
       "stealsPerGame": 1.1,
-      "blocksPerGame": 2.0,
+      "blocksPerGame": 2,
       "fieldGoalPercentage": 52.2,
       "threePointPercentage": 14.3,
       "freeThrowPercentage": 67.8
@@ -37493,12 +37404,12 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 5.0,
+      "minutesPerGame": 5,
       "pointsPerGame": 1.3,
       "reboundsPerGame": 0.5,
       "assistsPerGame": 0.4,
       "stealsPerGame": 0.2,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 50,
       "threePointPercentage": 0,
       "freeThrowPercentage": 75
@@ -37577,7 +37488,7 @@ const basketballTransfers = [
       "pointsPerGame": 0.6,
       "reboundsPerGame": 0.6,
       "assistsPerGame": 0.3,
-      "stealsPerGame": 0.0,
+      "stealsPerGame": 0,
       "blocksPerGame": 0.6,
       "fieldGoalPercentage": 50,
       "threePointPercentage": 0,
@@ -37607,7 +37518,7 @@ const basketballTransfers = [
       "pointsPerGame": 17.3,
       "reboundsPerGame": 3.9,
       "assistsPerGame": 4.1,
-      "stealsPerGame": 1.0,
+      "stealsPerGame": 1,
       "blocksPerGame": 0.1,
       "fieldGoalPercentage": 43.6,
       "threePointPercentage": 37.3,
@@ -37695,7 +37606,7 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 11.3,
       "pointsPerGame": 3.3,
-      "reboundsPerGame": 1.0,
+      "reboundsPerGame": 1,
       "assistsPerGame": 0.2,
       "stealsPerGame": 0.2,
       "blocksPerGame": 0.1,
@@ -37726,10 +37637,10 @@ const basketballTransfers = [
       "minutesPerGame": 15.5,
       "pointsPerGame": 3.5,
       "reboundsPerGame": 4.2,
-      "assistsPerGame": 0.2,
+      "assistsPerGame": 0.3,
       "stealsPerGame": 0.4,
-      "blocksPerGame": 0.5,
-      "fieldGoalPercentage": 50.7,
+      "blocksPerGame": 0.7,
+      "fieldGoalPercentage": 51.4,
       "threePointPercentage": 0,
       "freeThrowPercentage": 42.3
     },
@@ -37889,7 +37800,7 @@ const basketballTransfers = [
       "reboundsPerGame": 0.9,
       "assistsPerGame": 0.3,
       "stealsPerGame": 0.1,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 50,
       "threePointPercentage": 40,
       "freeThrowPercentage": 66.7
@@ -38009,7 +37920,7 @@ const basketballTransfers = [
       "reboundsPerGame": 0.9,
       "assistsPerGame": 0.7,
       "stealsPerGame": 0.3,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 28.6,
       "threePointPercentage": 12.5,
       "freeThrowPercentage": 86.7
@@ -38034,15 +37945,15 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 4.0,
-      "pointsPerGame": 0.0,
-      "reboundsPerGame": 1.0,
-      "assistsPerGame": 0.0,
-      "stealsPerGame": 0.0,
-      "blocksPerGame": 0.0,
-      "fieldGoalPercentage": 0.0,
-      "threePointPercentage": 0.0,
-      "freeThrowPercentage": 0.0
+      "minutesPerGame": 4,
+      "pointsPerGame": 0,
+      "reboundsPerGame": 1,
+      "assistsPerGame": 0,
+      "stealsPerGame": 0,
+      "blocksPerGame": 0,
+      "fieldGoalPercentage": 0,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 0
     },
     "transferHistory": [
       {
@@ -38071,7 +37982,7 @@ const basketballTransfers = [
       "stealsPerGame": 0.9,
       "blocksPerGame": 0.1,
       "fieldGoalPercentage": 44.8,
-      "threePointPercentage": 35.0,
+      "threePointPercentage": 35,
       "freeThrowPercentage": 78.3
     },
     "transferHistory": [
@@ -38125,12 +38036,12 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 17.1,
-      "pointsPerGame": 10.0,
+      "pointsPerGame": 10,
       "reboundsPerGame": 2.3,
       "assistsPerGame": 0.9,
       "stealsPerGame": 0.4,
       "blocksPerGame": 0.2,
-      "fieldGoalPercentage": 44.6,
+      "fieldGoalPercentage": 44.4,
       "threePointPercentage": 27.8,
       "freeThrowPercentage": 75.9
     },
@@ -38153,7 +38064,17 @@ const basketballTransfers = [
     "destination": "Temple",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 21.5,
+      "pointsPerGame": 9.2,
+      "reboundsPerGame": 6,
+      "assistsPerGame": 1.2,
+      "stealsPerGame": 1.3,
+      "blocksPerGame": 0.5,
+      "fieldGoalPercentage": 51.8,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 57.6
+    },
     "transferHistory": [
       {
         "recordId": "3404",
@@ -38196,10 +38117,10 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 13.7,
       "pointsPerGame": 3.6,
-      "reboundsPerGame": 1.0,
+      "reboundsPerGame": 1,
       "assistsPerGame": 2.2,
       "stealsPerGame": 0.8,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 41,
       "threePointPercentage": 44,
       "freeThrowPercentage": 82.6
@@ -38230,7 +38151,7 @@ const basketballTransfers = [
       "assistsPerGame": 3.8,
       "stealsPerGame": 0.8,
       "blocksPerGame": 0.1,
-      "fieldGoalPercentage": 48.0,
+      "fieldGoalPercentage": 48,
       "threePointPercentage": 39.6,
       "freeThrowPercentage": 65.4
     },
@@ -38424,8 +38345,8 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 28.0,
-      "pointsPerGame": 10.0,
+      "minutesPerGame": 28,
+      "pointsPerGame": 10,
       "reboundsPerGame": 4.6,
       "assistsPerGame": 1.7,
       "stealsPerGame": 0.6,
@@ -38476,7 +38397,7 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 32.9,
       "pointsPerGame": 19.4,
-      "reboundsPerGame": 3.0,
+      "reboundsPerGame": 3,
       "assistsPerGame": 1.5,
       "stealsPerGame": 0.3,
       "blocksPerGame": 0.2,
@@ -38594,11 +38515,11 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 21.0,
+      "minutesPerGame": 21,
       "pointsPerGame": 8.7,
       "reboundsPerGame": 2.7,
       "assistsPerGame": 0.3,
-      "stealsPerGame": 0.0,
+      "stealsPerGame": 0,
       "blocksPerGame": 0.3,
       "fieldGoalPercentage": 38.9,
       "threePointPercentage": 11.1,
@@ -38645,11 +38566,11 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 24.7,
-      "pointsPerGame": 8.0,
+      "pointsPerGame": 8,
       "reboundsPerGame": 2.7,
       "assistsPerGame": 3.3,
       "stealsPerGame": 0.7,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 40.8,
       "threePointPercentage": 34.5,
       "freeThrowPercentage": 78.9
@@ -38695,11 +38616,11 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 14.6,
-      "pointsPerGame": 6.0,
+      "pointsPerGame": 6,
       "reboundsPerGame": 1.6,
       "assistsPerGame": 0.9,
       "stealsPerGame": 0.3,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 33.5,
       "threePointPercentage": 34.7,
       "freeThrowPercentage": 82.8
@@ -38785,11 +38706,11 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 16.5,
-      "pointsPerGame": 6.0,
+      "pointsPerGame": 6,
       "reboundsPerGame": 1.5,
       "assistsPerGame": 2.1,
       "stealsPerGame": 0.6,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 45.9,
       "threePointPercentage": 42.6,
       "freeThrowPercentage": 74.1
@@ -38912,7 +38833,7 @@ const basketballTransfers = [
       "blocksPerGame": 0.4,
       "fieldGoalPercentage": 40.7,
       "threePointPercentage": 38.2,
-      "freeThrowPercentage": 74.0
+      "freeThrowPercentage": 74
     },
     "transferHistory": [
       {
@@ -39086,7 +39007,7 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 29.2,
       "pointsPerGame": 15.9,
-      "reboundsPerGame": 3.0,
+      "reboundsPerGame": 3,
       "assistsPerGame": 1.2,
       "stealsPerGame": 0.5,
       "blocksPerGame": 0.3,
@@ -39117,7 +39038,7 @@ const basketballTransfers = [
       "minutesPerGame": 28.5,
       "pointsPerGame": 5.8,
       "reboundsPerGame": 2.4,
-      "assistsPerGame": 3.0,
+      "assistsPerGame": 3,
       "stealsPerGame": 1.2,
       "blocksPerGame": 0.1,
       "fieldGoalPercentage": 39.1,
@@ -39146,7 +39067,7 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 26.8,
       "pointsPerGame": 10.8,
-      "reboundsPerGame": 8.0,
+      "reboundsPerGame": 8,
       "assistsPerGame": 1.5,
       "stealsPerGame": 0.8,
       "blocksPerGame": 0.7,
@@ -39197,7 +39118,7 @@ const basketballTransfers = [
       "minutesPerGame": 22.5,
       "pointsPerGame": 11.8,
       "reboundsPerGame": 3.2,
-      "assistsPerGame": 1.0,
+      "assistsPerGame": 1,
       "stealsPerGame": 0.8,
       "blocksPerGame": 0.2,
       "fieldGoalPercentage": 38.2,
@@ -39231,7 +39152,7 @@ const basketballTransfers = [
       "stealsPerGame": 1.2,
       "blocksPerGame": 0.5,
       "fieldGoalPercentage": 40.3,
-      "threePointPercentage": 30.0,
+      "threePointPercentage": 30,
       "freeThrowPercentage": 77.8
     },
     "transferHistory": [
@@ -39385,8 +39306,8 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 17.0,
-      "pointsPerGame": 6.0,
+      "minutesPerGame": 17,
+      "pointsPerGame": 6,
       "reboundsPerGame": 1.6,
       "assistsPerGame": 1.3,
       "stealsPerGame": 0.5,
@@ -39420,7 +39341,7 @@ const basketballTransfers = [
       "reboundsPerGame": 0.8,
       "assistsPerGame": 1.3,
       "stealsPerGame": 0.7,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 34.1,
       "threePointPercentage": 20,
       "freeThrowPercentage": 64.3
@@ -39448,7 +39369,7 @@ const basketballTransfers = [
       "minutesPerGame": 25.9,
       "pointsPerGame": 7.9,
       "reboundsPerGame": 6.1,
-      "assistsPerGame": 1.0,
+      "assistsPerGame": 1,
       "stealsPerGame": 0.3,
       "blocksPerGame": 1.3,
       "fieldGoalPercentage": 44.9,
@@ -39528,12 +39449,12 @@ const basketballTransfers = [
       "minutesPerGame": 35.4,
       "pointsPerGame": 15.3,
       "reboundsPerGame": 3.7,
-      "assistsPerGame": 2.0,
+      "assistsPerGame": 2,
       "stealsPerGame": 1.2,
       "blocksPerGame": 0.2,
-      "fieldGoalPercentage": 48.0,
+      "fieldGoalPercentage": 48,
       "threePointPercentage": 33.8,
-      "freeThrowPercentage": 80.0
+      "freeThrowPercentage": 80
     },
     "transferHistory": [
       {
@@ -39588,7 +39509,7 @@ const basketballTransfers = [
       "minutesPerGame": 8.1,
       "pointsPerGame": 1.7,
       "reboundsPerGame": 2.1,
-      "assistsPerGame": 0.0,
+      "assistsPerGame": 0,
       "stealsPerGame": 0.3,
       "blocksPerGame": 0.2,
       "fieldGoalPercentage": 53.1,
@@ -39650,9 +39571,9 @@ const basketballTransfers = [
       "reboundsPerGame": 5.5,
       "assistsPerGame": 0.5,
       "stealsPerGame": 0.4,
-      "blocksPerGame": 1.0,
+      "blocksPerGame": 1,
       "fieldGoalPercentage": 62.9,
-      "threePointPercentage": 0.0,
+      "threePointPercentage": 0,
       "freeThrowPercentage": 36.8
     },
     "transferHistory": [
@@ -39675,12 +39596,12 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 5.0,
-      "pointsPerGame": 6.0,
-      "reboundsPerGame": 0.0,
-      "assistsPerGame": 0.0,
-      "stealsPerGame": 0.0,
-      "blocksPerGame": 0.0,
+      "minutesPerGame": 5,
+      "pointsPerGame": 6,
+      "reboundsPerGame": 0,
+      "assistsPerGame": 0,
+      "stealsPerGame": 0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 75,
       "threePointPercentage": 0,
       "freeThrowPercentage": 0
@@ -39738,9 +39659,9 @@ const basketballTransfers = [
       "minutesPerGame": 6.3,
       "pointsPerGame": 1.3,
       "reboundsPerGame": 0.7,
-      "assistsPerGame": 0.0,
+      "assistsPerGame": 0,
       "stealsPerGame": 0.2,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 66.7,
       "threePointPercentage": 0,
       "freeThrowPercentage": 0
@@ -39766,9 +39687,9 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 28.7,
-      "pointsPerGame": 9.0,
+      "pointsPerGame": 9,
       "reboundsPerGame": 3.4,
-      "assistsPerGame": 2.0,
+      "assistsPerGame": 2,
       "stealsPerGame": 1.2,
       "blocksPerGame": 0.5,
       "fieldGoalPercentage": 38.6,
@@ -39797,7 +39718,7 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 19.6,
       "pointsPerGame": 8.2,
-      "reboundsPerGame": 3.0,
+      "reboundsPerGame": 3,
       "assistsPerGame": 0.8,
       "stealsPerGame": 0.2,
       "blocksPerGame": 0.3,
@@ -39826,9 +39747,9 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 32.5,
-      "pointsPerGame": 14.0,
+      "pointsPerGame": 14,
       "reboundsPerGame": 3.8,
-      "assistsPerGame": 3.0,
+      "assistsPerGame": 3,
       "stealsPerGame": 1.3,
       "blocksPerGame": 0.2,
       "fieldGoalPercentage": 47.1,
@@ -39855,11 +39776,11 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 24.0,
+      "minutesPerGame": 24,
       "pointsPerGame": 6.5,
       "reboundsPerGame": 2.8,
       "assistsPerGame": 2.4,
-      "stealsPerGame": 1.0,
+      "stealsPerGame": 1,
       "blocksPerGame": 0.4,
       "fieldGoalPercentage": 32.4,
       "threePointPercentage": 28.7,
@@ -39917,13 +39838,13 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 4.7,
       "pointsPerGame": 2.6,
-      "reboundsPerGame": 2.0,
+      "reboundsPerGame": 2,
       "assistsPerGame": 0.1,
       "stealsPerGame": 0.3,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 69.2,
-      "threePointPercentage": 0.0,
-      "freeThrowPercentage": 0.0
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 0
     },
     "transferHistory": [
       {
@@ -39966,36 +39887,6 @@ const basketballTransfers = [
     "needsReview": false
   },
   {
-    "playerId": "46085456",
-    "name": "Elijah Tucker",
-    "sport": "basketball",
-    "position": "PF",
-    "previousSchool": "Longwood",
-    "destination": "",
-    "season": 2026,
-    "profileUrl": "",
-    "stats": {
-      "minutesPerGame": 26.3,
-      "pointsPerGame": 12.5,
-      "reboundsPerGame": 6.8,
-      "assistsPerGame": 1.1,
-      "stealsPerGame": 0.8,
-      "blocksPerGame": 0.4,
-      "fieldGoalPercentage": 58.8,
-      "threePointPercentage": 50,
-      "freeThrowPercentage": 71.2
-    },
-    "transferHistory": [
-      {
-        "recordId": "113204",
-        "previousSchool": "Longwood",
-        "destination": "",
-        "season": "2026"
-      }
-    ],
-    "needsReview": false
-  },
-  {
     "playerId": "46148461",
     "name": "Micah Tucker",
     "sport": "basketball",
@@ -40008,8 +39899,8 @@ const basketballTransfers = [
       "minutesPerGame": 31.5,
       "pointsPerGame": 13.5,
       "reboundsPerGame": 2.1,
-      "assistsPerGame": 3.0,
-      "stealsPerGame": 1.0,
+      "assistsPerGame": 3,
+      "stealsPerGame": 1,
       "blocksPerGame": 0.1,
       "fieldGoalPercentage": 42.5,
       "threePointPercentage": 32.5,
@@ -40037,7 +39928,7 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 22.8,
       "pointsPerGame": 7.8,
-      "reboundsPerGame": 2.0,
+      "reboundsPerGame": 2,
       "assistsPerGame": 2.4,
       "stealsPerGame": 0.7,
       "blocksPerGame": 0.2,
@@ -40158,7 +40049,7 @@ const basketballTransfers = [
       "minutesPerGame": 22.5,
       "pointsPerGame": 7.1,
       "reboundsPerGame": 7.8,
-      "assistsPerGame": 1.0,
+      "assistsPerGame": 1,
       "stealsPerGame": 0.2,
       "blocksPerGame": 0.6,
       "fieldGoalPercentage": 59.4,
@@ -40185,12 +40076,12 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 19.0,
+      "minutesPerGame": 19,
       "pointsPerGame": 6.2,
       "reboundsPerGame": 1.2,
       "assistsPerGame": 1.4,
       "stealsPerGame": 0.8,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 39.9,
       "threePointPercentage": 39.8,
       "freeThrowPercentage": 64.7
@@ -40237,36 +40128,6 @@ const basketballTransfers = [
     "eligibilityNote": "Eligibility pending; do not represent as confirmed eligible."
   },
   {
-    "playerId": "46138144",
-    "name": "Emmanuel Ugbo",
-    "sport": "basketball",
-    "position": "PF",
-    "previousSchool": "Washington State",
-    "destination": "",
-    "season": 2026,
-    "profileUrl": "",
-    "stats": {
-      "minutesPerGame": 18.1,
-      "pointsPerGame": 6.7,
-      "reboundsPerGame": 3.5,
-      "assistsPerGame": 0.8,
-      "stealsPerGame": 0.2,
-      "blocksPerGame": 0.1,
-      "fieldGoalPercentage": 45.2,
-      "threePointPercentage": 28.6,
-      "freeThrowPercentage": 71.1
-    },
-    "transferHistory": [
-      {
-        "recordId": "2723",
-        "previousSchool": "Washington State",
-        "destination": "",
-        "season": "2026"
-      }
-    ],
-    "needsReview": false
-  },
-  {
     "playerId": "46130929",
     "name": "Divine Ugochukwu",
     "sport": "basketball",
@@ -40311,7 +40172,7 @@ const basketballTransfers = [
       "reboundsPerGame": 1.4,
       "assistsPerGame": 0.2,
       "stealsPerGame": 0.2,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 25,
       "threePointPercentage": 17.1,
       "freeThrowPercentage": 55.6
@@ -40427,7 +40288,7 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 21.4,
-      "pointsPerGame": 5.0,
+      "pointsPerGame": 5,
       "reboundsPerGame": 7.6,
       "assistsPerGame": 1.4,
       "stealsPerGame": 1.2,
@@ -40458,7 +40319,7 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 29.2,
       "pointsPerGame": 14.8,
-      "reboundsPerGame": 4.0,
+      "reboundsPerGame": 4,
       "assistsPerGame": 4.5,
       "stealsPerGame": 1.4,
       "blocksPerGame": 0.4,
@@ -40491,10 +40352,10 @@ const basketballTransfers = [
       "reboundsPerGame": 4.1,
       "assistsPerGame": 3.9,
       "stealsPerGame": 0.8,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 50.6,
       "threePointPercentage": 38.1,
-      "freeThrowPercentage": 77.0
+      "freeThrowPercentage": 77
     },
     "transferHistory": [
       {
@@ -40519,8 +40380,8 @@ const basketballTransfers = [
       "minutesPerGame": 30.7,
       "pointsPerGame": 13.3,
       "reboundsPerGame": 5.3,
-      "assistsPerGame": 1.0,
-      "stealsPerGame": 1.0,
+      "assistsPerGame": 1,
+      "stealsPerGame": 1,
       "blocksPerGame": 0.2,
       "fieldGoalPercentage": 41.3,
       "threePointPercentage": 35.8,
@@ -40656,12 +40517,12 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 3.0,
+      "minutesPerGame": 3,
       "pointsPerGame": 1.2,
       "reboundsPerGame": 0.4,
-      "assistsPerGame": 0.0,
-      "stealsPerGame": 0.0,
-      "blocksPerGame": 0.0,
+      "assistsPerGame": 0,
+      "stealsPerGame": 0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 66.7,
       "threePointPercentage": 0,
       "freeThrowPercentage": 66.7
@@ -40708,7 +40569,7 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 25.3,
       "pointsPerGame": 11.5,
-      "reboundsPerGame": 4.0,
+      "reboundsPerGame": 4,
       "assistsPerGame": 0.4,
       "stealsPerGame": 0.7,
       "blocksPerGame": 0.3,
@@ -40736,10 +40597,10 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 15.0,
-      "pointsPerGame": 5.0,
+      "minutesPerGame": 15,
+      "pointsPerGame": 5,
       "reboundsPerGame": 1.3,
-      "assistsPerGame": 1.0,
+      "assistsPerGame": 1,
       "stealsPerGame": 0.6,
       "blocksPerGame": 0.1,
       "fieldGoalPercentage": 38.6,
@@ -40767,7 +40628,7 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 5.3,
-      "pointsPerGame": 2.0,
+      "pointsPerGame": 2,
       "reboundsPerGame": 1.8,
       "assistsPerGame": 0.2,
       "stealsPerGame": 0.2,
@@ -40798,8 +40659,8 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 28.8,
       "pointsPerGame": 12.1,
-      "reboundsPerGame": 3.0,
-      "assistsPerGame": 4.0,
+      "reboundsPerGame": 3,
+      "assistsPerGame": 4,
       "stealsPerGame": 0.7,
       "blocksPerGame": 0.2,
       "fieldGoalPercentage": 45.3,
@@ -40877,14 +40738,14 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 2.5,
-      "pointsPerGame": 1.0,
-      "reboundsPerGame": 1.0,
-      "assistsPerGame": 0.0,
-      "stealsPerGame": 0.0,
-      "blocksPerGame": 0.0,
-      "fieldGoalPercentage": 50.0,
-      "threePointPercentage": 0.0,
-      "freeThrowPercentage": 0.0
+      "pointsPerGame": 1,
+      "reboundsPerGame": 1,
+      "assistsPerGame": 0,
+      "stealsPerGame": 0,
+      "blocksPerGame": 0,
+      "fieldGoalPercentage": 50,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 0
     },
     "transferHistory": [
       {
@@ -40944,7 +40805,7 @@ const basketballTransfers = [
       "blocksPerGame": 0.4,
       "fieldGoalPercentage": 62.2,
       "threePointPercentage": 33.3,
-      "freeThrowPercentage": 69.0
+      "freeThrowPercentage": 69
     },
     "transferHistory": [
       {
@@ -41061,7 +40922,7 @@ const basketballTransfers = [
       "reboundsPerGame": 1.2,
       "assistsPerGame": 0.1,
       "stealsPerGame": 0.2,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 41.7,
       "threePointPercentage": 38.6,
       "freeThrowPercentage": 75
@@ -41166,7 +41027,7 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 9.0,
+      "minutesPerGame": 9,
       "pointsPerGame": 4.7,
       "reboundsPerGame": 2.1,
       "assistsPerGame": 0.5,
@@ -41217,7 +41078,7 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 15.9,
+      "minutesPerGame": 16,
       "pointsPerGame": 2.9,
       "reboundsPerGame": 2.7,
       "assistsPerGame": 0.4,
@@ -41282,7 +41143,7 @@ const basketballTransfers = [
       "reboundsPerGame": 1.5,
       "assistsPerGame": 0.5,
       "stealsPerGame": 0.5,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 45.5,
       "threePointPercentage": 27.3,
       "freeThrowPercentage": 80
@@ -41309,7 +41170,7 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 34.2,
       "pointsPerGame": 18.9,
-      "reboundsPerGame": 5.0,
+      "reboundsPerGame": 5,
       "assistsPerGame": 1.8,
       "stealsPerGame": 0.7,
       "blocksPerGame": 0.1,
@@ -41439,9 +41300,9 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 9.2,
       "pointsPerGame": 2.6,
-      "reboundsPerGame": 1.0,
+      "reboundsPerGame": 1,
       "assistsPerGame": 0.4,
-      "stealsPerGame": 0.0,
+      "stealsPerGame": 0,
       "blocksPerGame": 0.1,
       "fieldGoalPercentage": 40,
       "threePointPercentage": 34.9,
@@ -41489,7 +41350,7 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 20.2,
       "pointsPerGame": 8.5,
-      "reboundsPerGame": 3.0,
+      "reboundsPerGame": 3,
       "assistsPerGame": 0.8,
       "stealsPerGame": 0.5,
       "blocksPerGame": 0.3,
@@ -41573,7 +41434,7 @@ const basketballTransfers = [
       "reboundsPerGame": 0.4,
       "assistsPerGame": 0.9,
       "stealsPerGame": 0.4,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 37.5,
       "threePointPercentage": 20,
       "freeThrowPercentage": 20
@@ -41632,8 +41493,8 @@ const basketballTransfers = [
       "pointsPerGame": 2.5,
       "reboundsPerGame": 1.2,
       "assistsPerGame": 0.5,
-      "stealsPerGame": 0.0,
-      "blocksPerGame": 0.0,
+      "stealsPerGame": 0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 37,
       "threePointPercentage": 11.1,
       "freeThrowPercentage": 64.3
@@ -41712,8 +41573,8 @@ const basketballTransfers = [
       "pointsPerGame": 11.5,
       "reboundsPerGame": 1.8,
       "assistsPerGame": 2.9,
-      "stealsPerGame": 1.0,
-      "blocksPerGame": 0.0,
+      "stealsPerGame": 1,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 40.2,
       "threePointPercentage": 36.7,
       "freeThrowPercentage": 62.3
@@ -41769,11 +41630,11 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 27.4,
-      "pointsPerGame": 12.0,
+      "pointsPerGame": 12,
       "reboundsPerGame": 4.1,
       "assistsPerGame": 1.7,
       "stealsPerGame": 1.8,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 44.7,
       "threePointPercentage": 35.2,
       "freeThrowPercentage": 74.4
@@ -41830,7 +41691,7 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 31.4,
       "pointsPerGame": 12.5,
-      "reboundsPerGame": 5.0,
+      "reboundsPerGame": 5,
       "assistsPerGame": 1.5,
       "stealsPerGame": 0.9,
       "blocksPerGame": 0.3,
@@ -41859,11 +41720,11 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 23.9,
-      "pointsPerGame": 8.0,
+      "pointsPerGame": 8,
       "reboundsPerGame": 1.9,
       "assistsPerGame": 3.3,
       "stealsPerGame": 2.3,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 34,
       "threePointPercentage": 29.4,
       "freeThrowPercentage": 60
@@ -41888,7 +41749,7 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 17.0,
+      "minutesPerGame": 17,
       "pointsPerGame": 4.3,
       "reboundsPerGame": 1.8,
       "assistsPerGame": 0.7,
@@ -41920,7 +41781,7 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 27.3,
       "pointsPerGame": 11.8,
-      "reboundsPerGame": 6.0,
+      "reboundsPerGame": 6,
       "assistsPerGame": 2.4,
       "stealsPerGame": 0.7,
       "blocksPerGame": 0.2,
@@ -42000,8 +41861,8 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 6.2,
       "pointsPerGame": 0.8,
-      "reboundsPerGame": 1.0,
-      "assistsPerGame": 0.0,
+      "reboundsPerGame": 1,
+      "assistsPerGame": 0,
       "stealsPerGame": 0.5,
       "blocksPerGame": 0.8,
       "fieldGoalPercentage": 50,
@@ -42058,12 +41919,12 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 3.0,
-      "pointsPerGame": 0.0,
-      "reboundsPerGame": 1.0,
-      "assistsPerGame": 0.0,
-      "stealsPerGame": 0.0,
-      "blocksPerGame": 0.0,
+      "minutesPerGame": 3,
+      "pointsPerGame": 0,
+      "reboundsPerGame": 1,
+      "assistsPerGame": 0,
+      "stealsPerGame": 0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 0,
       "threePointPercentage": 0,
       "freeThrowPercentage": 0
@@ -42153,7 +42014,7 @@ const basketballTransfers = [
       "reboundsPerGame": 5.2,
       "assistsPerGame": 0.4,
       "stealsPerGame": 0.3,
-      "blocksPerGame": 1.0,
+      "blocksPerGame": 1,
       "fieldGoalPercentage": 52.8,
       "threePointPercentage": 0,
       "freeThrowPercentage": 33.3
@@ -42183,7 +42044,7 @@ const basketballTransfers = [
       "reboundsPerGame": 1.1,
       "assistsPerGame": 2.8,
       "stealsPerGame": 0.6,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 42.6,
       "threePointPercentage": 33.7,
       "freeThrowPercentage": 71.2
@@ -42213,7 +42074,7 @@ const basketballTransfers = [
       "reboundsPerGame": 3.5,
       "assistsPerGame": 2.8,
       "stealsPerGame": 1.2,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 40.6,
       "threePointPercentage": 38.3,
       "freeThrowPercentage": 76.9
@@ -42258,12 +42119,12 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 9.0,
+      "minutesPerGame": 9,
       "pointsPerGame": 4.5,
       "reboundsPerGame": 1.8,
       "assistsPerGame": 0.5,
-      "stealsPerGame": 0.0,
-      "blocksPerGame": 0.0,
+      "stealsPerGame": 0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 42.1,
       "threePointPercentage": 30,
       "freeThrowPercentage": 88.9
@@ -42372,7 +42233,7 @@ const basketballTransfers = [
       "pointsPerGame": 10.5,
       "reboundsPerGame": 3.7,
       "assistsPerGame": 3.1,
-      "stealsPerGame": 2.0,
+      "stealsPerGame": 2,
       "blocksPerGame": 0.1,
       "fieldGoalPercentage": 43.3,
       "threePointPercentage": 38,
@@ -42448,12 +42309,12 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 35.0,
+      "minutesPerGame": 35,
       "pointsPerGame": 20.5,
       "reboundsPerGame": 3.5,
       "assistsPerGame": 3.3,
-      "stealsPerGame": 1.0,
-      "blocksPerGame": 0.0,
+      "stealsPerGame": 1,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 46.6,
       "threePointPercentage": 43.3,
       "freeThrowPercentage": 78.8
@@ -42567,7 +42428,17 @@ const basketballTransfers = [
     "destination": "Merrimack",
     "season": 2026,
     "profileUrl": "",
-    "stats": {},
+    "stats": {
+      "minutesPerGame": 8.5,
+      "pointsPerGame": 2.4,
+      "reboundsPerGame": 2.9,
+      "assistsPerGame": 0.3,
+      "stealsPerGame": 0.2,
+      "blocksPerGame": 0.6,
+      "fieldGoalPercentage": 63,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 25
+    },
     "transferHistory": [
       {
         "recordId": "2711",
@@ -42588,7 +42459,7 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 17.0,
+      "minutesPerGame": 17,
       "pointsPerGame": 4.6,
       "reboundsPerGame": 2.2,
       "assistsPerGame": 0.9,
@@ -42650,11 +42521,11 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 29.7,
       "pointsPerGame": 17.8,
-      "reboundsPerGame": 2.0,
+      "reboundsPerGame": 2,
       "assistsPerGame": 4.7,
       "stealsPerGame": 0.8,
       "blocksPerGame": 0.1,
-      "fieldGoalPercentage": 46.0,
+      "fieldGoalPercentage": 46,
       "threePointPercentage": 32.8,
       "freeThrowPercentage": 82.4
     },
@@ -42760,7 +42631,7 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 25.6,
       "pointsPerGame": 17.4,
-      "reboundsPerGame": 2.0,
+      "reboundsPerGame": 2,
       "assistsPerGame": 1.7,
       "stealsPerGame": 1.6,
       "blocksPerGame": 0.3,
@@ -42791,12 +42662,12 @@ const basketballTransfers = [
       "minutesPerGame": 5.7,
       "pointsPerGame": 1.3,
       "reboundsPerGame": 1.7,
-      "assistsPerGame": 0.0,
-      "stealsPerGame": 1.0,
-      "blocksPerGame": 0.0,
-      "fieldGoalPercentage": 50.0,
-      "threePointPercentage": 0.0,
-      "freeThrowPercentage": 0.0
+      "assistsPerGame": 0,
+      "stealsPerGame": 1,
+      "blocksPerGame": 0,
+      "fieldGoalPercentage": 50,
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 0
     },
     "transferHistory": [
       {
@@ -42851,7 +42722,7 @@ const basketballTransfers = [
       "minutesPerGame": 23.9,
       "pointsPerGame": 10.6,
       "reboundsPerGame": 4.6,
-      "assistsPerGame": 1.0,
+      "assistsPerGame": 1,
       "stealsPerGame": 0.4,
       "blocksPerGame": 0.2,
       "fieldGoalPercentage": 50.4,
@@ -43030,10 +42901,10 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 8.7,
       "pointsPerGame": 2.1,
-      "reboundsPerGame": 1.0,
+      "reboundsPerGame": 1,
       "assistsPerGame": 1.6,
       "stealsPerGame": 0.1,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 37.5,
       "threePointPercentage": 25,
       "freeThrowPercentage": 33.3
@@ -43058,7 +42929,7 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 8.0,
+      "minutesPerGame": 8,
       "pointsPerGame": 2.2,
       "reboundsPerGame": 2.1,
       "assistsPerGame": 0.2,
@@ -43089,7 +42960,7 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 29.7,
-      "pointsPerGame": 15.0,
+      "pointsPerGame": 15,
       "reboundsPerGame": 4.5,
       "assistsPerGame": 2.6,
       "stealsPerGame": 1.5,
@@ -43119,11 +42990,11 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 10.5,
-      "pointsPerGame": 2.0,
+      "pointsPerGame": 2,
       "reboundsPerGame": 1.6,
       "assistsPerGame": 0.8,
       "stealsPerGame": 0.4,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 23.1,
       "threePointPercentage": 23.1,
       "freeThrowPercentage": 84.6
@@ -43149,7 +43020,7 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 27.1,
-      "pointsPerGame": 14.0,
+      "pointsPerGame": 14,
       "reboundsPerGame": 2.7,
       "assistsPerGame": 2.5,
       "stealsPerGame": 0.9,
@@ -43218,9 +43089,9 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 35.0,
+      "minutesPerGame": 35,
       "pointsPerGame": 17.1,
-      "reboundsPerGame": 3.0,
+      "reboundsPerGame": 3,
       "assistsPerGame": 4.5,
       "stealsPerGame": 1.2,
       "blocksPerGame": 0.4,
@@ -43309,7 +43180,7 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 27.3,
-      "pointsPerGame": 7.0,
+      "pointsPerGame": 7,
       "reboundsPerGame": 3.5,
       "assistsPerGame": 1.5,
       "stealsPerGame": 1.2,
@@ -43460,10 +43331,10 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 25.1,
       "pointsPerGame": 10.3,
-      "reboundsPerGame": 2.0,
+      "reboundsPerGame": 2,
       "assistsPerGame": 0.9,
       "stealsPerGame": 0.9,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 44.7,
       "threePointPercentage": 44.5,
       "freeThrowPercentage": 82.6
@@ -43576,7 +43447,8 @@ const basketballTransfers = [
         "season": "2026"
       }
     ],
-    "needsReview": false
+    "needsReview": false,
+    "seasonNote": "Redshirted during the 2025–26 season."
   },
   {
     "playerId": "46086224",
@@ -43592,7 +43464,7 @@ const basketballTransfers = [
       "pointsPerGame": 3.7,
       "reboundsPerGame": 1.4,
       "assistsPerGame": 2.6,
-      "stealsPerGame": 1.0,
+      "stealsPerGame": 1,
       "blocksPerGame": 0.1,
       "fieldGoalPercentage": 31.8,
       "threePointPercentage": 17.6,
@@ -43683,7 +43555,7 @@ const basketballTransfers = [
       "reboundsPerGame": 3.7,
       "assistsPerGame": 4.5,
       "stealsPerGame": 1.3,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 49.1,
       "threePointPercentage": 37.3,
       "freeThrowPercentage": 69.1
@@ -43770,7 +43642,7 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 27.8,
       "pointsPerGame": 7.5,
-      "reboundsPerGame": 3.0,
+      "reboundsPerGame": 3,
       "assistsPerGame": 2.5,
       "stealsPerGame": 0.8,
       "blocksPerGame": 0.6,
@@ -43798,11 +43670,11 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 20.0,
+      "minutesPerGame": 20,
       "pointsPerGame": 10.5,
       "reboundsPerGame": 2.7,
       "assistsPerGame": 0.7,
-      "stealsPerGame": 1.0,
+      "stealsPerGame": 1,
       "blocksPerGame": 0.4,
       "fieldGoalPercentage": 48.6,
       "threePointPercentage": 39.1,
@@ -43871,9 +43743,9 @@ const basketballTransfers = [
       "minutesPerGame": 22.2,
       "pointsPerGame": 7.5,
       "reboundsPerGame": 1.6,
-      "assistsPerGame": 2.0,
+      "assistsPerGame": 2,
       "stealsPerGame": 0.5,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 46.2,
       "threePointPercentage": 42.2,
       "freeThrowPercentage": 84.1
@@ -43919,11 +43791,11 @@ const basketballTransfers = [
     "profileUrl": "",
     "stats": {
       "minutesPerGame": 9.4,
-      "pointsPerGame": 4.0,
+      "pointsPerGame": 4,
       "reboundsPerGame": 0.4,
       "assistsPerGame": 0.2,
       "stealsPerGame": 0.4,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 50,
       "threePointPercentage": 40,
       "freeThrowPercentage": 0
@@ -43948,7 +43820,7 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 15.0,
+      "minutesPerGame": 15,
       "pointsPerGame": 6.6,
       "reboundsPerGame": 2.2,
       "assistsPerGame": 0.4,
@@ -43978,7 +43850,7 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 28.3,
+      "minutesPerGame": 28.4,
       "pointsPerGame": 10.1,
       "reboundsPerGame": 5.7,
       "assistsPerGame": 1.7,
@@ -44092,7 +43964,7 @@ const basketballTransfers = [
       "pointsPerGame": 17.8,
       "reboundsPerGame": 5.9,
       "assistsPerGame": 1.6,
-      "stealsPerGame": 2.0,
+      "stealsPerGame": 2,
       "blocksPerGame": 0.6,
       "fieldGoalPercentage": 46.5,
       "threePointPercentage": 29.3,
@@ -44145,8 +44017,8 @@ const basketballTransfers = [
       "stealsPerGame": 0.1,
       "blocksPerGame": 0.1,
       "fieldGoalPercentage": 66.7,
-      "threePointPercentage": 0.0,
-      "freeThrowPercentage": 0.0
+      "threePointPercentage": 0,
+      "freeThrowPercentage": 0
     },
     "transferHistory": [
       {
@@ -44168,12 +44040,12 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 3.0,
-      "pointsPerGame": 0.0,
-      "reboundsPerGame": 0.0,
-      "assistsPerGame": 0.0,
-      "stealsPerGame": 0.0,
-      "blocksPerGame": 0.0,
+      "minutesPerGame": 3,
+      "pointsPerGame": 0,
+      "reboundsPerGame": 0,
+      "assistsPerGame": 0,
+      "stealsPerGame": 0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 0,
       "threePointPercentage": 0,
       "freeThrowPercentage": 0
@@ -44258,7 +44130,7 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 21.0,
+      "minutesPerGame": 21,
       "pointsPerGame": 8.1,
       "reboundsPerGame": 2.4,
       "assistsPerGame": 0.8,
@@ -44295,7 +44167,7 @@ const basketballTransfers = [
       "stealsPerGame": 1.4,
       "blocksPerGame": 0.3,
       "fieldGoalPercentage": 40.2,
-      "threePointPercentage": 33.0,
+      "threePointPercentage": 33,
       "freeThrowPercentage": 77.9
     },
     "transferHistory": [
@@ -44378,7 +44250,7 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 5.0,
+      "minutesPerGame": 5,
       "pointsPerGame": 1.5,
       "reboundsPerGame": 0.4,
       "assistsPerGame": 0.1,
@@ -44438,7 +44310,7 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 9.0,
+      "minutesPerGame": 9,
       "pointsPerGame": 2.6,
       "reboundsPerGame": 2.4,
       "assistsPerGame": 0.6,
@@ -44468,12 +44340,12 @@ const basketballTransfers = [
     "season": 2026,
     "profileUrl": "",
     "stats": {
-      "minutesPerGame": 19.0,
+      "minutesPerGame": 19,
       "pointsPerGame": 6.5,
       "reboundsPerGame": 1.6,
       "assistsPerGame": 0.6,
       "stealsPerGame": 0.5,
-      "blocksPerGame": 0.0,
+      "blocksPerGame": 0,
       "fieldGoalPercentage": 35.6,
       "threePointPercentage": 33.8,
       "freeThrowPercentage": 78.9
@@ -44500,7 +44372,7 @@ const basketballTransfers = [
     "stats": {
       "minutesPerGame": 16.2,
       "pointsPerGame": 5.2,
-      "reboundsPerGame": 2.0,
+      "reboundsPerGame": 2,
       "assistsPerGame": 0.9,
       "stealsPerGame": 0.3,
       "blocksPerGame": 0.1,

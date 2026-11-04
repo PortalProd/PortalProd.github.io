@@ -1627,36 +1627,6 @@ const basketballTransfers = [
     "needsReview": false
   },
   {
-    "playerId": "46056717",
-    "name": "Devin Askew",
-    "sport": "basketball",
-    "position": "PG",
-    "previousSchool": "Villanova",
-    "destination": "",
-    "season": 2026,
-    "profileUrl": "",
-    "stats": {
-      "minutesPerGame": 23.1,
-      "pointsPerGame": 9.8,
-      "reboundsPerGame": 2.6,
-      "assistsPerGame": 2.1,
-      "stealsPerGame": 1.1,
-      "blocksPerGame": 0.1,
-      "fieldGoalPercentage": 40.1,
-      "threePointPercentage": 40.6,
-      "freeThrowPercentage": 87.2
-    },
-    "transferHistory": [
-      {
-        "recordId": "294856",
-        "previousSchool": "Villanova",
-        "destination": "",
-        "season": "2026"
-      }
-    ],
-    "needsReview": false
-  },
-  {
     "playerId": "46136349",
     "name": "Kuol Atak",
     "sport": "basketball",
@@ -4755,7 +4725,8 @@ const basketballTransfers = [
         "season": "2026"
       }
     ],
-    "needsReview": false
+    "needsReview": false,
+    "seasonNote": "Redshirted the 2025–26 season at Coastal Carolina."
   },
   {
     "playerId": "46153465",
@@ -9955,7 +9926,7 @@ const basketballTransfers = [
     "sport": "basketball",
     "position": "CG",
     "previousSchool": "UL Monroe",
-    "destination": "",
+    "destination": "Fairmont State",
     "season": 2026,
     "profileUrl": "",
     "stats": {
@@ -9973,7 +9944,7 @@ const basketballTransfers = [
       {
         "recordId": "3334",
         "previousSchool": "UL Monroe",
-        "destination": "",
+        "destination": "Fairmont State",
         "season": "2026"
       }
     ],
@@ -10424,36 +10395,6 @@ const basketballTransfers = [
         "recordId": "379226",
         "previousSchool": "Holy Cross",
         "destination": "Iona",
-        "season": "2026"
-      }
-    ],
-    "needsReview": false
-  },
-  {
-    "playerId": "46100048",
-    "name": "David Dixon",
-    "sport": "basketball",
-    "position": "PF",
-    "previousSchool": "Duquesne",
-    "destination": "",
-    "season": 2026,
-    "profileUrl": "",
-    "stats": {
-      "minutesPerGame": 22.4,
-      "pointsPerGame": 8.2,
-      "reboundsPerGame": 5.5,
-      "assistsPerGame": 1.3,
-      "stealsPerGame": 1.1,
-      "blocksPerGame": 1.6,
-      "fieldGoalPercentage": 60.2,
-      "threePointPercentage": 20,
-      "freeThrowPercentage": 71.8
-    },
-    "transferHistory": [
-      {
-        "recordId": "105560",
-        "previousSchool": "Duquesne",
-        "destination": "",
         "season": "2026"
       }
     ],
@@ -14875,7 +14816,7 @@ const basketballTransfers = [
     "sport": "basketball",
     "position": "SF",
     "previousSchool": "Marshall",
-    "destination": "Western Kentucky",
+    "destination": "Coastal Carolina",
     "season": 2026,
     "profileUrl": "",
     "stats": {
@@ -14893,7 +14834,7 @@ const basketballTransfers = [
       {
         "recordId": "3487",
         "previousSchool": "Marshall",
-        "destination": "Western Kentucky",
+        "destination": "Coastal Carolina",
         "season": "2026"
       }
     ],
@@ -15094,26 +15035,6 @@ const basketballTransfers = [
         "recordId": "2632",
         "previousSchool": "Florida State",
         "destination": "Incarnate Word",
-        "season": "2026"
-      }
-    ],
-    "needsReview": false
-  },
-  {
-    "playerId": "46163414",
-    "name": "Demitri Gardner",
-    "sport": "basketball",
-    "position": "SG",
-    "previousSchool": "Fordham",
-    "destination": "",
-    "season": 2026,
-    "profileUrl": "",
-    "stats": {},
-    "transferHistory": [
-      {
-        "recordId": "3491",
-        "previousSchool": "Fordham",
-        "destination": "",
         "season": "2026"
       }
     ],
@@ -16117,7 +16038,8 @@ const basketballTransfers = [
         "season": "2026"
       }
     ],
-    "needsReview": false
+    "needsReview": false,
+    "seasonNote": "Redshirted the 2025–26 season at South Florida."
   },
   {
     "playerId": "46157228",
@@ -16317,7 +16239,8 @@ const basketballTransfers = [
         "season": "2026"
       }
     ],
-    "needsReview": false
+    "needsReview": false,
+    "seasonNote": "Redshirted the 2025–26 season at High Point."
   },
   {
     "playerId": "46117344",
@@ -16424,36 +16347,6 @@ const basketballTransfers = [
         "recordId": "2457",
         "previousSchool": "La Salle",
         "destination": "Grambling",
-        "season": "2026"
-      }
-    ],
-    "needsReview": false
-  },
-  {
-    "playerId": "46165989",
-    "name": "Daniel Guetta",
-    "sport": "basketball",
-    "position": "SG",
-    "previousSchool": "Oklahoma State",
-    "destination": "",
-    "season": 2026,
-    "profileUrl": "",
-    "stats": {
-      "minutesPerGame": 9.5,
-      "pointsPerGame": 2.0,
-      "reboundsPerGame": 0.7,
-      "assistsPerGame": 0.8,
-      "stealsPerGame": 0.3,
-      "blocksPerGame": 0.0,
-      "fieldGoalPercentage": 50,
-      "threePointPercentage": 14.3,
-      "freeThrowPercentage": 60
-    },
-    "transferHistory": [
-      {
-        "recordId": "3137",
-        "previousSchool": "Oklahoma State",
-        "destination": "",
         "season": "2026"
       }
     ],
@@ -16755,7 +16648,7 @@ const basketballTransfers = [
     "sport": "basketball",
     "position": "PG",
     "previousSchool": "Virginia",
-    "destination": "",
+    "destination": "Utah State",
     "season": 2026,
     "profileUrl": "",
     "stats": {
@@ -16773,7 +16666,7 @@ const basketballTransfers = [
       {
         "recordId": "4381695",
         "previousSchool": "Virginia",
-        "destination": "",
+        "destination": "Utah State",
         "season": "2026"
       }
     ],
@@ -17535,7 +17428,7 @@ const basketballTransfers = [
     "sport": "basketball",
     "position": "SG",
     "previousSchool": "Loyola Chicago",
-    "destination": "",
+    "destination": "Pacific",
     "season": 2026,
     "profileUrl": "",
     "stats": {
@@ -17553,7 +17446,7 @@ const basketballTransfers = [
       {
         "recordId": "78625",
         "previousSchool": "Loyola Chicago",
-        "destination": "",
+        "destination": "Pacific",
         "season": "2026"
       }
     ],
@@ -19360,36 +19253,6 @@ const basketballTransfers = [
     "needsReview": false
   },
   {
-    "playerId": "46057971",
-    "name": "Dillon Hunter",
-    "sport": "basketball",
-    "position": "CG",
-    "previousSchool": "Clemson",
-    "destination": "",
-    "season": 2026,
-    "profileUrl": "",
-    "stats": {
-      "minutesPerGame": 28.6,
-      "pointsPerGame": 7.5,
-      "reboundsPerGame": 3.7,
-      "assistsPerGame": 3.0,
-      "stealsPerGame": 1.0,
-      "blocksPerGame": 0.1,
-      "fieldGoalPercentage": 41.1,
-      "threePointPercentage": 34.7,
-      "freeThrowPercentage": 78.6
-    },
-    "transferHistory": [
-      {
-        "recordId": "3779611",
-        "previousSchool": "Clemson",
-        "destination": "",
-        "season": "2026"
-      }
-    ],
-    "needsReview": false
-  },
-  {
     "playerId": "46055659",
     "name": "Donovan Hunter",
     "sport": "basketball",
@@ -19757,7 +19620,8 @@ const basketballTransfers = [
         "season": "2026"
       }
     ],
-    "needsReview": false
+    "needsReview": false,
+    "seasonNote": "Redshirted the 2025–26 season at Utah State."
   },
   {
     "playerId": "46093901",
@@ -20396,7 +20260,7 @@ const basketballTransfers = [
     "sport": "basketball",
     "position": "SF",
     "previousSchool": "Gardner-Webb",
-    "destination": "",
+    "destination": "Bethany College",
     "season": 2026,
     "profileUrl": "",
     "stats": {
@@ -20414,7 +20278,7 @@ const basketballTransfers = [
       {
         "recordId": "113192",
         "previousSchool": "Gardner-Webb",
-        "destination": "",
+        "destination": "Bethany College",
         "season": "2026"
       }
     ],
@@ -20712,7 +20576,7 @@ const basketballTransfers = [
     "sport": "basketball",
     "position": "SF",
     "previousSchool": "Hampton",
-    "destination": "James Madison",
+    "destination": "Bethune-Cookman",
     "season": 2026,
     "profileUrl": "",
     "stats": {
@@ -20730,7 +20594,7 @@ const basketballTransfers = [
       {
         "recordId": "3021",
         "previousSchool": "Hampton",
-        "destination": "James Madison",
+        "destination": "Bethune-Cookman",
         "season": "2026"
       }
     ],
@@ -21454,7 +21318,8 @@ const basketballTransfers = [
         "season": "2026"
       }
     ],
-    "needsReview": false
+    "needsReview": false,
+    "seasonNote": "Redshirted the 2025–26 season at Kent State."
   },
   {
     "playerId": "46125410",
@@ -22662,7 +22527,7 @@ const basketballTransfers = [
     "sport": "basketball",
     "position": "PF",
     "previousSchool": "North Alabama",
-    "destination": "",
+    "destination": "Paul Quinn College",
     "season": 2026,
     "profileUrl": "",
     "stats": {
@@ -22680,7 +22545,7 @@ const basketballTransfers = [
       {
         "recordId": "136561",
         "previousSchool": "North Alabama",
-        "destination": "",
+        "destination": "Paul Quinn College",
         "season": "2026"
       }
     ],
@@ -23294,7 +23159,8 @@ const basketballTransfers = [
         "season": "2026"
       }
     ],
-    "needsReview": false
+    "needsReview": false,
+    "seasonNote": "Redshirted the 2025–26 season at Wake Forest."
   },
   {
     "playerId": "46144233",
@@ -24394,7 +24260,8 @@ const basketballTransfers = [
         "season": "2026"
       }
     ],
-    "needsReview": false
+    "needsReview": false,
+    "seasonNote": "Redshirted the 2025–26 season at Iona."
   },
   {
     "playerId": "46145167",
@@ -26869,36 +26736,6 @@ const basketballTransfers = [
     "needsReview": true
   },
   {
-    "playerId": "46144626",
-    "name": "Dorian McMillian",
-    "sport": "basketball",
-    "position": "PG",
-    "previousSchool": "Jackson State",
-    "destination": "",
-    "season": 2026,
-    "profileUrl": "",
-    "stats": {
-      "minutesPerGame": 28.3,
-      "pointsPerGame": 11.5,
-      "reboundsPerGame": 4.2,
-      "assistsPerGame": 1.3,
-      "stealsPerGame": 1.0,
-      "blocksPerGame": 0.2,
-      "fieldGoalPercentage": 37.8,
-      "threePointPercentage": 33.3,
-      "freeThrowPercentage": 75.4
-    },
-    "transferHistory": [
-      {
-        "recordId": "2818",
-        "previousSchool": "Jackson State",
-        "destination": "",
-        "season": "2026"
-      }
-    ],
-    "needsReview": false
-  },
-  {
     "playerId": "46166054",
     "name": "Mike McNair",
     "sport": "basketball",
@@ -28945,7 +28782,7 @@ const basketballTransfers = [
     "sport": "basketball",
     "position": "SF",
     "previousSchool": "Bellarmine",
-    "destination": "",
+    "destination": "Indian Hills Community College",
     "season": 2026,
     "profileUrl": "",
     "stats": {
@@ -28963,7 +28800,7 @@ const basketballTransfers = [
       {
         "recordId": "2821",
         "previousSchool": "Bellarmine",
-        "destination": "",
+        "destination": "Indian Hills Community College",
         "season": "2026"
       }
     ],
@@ -30296,7 +30133,7 @@ const basketballTransfers = [
     "sport": "basketball",
     "position": "CG",
     "previousSchool": "Northern Kentucky",
-    "destination": "",
+    "destination": "Troy",
     "season": 2026,
     "profileUrl": "",
     "stats": {},
@@ -30304,7 +30141,7 @@ const basketballTransfers = [
       {
         "recordId": "3776601",
         "previousSchool": "Northern Kentucky",
-        "destination": "",
+        "destination": "Troy",
         "season": "2026"
       }
     ],
@@ -33039,7 +32876,7 @@ const basketballTransfers = [
     "sport": "basketball",
     "position": "SF",
     "previousSchool": "Oregon",
-    "destination": "",
+    "destination": "UTRGV",
     "season": 2026,
     "profileUrl": "",
     "stats": {
@@ -33057,7 +32894,7 @@ const basketballTransfers = [
       {
         "recordId": "2969",
         "previousSchool": "Oregon",
-        "destination": "",
+        "destination": "UTRGV",
         "season": "2026"
       }
     ],
@@ -35204,36 +35041,6 @@ const basketballTransfers = [
     "needsReview": false
   },
   {
-    "playerId": "46057312",
-    "name": "Daeshun Ruffin",
-    "sport": "basketball",
-    "position": "CG",
-    "previousSchool": "Jackson State",
-    "destination": "",
-    "season": 2026,
-    "profileUrl": "",
-    "stats": {
-      "minutesPerGame": 32.4,
-      "pointsPerGame": 22.0,
-      "reboundsPerGame": 2.7,
-      "assistsPerGame": 5.1,
-      "stealsPerGame": 1.5,
-      "blocksPerGame": 0.1,
-      "fieldGoalPercentage": 41.5,
-      "threePointPercentage": 30.6,
-      "freeThrowPercentage": 84
-    },
-    "transferHistory": [
-      {
-        "recordId": "3176",
-        "previousSchool": "Jackson State",
-        "destination": "",
-        "season": "2026"
-      }
-    ],
-    "needsReview": false
-  },
-  {
     "playerId": "46125488",
     "name": "Martavious Russell",
     "sport": "basketball",
@@ -35411,7 +35218,8 @@ const basketballTransfers = [
         "season": "2026"
       }
     ],
-    "needsReview": false
+    "needsReview": false,
+    "seasonNote": "Redshirted the 2025–26 season at Arizona State."
   },
   {
     "playerId": "46159886",
@@ -37426,36 +37234,6 @@ const basketballTransfers = [
     "needsReview": false
   },
   {
-    "playerId": "46166099",
-    "name": "Braden Sparks",
-    "sport": "basketball",
-    "position": "CG",
-    "previousSchool": "Fairfield",
-    "destination": "",
-    "season": 2026,
-    "profileUrl": "",
-    "stats": {
-      "minutesPerGame": 33.3,
-      "pointsPerGame": 17.2,
-      "reboundsPerGame": 3.2,
-      "assistsPerGame": 2.6,
-      "stealsPerGame": 1.4,
-      "blocksPerGame": 0.1,
-      "fieldGoalPercentage": 41.2,
-      "threePointPercentage": 39.0,
-      "freeThrowPercentage": 80.4
-    },
-    "transferHistory": [
-      {
-        "recordId": "2929",
-        "previousSchool": "Fairfield",
-        "destination": "",
-        "season": "2026"
-      }
-    ],
-    "needsReview": false
-  },
-  {
     "playerId": "46160609",
     "name": "Kai Spears",
     "sport": "basketball",
@@ -39414,7 +39192,8 @@ const basketballTransfers = [
         "season": "2026"
       }
     ],
-    "needsReview": false
+    "needsReview": false,
+    "seasonNote": "Redshirted the 2025–26 season at Georgia Tech."
   },
   {
     "playerId": "46094788",
@@ -39661,36 +39440,6 @@ const basketballTransfers = [
         "recordId": "2575",
         "previousSchool": "Temple",
         "destination": "Syracuse",
-        "season": "2026"
-      }
-    ],
-    "needsReview": false
-  },
-  {
-    "playerId": "46103645",
-    "name": "Daniel Tobiloba",
-    "sport": "basketball",
-    "position": "C",
-    "previousSchool": "UC Riverside",
-    "destination": "Jacksonville State",
-    "season": 2026,
-    "profileUrl": "",
-    "stats": {
-      "minutesPerGame": 3.4,
-      "pointsPerGame": 0.3,
-      "reboundsPerGame": 1.3,
-      "assistsPerGame": 0.0,
-      "stealsPerGame": 0.1,
-      "blocksPerGame": 0.1,
-      "fieldGoalPercentage": 16.7,
-      "threePointPercentage": 0,
-      "freeThrowPercentage": 0
-    },
-    "transferHistory": [
-      {
-        "recordId": "2990",
-        "previousSchool": "UC Riverside",
-        "destination": "Jacksonville State",
         "season": "2026"
       }
     ],
@@ -41706,7 +41455,8 @@ const basketballTransfers = [
         "season": "2026"
       }
     ],
-    "needsReview": false
+    "needsReview": false,
+    "seasonNote": "Redshirted the 2025–26 season at Saint Louis."
   },
   {
     "playerId": "46110640",

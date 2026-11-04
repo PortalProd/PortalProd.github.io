@@ -11,7 +11,9 @@ body{font:16px Arial,sans-serif;background:#101827;color:#f8fafc;margin:0}main{m
 <section class="card" id="season-note-card" hidden><h2>Season note</h2><p class="note" id="season-note"></p></section>
 <section class="card"><h2>Transfer history</h2><table><thead><tr><th>Season</th><th>From</th><th>To</th></tr></thead><tbody id="history"></tbody></table></section>
 <p class="note">College Transfer Portal is an independent information resource. Transfer information may change and is not an official NCAA record.</p>
+</main>
 <script src="scripts/basketball-players.js?v=20261103-ad"></script>
+<script>
 (function(){
  const id=new URLSearchParams(window.location.search).get('id');
  const players=typeof basketballTransfers!=='undefined'?basketballTransfers:[];

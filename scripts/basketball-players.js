@@ -14049,7 +14049,7 @@ const basketballTransfers = [
       }
     ],
     "needsReview": false,
-    "seasonNote": "Redshirted at Old Dominion during the 2025–26 season."
+    "seasonNote": "Redshirted at Old Dominion during the 2025–26 season; no statistics recorded."
   },
   {
     "playerId": "46148873",
@@ -24570,7 +24570,7 @@ const basketballTransfers = [
     "sport": "basketball",
     "position": "PG",
     "previousSchool": "Lamar",
-    "destination": "McLennan College",
+    "destination": "McLennan Community College",
     "season": 2026,
     "profileUrl": "",
     "stats": {
@@ -24588,7 +24588,7 @@ const basketballTransfers = [
       {
         "recordId": "3374",
         "previousSchool": "Lamar",
-        "destination": "McLennan College",
+        "destination": "McLennan Community College",
         "season": "2026"
       }
     ],
@@ -30423,36 +30423,6 @@ const basketballTransfers = [
         "recordId": "3139",
         "previousSchool": "Mercer",
         "destination": "George Mason",
-        "season": "2026"
-      }
-    ],
-    "needsReview": false
-  },
-  {
-    "playerId": "46142799",
-    "name": "Emmanuel Okorafor",
-    "sport": "basketball",
-    "position": "C",
-    "previousSchool": "Wichita State",
-    "destination": "",
-    "season": 2026,
-    "profileUrl": "",
-    "stats": {
-      "minutesPerGame": 16.8,
-      "pointsPerGame": 6.3,
-      "reboundsPerGame": 5.2,
-      "assistsPerGame": 0.4,
-      "stealsPerGame": 0.4,
-      "blocksPerGame": 1,
-      "fieldGoalPercentage": 57,
-      "threePointPercentage": 0,
-      "freeThrowPercentage": 67.2
-    },
-    "transferHistory": [
-      {
-        "recordId": "2689",
-        "previousSchool": "Wichita State",
-        "destination": "",
         "season": "2026"
       }
     ],
@@ -43448,7 +43418,7 @@ const basketballTransfers = [
       }
     ],
     "needsReview": false,
-    "seasonNote": "Redshirted during the 2025–26 season."
+    "seasonNote": "Redshirted during the 2025–26 season; no statistics recorded."
   },
   {
     "playerId": "46086224",
